@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/9348"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Arend</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Vene</name></persName>
+    <persName>Arend Veen</persName>
+    <event type="birth" when="1642">
+      <place></place>
+    </event>
+    <event type="death" when="1685">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

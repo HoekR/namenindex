@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/289"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Mattheus Gilles</name> <name type="geslachtsnaam">Rees</name></persName>
+    <event type="birth" when="1753-11-17">
+      <place>Dordrecht</place>
+    </event>
+    <event type="death" when="1817-10-21">
+      <place>Dordrecht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

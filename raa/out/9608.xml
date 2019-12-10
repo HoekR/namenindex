@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/9608"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Pieter</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Brande</name></persName>
+    <event type="birth" when="1734">
+      <place></place>
+    </event>
+    <event type="death" when="1793">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

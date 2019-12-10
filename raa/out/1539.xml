@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1539"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Abraham</name> <name type="geslachtsnaam">Fortuyn</name></persName>
+    <event type="birth" when="1802-07-18">
+      <place>Culemborg</place>
+    </event>
+    <event type="death" when="1856-04-15">
+      <place>Raalte</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

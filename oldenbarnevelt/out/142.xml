@@ -1,0 +1,14 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/oldenbarnevelt/#accessor=toc&amp;accessor_href=toc%3FSearchSource%3DGe%25C3%25ABligeerden%2520en%2520ridderschap%2520van%2520Utrecht%26correspondent%3D%26day1%3D%26month1%3D%26year1%3D%26day2%3D%26month2%3D%26year2%3D"/>
+    <publisher>
+      <name>XXX</name>
+      <ref target="http://XXX.nl"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName>Ge&#235;ligeerden en ridderschap van Utrecht</persName>
+  </person>
+  <biography/>
+</biodes>

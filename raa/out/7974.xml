@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/7974"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Martinus</name> <name type="geslachtsnaam">Huysmans</name></persName>
+    <event type="birth" when="1763-12-20">
+      <place>Bladel</place>
+    </event>
+    <event type="death" when="1848-01-05">
+      <place>Hilvarenbeek</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

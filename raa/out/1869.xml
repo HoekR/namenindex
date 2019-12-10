@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1869"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan Willem</name> <name type="geslachtsnaam">Thibaut</name></persName>
+    <persName>Thibaut van Aagtekerke</persName>
+    <event type="birth" when="1776-05-10">
+      <place>Middelburg</place>
+    </event>
+    <event type="death" when="1815-03-18">
+      <place>Middelburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

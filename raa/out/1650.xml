@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1650"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Marten</name> <name type="intrapositie">Udink ten</name> <name type="geslachtsnaam">Cate</name></persName>
+    <event type="birth" when="1805-10-19">
+      <place>Enschede</place>
+    </event>
+    <event type="death" when="1869-05-20">
+      <place>Lonneker</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

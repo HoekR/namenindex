@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1597"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Marle</name></persName>
+    <event type="birth" when="1768-04-30">
+      <place>Deventer</place>
+    </event>
+    <event type="death" when="1834-06-30">
+      <place>Deventer</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

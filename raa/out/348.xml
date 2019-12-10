@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/348"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Ferdinand</name> <name type="intrapositie">Mogge</name> <name type="geslachtsnaam">Muilman</name></persName>
+    <persName>Mogge Muilman van Haamstede</persName>
+    <event type="birth" when="1778-02-22">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1849-12-14">
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

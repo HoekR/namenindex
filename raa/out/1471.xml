@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1471"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jan Pieter Christiaan</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Reede van ter Aa</name></persName>
+    <event type="birth" when="1828-02-25">
+      <place>Ruwiel</place>
+    </event>
+    <event type="death" when="1871-04-27">
+      <place>Nieuwersluis</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

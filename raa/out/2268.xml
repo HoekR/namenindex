@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2268"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Bakker</name></persName>
+    <event type="birth" when="1812-03-02">
+      <place>Broek in Waterland</place>
+    </event>
+    <event type="death" when="1870-03-27">
+      <place>Den Helder</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

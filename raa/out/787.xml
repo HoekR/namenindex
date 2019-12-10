@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/787"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Charles Theodore Jean</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Constant Rebecque</name></persName>
+    <event type="birth" when="1805-09-16">
+      <place>Berlijn</place>
+    </event>
+    <event type="death" when="1870-09-17">
+      <place>Loosduinen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

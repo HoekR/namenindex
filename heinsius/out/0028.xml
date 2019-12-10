@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/heinsius/#accessor=accessor_index&amp;accessor_href=accessor_index%3FSearchSource%253Autf-8%253Austring%3DAderman%252C%2520Frederik%2520Arentzen"/>
+    <publisher>
+      <name>Instituut voor Nederlandse Geschiedenis</name>
+      <ref target="http://www.inghist.nl/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName>Aderman, Frederik Arentzen</persName>
+  </person>
+  <biography>
+    <text>[geschreven aan Heinsius] Agent van de pseudo-landgraaf de Linange te Amsterdam, 1716.</text>
+  </biography>
+</biodes>

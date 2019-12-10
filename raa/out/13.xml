@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/13"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Carel Vincent</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Boetzelaer</name></persName>
+    <persName>Van Boetzelaer van Dubbeldam</persName>
+    <event type="birth" when="1748-02-13">
+      <place>Leiden</place>
+    </event>
+    <event type="death" when="1829-10-24">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/11795"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Dierick</name> <name type="geslachtsnaam">Vlaming van Oudtshoorn</name></persName>
+    <event type="birth" when="1574">
+      <place></place>
+    </event>
+    <event type="death" when="1643-08-08">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

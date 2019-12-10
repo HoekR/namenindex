@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1645"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Mello</name> <name type="geslachtsnaam">Sichterman</name></persName>
+    <event type="birth" when="1821-05-23">
+      <place>Zwolle</place>
+    </event>
+    <event type="death" when="1892-01-10">
+      <place>Zwolle</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

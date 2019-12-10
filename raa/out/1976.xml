@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1976"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Hendrik Jacob</name> <name type="intrapositie">van Dortmont de</name> <name type="geslachtsnaam">Bargues</name></persName>
+    <event type="birth" when="1773">
+      <place>Sluis</place>
+    </event>
+    <event type="death" when="1832-08-10">
+      <place>Sluis</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/896"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Willem</name> <name type="intrapositie">Prov&#243;</name> <name type="geslachtsnaam">Kluit</name></persName>
+    <persName>Prov&#243; Kluit van Rijnsaterwoude</persName>
+    <event type="birth" when="1773-10-16">
+      <place>Lillo</place>
+    </event>
+    <event type="death" when="1851-07-24">
+      <place>Bussum</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

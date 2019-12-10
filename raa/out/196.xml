@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/196"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Hendrik Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lo&#235;</name></persName>
+    <persName>Van Lo&#235; van Overdijck</persName>
+    <event type="birth" when="1753-06-16">
+      <place>Zutphen</place>
+    </event>
+    <event type="death" when="1832-06-25">
+      <place>Doesburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

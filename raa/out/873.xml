@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/873"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Fran&#231;ois Joseph Marie Th&#233;r&#232;se</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">P&#233;lichy</name></persName>
+    <persName>P&#233;lichy de Lichtervelde</persName>
+    <event type="birth" when="1772-06-22">
+      <place>Brugge</place>
+    </event>
+    <event type="death" when="1844-11-24">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

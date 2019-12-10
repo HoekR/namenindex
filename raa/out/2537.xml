@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2537"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Sible</name> <name type="geslachtsnaam">Speelman</name></persName>
+    <event type="birth" when="1819-09-07">
+      <place>Heerenveen</place>
+    </event>
+    <event type="death" when="1882-09-21">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

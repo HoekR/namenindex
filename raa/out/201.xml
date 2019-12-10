@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/201"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan Mouritz</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Pabst</name></persName>
+    <persName>Van Pabst van Bingerden</persName>
+    <event type="birth" when="1740-11-06">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1824-11-20">
+      <place>Angerlo</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1103"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus Paulus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Bilt</name></persName>
+    <event type="birth" when="1822-01-06">
+      <place>Goes</place>
+    </event>
+    <event type="death" when="1880-06-12">
+      <place>Middelburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

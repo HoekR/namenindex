@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1095"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Jacobus</name> <name type="intrapositie">Berdenis van</name> <name type="geslachtsnaam">Berlekom</name></persName>
+    <event type="birth" when="1794-12-20">
+      <place>Middelburg</place>
+    </event>
+    <event type="death" when="1846-01-31">
+      <place>Middelburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

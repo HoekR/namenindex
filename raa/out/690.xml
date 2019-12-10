@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/690"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Joannes Ludovicus Theodorus Antonius Libuinus</name> <name type="intrapositie">baron van Scherpenzeel</name> <name type="geslachtsnaam">Heusch</name></persName>
+    <event type="birth" when="1799-11-13">
+      <place>Oosterhout</place>
+    </event>
+    <event type="death" when="1872-02-14">
+      <place>Vlodrop</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

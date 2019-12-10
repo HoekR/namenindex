@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/82"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Willem Anne</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Schimmelpenninck van der Oye</name></persName>
+    <persName>Schimmelpenninck van der Oye van den Poll</persName>
+    <event type="birth" when="1800-01-06">
+      <place>Doesburg</place>
+    </event>
+    <event type="death" when="1872-12-12">
+      <place>Voorst</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

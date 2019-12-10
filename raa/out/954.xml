@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/954"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Douwe Jan Andries</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Harinxma thoe Slooten</name></persName>
+    <event type="birth" when="1806-04-12">
+      <place>Holwerd</place>
+    </event>
+    <event type="death" when="1879-02-10">
+      <place>Leeuwarden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2143"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Embertus Joachim</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rooij</name></persName>
+    <event type="birth" when="1779-10-25">
+      <place>Stratum</place>
+    </event>
+    <event type="death" when="1857-05-17">
+      <place>Monnickendam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

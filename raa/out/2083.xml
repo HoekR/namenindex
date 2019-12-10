@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2083"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Clemens</name> <name type="geslachtsnaam">Sandenbergh Matthiessen</name></persName>
+    <persName>Sandenberg Matthiessen van Petten en Nolmerban</persName>
+    <event type="birth" when="1801-02-04">
+      <place>Kaap de Goede Hoop</place>
+    </event>
+    <event type="death" when="1854-11-06">
+      <place>Haarlem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

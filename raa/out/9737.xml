@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/9737"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerbrand</name> <name type="intrapositie">Pancras</name> <name type="geslachtsnaam">Clifford</name></persName>
+    <event type="birth" when="1745">
+      <place></place>
+    </event>
+    <event type="death" when="1789-02-12">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

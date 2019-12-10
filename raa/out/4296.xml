@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/4296"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Barro</name> <name type="geslachtsnaam">Adema</name></persName>
+    <event type="birth" when="1766-03-20">
+      <place>Sneek</place>
+    </event>
+    <event type="death" when="1822-01-02">
+      <place>Sneek</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

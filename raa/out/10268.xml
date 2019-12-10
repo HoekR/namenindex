@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/10268"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Aede</name> <name type="geslachtsnaam">Reynalda</name></persName>
+    <persName>Aduard van Reynalda</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1619-05-27">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

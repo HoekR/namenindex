@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1222"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Abraham</name> <name type="geslachtsnaam">Roelink</name></persName>
+    <event type="birth" when="1813-01-08">
+      <place>Meppel</place>
+    </event>
+    <event type="death" when="1889-05-22">
+      <place>Meppel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

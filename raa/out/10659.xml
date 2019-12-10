@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/10659"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Pieck</name></persName>
+    <persName>Jacob Pieck van IJzendoorn</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1570">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

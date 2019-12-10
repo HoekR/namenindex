@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/237"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jasper Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ittersum</name></persName>
+    <persName>Van Ittersum van Relaer</persName>
+    <event type="birth" when="1745-03-25">
+      <place>Rijssen</place>
+    </event>
+    <event type="death" when="1819-03-23">
+      <place>Raalte</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

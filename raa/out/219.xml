@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/219"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Casparus</name> <name type="geslachtsnaam">Bergsma</name></persName>
+    <event type="birth" when="1775-03-13">
+      <place>Dantumawoude</place>
+    </event>
+    <event type="death" when="1818-07-06">
+      <place>Dokkum</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

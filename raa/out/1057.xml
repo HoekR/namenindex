@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1057"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbert Timan Joan</name> <name type="geslachtsnaam">Wicherlink</name></persName>
+    <event type="birth" when="1797-09-23">
+      <place>Zwolle</place>
+    </event>
+    <event type="death" when="1862-04-17">
+      <place>Zwolle</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/330"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Theodorus</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Smeth</name></persName>
+    <persName>De Smeth van Deurne</persName>
+    <event type="birth" when="1779-08-16">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1859-10-07">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/6884"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Albert</name> <name type="geslachtsnaam">Willinge</name></persName>
+    <event type="birth" when="1760-06-21">
+      <place>Oldeberkoop</place>
+    </event>
+    <event type="death" when="1839-01-31">
+      <place>Oldeberkoop</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

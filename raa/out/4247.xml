@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/4247"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Muiden</name></persName>
+    <event type="birth" when="1652">
+      <place></place>
+    </event>
+    <event type="death" when="1722-04-30">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

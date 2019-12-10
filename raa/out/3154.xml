@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/3154"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bernardus Aloysius</name> <name type="geslachtsnaam">Reigers</name></persName>
+    <event type="birth" when="1819-09-29">
+      <place>Ulft</place>
+    </event>
+    <event type="death" when="1895-03-25">
+      <place>Ulft</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

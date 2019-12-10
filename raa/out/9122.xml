@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/9122"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bartholomeus</name> <name type="intrapositie">&#224; la</name> <name type="geslachtsnaam">Truye</name></persName>
+    <persName>Bartholomeus van der Zeuge</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1446">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

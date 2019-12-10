@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/5597"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Hans Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Camstra</name></persName>
+    <event type="birth" when="1687">
+      <place></place>
+    </event>
+    <event type="death" when="1761">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

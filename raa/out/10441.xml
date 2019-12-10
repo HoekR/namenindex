@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/10441"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Rutgert</name> <name type="geslachtsnaam">Verbrugge</name></persName>
+    <event type="birth" when="1666">
+      <place></place>
+    </event>
+    <event type="death" when="1715-01-31">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

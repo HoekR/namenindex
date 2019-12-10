@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/5317"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Teunis Iza&#228;ks</name> <name type="geslachtsnaam">Hulshoff</name></persName>
+    <event type="birth" when="1743-12-06">
+      <place>Groningen</place>
+    </event>
+    <event type="death" when="1817-10-19">
+      <place>Groningen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1428"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Willem Gerard</name> <name type="geslachtsnaam">Story</name></persName>
+    <persName>Story van Blokland</persName>
+    <event type="birth" when="1793-08-29">
+      <place>Utrecht</place>
+    </event>
+    <event type="death" when="1866-05-20">
+      <place>IJsselstein</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

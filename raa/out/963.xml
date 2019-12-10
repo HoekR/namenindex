@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/963"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Rau</name></persName>
+    <persName>Rau van Gameren</persName>
+    <event type="birth" when="1799-09-28">
+      <place>Leiden</place>
+    </event>
+    <event type="death" when="1876-03-05">
+      <place>Arnhem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

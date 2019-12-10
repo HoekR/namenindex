@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/3348"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Bernhard</name> <name type="intrapositie">ten Zijthoff</name> <name type="geslachtsnaam">Auffmorth</name></persName>
+    <persName>Aufmorth</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1821">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

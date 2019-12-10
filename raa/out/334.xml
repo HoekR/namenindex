@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/334"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Andreas Arnoldus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Velthoven</name></persName>
+    <event type="birth" when="1765-11-11">
+      <place>Utrecht</place>
+    </event>
+    <event type="death" when="1830-09-06">
+      <place>Waalre</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

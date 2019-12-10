@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2040"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Johan Louis</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
+    <event type="birth" when="1826-01-21">
+      <place>Zierikzee</place>
+    </event>
+    <event type="death" when="1887-07-12">
+      <place>Friedrichroda (Th&#252;ringen)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

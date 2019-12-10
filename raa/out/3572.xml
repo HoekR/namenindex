@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/3572"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerard Jacob</name> <name type="geslachtsnaam">Noortbergh van Brandwijk</name></persName>
+    <event type="birth" when="1763">
+      <place></place>
+    </event>
+    <event type="death" when="1791-05-13">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

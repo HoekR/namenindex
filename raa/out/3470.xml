@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/3470"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Goslik</name> <name type="geslachtsnaam">Juwinga</name></persName>
+    <persName>Goslik Jongema</persName>
+    <event type="birth" when="1476">
+      <place></place>
+    </event>
+    <event type="death" when="1538-04-20">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/599"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jean Fran&#231;ois</name> <name type="geslachtsnaam">Bijleveld</name></persName>
+    <persName>Bijleveld van Serooskerke</persName>
+    <event type="birth" when="1794-11-08">
+      <place>Middelburg</place>
+    </event>
+    <event type="death" when="1875-06-15">
+      <place>Velp (Gld.)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

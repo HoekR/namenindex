@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2025"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jacobus Maria</name> <name type="geslachtsnaam">Hennequin</name></persName>
+    <event type="birth" when="1817-01-23">
+      <place>Sluis</place>
+    </event>
+    <event type="death" when="1879-07-05">
+      <place>Sluis</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

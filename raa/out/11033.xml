@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/11033"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Mercurino</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Gattinara</name></persName>
+    <persName>Mercurino Arborio</persName>
+    <event type="birth" when="1465">
+      <place></place>
+    </event>
+    <event type="death" when="1530">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

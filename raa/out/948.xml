@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/948"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus Gerhardus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wageningen</name></persName>
+    <event type="birth" when="1795-11-19">
+      <place>Jelsum</place>
+    </event>
+    <event type="death" when="1870-07-30">
+      <place>Leeuwarden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

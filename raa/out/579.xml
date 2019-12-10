@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/579"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adolf Carel</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Bentinck</name></persName>
+    <persName>Bentinck van Nijenhuis</persName>
+    <event type="birth" when="1764-08-20">
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death" when="1837-03-11">
+      <place>Wijhe</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

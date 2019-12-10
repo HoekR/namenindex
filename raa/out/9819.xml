@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/9819"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Otto</name> <name type="geslachtsnaam">Lewe van Aduard</name></persName>
+    <event type="birth" when="1752">
+      <place></place>
+    </event>
+    <event type="death" when="1821">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

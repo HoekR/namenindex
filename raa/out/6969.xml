@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/6969"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Sigismund Jacques</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Heiden Reinestein</name></persName>
+    <persName>Van Heiden Reinestein tot Laarwoud</persName>
+    <event type="birth" when="1771-05-01">
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death" when="1830-04-17">
+      <place>Zuidlaren</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

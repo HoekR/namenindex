@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2684"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Franciscus Theodorus</name> <name type="geslachtsnaam">Corten</name></persName>
+    <event type="birth" when="1771-10-09">
+      <place>Beek</place>
+    </event>
+    <event type="death" when="1861-05-23">
+      <place>Beek</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

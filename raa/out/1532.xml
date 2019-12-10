@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1532"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Johan Lubbert</name> <name type="geslachtsnaam">Umbgrove</name></persName>
+    <event type="birth" when="1759-09-17">
+      <place>Arnhem</place>
+    </event>
+    <event type="death" when="1826-09-28">
+      <place>Wijhe</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

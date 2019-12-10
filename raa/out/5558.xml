@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/5558"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Adriaen</name> <name type="geslachtsnaam">Vroesen</name></persName>
+    <event type="birth" when="1609">
+      <place></place>
+    </event>
+    <event type="death" when="1669-08-17">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

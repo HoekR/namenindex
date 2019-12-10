@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/5989"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Marinus Emanuel Cornelis</name> <name type="geslachtsnaam">Versluys</name></persName>
+    <event type="birth" when="1752-02-09">
+      <place>Hulst</place>
+    </event>
+    <event type="death" when="1825-07-29">
+      <place>Middelburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

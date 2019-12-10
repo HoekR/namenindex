@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/5696"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Arend Coenraad</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Lawick tot Benthuis</name></persName>
+    <persName>Arend Coenraad van der Lauwick tot Benthuis</persName>
+    <event type="birth" when="1646">
+      <place></place>
+    </event>
+    <event type="death" when="1707-06-07">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

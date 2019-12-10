@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/7608"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Godard Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gendt</name></persName>
+    <event type="birth" when="1757">
+      <place>Nijmegen</place>
+    </event>
+    <event type="death" when="1830-07-18">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

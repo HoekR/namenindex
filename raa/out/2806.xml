@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2806"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Nicolaus Bonaventura</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Heusch</name></persName>
+    <persName>De Heusch de Bombrouck</persName>
+    <event type="birth" when="1782-10-17">
+      <place>Wijer</place>
+    </event>
+    <event type="death" when="1862-06-23">
+      <place>Donk (Belg. Limb.)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

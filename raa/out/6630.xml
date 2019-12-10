@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/6630"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Maarten Meynaertsz.</name> <name type="geslachtsnaam">Semeyns</name></persName>
+    <event type="birth" when="1580">
+      <place></place>
+    </event>
+    <event type="death" when="1636-09-15">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

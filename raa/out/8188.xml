@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/8188"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Tjaerd Michiels</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heloma</name></persName>
+    <persName>Theotardus van Heloma</persName>
+    <event type="birth" when="1618">
+      <place></place>
+    </event>
+    <event type="death" when="1657-04-01">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2301"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Aken</name></persName>
+    <event type="birth" when="1798-09-03">
+      <place>Gorinchem</place>
+    </event>
+    <event type="death" when="1859-02-04">
+      <place>Gorinchem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

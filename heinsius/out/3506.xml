@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/heinsius/#accessor=accessor_index&amp;accessor_href=accessor_index%3FSearchSource%253Autf-8%253Austring%3DKoch%252C%2520Georg%2520Gottfried"/>
+    <publisher>
+      <name>Instituut voor Nederlandse Geschiedenis</name>
+      <ref target="http://www.inghist.nl/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName>Koch, Georg Gottfried</persName>
+  </person>
+  <biography>
+    <text>Zaakwaarnemer van Eugenius van Savoye.</text>
+  </biography>
+</biodes>

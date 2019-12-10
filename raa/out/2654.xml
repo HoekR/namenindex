@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2654"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wolter Hendrik</name> <name type="geslachtsnaam">Hofstede</name></persName>
+    <event type="birth" when="1797-10-25">
+      <place>Assen</place>
+    </event>
+    <event type="death" when="1876-07-20">
+      <place>Groningen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

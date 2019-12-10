@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/554"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Pierre Godefroid Gilles Joseph</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">L&#233;onaerdts</name></persName>
+    <persName>De Leonaerdts d'Achel</persName>
+    <event type="birth" when="1763-12-22">
+      <place>Waldfeucht</place>
+    </event>
+    <event type="death" when="1830-01-26">
+      <place>Luik</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

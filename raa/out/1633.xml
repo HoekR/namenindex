@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1633"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Balthasar Rutger</name> <name type="geslachtsnaam">Roijer</name></persName>
+    <event type="birth" when="1793-04-05">
+      <place>Zwolle</place>
+    </event>
+    <event type="death" when="1878-02-15">
+      <place>Zwolle</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

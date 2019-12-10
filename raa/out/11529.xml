@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/11529"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">de la</name> <name type="geslachtsnaam">Rue</name></persName>
+    <event type="birth" when="1695">
+      <place></place>
+    </event>
+    <event type="death" when="1770-12-01">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

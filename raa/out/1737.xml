@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1737"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Abraham Florentius</name> <name type="geslachtsnaam">Speelman</name></persName>
+    <persName>Speelman van Wulverhorst</persName>
+    <event type="birth" when="1784-09-03">
+      <place>Heeswijk</place>
+    </event>
+    <event type="death" when="1840-08-25">
+      <place>Boxtel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

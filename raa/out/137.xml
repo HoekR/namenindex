@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/137"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Barthold Arnold</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Verschuer</name></persName>
+    <event type="birth" when="1809-07-05">
+      <place>Bergharen</place>
+    </event>
+    <event type="death" when="1901-01-03">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

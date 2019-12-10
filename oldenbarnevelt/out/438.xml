@@ -1,0 +1,14 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/oldenbarnevelt/#accessor=toc&amp;accessor_href=toc%3FSearchSource%3Draden%2520van%2520de%2520admiraliteiten%2520te%2520Rotterdam%26correspondent%3D%26day1%3D%26month1%3D%26year1%3D%26day2%3D%26month2%3D%26year2%3D"/>
+    <publisher>
+      <name>XXX</name>
+      <ref target="http://XXX.nl"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName>raden van de admiraliteiten te Rotterdam</persName>
+  </person>
+  <biography/>
+</biodes>

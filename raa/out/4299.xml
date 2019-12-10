@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/4299"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Denis</name> <name type="intrapositie">duc (empire)</name> <name type="geslachtsnaam">Decr&#232;s</name></persName>
+    <event type="birth" when="1761">
+      <place></place>
+    </event>
+    <event type="death" when="1820">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

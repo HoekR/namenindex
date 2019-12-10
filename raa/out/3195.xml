@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/3195"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Egbert Willem Justinus</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Six</name></persName>
+    <persName>Six tot Oterleek</persName>
+    <event type="birth" when="1824-11-04">
+      <place>Utrecht</place>
+    </event>
+    <event type="death" when="1901-12-15">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

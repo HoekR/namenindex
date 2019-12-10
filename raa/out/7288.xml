@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/7288"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Thimon Cornelis</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Heerdt</name></persName>
+    <persName>Van Heerdt tot Eversberg</persName>
+    <event type="birth" when="1761-01-22">
+      <place>Kampen</place>
+    </event>
+    <event type="death" when="1844-01-28">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

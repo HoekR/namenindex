@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/11976"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Sippe</name> <name type="intrapositie">Meckema van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <persName>Scipio Meckema van Aylva</persName>
+    <persName>Sicco Meckema van Aylva</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1669">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

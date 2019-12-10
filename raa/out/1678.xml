@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1678"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Pieter Gerardus</name> <name type="geslachtsnaam">Moorrees</name></persName>
+    <event type="birth" when="1814-08-26">
+      <place>Batavia</place>
+    </event>
+    <event type="death" when="1907-07-09">
+      <place>Deventer</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

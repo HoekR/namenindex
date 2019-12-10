@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/6970"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Reint Wolter</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Sloet van Marxveld</name></persName>
+    <persName>Sloet tot Lindenhorst</persName>
+    <event type="birth" when="1755-11-24">
+      <place>Vollenhove</place>
+    </event>
+    <event type="death" when="1842-08-23">
+      <place>Olst</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

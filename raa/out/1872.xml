@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1872"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Steengracht van Oostkapelle</name></persName>
+    <event type="birth" when="1782-07-11">
+      <place>Middelburg</place>
+    </event>
+    <event type="death" when="1846-12-17">
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

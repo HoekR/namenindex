@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/10950"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Harper Maartensz.</name> <name type="geslachtsnaam">Tromp</name></persName>
+    <event type="birth" when="1627">
+      <place></place>
+    </event>
+    <event type="death" when="1691-05-02">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

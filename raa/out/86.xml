@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/86"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Oncko</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Swinderen</name></persName>
+    <persName>Van Swinderen van Rensuma</persName>
+    <event type="birth" when="1775-07-23">
+      <place>Groningen</place>
+    </event>
+    <event type="death" when="1850-11-12">
+      <place>Groningen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

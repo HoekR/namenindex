@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/15"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Philippe Nicolas Joseph</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Borssele van der Hooghe</name></persName>
+    <event type="birth" when="1751-07-21">
+      <place>Brugge</place>
+    </event>
+    <event type="death" when="1829-09-27">
+      <place>Brugge</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

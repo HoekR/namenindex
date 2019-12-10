@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/6351"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Maximiliaan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Egmond</name></persName>
+    <persName>Buren</persName>
+    <event type="birth" when="1509">
+      <place></place>
+    </event>
+    <event type="death" when="1548">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

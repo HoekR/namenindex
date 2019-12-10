@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/3171"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Johan Albert</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Iterson</name></persName>
+    <event type="birth" when="1801-12-09">
+      <place>Woerden</place>
+    </event>
+    <event type="death" when="1886-02-13">
+      <place>Bloemendaal</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

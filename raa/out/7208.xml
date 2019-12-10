@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/7208"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Antoon</name> <name type="geslachtsnaam">Perrenot</name></persName>
+    <persName>Granvelle</persName>
+    <event type="birth" when="1517">
+      <place></place>
+    </event>
+    <event type="death" when="1586">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

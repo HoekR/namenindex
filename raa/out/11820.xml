@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/11820"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Gisbert</name> <name type="geslachtsnaam">Cuper</name></persName>
+    <persName>Gijsbert Kuijper</persName>
+    <event type="birth" when="1644">
+      <place></place>
+    </event>
+    <event type="death" when="1716-11-22">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

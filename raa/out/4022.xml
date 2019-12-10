@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/4022"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Popke Gjalts</name> <name type="geslachtsnaam">Landmeter</name></persName>
+    <persName>Siebes</persName>
+    <event type="birth" when="1756">
+      <place></place>
+    </event>
+    <event type="death" when="1825">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

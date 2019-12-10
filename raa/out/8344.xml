@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/8344"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Balthazar Arendsz.</name> <name type="geslachtsnaam">Walen</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1694-12-09">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

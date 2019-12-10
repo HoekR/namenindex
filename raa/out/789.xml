@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/789"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Assen</name></persName>
+    <event type="birth" when="1788-08-25">
+      <place>Harlingen</place>
+    </event>
+    <event type="death" when="1859-09-13">
+      <place>Velp</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

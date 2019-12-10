@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/487"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Diederik Louis</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Brakell tot den Brakell</name></persName>
+    <persName>Van Brakell tot den Brakell en Vredestein</persName>
+    <event type="birth" when="1768-12-17">
+      <place>Tiel</place>
+    </event>
+    <event type="death" when="1852-12-27">
+      <place>Arnhem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

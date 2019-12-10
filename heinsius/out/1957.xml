@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.inghist.nl/retroboeken/heinsius/#accessor=accessor_index&amp;accessor_href=accessor_index%3FSearchSource%253Autf-8%253Austring%3DDu%2520Thay%252C%2520Claude%2520Antoine%2520de%2520La%2520Lane"/>
+    <publisher>
+      <name>Instituut voor Nederlandse Geschiedenis</name>
+      <ref target="http://www.inghist.nl/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName>Du Thay, Claude Antoine de La Lane</persName>
+  </person>
+  <biography>
+    <text>Sinds 1699 commandeur van Bredevoort.</text>
+  </biography>
+</biodes>

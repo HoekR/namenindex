@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/10544"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">David Jacobsz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Heul</name></persName>
+    <persName>David Jacobsz. van den Heuvel</persName>
+    <persName>David Jacobsz. Verheul</persName>
+    <event type="birth" when="1580">
+      <place></place>
+    </event>
+    <event type="death">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

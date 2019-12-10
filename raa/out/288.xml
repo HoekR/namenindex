@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/288"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Pieter Adriaan</name> <name type="geslachtsnaam">Rauws</name></persName>
+    <event type="birth" when="1770-07-24">
+      <place>Heusden</place>
+    </event>
+    <event type="death" when="1837-11-02">
+      <place>Nijmegen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

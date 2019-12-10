@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1767"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joannes Henricus</name> <name type="geslachtsnaam">Sassen</name></persName>
+    <event type="birth" when="1785-05-27">
+      <place>'s-Hertogenbosch</place>
+    </event>
+    <event type="death" when="1830-05-05">
+      <place>'s-Hertogenbosch</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

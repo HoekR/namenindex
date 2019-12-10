@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/4714"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Transisulanus Adolphus</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Voorst</name></persName>
+    <persName>Adolphus Transisulanus van Voorst</persName>
+    <event type="birth" when="1651">
+      <place></place>
+    </event>
+    <event type="death" when="1707-06-06">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

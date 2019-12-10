@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/6593"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Guillaume</name> <name type="intrapositie">le</name> <name type="geslachtsnaam">Marques</name></persName>
+    <persName>Guillaume le Marquis</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1521">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/7941"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Nicolaes Reijersz.</name> <name type="geslachtsnaam">Kemp</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1624-05-04">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

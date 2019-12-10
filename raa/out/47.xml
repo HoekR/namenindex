@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/47"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Hendrik Christiaan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Houven</name></persName>
+    <event type="birth" when="1773-11-26">
+      <place>Nieuw-Beierland</place>
+    </event>
+    <event type="death" when="1852-12-09">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

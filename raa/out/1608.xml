@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1608"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Loghem</name></persName>
+    <event type="birth" when="1808-05-07">
+      <place>Deventer</place>
+    </event>
+    <event type="death" when="1881-12-08">
+      <place>Deventer</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

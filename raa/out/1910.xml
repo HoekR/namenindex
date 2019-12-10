@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/1910"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Johan Lodewijk</name> <name type="geslachtsnaam">Stern</name></persName>
+    <event type="birth" when="1792-01-09">
+      <place>Sluis</place>
+    </event>
+    <event type="death" when="1875-02-18">
+      <place>Sluis</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

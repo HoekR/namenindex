@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2867"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Johan</name> <name type="geslachtsnaam">Rouffaer</name></persName>
+    <event type="birth" when="1780-07-23">
+      <place>Maastricht</place>
+    </event>
+    <event type="death" when="1834-01-06">
+      <place>Maastricht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/9061"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Joan</name> <name type="geslachtsnaam">Fockink</name></persName>
+    <event type="birth" when="1717">
+      <place></place>
+    </event>
+    <event type="death" when="1789-03-15">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

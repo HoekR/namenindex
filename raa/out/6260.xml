@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/6260"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jean-Pierre-Louis</name> <name type="intrapositie">comte (empire) de</name> <name type="geslachtsnaam">Fontanes</name></persName>
+    <event type="birth" when="1757">
+      <place></place>
+    </event>
+    <event type="death" when="1821">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

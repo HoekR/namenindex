@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/4337"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lucas Hendrik Coenraad</name> <name type="geslachtsnaam">Nilant</name></persName>
+    <event type="birth" when="1761-01-20">
+      <place>Zwolle</place>
+    </event>
+    <event type="death" when="1837-04-10">
+      <place>Zwolle</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

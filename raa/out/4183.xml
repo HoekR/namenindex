@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/4183"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Eise</name> <name type="geslachtsnaam">Eisinga</name></persName>
+    <event type="birth" when="1744-02-21">
+      <place>Dronrijp</place>
+    </event>
+    <event type="death" when="1828-08-27">
+      <place>Franeker</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

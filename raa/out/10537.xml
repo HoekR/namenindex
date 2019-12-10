@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/10537"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Frederick</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vervou</name></persName>
+    <persName>Frederick van Vervou van Martenahuis</persName>
+    <event type="birth" when="1550">
+      <place></place>
+    </event>
+    <event type="death" when="1621">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

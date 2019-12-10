@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2340"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Frans</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Berg</name></persName>
+    <event type="birth" when="1791-07-07">
+      <place>Schoonrewoerd</place>
+    </event>
+    <event type="death" when="1852-04-06">
+      <place>Vianen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

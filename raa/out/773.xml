@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/773"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Willem Nicolaas Alexander Frederik Karel Hendrik</name> <name type="intrapositie">prins van</name> <name type="geslachtsnaam">Oranje-Nassau</name></persName>
+    <persName>prins Willem</persName>
+    <event type="birth" when="1840-09-04">
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death" when="1879-06-11">
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

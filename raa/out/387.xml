@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/387"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Gijsbert Carel Rutger Reinier</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Brienen van Ramerus</name></persName>
+    <event type="birth" when="1771-10-28">
+      <place>Amersfoort</place>
+    </event>
+    <event type="death" when="1821-09-18">
+      <place>Grebbe</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

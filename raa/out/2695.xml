@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/2695"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hermanus Josephus Adolphius Franciscus</name> <name type="geslachtsnaam">Steffens</name></persName>
+    <event type="birth" when="1789-08-29">
+      <place>Gulik</place>
+    </event>
+    <event type="death" when="1865-03-23">
+      <place>Horst</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

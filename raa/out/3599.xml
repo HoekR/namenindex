@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/3599"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Berend</name> <name type="geslachtsnaam">Alring</name></persName>
+    <event type="birth" when="1754-12-12">
+      <place>Leer</place>
+    </event>
+    <event type="death" when="1824-01-03">
+      <place>Sneek</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>
