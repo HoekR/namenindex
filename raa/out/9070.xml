@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">H.</name> <name type="geslachtsnaam">Fraser</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Abraham Johannes</name> <name type="geslachtsnaam">Severijn</name></persName>
+    <event type="birth" when="2009">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1825-06-14">
+      <place>Kleef</place>
     </event>
   </person>
   <biography/>

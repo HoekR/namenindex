@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Meindert</name> <name type="geslachtsnaam">Klaasz.</name></persName>
-    <persName>Meindert Klaasz. van Haarlem</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Collot d'Escury</name></persName>
+    <persName>Collot d'Escury van Heinenoord</persName>
+    <event type="birth" when="2009">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1437">
-      <place></place>
+    <event type="death" when="1845-05-14">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

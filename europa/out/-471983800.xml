@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-471983800"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs.</name> <name type="voornaam">Nol</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Hermans</name></persName>
+    <event type="birth">
+      <date>11-06-1933</date>
+      <place>Helmond</place>
+    </event>
+    <event type="death">
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

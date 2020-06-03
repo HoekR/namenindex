@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dani&#235;l</name> <name type="geslachtsnaam">Prillewitz</name></persName>
+    <persName><name type="voornaam">Symon</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Meynertsz.</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1613-12-25">
       <place></place>
     </event>
   </person>

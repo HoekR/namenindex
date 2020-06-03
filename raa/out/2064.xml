@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">ds.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Weldijk</name></persName>
-    <event type="birth" when="1763-10-05">
-      <place>Haarlem</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Tjaert</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Walta</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-11-06">
-      <place>Limmen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

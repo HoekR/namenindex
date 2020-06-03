@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Karel Daniel</name> <name type="geslachtsnaam">Asser</name></persName>
-    <event type="birth" when="1813-08-31">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Johan Herman</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lange</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1890-03-11">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

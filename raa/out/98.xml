@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Everard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Weede</name></persName>
-    <persName>Van Weede van Dijkveld</persName>
-    <event type="birth" when="1775-01-06">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Bol</name></persName>
+    <event type="birth" when="1495">
+      <place></place>
     </event>
-    <event type="death" when="1844-03-26">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1550">
+      <place></place>
     </event>
   </person>
   <biography/>

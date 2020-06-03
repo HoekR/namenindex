@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">David Constantijn</name> <name type="intrapositie">baron du</name> <name type="geslachtsnaam">Tour</name></persName>
-    <event type="birth" when="1657">
+    <persName><name type="voornaam">C.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Rhoon</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1727-12-08">
+    <event type="death">
       <place></place>
     </event>
   </person>

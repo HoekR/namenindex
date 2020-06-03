@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christiaan</name> <name type="geslachtsnaam">Coenegracht</name></persName>
-    <event type="birth" when="1755-06-29">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Boudijn Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Boudijnsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-08-18">
-      <place>Maastricht</place>
+    <event type="death" when="1450">
+      <place></place>
     </event>
   </person>
   <biography/>

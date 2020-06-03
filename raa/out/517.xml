@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Gerard</name> <name type="geslachtsnaam">Beelaerts van Blokland</name></persName>
-    <event type="birth" when="1772-07-05">
-      <place>Dordrecht</place>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Polderman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-02-25">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

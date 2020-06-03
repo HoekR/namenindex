@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wybe Jacobs</name> <name type="geslachtsnaam">Hanekuijk</name></persName>
-    <event type="birth" when="1755-01-03">
-      <place>Harlingen</place>
+    <persName><name type="voornaam">J.</name> <name type="geslachtsnaam">Verkerk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1830-02-12">
-      <place>Harlingen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

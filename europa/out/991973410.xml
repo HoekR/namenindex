@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/991973410"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Ronald</name> <name type="intrapositie">Miami nan</name> <name type="geslachtsnaam">Casseres</name></persName>
+    <event type="birth">
+      <date>03-08-1939</date>
+      <place>Cura&#231;ao</place>
+    </event>
+    <event type="death">
+      <date>22-10-1988</date>
+      <place>Miami</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

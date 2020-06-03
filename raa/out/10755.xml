@@ -8,8 +8,7 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Artus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Bourbon</name></persName>
-    <persName>Artur de Bourbon</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Verdam</name></persName>
     <event type="birth">
       <place></place>
     </event>

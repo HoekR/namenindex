@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Klaas</name> <name type="geslachtsnaam">Zijp</name></persName>
-    <event type="birth" when="1792-02-10">
-      <place>Midwoud</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Boetzelaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-11-02">
-      <place>Midwoud</place>
+    <event type="death" when="1796">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/37526"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Gerlich</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Doys</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1685-02-21">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

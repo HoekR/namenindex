@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Duco</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Martena</name></persName>
-    <persName>Doecke van Martena</persName>
-    <event type="birth" when="1530">
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Back de Zee</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1605-11-11">
+    <event type="death" when="1765">
       <place></place>
     </event>
   </person>

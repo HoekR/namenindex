@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Evert Hendrik Jacob</name> <name type="geslachtsnaam">Cunaeus</name></persName>
-    <event type="birth" when="1779-01-10">
-      <place>Leiden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Rienck</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Gratigna</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-03-26">
-      <place>Leiden</place>
+    <event type="death" when="1563-06-15">
+      <place></place>
     </event>
   </person>
   <biography/>

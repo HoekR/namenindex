@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Adriaan</name> <name type="geslachtsnaam">Sloet tot Westerholt</name></persName>
-    <event type="birth" when="1692">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Gerritsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Egmond</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1750-07-27">
+    <event type="death" when="1443">
       <place></place>
     </event>
   </person>

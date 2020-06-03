@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Horatius</name> <name type="geslachtsnaam">Knijff</name></persName>
-    <event type="birth" when="1628">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Wolter</name> <name type="geslachtsnaam">Kymmell</name></persName>
+    <persName>Kijmmel</persName>
+    <event type="birth" when="2002">
+      <place>Havelte</place>
     </event>
-    <event type="death" when="1679-01-12">
-      <place></place>
+    <event type="death" when="1830-11-21">
+      <place>Havelte</place>
     </event>
   </person>
   <biography/>

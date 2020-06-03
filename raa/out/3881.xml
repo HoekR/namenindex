@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Theodorus Johannes Alexander</name> <name type="geslachtsnaam">Pagenstecher</name></persName>
+    <persName><name type="voornaam">Dirk Dirksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Kuyper</name></persName>
+    <persName>Dirk Dirksz. Ben</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1623">
       <place></place>
     </event>
   </person>

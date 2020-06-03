@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelius Franciscus Frisius</name> <name type="intrapositie">Rinia van</name> <name type="geslachtsnaam">Nauta</name></persName>
-    <event type="birth" when="1800-12-25">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Adriaen Gerardsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hoogeveen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-01-31">
-      <place>Giekerk</place>
+    <event type="death" when="1753-04-01">
+      <place></place>
     </event>
   </person>
   <biography/>

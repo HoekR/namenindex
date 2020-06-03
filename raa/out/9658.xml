@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bon-Adrien</name> <name type="intrapositie">duc (empire) de Jannot de</name> <name type="geslachtsnaam">Moncey</name></persName>
-    <persName>Moncey, Duc de Conegliano</persName>
-    <event type="birth" when="1754">
+    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Heines</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1842">
+    <event type="death">
       <place></place>
     </event>
   </person>

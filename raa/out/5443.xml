@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hector Epeusz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Glinstra</name></persName>
-    <event type="birth" when="1647">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Boudijnsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Zwieten</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1705-08-19">
+    <event type="death" when="1485">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Herman Theodor</name> <name type="geslachtsnaam">L&#246;hnis</name></persName>
-    <event type="birth" when="1813-10-12">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Adrichem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-08-15">
-      <place>Kralingen</place>
+    <event type="death" when="1841">
+      <place></place>
     </event>
   </person>
   <biography/>

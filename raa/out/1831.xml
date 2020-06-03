@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bernardus Ludovicus Hubertus</name> <name type="geslachtsnaam">Borret</name></persName>
-    <event type="birth" when="1826-09-26">
-      <place>Brussel</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Watze</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Ockinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1886-06-12">
-      <place>Antwerpen</place>
+    <event type="death" when="1624-04-19">
+      <place></place>
     </event>
   </person>
   <biography/>

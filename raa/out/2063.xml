@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Weggeman Guldemont</name></persName>
-    <event type="birth" when="1775-07-10">
-      <place>Krimpen a/d IJssel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbrecht</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jansz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-05-13">
-      <place>Ouderkerk a/d IJssel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

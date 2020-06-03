@@ -1,0 +1,106 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Theissen, Johann Samuel (1874-1936)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/theissen"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">theissen</idno>
+    <persName><name type="geslachtsnaam">Theissen</name>, Johann Samuel</persName>
+    <sex value="1"/>
+    <event type="birth" when="1874"/>
+    <event type="death" when="1936"/>
+    <state type="occupation">historicus</state>
+    <state type="occupation">bibliothecaris</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Theissen, Johann Samuel&lt;/strong&gt;, historicus en bibliothecaris (Berg-Gladbach in Duitsland 2-11-1874 -Amsterdam 19-11-1936).
+
+Zoon van Hermann Heinrich Theissen, boekhouder, en Elisabeth Wilhelmina
+Breunissen Troost. Gehuwd op 25-4-1902 met Elisabeth Maria van der
+Meer. Uit dit huwelijk werden 1 zoon en 1 dochter geboren.
+
+
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Theissen verhuisde reeds in zijn tweede jaar met het gezin van zijn
+ouders naar Arnhem. Na in 1893 eindexamen HBS gedaan te hebben,
+behaalde hij in 1894 de onderwijzersakte en was van 1894 tot 1896
+onderwijzer in Arnhem. In 1897 deed hij als extraneus eindexamen
+gymnasium-B aan het gymnasium te Arnhem en werd student in de faculteit
+der letteren aan de Universiteit te Utrecht. Na zijn staatsexamen
+gymnasium-A legde hij in 1899 zijn kandidaatsexamen in de Nederlandse
+letteren af en werd tijdelijk leraar in de geschiedenis aan de HBS en
+het gymnasium te Arnhem. In 1901 deed Theissen zijn doctoraal examen en
+werd hij op 1 september leraar in de geschiedenis aan het gymnasium te
+Leeuwarden, daarna in 1903 te Groningen. In 1907 promoveerde hij bij
+C.H.Th. Bussemaker op een proefschrift 
+&lt;em&gt;Centraal gezag en Friesche vrijheid. Friesland onder Karel V.&lt;/em&gt;
+
+In 1912 volgde zijn bekende boek 
+&lt;em&gt;De regeering van Karel V in de Noordelijke Nederlanden,&lt;/em&gt;
+
+dat voor een belangrijk deel berustte op het in zijn dissertatie
+verwerkte materiaal. Hij werd op grond van deze publikaties door het
+bestuur van het Historisch Genootschap te Utrecht aangezocht voor een
+uitgave van de briefwisseling tussen de landvoogdes Margaretha van
+Parma en Philips II, die indertijd door Bakhuizen van den Brink in
+Wenen en Brussel was afgeschreven. Deze uitgave zou een vervolg moeten
+zijn op de drie in de jaren 1867-1881 door Gachard uitgegeven delen. Na
+lange aarzeling nam Theissen in 1914 de opdracht aan, maar de
+wereldoorlog brak uit, de regeringssubsidies vervielen, en Bussemaker,
+die zou medewerken, stierf. Tot 1922 heeft de bewerking stil gestaan.
+In 1925 verscheen het eerste deel, waarbij bleek, dat men ten onrechte
+had aangenomen, dat Bakhuizens kopie&amp;euml;n betrouwbaar waren. Theissen
+noch het Historisch Genootschap hebben van deze uitgave veel plezier
+beleefd.&lt;/p&gt;
+&lt;p&gt;Omdat hij dikwijls met zijn keel sukkelde, verruilde hij zijn
+leraarsbetrekking met die van bibliothecaris van de Groningse
+Universiteit, toen door de benoeming van dr. Roos tot hoogleraar die
+plaats open kwam. Zijn benoeming volgde op 16 juli 1917. Als
+bibliothecaris werd hij, aanvankelijk in vakkringen wat gewantrouwd,
+maar weldra volkomen geaccepteerd. Zijn nauwgezette plichtsbetrachting,
+zijn inzicht in organisatorische vraagstukken maakten hem tot een
+erkend leider van zijn bibliotheek. De plannen hem in 1930 een
+buitengewoon professoraat in de geschiedenis te bezorgen, vonden te
+laat steun bij de regering, zodat hij op 1 februari 1929 de betrekking
+van directeur der bibliotheek van de Universiteit van Amsterdam
+aanvaardde. Op 25 juli 1930 werd hij daar tot buitengewoon hoogleraar
+in de Vaderlandse geschiedenis benoemd. Zijn inaugurele oratie luidde: 
+&lt;em&gt;Uit de voorgeschiedenis van het liberalisme in Nederland.&lt;/em&gt;
+
+Ter gelegenheid van de herdenking van het 300-jarig bestaan van de
+universiteit belastte hij zich met de samenstelling der 
+&lt;em&gt;Levensberichten van professoren en lectoren,&lt;/em&gt;
+
+die als een aanhangsel van 181 bladzijden bij het 
+&lt;em&gt;Gedenkboek&lt;/em&gt;
+
+zijn uitgegeven. Zijn gezondheid ging achteruit. In 1935 moest hij zijn
+ambt als bibliothecaris neerleggen. Het volgende jaar overleed hij.&lt;/p&gt;
+&lt;p&gt;Met hem ging een bekwaam historicus, een toegewijd bibliothecaris en
+hoogleraar heen. Wellicht is een al te grote nauwgezetheid en een
+zekere zwaartillendheid er oorzaak van geweest, dat de twee door hem te
+vervullen functies een overbelasting werden, die het einde van deze
+door levensopvatting en karakter bijzondere mens heeft verhaast.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Een volledige bibliografie vindt men in onderstaand
+levensbericht.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;I.H. Gosses, in 
+&lt;em&gt;Jaarboek van de Maatschappij der Nederlandsche Letterkunde te Leiden
+1936-1937,&lt;/em&gt;
+
+170-184.&lt;/p&gt;
+&lt;p&gt;L. Brummel &amp;#134;&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

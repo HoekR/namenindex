@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Petrus Gerardus</name> <name type="geslachtsnaam">Teuwens</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Willem Emilius</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Unia</name></persName>
+    <persName>Douwe van Unia</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1754-06-11">
       <place></place>
     </event>
   </person>

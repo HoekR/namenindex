@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lambert Berend</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Oer tot Buckhorst</name></persName>
-    <event type="birth" when="1609">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Roelant</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Langenberg</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1672-06-30">
+    <event type="death">
       <place></place>
     </event>
   </person>

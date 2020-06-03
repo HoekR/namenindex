@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joannes Petrus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gilse</name></persName>
-    <event type="birth" when="1781-06-21">
-      <place>Baarle-Hertog</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lyon</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gent</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-06-16">
-      <place>Roosendaal</place>
+    <event type="death" when="1460">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">van Harencarspel</name> <name type="geslachtsnaam">Eckhardt</name></persName>
-    <event type="birth" when="1784-04-28">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Mirell</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1842-05-05">
-      <place>Assen</place>
+    <event type="death" when="1802">
+      <place></place>
     </event>
   </person>
   <biography/>

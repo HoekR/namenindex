@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bernard Joseph Balthasar</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sonsbeeck</name></persName>
-    <event type="birth" when="1824-01-06">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Eco</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Wendt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-09-24">
-      <place>Zwolle</place>
+    <event type="death" when="1809">
+      <place></place>
     </event>
   </person>
   <biography/>

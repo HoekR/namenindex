@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">Hora</name> <name type="geslachtsnaam">Siccama</name></persName>
-    <event type="birth" when="1802-08-18">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jacobsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-10-02">
-      <place>Santpoort</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

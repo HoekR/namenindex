@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ananias</name> <name type="geslachtsnaam">Willink</name></persName>
-    <event type="birth" when="1778-11-28">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jan</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Roorda</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-05-25">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

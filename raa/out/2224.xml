@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Abraham</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lange</name></persName>
-    <event type="birth" when="1811-01-10">
-      <place>Alkmaar</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Calkoen</name></persName>
+    <persName>Calkoen van Kortenhoef</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-04-21">
-      <place>Alkmaar</place>
+    <event type="death" when="1817">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Sicke</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dekema</name></persName>
-    <persName>Sixtus a Decama</persName>
-    <event type="birth" when="1548">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Anthony Jacob</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Heim</name></persName>
+    <event type="birth" when="2002">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1625">
-      <place></place>
+    <event type="death" when="1846-10-30">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

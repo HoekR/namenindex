@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Theodorus</name> <name type="geslachtsnaam">Brands</name></persName>
-    <event type="birth" when="1754">
+    <persName><name type="voornaam">Jan Jansz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Drept</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1826">
+    <event type="death" when="1659">
       <place></place>
     </event>
   </person>

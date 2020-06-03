@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1358290812"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">kolonel</name> <name type="voornaam">nan</name> <name type="intrapositie">Khartoem nan</name> <name type="geslachtsnaam">Numeiry</name></persName>
+    <event type="birth">
+      <date>01-01-1930</date>
+      <place>Omdurman</place>
+    </event>
+    <event type="death">
+      <date>30-05-2009</date>
+      <place>Khartoem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

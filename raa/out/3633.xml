@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Hendrikus</name> <name type="geslachtsnaam">Strup</name></persName>
+    <persName><name type="voornaam">Cornelis Anthonisz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Wolff</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1640">
       <place></place>
     </event>
   </person>

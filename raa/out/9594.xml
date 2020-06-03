@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Filips</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lannoy</name></persName>
-    <persName>Molenbaix</persName>
-    <event type="birth" when="1487">
+    <persName><name type="voornaam">Adolf Otto</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Raesfelt tot de Pol</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1543">
+    <event type="death" when="1769-04-18">
       <place></place>
     </event>
   </person>

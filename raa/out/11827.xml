@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antonius</name> <name type="geslachtsnaam">Volding van Bevervoorde</name></persName>
+    <persName><name type="voornaam">Bartold Jan</name> <name type="intrapositie">comte (Empire) IJssel de</name> <name type="geslachtsnaam">Schepper</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1803">
       <place></place>
     </event>
   </person>

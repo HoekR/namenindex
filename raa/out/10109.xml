@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hayo Hermannus</name> <name type="geslachtsnaam">Hompens</name></persName>
-    <persName>Haio Hompius</persName>
-    <persName>Humpius van Emden</persName>
-    <event type="birth" when="1495">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Assendelft</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1540">
+    <event type="death">
       <place></place>
     </event>
   </person>

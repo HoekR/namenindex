@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dani&#235;l Jacobsz.</name> <name type="geslachtsnaam">Verweijde</name></persName>
-    <event type="birth" when="1759">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Albrecht</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Egmond van Merenstein</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1801">
+    <event type="death" when="1401">
       <place></place>
     </event>
   </person>

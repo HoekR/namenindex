@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Arend Godert</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Dedem</name></persName>
-    <event type="birth" when="1780-05-10">
-      <place>Dalfsen</place>
+    <persName><name type="voornaam">Gerard</name> <name type="intrapositie">comte (Empire) ter</name> <name type="geslachtsnaam">Borch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-06-12">
-      <place>Arnhem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

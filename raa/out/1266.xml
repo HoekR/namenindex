@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">Wichers</name> <name type="geslachtsnaam">Quintus</name></persName>
-    <event type="birth" when="1807-08-14">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Gerbrant</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Vicq</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1864-04-14">
-      <place>Groningen</place>
+    <event type="death" when="1712-11-21">
+      <place></place>
     </event>
   </person>
   <biography/>

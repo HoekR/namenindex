@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Aertsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoey</name></persName>
-    <persName>Gerrit Aertsz. van Hasselt</persName>
-    <event type="birth" when="1580">
+    <persName><name type="voornaam">Lambertus Teunis</name> <name type="geslachtsnaam">Koekoek</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1653-04-21">
+    <event type="death" when="1814">
       <place></place>
     </event>
   </person>

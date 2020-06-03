@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/717"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Eigenbrakel nan</name> <name type="geslachtsnaam">Spaak</name></persName>
+    <event type="birth">
+      <date>25-01-1899</date>
+      <place>Schaarbeek</place>
+    </event>
+    <event type="death">
+      <date>31-07-1972</date>
+      <place>Eigenbrakel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

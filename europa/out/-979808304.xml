@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-979808304"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Parijs nan</name> <name type="geslachtsnaam">Daladier</name></persName>
+    <event type="birth">
+      <date>18-06-1884</date>
+      <place>Carpentier (Vaucluse)</place>
+    </event>
+    <event type="death">
+      <date>10-10-1970</date>
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

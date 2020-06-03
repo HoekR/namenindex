@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lucas</name> <name type="geslachtsnaam">Stokbroo</name></persName>
-    <persName>Stokbroo van Hoog- en Aartswoud</persName>
-    <event type="birth" when="1792-03-20">
-      <place>Hoorn</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Heemskerck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-02-26">
-      <place>Hoorn</place>
+    <event type="death" when="1784-08-28">
+      <place></place>
     </event>
   </person>
   <biography/>

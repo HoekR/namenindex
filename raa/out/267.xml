@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Heereman</name></persName>
-    <event type="birth" when="1761-08-06">
-      <place>Schiedam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bartholomeus</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Jonge</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1830-04-24">
-      <place>Ressen</place>
+    <event type="death" when="1560-04-25">
+      <place></place>
     </event>
   </person>
   <biography/>

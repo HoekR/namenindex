@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Julius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <persName>Juw van Eysinga</persName>
-    <event type="birth" when="1563">
+    <persName><name type="voornaam">Petrus Gulielmus</name> <name type="geslachtsnaam">Schorer</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1631-05-04">
+    <event type="death" when="1817">
       <place></place>
     </event>
   </person>

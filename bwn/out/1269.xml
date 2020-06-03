@@ -1,0 +1,76 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Moppes, Willem Maria van (1914-1942)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/moppes"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">moppes</idno>
+    <persName><name type="geslachtsnaam">Moppes</name>, Willem Maria van</persName>
+    <sex value="1"/>
+    <event type="birth" when="1914"/>
+    <event type="death" when="1942"/>
+    <state type="occupation">marineofficier</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Moppes, Willem Maria van&lt;/strong&gt;, marineofficier ('s-Gravenhage 9-11-1914 - gesneuveld aan boord van Hr.Ms. Piet Hein in Straat Lombok 19-2-1942).
+
+Zoon van Wolf van Moppes, notarisklerk, en Maria Elisabeth Kersbergen.
+Hij was ongehuwd.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Van Moppes behaalde het einddiploma van de vijfjarige HBS aan het
+Sint Aloysius-college te 's-Gravenhage en werd op 4-9-1934 benoemd
+tot adelborst voor de marine-stoomvaartdienst (MSD). Na voltooiing der
+opleiding bij het Koninklijk instituut voor de marine te Den Helder
+werd hij op 13-8-1937 benoemd tot officier MSD der 3e klasse en in
+september naar Nederlands-Indi&amp;euml; uitgezonden. Aldaar diende hij
+achtereenvolgens aan boord van Hr. Ms. kruiser Sumatra en Hr.Ms.
+torpedoboot-jagers Van Ghent, Evertsen en Piet Hein. Op 13-8-1939 werd
+hij bevorderd tot officier MSD der 2e klasse. Aan boord van Hr.Ms. Piet
+Hein, deel uitmakend van het eskader in Nederlands-Indi&amp;euml; en na
+3-2-1942 van de Combined Striking Force onder bevel van
+schout-bij-nacht K.W.F.M. Doorman was hij betrokken bij talrijke
+operaties in verband met de strijd tegen de Japanners. Zo was hij
+betrokken bij patrouilles en convooivaarten in de Indische archipel,
+een gevecht tegen Japanse vliegtuigen bij de Kangean-eilanden, aan de
+poging om een Japanse aanvalsvloot, bestemd voor Palembang, te
+onderscheppen en het daaruit voortvloeiend treffen met Japanse
+vliegtuigen. Samen met Hr.Ms. 'kruisers De Ruyter en Java, alsmede
+twee Amerikaanse torpedobootjagers, vocht hij op de Piet Hein mee bij
+een aanval van uit de Indische oceaan op een Japanse landingsvloot in
+Straat Badoeng (zuidoostkust Bali). Door een treffer kwam het schip
+gestopt te liggen, waarna het door de Japanners met torpedo's tot
+zinken werd gebracht. Van Moppes werd postuum onderscheiden met de
+Militaire Willemsorde (ridder 4e klasse) wegens: 'Als ondergeschikt
+officier MSD aan boord van Onzen torpedobootjager Piet Hein tijdens het
+zeegevecht in Straat Lombok op 19 februari 1942, blijk gegeven van
+buitengewonen moed en groot beleid, bekwaamheid, initiatief, groote
+plichtsbetrachting en doorzettingsvermogen, door: ten eerste, het
+bedrijf af te zetten op de stookplaatsen, welke vol verstikkende rook
+waren en waar verscheidene stoom- en brandstolleidingen waren
+gesprongen, ten tweede, eigenhandig een aantal gewonde schepelingen uit
+deze ketelruimen te halen, bij welk reddingswerk hij tenslotte is
+omgekomen (KB van 19 november 1942 no. 7).'&lt;/p&gt;
+&lt;p&gt;Een van de zestien in de jaren 1960-1962 bij de Koninklijke marine
+in dienst gestelde ondiepwatermijnenvegers werd Van Moppes (M 873)
+genoemd. Als scheepsembleem voert het schip het wapen van de familie
+Van Moppes, van azuur drie diamanten van zilver, waarin in een
+schildhoek het wapen van Piet Hein is geplaatst.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;K.W.L. Bezemer, 
+&lt;em&gt;Zij vochten op de zeven zee&amp;euml;n&lt;/em&gt;
+
+(Utrecht, 1954) 303-304.&lt;/p&gt;
+&lt;p&gt;A. van der Moer&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

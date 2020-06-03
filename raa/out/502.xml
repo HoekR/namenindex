@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Tjalling Petrus</name> <name type="geslachtsnaam">Tresling</name></persName>
-    <event type="birth" when="1809-01-10">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Franciscus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Burum</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-07-12">
-      <place>Groningen</place>
+    <event type="death" when="1710-05-02">
+      <place></place>
     </event>
   </person>
   <biography/>

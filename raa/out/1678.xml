@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Pieter Gerardus</name> <name type="geslachtsnaam">Moorrees</name></persName>
-    <event type="birth" when="1814-08-26">
-      <place>Batavia</place>
+    <persName><name type="voornaam">Dirk Dirksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Houttuijn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1907-07-09">
-      <place>Deventer</place>
+    <event type="death" when="1744">
+      <place></place>
     </event>
   </person>
   <biography/>

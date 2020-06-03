@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joannes Josephus</name> <name type="geslachtsnaam">Batta</name></persName>
-    <event type="birth" when="1781-05-25">
-      <place>Maastricht</place>
+    <persName><name type="voornaam">Willem Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Baert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-08-08">
-      <place>Maastricht</place>
+    <event type="death" when="1684-01-28">
+      <place></place>
     </event>
   </person>
   <biography/>

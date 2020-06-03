@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Johannes</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bommel</name></persName>
-    <event type="birth" when="1772-01-07">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Zuylen van Nyevelt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-10-18">
-      <place>Antwerpen</place>
+    <event type="death" when="1753-03-28">
+      <place></place>
     </event>
   </person>
   <biography/>

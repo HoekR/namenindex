@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nes van Meerkerk</name></persName>
-    <event type="birth" when="1732">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hugo Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bleyswijck</name></persName>
+    <event type="birth" when="2002">
+      <place>Enkhuizen</place>
     </event>
-    <event type="death" when="1803">
-      <place></place>
+    <event type="death" when="1872-02-04">
+      <place>Enkhuizen</place>
     </event>
   </person>
   <biography/>

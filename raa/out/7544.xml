@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob (III)</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Luxemburg</name></persName>
-    <persName>Gavere</persName>
-    <event type="birth" when="1465">
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Meister</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1532">
+    <event type="death">
       <place></place>
     </event>
   </person>

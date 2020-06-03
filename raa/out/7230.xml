@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Jansz.</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Nijenburg</name></persName>
-    <persName>Cornelis Jansz. van de Nieuwburg</persName>
-    <event type="birth" when="1530">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Michiels</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Rossum</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1610">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolas</name> <name type="geslachtsnaam">Fr&#233;min de Beaumont</name></persName>
-    <event type="birth" when="1744">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anthonis Woutersz.</name> <name type="intrapositie">graaf de</name> <name type="geslachtsnaam">Louckere</name></persName>
+    <persName>Anthonis de Lokere</persName>
+    <persName>Anthonis de Lonckere</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1820">
+    <event type="death" when="1496">
       <place></place>
     </event>
   </person>

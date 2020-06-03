@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joos Ommerse</name> <name type="geslachtsnaam">Kieboom</name></persName>
-    <event type="birth" when="1734">
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Cruisse</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1809">
+    <event type="death" when="1748">
       <place></place>
     </event>
   </person>

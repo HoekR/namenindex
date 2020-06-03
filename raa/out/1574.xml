@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Arend Godert</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Vos van Steenwijk</name></persName>
-    <persName>De Vos van Steenwijk van den Oldenhof</persName>
-    <event type="birth" when="1784-03-02">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Johan</name> <name type="geslachtsnaam">Valckenaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-12-22">
-      <place>Vollenhove</place>
+    <event type="death" when="1821">
+      <place></place>
     </event>
   </person>
   <biography/>

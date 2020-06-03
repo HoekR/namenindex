@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jean Michel Raymond Ghislain</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Moreau de Bioul</name></persName>
-    <event type="birth" when="1765-12-16">
-      <place>Namen</place>
+    <persName><name type="voornaam">Klaas Mathijsz.</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Laan</name></persName>
+    <event type="birth" when="1510">
+      <place></place>
     </event>
-    <event type="death" when="1835-07-03">
-      <place>Bioul</place>
+    <event type="death" when="1584">
+      <place></place>
     </event>
   </person>
   <biography/>

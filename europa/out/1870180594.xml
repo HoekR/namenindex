@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1870180594"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Jhr.Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Huydecoper van Nigtevecht</name></persName>
+    <event type="birth">
+      <date>23-02-1922</date>
+      <place>Utrecht</place>
+    </event>
+    <event type="death">
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

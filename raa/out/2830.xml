@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antoinius Josephus</name> <name type="intrapositie">baron d'</name> <name type="geslachtsnaam">Olne</name></persName>
-    <event type="birth" when="1755-03-28">
-      <place>Baarlo</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Simon</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Frederiksz.</name></persName>
+    <persName>Johan van Twickel de oude</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-09-02">
-      <place>Baarlo</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

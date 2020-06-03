@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerard</name> <name type="geslachtsnaam">Meier</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Charles Ignace Philippe</name> <name type="intrapositie">burggraaf de</name> <name type="geslachtsnaam">Thiennes de Lombise</name></persName>
+    <event type="birth" when="2004">
+      <place>Lombise</place>
     </event>
-    <event type="death" when="1772-10-31">
-      <place></place>
+    <event type="death" when="1839-08-18">
+      <place>Lombise</place>
     </event>
   </person>
   <biography/>

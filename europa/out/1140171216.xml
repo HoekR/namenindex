@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1140171216"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Flip</name> <name type="intrapositie">Eindhoven van</name> <name type="geslachtsnaam">Campen</name></persName>
+    <event type="birth">
+      <date>01-01-1911</date>
+      <place>Nijmegen</place>
+    </event>
+    <event type="death">
+      <date>13-04-1988</date>
+      <place>Eindhoven</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

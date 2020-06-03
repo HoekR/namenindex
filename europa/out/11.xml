@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/11"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">'s-Gravenhage nan</name> <name type="geslachtsnaam">Hirschfeld</name></persName>
+    <event type="birth">
+      <date>29-05-1899</date>
+      <place>Bremen</place>
+    </event>
+    <event type="death">
+      <date>04-11-1961</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

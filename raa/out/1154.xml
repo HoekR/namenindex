@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Hendrik</name> <name type="geslachtsnaam">Schukking</name></persName>
-    <event type="birth" when="1773-06-15">
-      <place>Meppel</place>
+    <persName><name type="voornaam">Herman</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gerritsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1856-04-17">
-      <place>Havelte</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

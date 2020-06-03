@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Werff</name></persName>
-    <persName>Van der Werff van Zuidland</persName>
-    <event type="birth" when="1764-04-20">
-      <place>Dordrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gregorius</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Westendorp</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-03-08">
-      <place>Dordrecht</place>
+    <event type="death" when="1608-03-07">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Lodewijk</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Wassenaer</name></persName>
-    <persName>Van Wassenaer van Starrenburg</persName>
-    <event type="birth" when="1744-09-23">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Storm</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-03-25">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1650">
+      <place></place>
     </event>
   </person>
   <biography/>

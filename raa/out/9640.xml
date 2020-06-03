@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Anthonis</name> <name type="geslachtsnaam">Geniets</name></persName>
-    <persName>Antoine Genits</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Abraham</name> <name type="intrapositie">IJssel de</name> <name type="geslachtsnaam">Schepper</name></persName>
+    <event type="birth" when="2008">
+      <place>Deventer</place>
     </event>
-    <event type="death" when="1586-01-20">
-      <place></place>
+    <event type="death" when="1836-12-20">
+      <place>Deventer</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Marcellus Josephus</name> <name type="geslachtsnaam">Magn&#233;e</name></persName>
-    <event type="birth" when="1756-04-13">
-      <place>Luik</place>
+    <persName><name type="voornaam">Laurens</name> <name type="geslachtsnaam">Hoogendijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-12-03">
-      <place>Roermond</place>
+    <event type="death" when="1822">
+      <place></place>
     </event>
   </person>
   <biography/>

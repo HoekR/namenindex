@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Carel Emanuel</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Tuyll van Serooskerken</name></persName>
-    <event type="birth" when="1775-02-15">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sjoerd Sjoerdsen</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Potter</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-09-06">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

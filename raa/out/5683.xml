@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Fransz.</name> <name type="geslachtsnaam">Eversdijk</name></persName>
-    <event type="birth" when="1586">
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Strijen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1666-12-19">
+    <event type="death" when="1765-11-01">
       <place></place>
     </event>
   </person>

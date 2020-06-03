@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Simon Willemsz.</name> <name type="geslachtsnaam">Koel</name></persName>
-    <event type="birth" when="1671">
+    <persName><name type="voornaam">Reinier</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Amsterdam</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1732-07-31">
+    <event type="death">
       <place></place>
     </event>
   </person>

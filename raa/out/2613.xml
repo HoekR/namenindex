@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Broer Pieters</name> <name type="geslachtsnaam">Plantenga</name></persName>
-    <event type="birth" when="1813-11-04">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Duvenvoorde</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1551">
       <place></place>
     </event>
   </person>

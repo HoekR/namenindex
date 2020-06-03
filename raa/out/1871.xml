@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Aarnout Constantijn</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Citters</name></persName>
-    <event type="birth" when="1774-06-26">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Barthout Gerritsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Vlooswijck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-02-07">
-      <place>Middelburg</place>
+    <event type="death" when="1626">
+      <place></place>
     </event>
   </person>
   <biography/>

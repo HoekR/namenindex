@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Petrus Johannes</name> <name type="geslachtsnaam">Wendorp</name></persName>
-    <event type="birth" when="1764-01-15">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Simon</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Beaumont</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-01-11">
-      <place>Amsterdam</place>
+    <event type="death" when="1637">
+      <place></place>
     </event>
   </person>
   <biography/>

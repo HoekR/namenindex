@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Hop</name></persName>
-    <event type="birth" when="1728">
-      <place></place>
+    <persName><name type="voornaam">Imilius Frederik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Poppenhuizen</name></persName>
+    <event type="birth" when="2008">
+      <place>Leeuwarden</place>
     </event>
-    <event type="death" when="1776">
-      <place></place>
+    <event type="death" when="1822-11-05">
+      <place>Leeuwarden</place>
     </event>
   </person>
   <biography/>

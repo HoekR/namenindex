@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1895489811"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Korbeek-Lo nan</name> <name type="geslachtsnaam">Conix</name></persName>
+    <event type="birth">
+      <date>23-07-1892</date>
+      <place>Zonhoven</place>
+    </event>
+    <event type="death">
+      <date>01-11-1977</date>
+      <place>Korbeek-Lo</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

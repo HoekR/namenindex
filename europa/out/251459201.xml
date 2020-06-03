@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/251459201"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Burggraaf</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Davignon</name></persName>
+    <event type="birth">
+      <date>04-10-1932</date>
+      <place>Budapest</place>
+    </event>
+    <event type="death">
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

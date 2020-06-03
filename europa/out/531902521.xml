@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/531902521"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs.</name> <name type="voornaam">Geb</name> <name type="intrapositie">Den Haag nan</name> <name type="geslachtsnaam">Ringnalda</name></persName>
+    <event type="birth">
+      <date>15-07-1930</date>
+      <place>Cebu (Filippijnen)</place>
+    </event>
+    <event type="death">
+      <date>24-02-1999</date>
+      <place>Den Haag</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

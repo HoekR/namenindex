@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Unico Willem</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Wassenaer-Obdam</name></persName>
-    <event type="birth" when="1769">
+    <persName><name type="voornaam">C.</name> <name type="geslachtsnaam">Eekhout</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1812-08-31">
+    <event type="death">
       <place></place>
     </event>
   </person>

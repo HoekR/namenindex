@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Willem</name> <name type="geslachtsnaam">Vader</name></persName>
-    <event type="birth" when="1806-11-27">
-      <place>Kortgene</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adrianus</name> <name type="intrapositie">ridder Canter</name> <name type="geslachtsnaam">Visser</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1891-04-16">
-      <place>Kortgene</place>
+    <event type="death" when="1782-07-19">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Taecke</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Burmania</name></persName>
-    <persName>Taco van Burmania</persName>
-    <event type="birth" when="1560">
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Wormer</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1764">
       <place></place>
     </event>
   </person>

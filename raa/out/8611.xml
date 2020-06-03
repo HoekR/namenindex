@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Pietersz.</name> <name type="geslachtsnaam">Hases</name></persName>
-    <persName>Willem Pietersz. Caescooper</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Antony</name> <name type="geslachtsnaam">Janssen</name></persName>
+    <event type="birth" when="2003">
+      <place>Eindhoven</place>
     </event>
-    <event type="death" when="1622">
-      <place></place>
+    <event type="death" when="1817-12-30">
+      <place>Eindhoven</place>
     </event>
   </person>
   <biography/>

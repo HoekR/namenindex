@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jan Minnema</name> <name type="intrapositie">van Haersma de</name> <name type="geslachtsnaam">With</name></persName>
-    <event type="birth" when="1821-09-25">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ruyter</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1889-11-19">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1740-08-05">
+      <place></place>
     </event>
   </person>
   <biography/>

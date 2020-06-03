@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christianus Norbertus</name> <name type="geslachtsnaam">Reyns</name></persName>
-    <event type="birth" when="1749">
-      <place></place>
+    <persName><name type="voornaam">Maximilien Henri Ghislain</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Beeckman de Libersart</name></persName>
+    <event type="birth" when="2001">
+      <place>Leuven</place>
     </event>
-    <event type="death" when="1797">
-      <place></place>
+    <event type="death" when="1834-08-10">
+      <place>Aken</place>
     </event>
   </person>
   <biography/>

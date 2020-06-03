@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Reint Wolter</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Sloet van Marxveld</name></persName>
-    <persName>Sloet tot Lindenhorst</persName>
-    <event type="birth" when="1755-11-24">
-      <place>Vollenhove</place>
+    <persName><name type="voornaam">Herman</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vingerhoed</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1842-08-23">
-      <place>Olst</place>
+    <event type="death" when="1762-08-19">
+      <place></place>
     </event>
   </person>
   <biography/>

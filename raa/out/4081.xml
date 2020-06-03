@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Antoni Christiaan Wynand</name> <name type="geslachtsnaam">Staring</name></persName>
-    <persName>Staring van den Wildenborch</persName>
-    <event type="birth" when="1767-01-24">
-      <place>Gendringen</place>
+    <persName><name type="voornaam">Gerrit Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Brouwer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-08-18">
-      <place>Vorden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

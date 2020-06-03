@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Justin</name> <name type="geslachtsnaam">Modera</name></persName>
-    <event type="birth" when="1803-07-11">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Tjaerd Michiels</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Heloma</name></persName>
+    <persName>Theotardus van Heloma</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-03-27">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1657-01-04">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Anthony Zwier</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Vos van Steenwijk genaamd van Essen</name></persName>
-    <event type="birth" when="1786-07-16">
-      <place>Vollenhove</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bruining</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Boschuysen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-09-01">
-      <place>Zwollerkerspel</place>
+    <event type="death" when="1498">
+      <place></place>
     </event>
   </person>
   <biography/>

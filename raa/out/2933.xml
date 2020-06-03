@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Clemens Fredericus Wilhelmus</name> <name type="intrapositie">baron van der</name> <name type="geslachtsnaam">Heyden</name></persName>
-    <persName>Van der Heyden van Doornenburg en Suideras</persName>
-    <event type="birth" when="1791-02-23">
-      <place>Steenderen</place>
+    <persName><name type="voornaam">Joost</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Heemskerk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1838-04-01">
-      <place>Warnsveld</place>
+    <event type="death" when="1717">
+      <place></place>
     </event>
   </person>
   <biography/>

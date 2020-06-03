@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Benedictus</name> <name type="geslachtsnaam">Teyens</name></persName>
+    <persName><name type="voornaam">Jacob Hendriksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Guldenarm</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1654-10-19">
       <place></place>
     </event>
   </person>

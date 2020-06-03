@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Borski</name></persName>
-    <event type="birth" when="1799-07-01">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Pui</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881">
-      <place>Overveen</place>
+    <event type="death" when="1766-12-26">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Albertus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Delden</name></persName>
-    <event type="birth" when="1828-02-21">
-      <place>Deventer</place>
+    <persName><name type="voornaam">Samuel</name> <name type="geslachtsnaam">Essenius</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1898-11-08">
-      <place>Deventer</place>
+    <event type="death" when="1811">
+      <place></place>
     </event>
   </person>
   <biography/>

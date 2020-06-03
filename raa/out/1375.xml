@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cypriaan Gerard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hengst</name></persName>
-    <event type="birth" when="1776-11-05">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Egbert Annes</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Itsma</name></persName>
+    <persName>Egbert Annes Idtskema</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1826-04-28">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

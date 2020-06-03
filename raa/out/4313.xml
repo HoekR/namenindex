@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">F.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Wilde</name></persName>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire) van Beyeren</name> <name type="geslachtsnaam">Schagen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1660-09-15">
       <place></place>
     </event>
   </person>

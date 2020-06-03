@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerardus Jacobus</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Bosch</name></persName>
-    <event type="birth" when="1737">
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Damius</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1810">
+    <event type="death" when="1648-12-15">
       <place></place>
     </event>
   </person>

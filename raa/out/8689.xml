@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Heero</name> <name type="geslachtsnaam">Baanman</name></persName>
-    <event type="birth" when="1660">
+    <persName><name type="voornaam">Justus</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Huybert</name></persName>
+    <persName>Joos de Huybert</persName>
+    <persName>Jodocus de Huybert</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1744">
+    <event type="death" when="1682-04-09">
       <place></place>
     </event>
   </person>

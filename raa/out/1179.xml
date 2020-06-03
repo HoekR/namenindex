@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Jan</name> <name type="geslachtsnaam">Kymmell</name></persName>
-    <event type="birth" when="1806-05-10">
-      <place>Roden</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Hector Willem</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Glinstra</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-03-23">
-      <place>Hoogeveen</place>
+    <event type="death" when="1751-06-10">
+      <place></place>
     </event>
   </person>
   <biography/>

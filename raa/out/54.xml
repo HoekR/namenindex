@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Guillaume</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Liedel</name></persName>
-    <persName>De Liedel de Well</persName>
-    <event type="birth" when="1774-05-19">
-      <place>Well</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Fremery</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-12-02">
-      <place>Well</place>
+    <event type="death" when="1784">
+      <place></place>
     </event>
   </person>
   <biography/>

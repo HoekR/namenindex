@@ -1,0 +1,96 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Kamphuisen, Pieter Wilhelmus (1897-1961)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/kamphuisen"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">kamphuisen</idno>
+    <persName><name type="geslachtsnaam">Kamphuisen</name>, Pieter Wilhelmus</persName>
+    <sex value="1"/>
+    <event type="birth" when="1897"/>
+    <event type="death" when="1961"/>
+    <state type="occupation">jurist</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/KAMPHUISEN.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Kamphuisen, Pieter Wilhelmus&lt;/strong&gt;, jurist (Gouda 6-3-1897 - Arnhem 16-8-1961).
+
+Zoon van Jacobus Gerardus Cornelis Kamphuisen, banketbakker, en Martina
+Cornelia de Raadt. Gehuwd op 24-4-1930 met Nelly Francisca Maria
+Jurgens. Uit dit huwelijk werden 3 zoons en 2 dochters geboren.
+
+&lt;img src=&amp;quot;images/KAMPHUISEN.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Kamphuisen, Pieter Wilhelmus&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Na het behalen van het eindexamen van resp. de HBS te Gouda en het
+gymnasium te Arnhem en na de vervulling van de militaire dienstplicht
+in mobilisatietijd studeerde Kamphuisen aan de Leidse universiteit,
+waar hij in 1921 de meestergraad behaalde. Reeds in 1922 promoveerde
+hij cum laude op het onderwerp: 
+&lt;em&gt;De codificatiegedachte in het Romeinsche Rijk.&lt;/em&gt;
+
+Aanvankelijk werkzaam als secretaris van het Internationaal
+Intermediair Instituut te 's-Gravenhage, vertrok hij in 1923 naar
+Middelburg, waar hij tot 1928 de advocatuur uitoefende. In 1928 trad
+hij in dienst van de Algemene Kunstzijde Unie als hoofd van de
+juridische afdeling, van welk bedrijf hij na de Tweede Wereldoorlog
+eerst gedelegeerd commissaris en sinds 1958 president-commissaris was.
+De Katholieke Universiteit van Nijmegen benoemde hem in 1933 tot
+hoogleraar in het staats- en administratiefrecht en aanvankelijk ook in
+het volkenrecht als opvolger van prof.mr. J.H.P.M. van der Grinten,
+welke functie hij in 1945 neerlegde. In zijn Nijmeegse periode
+fungeerde hij in 1940-1941 als rector magnificus. Na de Tweede
+Wereldoorlog raakte hij steeds nauwer betrokken bij het bedrijfsleven,
+waarin hij vele belangrijke commissariaten vervulde. Daarom vroeg hij
+zich in 1953 tijdens de vergadering van de Nederlandse
+Juristen-Vereniging af, of hij naast jurist niet ook bankier en
+industrieel was. Naast zijn vele commissariaten en zijn adviespraktijk
+vervulde hij nog verschillende andere functies. Zo was hij jarenlang
+voorzitter van de Vereniging Handelsrecht en van het Studiegenootschap
+van Bedrijfsjuristen. Bovendien speelde hij een belangrijke rol bij de
+Vereniging voor de Effectenhandel m.b.t. de certificering van aandelen,
+en was hij sinds 1946 raadsheer-plaatsvervanger in het gerechtshof te
+Arnhem. In 1961 zat hij de vergadering van de Nederlandse
+Juristen-Vereniging voor. Aan zijn uitzonderlijke begaafdheid en
+veelzijdigheid dankt juridisch Nederland een schat van vooral op de
+praktijk gerichte geschriften, waaronder de bewerking van de
+Asser-serie een bijzondere plaats inneemt. Terecht kenschetste prof.mr.
+W.C.L. van der Grinten hem als een hoogst zeldzame figuur: 'Hij was
+zakenman en wetenschapsbeoefenaar, dogmaticus en practicus, geleerde en
+levenskunstenaar.'&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Bibliografie in 
+&lt;em&gt;Verzameld Werk van prof.mr. P.W. Kamphuisen.&lt;/em&gt;
+
+[Samengesteld en ingel. door mr. H.J. Pabbruwe] (Zwolle, 1963).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;J.C. van Oven, in 
+&lt;em&gt;Nederlands Juristenblad&lt;/em&gt;
+
+36 (1961) 655-656; W.C.L. van der Grinten, in bespreking van P.W.
+Kamphuisen, 'Dwaling bij obligatoire overeenkomsten', in 
+&lt;em&gt;De Naamlooze Vennootschap&lt;/em&gt;
+
+39 (1961) 6 (september) 100 en J.M. Polak, in bespreking van
+'Verzameld Werk van prof.mr. P.W. Kamphuisen', in 
+&lt;em&gt;Nederlands Juristenblad 38 (1963) 534.&lt;/em&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;&lt;em&gt;Verzameld Werk van prof.mr. P.W. Kamphuisen.&lt;/em&gt;
+
+[Samengesteld en ingel. door mr. H.J. Pabbruwe] (Zwolle, 1963) afbeelding tegenover titelblad.&lt;/p&gt;
+
+
+&lt;p&gt;H.J. Pabbruwe&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

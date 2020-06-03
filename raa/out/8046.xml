@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Velius</name></persName>
-    <event type="birth" when="1651">
-      <place></place>
+    <persName><name type="voornaam">Barthold Johan Christiaan</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Mackay</name></persName>
+    <persName>Mackay van Ophemert en Zennewijnen</persName>
+    <event type="birth" when="2009">
+      <place>Tiel</place>
     </event>
-    <event type="death" when="1717-05-16">
-      <place></place>
+    <event type="death" when="1854-11-24">
+      <place>Ophemert</place>
     </event>
   </person>
   <biography/>

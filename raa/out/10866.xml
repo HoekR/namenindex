@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">P.H.</name> <name type="geslachtsnaam">Boellaard</name></persName>
+    <persName><name type="voornaam">Andries</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hesselt van Dinther</name></persName>
+    <persName>Andr&#233; Hesselt van Dinther</persName>
+    <persName>Andries Hessels van Dinther</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1600-09-21">
       <place></place>
     </event>
   </person>

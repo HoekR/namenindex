@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Hartog</name></persName>
-    <event type="birth" when="1810-12-11">
-      <place>Beemster</place>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Backer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-05-24">
-      <place>Beemster</place>
+    <event type="death" when="1686">
+      <place></place>
     </event>
   </person>
   <biography/>

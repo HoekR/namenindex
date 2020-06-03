@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Oncko Quirijn Jacob Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Swinderen</name></persName>
-    <event type="birth" when="1812-09-20">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Jacobus Anthonie Adriaan</name> <name type="geslachtsnaam">Zoutman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-11-28">
-      <place>Midlaren</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

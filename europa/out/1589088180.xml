@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1589088180"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">D&#252;sseldorf nan</name> <name type="geslachtsnaam">Rosenberg</name></persName>
+    <event type="birth">
+      <date>29-06-1903</date>
+      <place>Berlijn</place>
+    </event>
+    <event type="death">
+      <date>23-10-1977</date>
+      <place>D&#252;sseldorf</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

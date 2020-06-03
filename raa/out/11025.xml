@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Frederik</name> <name type="geslachtsnaam">Ammon</name></persName>
-    <event type="birth" when="1759">
-      <place></place>
+    <persName><name type="voornaam">Archibald</name> <name type="geslachtsnaam">Hope</name></persName>
+    <event type="birth" when="2008">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1803">
-      <place></place>
+    <event type="death" when="1821-07-07">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

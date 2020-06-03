@@ -8,14 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Tielman</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dullekom</name></persName>
-    <persName>Tielman van Dullekin</persName>
-    <persName>Tielman van Dullekem</persName>
-    <persName>Tielman van Dulken</persName>
+    <persName><name type="voornaam">Robrecht Ewoutsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schilperoort</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1614-09-19">
       <place></place>
     </event>
   </person>

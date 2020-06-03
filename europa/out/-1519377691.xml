@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1519377691"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Henne</name> <name type="intrapositie">Amersfoort nan</name> <name type="geslachtsnaam">Hahn</name></persName>
+    <event type="birth">
+      <date>10-11-1912</date>
+      <place>Karlovy Vary</place>
+    </event>
+    <event type="death">
+      <date>13-07-2001</date>
+      <place>Amersfoort</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

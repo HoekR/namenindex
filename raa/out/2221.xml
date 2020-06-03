@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Bos</name></persName>
-    <event type="birth" when="1797-02-07">
-      <place>Harenkarspel</place>
+    <persName><name type="voornaam">Johan Pieter</name> <name type="geslachtsnaam">Farret</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-09-26">
-      <place>Harenkarspel</place>
+    <event type="death" when="1822">
+      <place></place>
     </event>
   </person>
   <biography/>

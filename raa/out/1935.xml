@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Frederik</name> <name type="intrapositie">van der Burcht van</name> <name type="geslachtsnaam">Lichtenbergh</name></persName>
-    <event type="birth" when="1777-02-22">
-      <place>Tholen</place>
+    <persName><name type="voornaam">Jovius Duco</name> <name type="geslachtsnaam">Hanekamp van Harinxma thoe Heeg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-12-27">
-      <place>St. Maartensdijk</place>
+    <event type="death" when="1830">
+      <place></place>
     </event>
   </person>
   <biography/>

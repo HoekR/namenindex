@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1058200136"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Boy</name> <name type="intrapositie">Amsterdam nan</name> <name type="geslachtsnaam">Trip</name></persName>
+    <event type="birth">
+      <date>10-10-1921</date>
+      <place>Amersfoort</place>
+    </event>
+    <event type="death">
+      <date>26-01-1990</date>
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

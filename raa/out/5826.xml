@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Georg Wolfgang</name> <name type="intrapositie">baron thoe</name> <name type="geslachtsnaam">Schwartzenberg en Hohenlansberg</name></persName>
-    <event type="birth" when="1691">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Kraken</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1738-12-28">
+    <event type="death">
       <place></place>
     </event>
   </person>

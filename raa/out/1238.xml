@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Unico Allard</name> <name type="geslachtsnaam">Alberda van Menkema</name></persName>
-    <event type="birth" when="1803-02-08">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hoogtwoud</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-05-23">
-      <place>Hunsingo</place>
+    <event type="death" when="1684-02-20">
+      <place></place>
     </event>
   </person>
   <biography/>

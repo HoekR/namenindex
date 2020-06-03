@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/29543"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Maria Petrus Josephus Franciscus</name> <name type="geslachtsnaam">Petit</name></persName>
+    <event type="birth" when="2008">
+      <place>Roermond</place>
+    </event>
+    <event type="death" when="1849-02-14">
+      <place>Roermond</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

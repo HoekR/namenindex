@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">G.C.</name> <name type="geslachtsnaam">Kink&#233;e</name></persName>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) du</name> <name type="geslachtsnaam">Bon</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1760-01-06">
       <place></place>
     </event>
   </person>

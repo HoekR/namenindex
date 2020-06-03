@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lukas</name> <name type="geslachtsnaam">Nysingh</name></persName>
-    <event type="birth" when="1787">
-      <place>De Wijk</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Veerkoop</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-06-26">
-      <place>De Wijk</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

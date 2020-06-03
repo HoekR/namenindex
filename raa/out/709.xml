@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jean Fran&#231;ois</name> <name type="intrapositie">Schuurbeque</name> <name type="geslachtsnaam">Boeye</name></persName>
-    <persName>Schuurbeque Boeye van de Haamstede</persName>
-    <event type="birth" when="1812-07-12">
-      <place>Zierikzee</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Albrechtsz.</name></persName>
+    <persName>Noircarmes</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1891-11-18">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

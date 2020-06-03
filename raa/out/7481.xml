@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Anthonie</name> <name type="geslachtsnaam">Vossenburch</name></persName>
-    <event type="birth" when="1603">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Frans Godard</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Lynden</name></persName>
+    <persName>Van Lynden van Hemmen</persName>
+    <event type="birth" when="2002">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1661">
-      <place></place>
+    <event type="death" when="1845-04-18">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

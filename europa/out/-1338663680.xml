@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1338663680"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs.</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Kruijs Voorberge</name></persName>
+    <event type="birth">
+      <date>12-09-1958</date>
+      <place>Spijkenisse</place>
+    </event>
+    <event type="death">
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

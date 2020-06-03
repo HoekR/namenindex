@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/859374450"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Washington DC nan</name> <name type="geslachtsnaam">McNamara</name></persName>
+    <event type="birth">
+      <date>09-06-1916</date>
+      <place>San Francisco</place>
+    </event>
+    <event type="death">
+      <date>06-07-2009</date>
+      <place>Washington DC</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

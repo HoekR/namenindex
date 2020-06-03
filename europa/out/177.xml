@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/177"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof. drs.</name> <name type="voornaam">Gerard</name> <name type="intrapositie">'s-Gravenhage nan</name> <name type="geslachtsnaam">Brouwers</name></persName>
+    <event type="birth">
+      <date>02-08-1908</date>
+      <place>Vlissingen</place>
+    </event>
+    <event type="death">
+      <date>08-04-1991</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

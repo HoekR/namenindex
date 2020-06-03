@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jasper Hendrik</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Zuylen van Nievelt</name></persName>
-    <persName>Van Zuylen van Nievelt van de Schaffelaar</persName>
-    <event type="birth" when="1808-09-08">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Abraham</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hoogenhouk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-03-15">
-      <place>Barneveld</place>
+    <event type="death" when="1756">
+      <place></place>
     </event>
   </person>
   <biography/>

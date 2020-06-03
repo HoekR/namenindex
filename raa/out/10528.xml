@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Roosekrans</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Frans Binnert</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Aebinga van Humalda</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1755-04-23">
       <place></place>
     </event>
   </person>

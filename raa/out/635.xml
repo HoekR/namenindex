@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Marten</name> <name type="geslachtsnaam">Kingma</name></persName>
-    <event type="birth" when="1817-06-16">
-      <place>Makkum</place>
+    <persName><name type="voornaam">Adolf</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Visscher</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1900-02-16">
-      <place>Sneek</place>
+    <event type="death" when="1746-03-03">
+      <place></place>
     </event>
   </person>
   <biography/>

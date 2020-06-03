@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Jansz.</name> <name type="geslachtsnaam">Goijkes</name></persName>
+    <persName><name type="voornaam">Anthonie Tilenius</name> <name type="geslachtsnaam">Kruithoff</name></persName>
+    <persName>Zou ook Tilenius kunnen zijn, zie hiertoe Van der Aa.</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1634">
+    <event type="death">
       <place></place>
     </event>
   </person>

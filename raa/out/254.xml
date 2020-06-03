@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Cornelis Ysaac</name> <name type="geslachtsnaam">Bloys van Treslong</name></persName>
-    <event type="birth" when="1763-08-13">
-      <place>Steenbergen</place>
+    <persName><name type="voornaam">Joost</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Betz</name></persName>
+    <event type="birth" when="1488">
+      <place></place>
     </event>
-    <event type="death" when="1828-07-19">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1541">
+      <place></place>
     </event>
   </person>
   <biography/>

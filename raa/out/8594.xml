@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hees</name></persName>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Pere</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1746-03-06">
       <place></place>
     </event>
   </person>

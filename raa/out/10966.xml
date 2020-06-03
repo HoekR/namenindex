@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerard Antonie</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dinter</name></persName>
+    <persName><name type="voornaam">Robert Hendrik</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Hambroeck tot Arendshorst</name></persName>
+    <persName>Robert Hendrik van Hambroeck tot Welefelt</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1789-09-17">
       <place></place>
     </event>
   </person>

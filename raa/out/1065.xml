@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Christiaan Hendrik Sophias</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Boelens</name></persName>
-    <event type="birth" when="1803-01-08">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Bergen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-07-26">
-      <place>Zwolle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

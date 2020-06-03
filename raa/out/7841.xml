@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Thomas</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lawick</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Herman</name> <name type="intrapositie">Cost</name> <name type="geslachtsnaam">Jordens</name></persName>
+    <event type="birth" when="2003">
+      <place>Deventer</place>
     </event>
-    <event type="death" when="1660-07-28">
-      <place></place>
+    <event type="death" when="1875-11-23">
+      <place>Deventer</place>
     </event>
   </person>
   <biography/>

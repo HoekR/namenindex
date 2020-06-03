@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Otto Anne</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Bylandt</name></persName>
-    <event type="birth" when="1766">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Benedictus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Heronis</name></persName>
+    <persName>Benedictus Heris</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-02-20">
-      <place>Princenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

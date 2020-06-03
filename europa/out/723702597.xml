@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/723702597"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Zuidhorn nan</name> <name type="geslachtsnaam">Louwes</name></persName>
+    <event type="birth">
+      <date>15-08-1893</date>
+      <place>Vierhuizen</place>
+    </event>
+    <event type="death">
+      <date>08-10-1960</date>
+      <place>Zuidhorn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

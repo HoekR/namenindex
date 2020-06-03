@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Carel</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Eck</name></persName>
-    <persName>Van Eck van Vieracker en Ommershof</persName>
-    <event type="birth" when="1757-04-01">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Melvill</name></persName>
+    <persName>John Melvill</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-03-16">
-      <place>Arnhem</place>
+    <event type="death" when="1788">
+      <place></place>
     </event>
   </person>
   <biography/>

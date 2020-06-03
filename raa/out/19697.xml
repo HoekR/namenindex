@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/19697"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pesters</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1703-02-14">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

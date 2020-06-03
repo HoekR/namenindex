@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/2136405973"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Madrid nan</name> <name type="geslachtsnaam">Larock</name></persName>
+    <event type="birth">
+      <date>06-10-0104</date>
+      <place>Ans</place>
+    </event>
+    <event type="death">
+      <date>24-04-1977</date>
+      <place>Madrid</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

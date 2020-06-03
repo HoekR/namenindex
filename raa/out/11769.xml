@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Elias</name> <name type="geslachtsnaam">Canneman</name></persName>
-    <persName>Canneman van de Mijle</persName>
-    <event type="birth" when="1777-01-25">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Willemsz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Heemskerk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-10-06">
-      <place>Oosterbeek</place>
+    <event type="death" when="1588">
+      <place></place>
     </event>
   </person>
   <biography/>

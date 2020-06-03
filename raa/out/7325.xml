@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Mathijs Willemsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Muijlwijck</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerard George</name> <name type="geslachtsnaam">Clifford</name></persName>
+    <event type="birth" when="2002">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1623-03-29">
-      <place></place>
+    <event type="death" when="1847-07-03">
+      <place>Arnhem</place>
     </event>
   </person>
   <biography/>

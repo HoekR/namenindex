@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Bruyneman</name></persName>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Guiseling</name></persName>
+    <persName>Johan Gijseling</persName>
+    <persName>Johan Ghiselyn</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1736">
       <place></place>
     </event>
   </person>

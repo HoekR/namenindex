@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Geelvinck</name></persName>
-    <event type="birth" when="1737">
+    <persName><name type="voornaam">Johan Adriaan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Heerdt tot Eversberg</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1802">
+    <event type="death" when="1766-02-17">
       <place></place>
     </event>
   </person>

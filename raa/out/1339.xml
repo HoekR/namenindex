@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joan Diderik</name> <name type="geslachtsnaam">Tresling</name></persName>
-    <event type="birth" when="1799-09-17">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Louis Antoine</name> <name type="geslachtsnaam">Bienfait</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-03-29">
-      <place>Scharmer</place>
+    <event type="death" when="1815">
+      <place></place>
     </event>
   </person>
   <biography/>

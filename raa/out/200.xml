@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Ockerse</name></persName>
-    <event type="birth" when="1764-07-12">
-      <place>Vianen</place>
+    <persName><name type="voornaam">Daniel</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pichot</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1842-04-02">
-      <place>Wageningen</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

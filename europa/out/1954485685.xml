@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1954485685"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Til</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Gardeniers-Berendsen</name></persName>
+    <event type="birth">
+      <date>18-02-1925</date>
+      <place>Rotterdam</place>
+    </event>
+    <event type="death">
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ruis</name> <name type="geslachtsnaam">Nicolai</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Steven</name> <name type="intrapositie">Blaupot ten</name> <name type="geslachtsnaam">Cate</name></persName>
+    <event type="birth" when="2001">
+      <place>Noordbroek</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1884-09-09">
+      <place>Hoogezand</place>
     </event>
   </person>
   <biography/>

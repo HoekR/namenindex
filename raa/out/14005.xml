@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/14005"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Wouter Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nellesteyn</name></persName>
+    <persName>Van Nellesteyn van Broekhuizen en Darthuizen</persName>
+    <event type="birth" when="2009">
+      <place>Utrecht</place>
+    </event>
+    <event type="death" when="1864-09-05">
+      <place>Broekhuizen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

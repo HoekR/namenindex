@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1249213755"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Buckhinghamshire nan</name> <name type="geslachtsnaam">Castle</name></persName>
+    <event type="birth">
+      <date>06-10-1910</date>
+      <place>Chesterfield</place>
+    </event>
+    <event type="death">
+      <date>03-05-2002</date>
+      <place>Buckhinghamshire</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

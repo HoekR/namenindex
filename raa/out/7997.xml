@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Allertsz.</name> <name type="geslachtsnaam">Lammertschagen</name></persName>
-    <event type="birth" when="1590">
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Caen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1661-04-17">
+    <event type="death" when="1763-05-16">
       <place></place>
     </event>
   </person>

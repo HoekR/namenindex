@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Schaep</name>
-    </persName>
+    <persName><name type="voornaam">Martinus</name> <name type="intrapositie">comte (Empire) den</name> <name type="geslachtsnaam">Beer</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1778-08-09">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1459769207"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">baron</name> <name type="voornaam">Berend-Jan</name> <name type="intrapositie">nan van</name> <name type="geslachtsnaam">Voorst tot Voorst</name></persName>
+    <event type="birth">
+      <date>07-02-1944</date>
+      <place>Beek-Ubbergen</place>
+    </event>
+    <event type="death">
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaen Cornelisz.</name> <name type="geslachtsnaam">Duijst van Zanten</name></persName>
+    <persName><name type="voornaam">Wiechert</name> <name type="geslachtsnaam">Zwakenberg</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1587">
+    <event type="death">
       <place></place>
     </event>
   </person>

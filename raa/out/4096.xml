@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Sarisz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Gronden</name></persName>
+    <persName><name type="voornaam">Cornelis Cornelisz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Botercoper</name></persName>
+    <persName>Cornelis Cornelisz. Butterkooper</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1633-06-22">
+    <event type="death">
       <place></place>
     </event>
   </person>

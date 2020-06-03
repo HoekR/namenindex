@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jurriaan Engelbert</name> <name type="geslachtsnaam">Stork</name></persName>
-    <event type="birth" when="1828-06-12">
-      <place>Oldenzaal</place>
+    <persName><name type="voornaam">Dani&#235;l Michiel Gijsbert</name> <name type="geslachtsnaam">Heldewier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1893-01-18">
-      <place>Hengelo</place>
+    <event type="death" when="1822">
+      <place></place>
     </event>
   </person>
   <biography/>

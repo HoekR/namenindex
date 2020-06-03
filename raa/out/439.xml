@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem</name> <name type="geslachtsnaam">Rendorp</name></persName>
-    <persName>Rendorp van Marquette</persName>
-    <event type="birth" when="1769-09-06">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Buttinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-03-30">
-      <place>Amsterdam</place>
+    <event type="death" when="1645">
+      <place></place>
     </event>
   </person>
   <biography/>

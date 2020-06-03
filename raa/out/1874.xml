@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan Cornelis</name> <name type="geslachtsnaam">Schorer</name></persName>
-    <event type="birth" when="1801-04-19">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">ds.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Recalff</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1856-07-10">
-      <place>Koudekerke</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

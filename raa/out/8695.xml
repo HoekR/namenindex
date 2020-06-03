@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Brandenborch</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">Schuurbeque</name> <name type="geslachtsnaam">Boeye</name></persName>
+    <event type="birth" when="2002">
+      <place>Zierikzee</place>
     </event>
-    <event type="death" when="1629">
-      <place></place>
+    <event type="death" when="1847-10-11">
+      <place>Zierikzee</place>
     </event>
   </person>
   <biography/>

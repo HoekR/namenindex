@@ -1,0 +1,220 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Einthoven, Willem (1860-1927)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn2/einthoven"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">einthoven</idno>
+    <persName><name type="geslachtsnaam">Einthoven</name>, Willem</persName>
+    <sex value="1"/>
+    <event type="birth" when="1860"/>
+    <event type="death" when="1927"/>
+    <state type="occupation">fysioloog</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn2/images/images/EINTHOVENW.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Einthoven, Willem&lt;/strong&gt;, hoogleraar fysiologie (Semarang (Ned.-Indi&amp;euml;) 21-5-1860 - Leiden 28-9-1927).
+
+Zoon van Jacob Einthoven, arts, en Louise Marie Mathilde Caroline de
+Vogel. Gehuwd op 29-4-1886 met Fr&amp;eacute;d&amp;eacute;rique Jeanne Louise de
+Vogel. Uit dit huwelijk werd 1 zoon en 3 dochters geboren.
+
+&lt;img src=&amp;quot;images/EINTHOVENW.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Einthoven, Willem&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Willems moeder verliet met haar zes kinderen Nederlands-Indi&amp;euml;
+toen haar echtgenoot in 1870 stierf, en vestigde zich in Utrecht. Hier
+voltooide Willem zijn schoolopleiding in 1878 met het einddiploma HBS,
+aangevuld door het staatsexamen. Op 16-10-1878 werd hij als student in
+de geneeskunde te Utrecht ingeschreven. Gedurende zijn opleiding tot
+arts bleek hij reeds sterk ge&amp;iuml;nteresseerd in de natuurkunde. Zijn
+leermeesters waren C.D.H. Buys Ballot, W. Koster, F.C. Donders en H.
+Snellen. Aanvankelijk voelde Einthoven zich aangetrokken tot de
+oogheelkunde. Op 4 juli 1885 promoveerde hij bij Donders cum laude op
+een proefschrift over 
+&lt;em&gt;Stereoscopie door kleurverschil.&lt;/em&gt;
+
+Op 9 januari 1886 werd hij te Amsterdam tot arts bevorderd. Nog geen
+twee maanden later hield de 26-jarige Einthoven zijn inaugurele rede
+over 
+&lt;em&gt;De leer der specifieke energie&amp;euml;n&lt;/em&gt;
+
+als hoogleraar in de fysiologie aan de Leidse Universiteit.&lt;/p&gt;
+&lt;p&gt;Leiden bezat sinds 1867 een fysiologisch laboratorium, gelegen aan
+de Zonneveldstraat. Dit werd door Einthoven ingericht als werkplaats
+voor elektrofysiologie. Aanvankelijk doceerde hij zowel fysiologie als
+histologie - dit laatste vak was sinds de benoeming van A. Heynsius in
+1866 aan de leerstoel toegevoegd en zou in 1906 weer van de
+leeropdracht fysiologie ontkoppeld en toegewezen worden aan de anatoom
+J. Boeke.&lt;/p&gt;
+&lt;p&gt;Einthovens eigen wetenschappelijk onderzoek richtte zich ondertussen
+geheel op de fysiologie, zowel op het gebied van de ademhaling, als het
+optische systeem en de elektrofysiologie van het hart.&lt;/p&gt;
+&lt;p&gt;Toen Einthoven van 1905 tot 1906 rector magnificus was, zette hij op
+8 februari 1906 in zijn diesrede 
+&lt;em&gt;Over de beteekenis der electrophysiologie als een onderdeel van de
+leer der levensverrichtingen&lt;/em&gt;
+
+op magistrale wijze zijn geavanceerd onderzoek uiteen. Reeds toen was
+hij in het buitenland erkend als de schepper van de snaargalvanometer,
+na zijn publikaties zoals 'Un nouveau galvanom&amp;egrave;tre' over
+dit instrument en de toepassingen voor de registratie van het
+elektrocardiogram in 1901. Ongetwijfeld heeft zijn inventiviteit op het
+gebied van de natuurkunde in belangrijke mate zijn wetenschappelijk
+werk bepaald. Dit neemt niet weg dat Einthoven juist ook
+ge&amp;iuml;nteresseerd was in de klinische verschijnselen, en dat hij de
+pathofysiologie steeds in zijn onderzoek betrok. Hij publiceerde over
+de intrathoracale druk en de gasspanningen in de pleuraholte. In 1892
+volgde uit dit onderzoek Einthovens baanbrekende studie over het
+mechanisme van het bronchiale astma. Evenmin liet hij het onderzoek van
+het oog los. Tussen 1895 en 1902 was hij bezig met de fysiologische
+optica, o.a. met kleurmenging, brekingsindices, optische illusies en
+accommodatie van het oog.&lt;/p&gt;
+&lt;p&gt;Maar toen was hij bovendien reeds begonnen met een nieuw veld van
+onderzoek, nl. het registreren van de elektrische activiteit van het
+hart en de harttonen bij gezonden en zieken.&lt;/p&gt;
+&lt;p&gt;Einthoven gebruikte voor dit doel de capillaire elektrometer die in
+1873 door Gabriel Lippmann was ontworpen. Met behulp van dit instrument
+was het de Franse onderzoeker E.J. Marey in 1876 gelukt actiestromen in
+de hartwand van kikker en schildpad rechtstreeks te registreren. De
+Engelse fysioloog A.D. Waller zag kans in 1887 de actiestromen van het
+menselijk hart met behulp van de capillaire elektrometer van diverse
+punten van het menselijk lichaam af te leiden. De geregistreerde curve
+werd door Einthoven elektrocardiogram genoemd, op advies van A.
+Samoiloff afgekort tot EKG. Einthoven verbeterde de
+Lippmann-elektrometer om een nauwkeuriger registratie te verkrijgen.
+Weldra bleek het noodzakelijk de verkregen curven mathematisch te
+corrigeren.&lt;/p&gt;
+&lt;p&gt;Dit maakte het werken met de capillaire elektrometer omslachtig en
+niet geschikt voor de kliniek. Einthoven ging op zoek naar een gevoelig
+en snel meetinstrument. Hij richtte zijn aandacht op de galvanometer
+van Deprez d'Arsonvalle, die hij op grond van berekeningen omvormde
+tot zijn belangrijkste technische vondst: de snaargalvanometer. In zijn
+publikatie 'The string galvanometer and the human
+electrocardiogram' (1903) legde hij hiervan getuigenis af. Dit
+instrument bestond uit een zeer dunne kwartsdraad, uitgespannen in een
+magnetisch veld. Door middel van een microscoop werden de uitslagen van
+de snaar vergroot en vervolgens fotografisch geregistreerd. De
+verkregen curven stemden geheel overeen met de mathematische correcties
+van de curven die Einthoven met behulp van de capillaire elektrometer
+had verkregen. De snaargalvanometer hield grote beloften voor klinisch
+onderzoek in. Het was echter niet transportabel, zodat pati&amp;euml;nten
+uit het ziekenhuis naar het Physiologisch Laboratorium moesten worden
+vervoerd. Om dit bezwaar te ondervangen ontwierp Einthoven een
+telefoonsysteem tussen ziekenhuis en laboratorium, waarlangs de
+'telecardiogrammen' konden worden opgenomen. Hierdoor gelukte
+het Einthoven in 1906 een aantal cardiogrammen te publiceren waarop
+diverse afwijkingen van het hart duidelijk zichtbaar waren. Het op deze
+wijze opengelegde terrein bleek welhaast onuitputtelijk voor verder
+onderzoek, zowel voor het hart als voor zenuw- en spierfysiologie.&lt;/p&gt;
+&lt;p&gt;Einthoven beijverde zich om behalve de technische eigenschappen ook
+de standaardisatie van de methodiek (afleidingsplaatsen, snelheid van
+registratie, ijking van gevoeligheid) te bevorderen. Dit was van belang
+voor de algemene aanvaarding en voor de vergelijkbaarheid van het
+internationale onderzoek in klinieken.&lt;/p&gt;
+&lt;p&gt;Technisch verbeterde Einthoven zijn apparaat door een onderzoek naar
+het gedrag van de snaar in een vacu&amp;uuml;m. Dit vacu&amp;uuml;mmodel van de
+snaargalvanometer kreeg de belangstelling van zijn zoon Willem (
+1893-1944), die in Delft studeerde en die op het idee kwam de
+galvanometer als elektrisch resonantie-instrument dienstbaar te maken
+aan het fotografisch registreren van uitgezonden radiotelegrammen.
+Samenwerking tussen vader en zoon leidde tot het resultaat dat de
+radiotelegrafie verrijkt werd met een nieuw instrument; in Malabar
+(Bandoeng, Ned.-Indi&amp;euml;) werden radiotelegrammen over een afstand
+van 12.000 km fotografisch geregistreerd (1923).&lt;/p&gt;
+&lt;p&gt;De vacu&amp;uuml;msnaargalvanometer bleek geschikt te zijn voor
+zenuwactiestromen, maar niet gevoelig genoeg om deze nauwkeurig te
+registreren. Dit onderzoek kon pas na Einthovens dood worden voortgezet
+door de ontwikkeling van de elektronische versterkingstechniek.&lt;/p&gt;
+&lt;p&gt;Einthoven was reeds in 1893 begonnen met behulp van de
+Lippmann-elektrometer de harttonen te registreren. In 1907 gebruikte
+hij voor dit doel de snaargalvanometer. De verkregen curven werden door
+hem 'cardiofonogram' genoemd. De precisie van de registratie
+was zo groot dat het hem gelukte de 'derde harttoon', die A.O.
+Gibson in Oxford had menen waar te nemen bij beluistering van het hart,
+in de curven aan te tonen. Hij had echter meer belangstelling voor de
+cardiografie, zodat hij de fonocardiologie terzijde liet liggen.&lt;/p&gt;
+&lt;p&gt;Voor al dit werk aan het onderzoek van het hart ontving Einthoven de
+Nobelprijs. In de rede die hij ter gelegenheid van de uitreiking op 8
+december 1925 te Stockholm hield, wees Einthoven op het belang van deze
+ontdekking voor de leer der hartziekten, waarbij hij met nadruk
+betoogde dat de ontwikkeling van deze vondst alleen tot stand had
+kunnen komen door de internationale samenwerking met onderzoekers zoals
+Thomas Lewis.&lt;/p&gt;
+&lt;p&gt;Inderdaad heeft Einthoven zich steeds beijverd de internationale
+contacten op zijn gebied te bevorderen. In 1925 vond de eerste
+buitenlandse bijeenkomst van de Physiological Society in het Leidse
+laboratorium plaats. Zijn publikaties verschenen zowel in Duitse,
+Engelse als Franse vakbladen.&lt;/p&gt;
+&lt;p&gt;Hij was bevriend met de Russische onderzoeker Samoiloff en hij
+onderhield wetenschappelijke betrekkingen met o.a. de Amerikaan Frank
+Wilson. Van vele buitenlandse academi&amp;euml;n was hij erelid, waaronder
+de Physiological Society en de Royal Society te Londen en de
+Koninklijke Academie van Wetenschappen te Stockholm.&lt;/p&gt;
+&lt;p&gt;Maar ondanks al die eer bleef Einthoven bescheiden en voorzichtig
+ten opzichte van zijn eigen werk, dat hem gedurig geheel in beslag nam.
+Hij was zeer kritisch in de beoordeling van alle registraties van de
+apparatuur en liet zich door de resultaten nooit het hoofd op hol
+brengen. Typisch empirisch ook stond hij ten opzichte van zijn eigen
+lichaamsverrichtingen. Gymnastiekoefeningen boeiden hem. Als student
+brak hij eens tijdens een oefening zijn pols, en dat had al geleid tot
+een eerste publikatie, nl. over het mechanisme van het ellebooggewricht
+in 1882. Het zou die zelfde kritische empirie zijn die hem als
+fysioloog terecht zo beroemd maakte.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='agedeelte'&gt;A: &lt;/a&gt;Einthovens eerste snaargalvanometer met de daarbij behorende
+apparatuur wordt bewaard in het Museum Boerhaave te Leiden, eveneens
+het archief van zijn notities en correspondentie. Het Laboratorium voor
+Fysiologie te Leiden bezit nog een aantal exemplaren van zijn
+apparatuur.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve in de tekst genoemde publikaties: 
+&lt;em&gt;Selected papers on electrocardiography of Willem Einthoven. With a
+bibliography, biographical notes and comments by H.A. Snellen&lt;/em&gt;
+
+(Leiden, 1977).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;S.L. Barron, 
+&lt;em&gt;The development of the electrocardiograph, with some biographical
+notes on prof. dr. W. Einthoven, 1903-1952&lt;/em&gt;
+
+(London, 1952); S. Hoogerwerf, 
+&lt;em&gt;Leven en werken van Willem Einthoven, grondlegger van de
+electrocardiografie&lt;/em&gt;
+
+(Hoorn, 1955); A. de Waart, 
+&lt;em&gt;Het levenswerk van Willem Einthoven 1860-1927&lt;/em&gt;
+
+(Haarlem, 1957) met o.a. lijst met onderscheidingen, aforismen en
+citaten, overzicht van onder zijn leiding bewerkte proefschriften,
+lijst van assistenten en geschriften over Einthoven; verder het onder P
+genoemd werk samengesteld door H.A. Snellen; G.E. Burch en N.P.
+De-Pasquale, 
+&lt;em&gt;A history of electrocardiography&lt;/em&gt;
+
+(Chicago, [1964]); 'Proceedings of the symposium on developments in
+electrocardiography 1927-1977. Leiden, The Netherlands, 28 October
+1977', in 
+&lt;em&gt;European Journal of cardiology&lt;/em&gt;
+
+8 (1978) 197-302.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;
+Website Clendening History of Medicine Library and Musuem: http://clendening.kumc.edu/dc/pc/Einthoven2.jpg [2-8-2007].
+&lt;/p&gt;
+
+
+
+
+&lt;p&gt;A.M. Luyendijk-Elshout&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

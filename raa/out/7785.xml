@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Verleysen</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Napoleon Franciscus Carolus Josephus</name> <name type="geslachtsnaam">Sassen</name></persName>
+    <event type="birth" when="2008">
+      <place>Hedel</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1876-01-25">
+      <place>'s-Hertogenbosch</place>
     </event>
   </person>
   <biography/>

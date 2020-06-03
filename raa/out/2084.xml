@@ -8,13 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">David</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Weel</name></persName>
-    <persName>Van Weel van Sommelsdijk</persName>
-    <event type="birth" when="1773-02-11">
-      <place>Den Bommel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Kollard</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Clite</name></persName>
+    <persName>Colaert van Comene</persName>
+    <persName>Komen of Commines</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-09-29">
-      <place>Dirksland</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

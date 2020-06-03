@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Franciscus Ambrosius</name> <name type="geslachtsnaam">Werden</name></persName>
+    <persName><name type="voornaam">Gerard</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Minninghen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1831">
+    <event type="death" when="1805-08-21">
       <place></place>
     </event>
   </person>

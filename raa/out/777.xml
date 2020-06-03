@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adrien Philippe</name> <name type="geslachtsnaam">Raoux</name></persName>
-    <event type="birth" when="1758-12-02">
-      <place>Ath</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-08-22">
-      <place>Reves</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

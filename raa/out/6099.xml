@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Cornelis Jacob</name> <name type="geslachtsnaam">Speelman</name></persName>
-    <persName>Speelman van Heeswijk en Dinther</persName>
-    <event type="birth" when="1747-05-26">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Dirk</name> <name type="geslachtsnaam">Boon</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-06-14">
-      <place>'s-Hertogenbosch</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

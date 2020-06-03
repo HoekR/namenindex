@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Paulus</name> <name type="geslachtsnaam">Gevaerts</name></persName>
-    <persName>Gevaerts van Geervliet</persName>
-    <event type="birth" when="1763-09-21">
-      <place>Dordrecht</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sloet tot Oldenhof</name></persName>
+    <persName>Gerrit Sloet tot Bannevelt</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-04-13">
-      <place>Dordrecht</place>
+    <event type="death" when="1722-07-27">
+      <place></place>
     </event>
   </person>
   <biography/>

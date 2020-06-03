@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Theodorus</name> <name type="geslachtsnaam">Saskerus</name></persName>
-    <event type="birth" when="1688">
+    <persName><name type="voornaam">Rutger</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Haersolte tot Herxen</name></persName>
+    <persName>Rutger van Haersolte tot Toutenburg</persName>
+    <persName>Rutger van Haersolte tot Paaslo</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1762-07-11">
+    <event type="death" when="1703-12-22">
       <place></place>
     </event>
   </person>

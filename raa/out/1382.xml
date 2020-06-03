@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Jacob</name> <name type="intrapositie">ridder van der Does de</name> <name type="geslachtsnaam">Bye</name></persName>
-    <event type="birth" when="1798-11-24">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Luytgensz.</name></persName>
+    <persName>Pierre de Longneu</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1885-08-23">
-      <place>'s-Hertogenbosch</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

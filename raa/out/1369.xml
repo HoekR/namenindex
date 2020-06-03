@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Paulus Wilhelmus</name> <name type="geslachtsnaam">Bosch van Drakestein</name></persName>
-    <event type="birth" when="1771-11-13">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Michel-Louis-&#201;tienne</name> <name type="geslachtsnaam">Regnaud de Saint-Jean d' Ang&#233;ly</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-04-17">
-      <place>Utrecht</place>
+    <event type="death" when="1819">
+      <place></place>
     </event>
   </person>
   <biography/>

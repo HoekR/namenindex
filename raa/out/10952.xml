@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Warmolt Wolthers</name> <name type="geslachtsnaam">Jullens</name></persName>
-    <event type="birth" when="1753-07-01">
-      <place>Glimmen</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Coeverden tot Stoevelaar</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-02-20">
-      <place>Groningen</place>
+    <event type="death" when="1707-04-06">
+      <place></place>
     </event>
   </person>
   <biography/>

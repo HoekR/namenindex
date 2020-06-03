@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Emmericus Antonius Henricus</name> <name type="intrapositie">Berckmans de</name> <name type="geslachtsnaam">Weert</name></persName>
-    <event type="birth" when="1814-01-17">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Anthonij Adriaensz.</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Hoogh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1898-01-28">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1645">
+      <place></place>
     </event>
   </person>
   <biography/>

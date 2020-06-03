@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Ernestus Jodocus Rudolphus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Grotenhuis van Onstein</name></persName>
-    <event type="birth" when="1775-09-07">
-      <place>Wamel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hector</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoxwier</name></persName>
+    <persName>Hette van Hoxwier</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-12-21">
-      <place>Vorden</place>
+    <event type="death" when="1546-07-08">
+      <place></place>
     </event>
   </person>
   <biography/>

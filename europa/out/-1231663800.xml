@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1231663800"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Cairo El</name> <name type="geslachtsnaam">Sadat</name></persName>
+    <event type="birth">
+      <date>25-12-1918</date>
+      <place>Mit Abu al-Kum</place>
+    </event>
+    <event type="death">
+      <date>06-10-1981</date>
+      <place>Cairo</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

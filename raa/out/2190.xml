@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus Theodorus</name> <name type="geslachtsnaam">Koorn</name></persName>
-    <event type="birth" when="1785-01-17">
-      <place>Alkmaar</place>
+    <persName><name type="voornaam">Jan Willem</name> <name type="geslachtsnaam">Druyvestein</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-12-11">
-      <place>Alkmaar</place>
+    <event type="death" when="1806">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Rudolph</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Sandberg</name></persName>
-    <persName>Sandberg van Essenburg</persName>
-    <event type="birth" when="1803-10-04">
-      <place>Ermelo</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) Teding van</name> <name type="geslachtsnaam">Berkhout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-03-06">
-      <place>Zwolle</place>
+    <event type="death" when="1729">
+      <place></place>
     </event>
   </person>
   <biography/>

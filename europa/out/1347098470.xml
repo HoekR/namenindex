@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1347098470"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Papon</name></persName>
+    <event type="birth">
+      <date>03-09-1910</date>
+      <place>Gretz-Armainvilliers (Seine et Marne)</place>
+    </event>
+    <event type="death">
+      <date>2007</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

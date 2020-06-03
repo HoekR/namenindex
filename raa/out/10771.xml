@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Huybert Eliza</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Meerten</name></persName>
-    <event type="birth" when="1758-10-11">
-      <place>Gorinchem</place>
+    <persName><name type="voornaam">Jan Pietersz.</name> <name type="intrapositie">comte (Empire) van de</name> <name type="geslachtsnaam">Poll</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-06-02">
-      <place>Gouda</place>
+    <event type="death" when="1781-08-16">
+      <place></place>
     </event>
   </person>
   <biography/>

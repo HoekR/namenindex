@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-984845297"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Kopenhagen nan</name> <name type="geslachtsnaam">Bohr</name></persName>
+    <event type="birth">
+      <date>07-10-1885</date>
+      <place>Kopenhagen</place>
+    </event>
+    <event type="death">
+      <date>18-11-1962</date>
+      <place>Kopenhagen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Johannes Baptista Alexander Franciscus Josephus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Aefferden</name></persName>
-    <event type="birth" when="1767-07-20">
-      <place>Venlo</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Feye Tjercx</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Heydoma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-06-09">
-      <place>Roermond</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

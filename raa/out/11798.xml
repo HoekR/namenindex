@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">T.</name> <name type="geslachtsnaam">Sch&#246;n</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Julius Philip Jacob Adriaan</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Zuylen van Nijevelt</name></persName>
+    <event type="birth" when="2008">
+      <place>Luxemburg</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1894-01-07">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

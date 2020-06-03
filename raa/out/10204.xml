@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Alart</name> <name type="geslachtsnaam">Scheltinga</name></persName>
-    <event type="birth" when="1730">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ijsbrand Willemsz. (Dukersz.)</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Streveland</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1813">
+    <event type="death">
       <place></place>
     </event>
   </person>

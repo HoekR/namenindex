@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Walland</name></persName>
-    <event type="birth" when="1758-08-16">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Matthijs</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Idsinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1815-06-17">
-      <place>Maarssen</place>
+    <event type="death" when="1712-12-12">
+      <place></place>
     </event>
   </person>
   <biography/>

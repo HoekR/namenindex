@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Heiman Vincentsz.</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Ketel</name></persName>
-    <persName>Heiman van Mierop van de Ketel</persName>
-    <persName>Heyme van de Ketel</persName>
+    <persName><name type="voornaam">Conraad Jacob Gerbrand</name> <name type="intrapositie">Copes van</name> <name type="geslachtsnaam">Hasselt</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1560">
+    <event type="death" when="1860">
       <place></place>
     </event>
   </person>

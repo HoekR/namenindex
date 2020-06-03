@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1974599062"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Mount Vernon, Virginia nan</name> <name type="geslachtsnaam">Washington</name></persName>
+    <event type="birth">
+      <date>22-02-1732</date>
+      <place>Westmoreland County, Virginia</place>
+    </event>
+    <event type="death">
+      <date>14-12-1799</date>
+      <place>Mount Vernon, Virginia</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

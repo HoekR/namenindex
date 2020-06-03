@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Arents</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Ignatius Johannes Joseph</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Vinck</name></persName>
+    <persName>De Vinck de Wesel</persName>
+    <event type="birth" when="2005">
+      <place>Antwerpen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1845-09-13">
+      <place>Wuustwezen</place>
     </event>
   </person>
   <biography/>

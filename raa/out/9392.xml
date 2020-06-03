@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antoine</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Meulenaere</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Henrik</name> <name type="geslachtsnaam">Backer</name></persName>
+    <event type="birth" when="2008">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1571">
-      <place></place>
+    <event type="death" when="1846-11-30">
+      <place>s-Graveland</place>
     </event>
   </person>
   <biography/>

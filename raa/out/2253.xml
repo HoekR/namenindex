@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Spengler</name></persName>
-    <event type="birth" when="1800-08-01">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Dani&#235;l Adriaan</name> <name type="intrapositie">Meerman van der</name> <name type="geslachtsnaam">Goes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-03-12">
-      <place>Amsterdam</place>
+    <event type="death" when="1805">
+      <place></place>
     </event>
   </person>
   <biography/>

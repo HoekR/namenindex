@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Charles Theodore Jean</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Constant Rebecque</name></persName>
-    <event type="birth" when="1805-09-16">
-      <place>Berlijn</place>
+    <persName><name type="voornaam">Gijsbert Adriaan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Patijn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-09-17">
-      <place>Loosduinen</place>
+    <event type="death" when="1790">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Nicola&#239;</name></persName>
+    <persName><name type="voornaam">Jan Arnold Ludolf</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mulert</name></persName>
+    <persName>Jan Arnold Ludolf Mulert tot Baeckenhagen</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1604">
+    <event type="death" when="1786">
       <place></place>
     </event>
   </person>

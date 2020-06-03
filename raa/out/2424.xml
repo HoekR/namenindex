@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Thierry Arnold Maria</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Brienen van de Groote Lindt</name></persName>
-    <event type="birth" when="1814-03-05">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbrecht</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Lappe</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-04-09">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

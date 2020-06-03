@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes</name> <name type="geslachtsnaam">Engelenberg</name></persName>
-    <event type="birth" when="1772-07-26">
-      <place>De Wijk</place>
+    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Out</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-02-08">
-      <place>Meppel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

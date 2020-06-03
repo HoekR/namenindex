@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik junior</name> <name type="geslachtsnaam">Ogelwicht</name></persName>
-    <persName>Ogelwigt</persName>
-    <event type="birth" when="1764">
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Bincke</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Simens</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1841">
+    <event type="death" when="1728">
       <place></place>
     </event>
   </person>

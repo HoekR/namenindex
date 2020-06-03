@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Beets</name></persName>
-    <persName>Johan Bets</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Gregorius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Oordt</name></persName>
+    <event type="birth" when="2004">
+      <place>Rotterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1842-11-14">
+      <place>Rotterdam</place>
     </event>
   </person>
   <biography/>

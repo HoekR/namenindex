@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Huibert Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Deventer</name></persName>
-    <event type="birth" when="1743-07-06">
-      <place>Rhenen</place>
+    <persName><name type="voornaam">Pierre-Paul-Nicolas</name> <name type="geslachtsnaam">Henrion</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-04-02">
-      <place>Rhenen</place>
+    <event type="death" when="1829">
+      <place></place>
     </event>
   </person>
   <biography/>

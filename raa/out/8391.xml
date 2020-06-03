@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pierre Louis Joseph Servais</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gobbelschroy</name></persName>
-    <persName>Van Gobbelschroy van Spoelbeeck</persName>
-    <event type="birth" when="1784-05-10">
-      <place>Leuven</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jansz.</name></persName>
+    <persName>Jan Meetteneye.</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-10-03">
-      <place>St. Lambrechts Woluwe</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

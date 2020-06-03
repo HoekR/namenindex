@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hillebrand Jacob</name> <name type="geslachtsnaam">Wichers</name></persName>
-    <event type="birth" when="1738">
-      <place></place>
+    <persName><name type="voornaam">Samuel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoogstraten</name></persName>
+    <event type="birth" when="2005">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1813">
-      <place></place>
+    <event type="death" when="1830-02-05">
+      <place>Rotterdam</place>
     </event>
   </person>
   <biography/>

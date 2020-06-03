@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">David Henri</name> <name type="geslachtsnaam">Bruce</name></persName>
-    <event type="birth" when="1755-03-18">
-      <place>Coevorden</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Fabricius</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-11-12">
-      <place>Utrecht</place>
+    <event type="death" when="1749">
+      <place></place>
     </event>
   </person>
   <biography/>

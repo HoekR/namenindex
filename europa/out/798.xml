@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/798"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Londen nan</name> <name type="geslachtsnaam">Bevin</name></persName>
+    <event type="birth">
+      <date>09-03-1881</date>
+      <place>Winsford</place>
+    </event>
+    <event type="death">
+      <date>14-04-1951</date>
+      <place>Londen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

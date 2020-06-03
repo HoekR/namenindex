@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Conrad Jacob Gerbrand</name> <name type="intrapositie">Copes van</name> <name type="geslachtsnaam">Hasselt</name></persName>
-    <event type="birth" when="1777-05-17">
-      <place>Tiel</place>
+    <persName><name type="voornaam">Jan Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Kalf</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-05-01">
-      <place>Haarlem</place>
+    <event type="death" when="1625-10-17">
+      <place></place>
     </event>
   </person>
   <biography/>

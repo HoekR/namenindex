@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Tobias Gutberleth</name> <name type="geslachtsnaam">Plegher</name></persName>
-    <event type="birth" when="1771-08-07">
-      <place>Zutphen</place>
+    <persName><name type="voornaam">Christiaan</name> <name type="intrapositie">graaf de</name> <name type="geslachtsnaam">Waard</name></persName>
+    <persName>Chr&#233;tien de Weert</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1817-04-08">
-      <place>Zutphen</place>
+    <event type="death" when="1568">
+      <place></place>
     </event>
   </person>
   <biography/>

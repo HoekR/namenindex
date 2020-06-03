@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Martinus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Scheltinga</name></persName>
-    <event type="birth" when="1744-05-21">
-      <place>Kollum</place>
+    <persName><name type="voornaam">Dirk Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoeclum</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-04-18">
-      <place>Goor</place>
+    <event type="death" when="1807">
+      <place></place>
     </event>
   </person>
   <biography/>

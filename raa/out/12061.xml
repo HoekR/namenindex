@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">S.M.R.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eijsinga</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Ignace</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Toers Solvyns</name></persName>
+    <event type="birth" when="2002">
+      <place>Gent</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1844-09-02">
+      <place>Gent</place>
     </event>
   </person>
   <biography/>

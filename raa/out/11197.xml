@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Frans Julius Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <event type="birth" when="1752-06-15">
-      <place>Joure</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Hendriksz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Kuik</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-08-03">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-202318148"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Ankara nan</name> <name type="geslachtsnaam">Menemencioglu</name></persName>
+    <event type="birth">
+      <date>1893</date>
+      <place>Bagdad</place>
+    </event>
+    <event type="death">
+      <date>15-02-1958</date>
+      <place>Ankara</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Steendijk</name></persName>
-    <event type="birth" when="1744">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Paul Engelbert</name> <name type="geslachtsnaam">Voet van Winssen</name></persName>
+    <persName>Voet van Winssen van Sevenhoven</persName>
+    <event type="birth" when="2001">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1827">
-      <place></place>
+    <event type="death" when="1822-03-24">
+      <place>Zoeterwoude</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Henry-Jacques-Guillaume</name> <name type="intrapositie">duc (empire)</name> <name type="geslachtsnaam">Clarke</name></persName>
-    <persName>Clarke, Duc de Feltre</persName>
-    <event type="birth" when="1765">
+    <persName><name type="voornaam">Willem Frederik</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Knuth</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1818">
+    <event type="death" when="1794-08-26">
       <place></place>
     </event>
   </person>

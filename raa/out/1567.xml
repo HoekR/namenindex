@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Coenraad Willem Antoni</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Haersolte</name></persName>
-    <persName>Van Haersolte tot den Doorn</persName>
-    <event type="birth" when="1783-05-03">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Roos</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-04-19">
-      <place>Zwolle</place>
+    <event type="death" when="1799">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Jansz.</name> <name type="geslachtsnaam">Nierop</name></persName>
+    <persName><name type="voornaam">Pieter Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ketel</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1650-06-30">
+    <event type="death" when="1664">
       <place></place>
     </event>
   </person>

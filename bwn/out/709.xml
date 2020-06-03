@@ -1,0 +1,219 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Heijting, Arend (1898-1980)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn3/heijting"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">heijting</idno>
+    <persName><name type="geslachtsnaam">Heijting</name>, Arend</persName>
+    <sex value="1"/>
+    <event type="birth" when="1898"/>
+    <event type="death" when="1980"/>
+    <state type="occupation">wiskundige</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn3/images/images/HEIJTING.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Heijting, Arend&lt;/strong&gt;
+
+  (bekend onder de naam &lt;b&gt;Heyting&lt;/b&gt;), wiskundige (Amsterdam 9-5-1898 - Lugano (Zwitserland) 9-7-1980).
+
+  Zoon van Johannes Heijting, schoolhoofd, en Clarissa Elisabeth
+  Kok. Gehuwd op 28-3-1929 met Johanne Friederike Nijenhuis. Uit
+  dit huwelijk werden 6 zoons en 5 dochters geboren. Na
+  echtscheiding (10-10-1960) gehuwd op 4-1-1961 met Jos&amp;eacute;phine
+  Frederique van Anrooy. Uit dit huwelijk werden geen kinderen
+  geboren.
+  
+&lt;img src=&amp;quot;images/HEIJTING.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Heijting, Arend&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+  
+  &lt;/p&gt;
+&lt;p&gt;Heyting was de oudste uit een gezin met drie zoons en twee
+    dochters. Na in 1915 eindexamen gedaan te hebben aan de tweede
+    5-jarige HBS te Amsterdam legde hij in 1916 staatsexamen
+    gymnasium-B af, en dit opende voor hem de weg tot een studie
+    wiskunde aan de Universiteit van Amsterdam. Om deze te kunnen
+    bekostigen organiseerde hij met zijn vader een huiswerkcursus
+    voor middelbare scholieren. Twee van zijn leermeesters aan de
+    universiteit, L.E.J. Brouwer en, in mindere mate, G. Mannoury,
+    be&amp;iuml;nvloedden blijvend de richting van Heytings latere
+    wetenschappelijke werk. Het overgrote deel van zijn werk is
+    namelijk gewijd aan het intu&amp;iuml;tionisme, Brouwers filosofie
+    van de wiskunde; op sommige punten zou Heyting echter in zijn
+    opvatting dichter bij die van Mannoury staan.&lt;/p&gt;
+&lt;p&gt;Na in 1922 cum laude het doctoraal examen te hebben afgelegd
+    werd hij leraar aan het Gemeentelijk Lyceum te Enschede, waar
+    hij o.a. wiskunde gaf. Daarnaast werkte hij aan zijn
+    proefschrift, 
+    &lt;em&gt;Intu&amp;iuml;tionistische axiomatiek der projectieve
+    meetkunde,&lt;/em&gt;
+
+    waarop hij in 1925 bij Brouwer cum laude promoveerde. Het in
+    dit proefschrift reeds belichte intu&amp;iuml;tionisme zou Heyting
+    niet meer loslaten. In 1927 had het Wiskundig Genootschap een
+    prijsvraag uitgeschreven waarin een formalisering van Brouwers
+    verzamelingenleer werd gevraagd; Heytings inzending werd in
+    1928 bekroond en verscheen in 1930 in omgewerkte vorm onder de
+    titel van 
+    &lt;em&gt;Die formalen Regeln der intuitionistischen Logik&lt;/em&gt;
+
+    en 
+    &lt;em&gt;Die formalen Regeln der intuitionistischen Mathematik&lt;/em&gt;
+
+    II en III. Terwijl Brouwer over het intu&amp;iuml;tionisme schreef
+    in een antiformele, sterk persoonlijk gekleurde en vaak
+    moeilijk verstaanbare stijl, maakte Heytings formalisering
+    (gedeeltelijk geanticipeerd door V. Glivenko en A.N.
+    Kolmogorov) voor het eerst een vergelijking tussen
+    intu&amp;iuml;tionistische en traditionele (ook wel genoemd:
+    'klassieke') wiskunde mogelijk. Hoewel Heytings werk sommigen
+    ertoe verleid heeft het intu&amp;iuml;tionisme als zodanig met de
+    door hem aangeboden formalisering te identificeren, heeft toch
+    op langere termijn de bestudering van intu&amp;iuml;tionistische
+    formalismen veel bijgedragen tot een beter verstaan van de
+    intu&amp;iuml;tionistische grondbegrippen. Rond 1930 formuleerde
+    Heyting bovendien zijn verklaring van de betekenis van de
+    intu&amp;iuml;tionistische logische operaties, gebaseerd op de
+    begrippen 'constructie' en 'constructief bewijs', al lag zo'n
+    verklaring reeds impliciet en voor een deel expliciet besloten
+    in Brouwers geschriften. Een kleine monografie, 
+    &lt;em&gt;Mathematische Grundlagenforschung. Intuitionismus.
+    Beweistheorie,&lt;/em&gt;
+
+    bedoeld als bondig overzicht, verscheen in 1934, maar zou later
+    in 1955 een bewerkte vertaling in het Frans beleven en in 1974
+    een Duitse tweede druk.&lt;/p&gt;
+&lt;p&gt;Heyting bleef het scheppen van een beter begrip en
+    waardering van Brouwers idee&amp;euml;n als een van zijn
+    voornaamste taken zien. Zo waren vele van zijn voordrachten en
+    publikaties, ook in latere tijd, gewijd aan uitleg en
+    verdediging van het intu&amp;iuml;tionisme, in een heldere stijl,
+    die nimmer dogmatisch of polemisch was. Toch zijn er
+    verschillen in zienswijze tussen Brouwer en Heyting aan te
+    wijzen. Zo erkende Heyting ten volle het formeel-theoretische
+    element dat in de intu&amp;iuml;tionistische wiskunde werd
+    ge&amp;iuml;ntroduceerd door het in de praktijk onvermijdelijke
+    taalgebruik. Dit taalaspect krijgt in het merendeel van
+    Brouwers geschriften geen speciale aandacht, ofschoon Brouwer
+    zich er wel bewust van was. Evenmin deelde Heyting Brouwers
+    pessimisme ten aanzien van de taal als communicatiemiddel:
+    formalisering en axiomatisering werd door hem ook in het
+    intu&amp;iuml;tionisme positief gewaardeerd. Hierin vertoont
+    Heyting eerder verwantschap met de idee&amp;euml;n en inzichten van
+    Mannoury. Wel dient opgemerkt te worden dat Heyting zich steeds
+    verzet heeft tegen identificatie van de intu&amp;iuml;tionistische
+    wiskunde met geformaliseerde versies daarvan.&lt;/p&gt;
+&lt;p&gt;Inmiddels had Heyting onder wiskundigen en filosofen een
+    grote reputatie verworven als kenner van Brouwers
+    intu&amp;iuml;tionisme. Ofschoon actief ge&amp;iuml;nteresseerd in de
+    didactiek van de wiskunde, zoals ook uit verscheidene van zijn
+    publikaties zou blijken, was het metterdaad lesgeven als
+    wiskundeleraar voor hem een frustrerende ervaring geworden en
+    kwam zijn benoeming in 1937 tot lector in de wiskunde aan de
+    Universiteit van Amsterdam, nadat hij een jaar tevoren als
+    privaatdocent was toegelaten, als een bevrijding. Dank zij dit
+    lectoraat kon hij zijn eigen studie dan ook vasthoudend en
+    geconcentreerd voortzetten, ook tijdens de Duitse bezetting,
+    o.a. met werk op het terrein van de intu&amp;iuml;tionistische
+    algebra (in 1941) en de intu&amp;iuml;tionistische theorie van de
+    Hilbert-ruimte (1951 - 1953). Erkenning in geleerdenkring bleef
+    niet uit. In 1942 werd Heyting benoemd tot lid van de
+    toenmalige Nederlandsche Akademie van Wetenschappen, al kon
+    deze benoeming door de oorlogsomstandigheden pas in 1946
+    bekrachtigd worden, toen de Akademie weer 'koninklijk' genoemd
+    kon worden.&lt;/p&gt;
+&lt;p&gt;In 1948 volgde Heyting zijn leermeester Mannoury op als
+    gewoon hoogleraar in de wiskunde, en als zodanig trad hij nu
+    ook op andere wijze naar voren, ofschoon hij als wetenschapsman
+    uiteraard eveneens werkzaam bleef. Op wetenschappelijk gebied
+    moet vooral genoemd worden de publikatie in 1956 van zijn zeer
+    invloedrijke 
+    &lt;em&gt;Intuitionism. An introduction,&lt;/em&gt;
+
+    met herziene edities in 1966 en 1971. Vele logici en
+    wiskundigen leerden het intu&amp;iuml;tionisme kennen uit dit boek,
+    en het is mede aan dit werk te danken dat het
+    intu&amp;iuml;tionisme nog steeds een rol speelt in het wiskundig
+    grondslagenonderzoek en de logica. Maar daarnaast blonk Heyting
+    ook uit als docent, niet zozeer door uiterlijk vertoon als wel
+    door de helderheid van zijn presentatie. Ook publiceerde hij
+    enige leerboeken die veel gebruikt werden, o.a. 
+    &lt;em&gt;Axiomatic projective geometry&lt;/em&gt;
+
+    (1963, 2e dr. 1980). Acht dissertaties kwamen onder zijn
+    leiding tot stand. Als organisator ten slotte maakte Heyting
+    zich o.a. verdienstelijk door zijn aandeel bij het opzetten van
+    het colloquium 'Constructivity in Mathematics' in 1959 en het
+    'Third international congress on logic, methodology and
+    philosophy of science', in 1967 gehouden, beide in Amsterdam.
+    Op vele buitenlandse congressen trad Heyting op als daartoe
+    uitgenodigd spreker.&lt;/p&gt;
+&lt;p&gt;Ook na zijn emeritaat in 1968 bleef Heyting wetenschappelijk
+    actief. Hij verzorgde toen de uitgave van het eerste deel van
+    Brouwers 
+    &lt;em&gt;Collected Works,&lt;/em&gt;
+
+    dat in 1975 verscheen, en in zijn laatste levensjaren maakte
+    hij speciaal studie van het solipsisme, een belangrijk element
+    in Brouwers algemeen filosofische opvattingen. Maar tot een
+    publikatie als resultaat van deze studie kwam het niet meer.
+    Van 1975 af ging Heytings gezondheid achteruit; in dat jaar
+    trof hem een hartaanval, waarvan hij goeddeels herstelde, maar
+    zijn gezichtsvermogen ging snel achteruit, totdat in 1978 een
+    succesvolle staaroperatie het licht grotendeels teruggaf.&lt;/p&gt;
+&lt;p&gt;Als persoon was Heyting bescheiden en teruggetrokken van
+    aard, zonder enige pretentie. Zijn interessen waren breed en
+    gevarieerd: muziek, literatuur, lingu&amp;iuml;stiek, astronomie en
+    filosofie boeiden hem. Hij was lid van de Partij van de Arbeid
+    en had grote belangstelling voor sociale vraagstukken. Als
+    niet-gelovig, religieus voelend mens vond hij aansluiting bij
+    het Humanistisch Verbond. Zijn levensbeschouwing blijkt o.a.
+    uit zijn artikel 'Wetenschap, geloof, religie', in 
+    &lt;em&gt;De Gids&lt;/em&gt;
+
+    140 (1977) 1, 83 -91.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='agedeelte'&gt;A: &lt;/a&gt;Archief-Heyting in het Mathematisch Instituut der
+  Universiteit van Amsterdam.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Nagenoeg volledige bibliografie door J. Niekus, H. van
+    Riemsdijk en A.S. Troelstra in 
+    &lt;em&gt;Nieuw Archief voor Wiskunde&lt;/em&gt;
+
+    3e serie 29 (1981) 24-35 (errata 139); voorts 'Les fondements
+    des math&amp;eacute;matiques du point de vue intuitionniste', in F.
+    Gonseth, 
+    &lt;em&gt;Philosophie math&amp;eacute;matique&lt;/em&gt;
+
+    (Parijs, 1939) 73 - 75 en 'Continu&amp;uuml;m en keuzerij bij
+    Brouwer', in 
+    &lt;em&gt;Nieuw Archief voor Wiskunde&lt;/em&gt;
+
+    3e serie 29 (1981) 125-139.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;A.S. Troelstra, 'Arend Heyting and his contribution to
+  intuitionism', in 
+  &lt;em&gt;Nieuw Archief voor Wiskunde&lt;/em&gt;
+
+  3e serie 29 (1981) 1 - 23; idem, 'Logic in the writings of
+  Brouwer and Heyting', in V.M. Abrusci, E. Casari, M. Mugnai, 
+  &lt;em&gt;Atti del Convegno Internationale di Storia delle Logica, San
+  Gimignano 4-8 dicembre 1982&lt;/em&gt;
+
+  (Bologna, 1983) 193-210.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;&lt;i&gt;Jaarboek van de Koninklijke Nederlandse Akademie van Wetenschappen 1980&lt;/i&gt; (Amsterdam 1981) 172.&lt;/p&gt;
+
+
+
+&lt;p&gt;A.S. Troelstra&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

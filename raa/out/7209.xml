@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Bertout</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Assendelft</name></persName>
-    <event type="birth" when="1438">
-      <place></place>
+    <persName><name type="voornaam">Johannes Baptista</name> <name type="geslachtsnaam">Verheyen</name></persName>
+    <event type="birth" when="2010">
+      <place>Bokhoven</place>
     </event>
-    <event type="death" when="1512">
-      <place></place>
+    <event type="death" when="1814-10-23">
+      <place>'s-Hertogenbosch</place>
     </event>
   </person>
   <biography/>

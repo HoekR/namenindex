@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Henricus</name> <name type="geslachtsnaam">Gualtheri</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Antony Coenraad Willem</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Haersolte</name></persName>
+    <persName>Van Haersolte tot den Doorn</persName>
+    <event type="birth" when="2004">
+      <place>Zutphen</place>
     </event>
-    <event type="death" when="1614">
-      <place></place>
+    <event type="death" when="1820-10-28">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

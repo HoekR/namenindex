@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Nanninga</name></persName>
-    <persName>Jan Nanningsz.</persName>
+    <persName><name type="voornaam">Thadeus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Landman</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1747">
       <place></place>
     </event>
   </person>

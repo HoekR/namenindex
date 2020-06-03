@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-546800256"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Cambo-les-Bains nan</name> <name type="geslachtsnaam">Bidault</name></persName>
+    <event type="birth">
+      <date>05-10-1899</date>
+      <place>Moulins</place>
+    </event>
+    <event type="death">
+      <date>27-01-1983</date>
+      <place>Cambo-les-Bains</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

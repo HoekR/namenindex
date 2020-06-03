@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1205"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Czy-Chazelles nan</name> <name type="geslachtsnaam">Schuman</name></persName>
+    <event type="birth">
+      <date>29-06-1886</date>
+      <place>Clausen (Luxemburg)</place>
+    </event>
+    <event type="death">
+      <date>04-09-1963</date>
+      <place>Czy-Chazelles</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

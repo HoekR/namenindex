@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-2142371087"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Gijs</name> <name type="intrapositie">Delft van der</name> <name type="geslachtsnaam">Wiel</name></persName>
+    <event type="birth">
+      <date>06-03-1918</date>
+      <place>Noordwijk aan Zee</place>
+    </event>
+    <event type="death">
+      <date>29-07-2001</date>
+      <place>Delft</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

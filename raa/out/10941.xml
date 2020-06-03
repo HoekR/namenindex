@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Jansz.</name> <name type="geslachtsnaam">Marts</name></persName>
-    <persName>Jacob Jansz. Mars</persName>
+    <persName><name type="voornaam">Ernst</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Ittersum tot Nijenhuis</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1662">
+    <event type="death" when="1611-11-09">
       <place></place>
     </event>
   </person>

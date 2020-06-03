@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lykle Piers</name> <name type="geslachtsnaam">Oppedijk</name></persName>
-    <event type="birth" when="1808-04-11">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Lievensz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Kats</name></persName>
+    <persName>van Kest.</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1875">
+    <event type="death" when="1536">
       <place></place>
     </event>
   </person>

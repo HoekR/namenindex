@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Moijaart</name>
-    </persName>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Alphen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1784-01-21">
       <place></place>
     </event>
   </person>

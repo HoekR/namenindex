@@ -8,9 +8,9 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Haeren</name></persName>
-    <event type="birth" when="1796-12-27">
-      <place>s-Gravenvoeren</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Paul</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Arendsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
     <event type="death">
       <place></place>

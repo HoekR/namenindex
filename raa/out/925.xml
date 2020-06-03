@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Carolus Marinus</name> <name type="geslachtsnaam">Wintgens</name></persName>
-    <event type="birth" when="1805-09-10">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf de jonge</name> <name type="geslachtsnaam">Vriese</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-05-14">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Christiaan</name> <name type="geslachtsnaam">Reepmaker</name></persName>
-    <event type="birth" when="1819-10-07">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Claes Adriaensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hoots</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1903-04-25">
-      <place>Rotterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacques Joseph Dominique</name> <name type="intrapositie">baron d'</name> <name type="geslachtsnaam">Anethan</name></persName>
-    <event type="birth" when="1769-08-04">
-      <place>Luxemburg</place>
+    <persName>
+      <name type="geslachtsnaam">Marcandier</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-06-14">
-      <place>Brussel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

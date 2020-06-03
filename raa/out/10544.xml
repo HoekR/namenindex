@@ -8,10 +8,8 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">David Jacobsz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Heul</name></persName>
-    <persName>David Jacobsz. van den Heuvel</persName>
-    <persName>David Jacobsz. Verheul</persName>
-    <event type="birth" when="1580">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <event type="birth">
       <place></place>
     </event>
     <event type="death">

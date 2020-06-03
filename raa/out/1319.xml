@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Willem</name> <name type="geslachtsnaam">Wierda</name></persName>
-    <event type="birth" when="1808-04-13">
-      <place>Eenrum</place>
+    <persName>
+      <name type="geslachtsnaam">Ploos van Amstel</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1894-01-07">
-      <place>Winsum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hermanus Eliza</name> <name type="geslachtsnaam">Verschoor</name></persName>
-    <persName>Verschoor van Sleeuwijk</persName>
-    <event type="birth" when="1791-07-18">
-      <place>Sleeuwijk</place>
+    <persName><name type="voornaam">Aelbert Bzn.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eldik</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-08-02">
-      <place>Sleeuwijk</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

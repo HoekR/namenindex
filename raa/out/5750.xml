@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philips</name> <name type="geslachtsnaam">Doubleth</name></persName>
-    <event type="birth" when="1590">
+    <persName><name type="voornaam">Frederik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Lakenman</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1660-05-31">
+    <event type="death" when="1729-01-06">
       <place></place>
     </event>
   </person>

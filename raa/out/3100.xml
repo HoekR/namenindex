@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.</name> <name type="geslachtsnaam">Backer</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sijds Anthony</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Galama</name></persName>
+    <persName>Sixtus Anthonius van Galama</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1737-06-24">
       <place></place>
     </event>
   </person>

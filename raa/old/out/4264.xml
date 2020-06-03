@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/4264"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Fr&#233;d&#233;ric Auguste</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Leyden</name></persName>
+    <event type="birth" when="1768"/>
+    <event type="death" when="1821"/>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-2056864524"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Baron</name> <name type="voornaam">John</name> <name type="intrapositie">Londen nan</name> <name type="geslachtsnaam">Harris</name></persName>
+    <event type="birth">
+      <date>05-04-1930</date>
+      <place>Middlesex</place>
+    </event>
+    <event type="death">
+      <date>11-04-2001</date>
+      <place>Londen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

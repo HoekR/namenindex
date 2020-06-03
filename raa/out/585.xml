@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">George Isaac</name> <name type="geslachtsnaam">Bruce</name></persName>
-    <event type="birth" when="1803-10-09">
-      <place>Deventer</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jarich Georg</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Burmania</name></persName>
+    <persName>Jurg Georg van Burmania</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-12-30">
-      <place>Nieuwediep</place>
+    <event type="death" when="1757-07-12">
+      <place></place>
     </event>
   </person>
   <biography/>

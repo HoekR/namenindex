@@ -1,0 +1,96 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Hanken, Henri Adriaan (1858-1943)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/hanken"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">hanken</idno>
+    <persName><name type="geslachtsnaam">Hanken</name>, Henri Adriaan</persName>
+    <sex value="1"/>
+    <event type="birth" when="1858"/>
+    <event type="death" when="1943"/>
+    <state type="occupation">landbouwkundige</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/HANKEN.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Hanken, Henri Adriaan&lt;/strong&gt;, landbouwkundige (Rotterdam 21-10-1858 - 's-Gravenhage 23-1-1943).
+
+Zoon van Carl Gerhard Heinrich Hanken, tandarts, en Johanna Antonia
+Pluijm. Gehuwd op 23-3-1892 met Maria Clasina van Gijtenbeek. Uit dit
+huwelijk werden 3 dochters geboren.
+
+&lt;img src=&amp;quot;images/HANKEN.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Hanken, Henri Adriaan&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Ofschoon geboren en getogen in een grote stad bracht zijn liefde
+voor dieren Hanken ertoe zich in de landbouwkunde te bekwamen. Na vier
+klassen van het Erasmiaans gymnasium te Rotterdam te hebben doorlopen,
+werd hij in 1876 ingeschreven als leerling van de hoogste klas van de
+HBS met driejarige cursus te Wageningen. Ten gevolge van zijn geringe
+aanleg voor wiskundige vakken slaagde Hanken er niet in in 1877 het
+einddiploma te behalen. Hij moest een toelatingsexamen afleggen om de
+tweejarige B-cursus aan de Rijkslandbouwschool te Wageningen te mogen
+volgen, die destijds &amp;eacute;&amp;eacute;n geheel vormde met de HBS. Na in 1880
+het einddiploma van de Rijkslandbouwschool verkregen te hebben, werkte
+Hanken gedurende twee en een halfjaar als volontair-knecht in
+verschillende delen van het land. In 1883 vestigde hij zich als
+landbouwer in de Betuwe, maar de landbouwcrisis van die dagen
+noodzaakte hem in 1888 zijn bedrijf te verlaten en naar
+Nederlands-Indi&amp;euml; te vertrekken waar hij gedurende vier jaren op
+een tabaksonderneming werkte. Na zijn repatri&amp;euml;ring, wegens
+familieomstandigheden, volgde in 1892 zijn benoeming tot directeur van
+de Maatschappij van Weldadigheid te Frederiksoord, welke betrekking op
+1 maart 1894 verwisseld werd voor die van directeur van de
+Wilhelminapolder bij Goes, de grootste landbouwonderneming van ons
+land. Gezien zijn voorafgaande nogal wisselvallige, loopbaan geschiedde
+zijn benoeming door de eigenaren van de polder niet zonder aarzeling,
+maar weldra wist hij hun vertrouwen te winnen en te behouden totdat op
+bijna 78-jarige leeftijd in 1936 zijn pensionering volgde.&lt;/p&gt;
+&lt;p&gt;Hoewel zijn beleid niet in alle opzichten even fortuinlijk is
+geweest, heeft Hanken talrijke verbeteringen tot stand gebracht. Reeds
+in 1899 was de runderstapel door toepassing van tuberculinatie tbc-vrij
+geworden, een unicum in die dagen. Onder zijn directoraat werd de
+Wilhelminapolder het distributiecentrum voor Zeeland van
+Lincoln-schapen, Groot Yorkshire-varkens en vooral van Belgische
+paarden. Vermoedelijk heeft zijn liefde voor het paard hem ervan
+weerhouden met zijn tijd mee te gaan op het gebied van de
+landbouwmechanisatie. Hij stimuleerde ook het verbeteren en kweken van
+nieuwe aardappelrassen. Door zijn toedoen werd de Wilhelminapolder meer
+en meer een selectie- en vermeerderingsbedrijf. De fruitteelt werd door
+hem op nieuwe leest geschoeid. Hanken heeft in de loop der jaren zeer
+veel goodwill voor zijn bedrijf gekweekt, bovenal als voortreffelijk
+organisator, die de gave bezat goede medewerkers aan te trekken. Vele
+landbouwverenigingen heeft hij dan ook als voorzitter gediend. Zijn wil
+was wet voor al zijn ondergeschikten, maar zowel in als buiten de
+polder werd hij algemeen gewaardeerd om zijn goedhartigheid,
+hulpvaardigheid en sociaal gevoel.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;'H.A. Hanken. 1894-1936', in 
+&lt;em&gt;Zeeuwsch Landbouwblad&lt;/em&gt;
+
+28 (1936) 1494 (29 augustus) 2-4;
+&lt;em&gt;&lt;/em&gt;
+
+A. Minderhoud, in 
+&lt;em&gt;Landbouwkundig Tijdschrift&lt;/em&gt;
+
+55 (1943) 177-178; J.M.G. van der Poel, 'De Wilhelminapolder in de
+20-ste eeuw', in 
+&lt;em&gt;De Wilhelminapolder 1809-1959&lt;/em&gt;
+
+(Wageningen, 1959) 213-232.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;&lt;i&gt;Persoonlijkheden in het Koninkrijk der Nederlanden in woord en beeld&lt;/i&gt;. Onder hoofdred. van H.P. van den Aardweg (Amsterdam 1938) 600.
+&lt;/p&gt;
+
+&lt;p&gt;J.M.G. van der Poel&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

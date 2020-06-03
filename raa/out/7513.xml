@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.</name> <name type="geslachtsnaam">Stapper</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Abraham</name> <name type="intrapositie">Uitenhage de</name> <name type="geslachtsnaam">Mist</name></persName>
+    <event type="birth" when="2004">
+      <place>Zaltbommel</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1823-03-08">
+      <place>Voorburg</place>
     </event>
   </person>
   <biography/>

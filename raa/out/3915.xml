@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Claas Dircksz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Meer</name></persName>
-    <event type="birth" when="1594">
+    <persName><name type="voornaam">Franciscus Xaverius</name> <name type="geslachtsnaam">Tulleners</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1654">
+    <event type="death" when="1801">
       <place></place>
     </event>
   </person>

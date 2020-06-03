@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1830517668"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Pozuelo de Alcarc&#243;n nan</name> <name type="geslachtsnaam">Calvo-Sotelo</name></persName>
+    <event type="birth">
+      <date>14-04-1926</date>
+      <place>Madrid</place>
+    </event>
+    <event type="death">
+      <date>03-05-2008</date>
+      <place>Pozuelo de Alcarc&#243;n</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,85 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Baeten, Joseph Wilhelmus Maria (1893-1964)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/baeten"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">baeten</idno>
+    <persName><name type="geslachtsnaam">Baeten</name>, Joseph Wilhelmus Maria</persName>
+    <sex value="1"/>
+    <event type="birth" when="1893"/>
+    <event type="death" when="1964"/>
+    <state type="occupation">r.k. bisschop</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/BAETEN.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Baeten, Joseph Wilhelmus Maria&lt;/strong&gt;, bisschop van Breda (Alphen, N.-Br. 8-4-1893 - Breda 26-8-1964).
+
+Zoon van Johannes Petrus Baeten, leerlooier, en Lucia van Aert.
+
+&lt;img src=&amp;quot;images/BAETEN.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Baeten, Joseph Wilhelmus Maria&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Baeten studeerde aan de beide seminaries van het bisdom Breda en
+ontving op 2-6-1917 de priesterwijding. Na enige jaren werkzaam te zijn
+geweest als kapelaan te Sas van Gent en als conrector van het Instituut
+St. Louis te Oudenbosch werd hij op 27-8-1921 aangesteld als secretaris
+van het bisdom Breda. In 1934 volgde zijn benoeming tot pastoor van de
+nieuwgebouwde Mariakerk te Ginneken en deken van het dekenaat Ginneken.
+Op 19-4-1945 werd hij vicaris-generaal en deken van het dekenaat Breda,
+welke functie hij, zoals gebruikelijk was, verenigde met het pastoraat
+van het Bredase Begijnhof. Reeds kort daarna, op 30-11-1945, benoemde
+Rome hem tot bisschop-coadjutor van mgr. Hopmans, de toenmalige
+bisschop van Breda. De bisschopswijding volgde op 27 december van dat
+jaar. Vanaf die tijd lag het bestuur van het bisdom feitelijk in zijn
+handen. Toen hij op 18-2-1951 mgr. Hopmans als bisschop opvolgde,
+betekende dit dan ook nauwelijks een verandering. Nadat op 9-9-1961
+zijn ontslagaanvraag was aanvaard, bestuurde hij nog enige tijd het
+diocees als apostolisch administrator, totdat hij op 6-5-1962 zijn taak
+kon overdragen aan zijn opvolger, Gerardus de Vet. Als titulair
+aartsbisschop van Stauropolis nam hij nog deel aan de eerste zitting
+van het Tweede Vatikaans Concilie (1962).&lt;/p&gt;
+&lt;p&gt;Zijn episcopaat viel in een periode die voor katholiek Nederland kan
+gelden als een overgangstijd tussen het oude, strak gereglementeerde
+regime en de overrompelende ontwikkeling van de jaren '60. Het door
+Baeten gevoerde bestuur was ook eerder gericht op consolidatie van het
+verworvene dan op het openen van nieuwe mogelijkheden. Enige
+vernieuwingen verdienen echter vermelding. De strandzielzorg ten bate
+van de talrijke toeristen in Zeeland werd sterk uitgebreid. De
+oprichting van het Diocesaan Pastoraal Centrum voor de praktische
+scholing van de zielzorgers was aan Baetens initiatief te danken. Het
+bedrijfsapostolaat, dat het contact met de wereld van de industrie
+moest onderhouden, kwam onder zijn bestuur tot stand. Van Baeten kan
+vooral worden getuigd, dat hij in het bisdom een andere sfeer heeft
+opgeroepen; na het autoritaire bewind van zijn voorganger werd zijn
+optreden gekenmerkt door een veel grotere toegankelijkheid en
+hartelijkheid. Dit bleek bijzonder waardevol toen in 1956 het diocees
+werd uitgebreid met de dekenaten Geertruidenberg en Middelburg, die
+voorheen tot de bisdommen 's-Hertogenbosch en Haarlem hadden
+behoord: de integratie van deze nieuwe gebiedsdelen verliep zonder
+moeilijkheden.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;Onderweg. Weekblad voor het bisdom Breda&lt;/em&gt;
+
+8 (1964) extra nummer (augustus/ september); 
+&lt;em&gt;ibidem,&lt;/em&gt;
+
+35 (5 september) 1-2, 4-5.&lt;/p&gt;
+
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;
+Katholiek Documentatie Centrum te Nijmegen, afb. 2a20028.&lt;/p&gt;
+
+
+
+&lt;p&gt;J.L.M. de Lepper&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

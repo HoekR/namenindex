@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/33715"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Herman</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Ranitz</name></persName>
+    <event type="birth" when="2002">
+      <place>Groningen</place>
+    </event>
+    <event type="death" when="1846-07-08">
+      <place>Kreuznach</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

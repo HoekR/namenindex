@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-984277917"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bonn nan</name> <name type="geslachtsnaam">Seebohm</name></persName>
+    <event type="birth">
+      <date>04-08-1903</date>
+      <place>Emanuelssegen (Opper-Silezi&#235;)</place>
+    </event>
+    <event type="death">
+      <date>17-09-1967</date>
+      <place>Bonn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

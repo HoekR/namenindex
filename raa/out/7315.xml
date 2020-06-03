@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Paulinus Philippus Henricus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Dompiere de Jonquieres</name></persName>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Vos</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1720-10-22">
       <place></place>
     </event>
   </person>

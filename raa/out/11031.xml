@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Eisso</name> <name type="geslachtsnaam">Metelerkamp</name></persName>
-    <event type="birth" when="1756">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Lodewijk</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Toulon</name></persName>
+    <event type="birth" when="2008">
+      <place>Gouda</place>
     </event>
-    <event type="death" when="1813">
-      <place></place>
+    <event type="death" when="1840-05-01">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

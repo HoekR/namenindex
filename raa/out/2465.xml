@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Jacobus Pierson</name> <name type="geslachtsnaam">Tholen</name></persName>
-    <event type="birth" when="1764-09-20">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Briel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-09-20">
-      <place>Franeker</place>
+    <event type="death" when="1737">
+      <place></place>
     </event>
   </person>
   <biography/>

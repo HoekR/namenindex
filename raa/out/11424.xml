@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Fransz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Witt</name></persName>
-    <persName>Cornelis Fransz. Wittens</persName>
-    <persName>Cornelis Fransz. de Witte</persName>
-    <event type="birth" when="1545">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Zwieten</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1622">
+    <event type="death">
       <place></place>
     </event>
   </person>

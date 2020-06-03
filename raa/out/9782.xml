@@ -8,14 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Clouet</name>
-    </persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Simon</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Walchren</name></persName>
+    <persName>Van Walchren van Wadenoyen</persName>
+    <event type="birth" when="2005">
+      <place>Breda</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1871-01-16">
+      <place>Amersfoort</place>
     </event>
   </person>
   <biography/>

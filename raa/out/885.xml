@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Frans</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Meersch</name></persName>
-    <event type="birth" when="1776-10-27">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire) de la</name> <name type="geslachtsnaam">Court</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-07-05">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1772">
+      <place></place>
     </event>
   </person>
   <biography/>

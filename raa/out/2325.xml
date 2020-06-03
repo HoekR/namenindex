@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Jan</name> <name type="geslachtsnaam">Bredius</name></persName>
-    <event type="birth" when="1804-05-10">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Andolf</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Esseling</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-09-11">
-      <place>Woerden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

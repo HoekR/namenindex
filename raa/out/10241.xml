@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Napoleon Louis</name>
-    </persName>
-    <event type="birth" when="1804">
+    <persName><name type="voornaam">Warmolt Wolthers</name> <name type="geslachtsnaam">Jullens</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1831">
+    <event type="death" when="1819">
       <place></place>
     </event>
   </person>

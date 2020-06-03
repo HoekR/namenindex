@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Filips (III)</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Croy</name></persName>
-    <persName>Aarschot</persName>
-    <event type="birth" when="1526">
+    <persName><name type="voornaam">Jacob Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Breed</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1595">
+    <event type="death">
       <place></place>
     </event>
   </person>

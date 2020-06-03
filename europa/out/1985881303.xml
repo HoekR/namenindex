@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1985881303"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Maarten</name> <name type="intrapositie">Gorinchem nan</name> <name type="geslachtsnaam">Schakel</name></persName>
+    <event type="birth">
+      <date>17-07-1917</date>
+      <place>Meerkerk</place>
+    </event>
+    <event type="death">
+      <date>13-11-1997</date>
+      <place>Gorinchem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

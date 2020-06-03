@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Frederik</name> <name type="geslachtsnaam">Abbema</name></persName>
-    <event type="birth" when="1771">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schimmelpenninck van der Oye tot de Clouse</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1820">
+    <event type="death" when="1702">
       <place></place>
     </event>
   </person>

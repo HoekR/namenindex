@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1046575146"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Gen&#232;ve nan</name> <name type="geslachtsnaam">Grazzi</name></persName>
+    <event type="birth">
+      <date>16-10-1896</date>
+      <place>Florence</place>
+    </event>
+    <event type="death">
+      <date>06-09-1963</date>
+      <place>Gen&#232;ve</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

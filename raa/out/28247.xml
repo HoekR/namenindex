@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/28247"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Roelof Hendrik</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Isselmuden</name></persName>
+    <event type="birth" when="2005">
+      <place>Zwolle</place>
+    </event>
+    <event type="death" when="1834-03-06">
+      <place>Wanneperveen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

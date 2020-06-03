@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Feyfer</name></persName>
-    <event type="birth" when="1799-04-19">
-      <place>IJsselmuiden</place>
+    <persName><name type="voornaam">Johan</name> <name type="geslachtsnaam">Oldenbarnevelt</name></persName>
+    <event type="birth" when="1547">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1619">
       <place></place>
     </event>
   </person>

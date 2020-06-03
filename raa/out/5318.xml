@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Daniel</name> <name type="intrapositie">de Blocq</name> <name type="geslachtsnaam">Lycklama &#224; Nijeholt</name></persName>
-    <event type="birth" when="1702">
+    <persName><name type="voornaam">Theodorus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Graswinckel</name></persName>
+    <persName>Dirk Jansz. Graswinckel</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1781-10-09">
+    <event type="death" when="1666-12-10">
       <place></place>
     </event>
   </person>

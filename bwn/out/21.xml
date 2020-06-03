@@ -1,0 +1,87 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Alblas, Aart Hendrik (1918-1944)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/alblas"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">alblas</idno>
+    <persName><name type="geslachtsnaam">Alblas</name>, Aart Hendrik</persName>
+    <sex value="1"/>
+    <event type="birth" when="1918"/>
+    <event type="death" when="1944"/>
+    <state type="occupation">marineofficier</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Alblas, Aart Hendrik&lt;/strong&gt;, marineofficier (Middelharnis 20-9-1918 - Mauthausen 6-9-1944).
+
+Zoon van Cornelis Alblas, graanhandelaar, en Maria Adriana van der Pas.
+Hij was ongehuwd. 
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Albas behaalde het einddiploma van de vijfjarige Christelijke HBS te
+Dordrecht en werd op 4 september 1936 benoemd tot adelborst voor de
+zeedienst. Hij voltooide de opleiding te Den Helder echter niet en na
+eervol ontslag op 1 september 1937 volgde hij tot juni 1938 de studie
+aan de zeevaartschool te Rotterdam. Daarna maakte hij als
+stuurmansleerling in dienst van de Vereenigde Nederlandsche
+Scheepvaartmaatschappij enige reizen naar China en Japan. Een begin
+1940 verleend studieverlof maakte het mogelijk om op 23 april het
+diploma derde stuurman te verwerven. In mei 1940 was Alblas nog in
+Nederland waar hij samen met een vriend, J.A. Idema, kandidaat-notaris
+te Dordrecht, inlichtingen betreffende de vijand begon te verzamelen.
+In de nacht van 18-19 maart 1941 konden deze inlichtingen door hem naar
+Engeland worden meegenomen, toen het gelukte om met een andere
+Engelandvaarder in een kleine raceboot uit bezet gebied te ontsnappen.
+Hiervoor werd hem het Bronzen Kruis verleend. Ofschoon zelf te kennen
+gevend bij de onderzeedienst te willen dienen, werd hem, gezien zijn
+ervaring, verzocht zich beschikbaar te stellen als geheim agent van de
+Britse en Nederlandse inlichtingendiensten. Na een korte opleiding werd
+hij per parachute neergelaten, bij vergissing vlak bij de Duitse grens.
+Op 5 juli kon weer verbinding worden gelegd met Idema en via hem met
+diverse verzetsgroepen, zoals die van De Geus, en personen, onder meer
+F.J. Goedhart en S. Vaz Dias. Alblas deed het werk van agent en
+telegrafist en verzorgde geruime tijd de verbinding met Engeland,
+waarbij hij veel waardevolle militaire en soms ook politieke
+inlichtingen doorgaf. Hij speelde eveneens een rol bij het onderhouden
+der verbindingen ten behoeve van S.E. Hazelhoff Roelfzema c.s. Per 1
+september 1941 werd hij benoemd tot officier bij de Koninklijke
+marine-reserve. Het 'Englandspiel', waarin hij enige tijd
+onbewust een rol speelde doordat zijn code na de arrestatie van de
+agent W. van der Reyden bij de Duitsers bekend was, werd hem ten slotte
+noodlottig. Op 16 juli 1942 werd hij gearresteerd en gevangen gezet in
+Scheveningen (Oranjehotel), Haren (N.Br.) en Assen. Hoewel ontsnappen
+mogelijk was, heeft hij dat bewust nagelaten om een familie die hem
+steeds had geholpen, niet in gevaar te brengen. Bij een verhoor van
+honderd uren achtereen liet hij niets los. Ook weigerde hij in te gaan
+op het voorstel van Schreieder om een dubbelrol in het
+'Englandspiel' te spelen. In april 1944 werd hij overgebracht
+naar het concentratiekamp Mauthausen en daar op 6 september 1944
+gefusilleerd.&lt;/p&gt;
+&lt;p&gt;Hij werd naar aanleiding van zijn verdiensten als geheim agent bij
+KB van 4 december 1948 nr. 16 postuum benoemd tot ridder 4e klasse in
+de Militaire Willemsorde. Een van de zestien in de jaren 1960-1962 bij
+de Koninklijke marine in dienst gestelde ondiepwatermijnenvegers werd
+Albas (M 868) genoemd. Het door het schip gevoerde scheepsembleem, van
+sabel vijf ruiten van goud, geplaatst 3 en 2, is ontleend aan het wapen
+van Oud-Alblas.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;L. de Jong, 
+&lt;em&gt;Het Koninkrijk der Nederlanden in de Tweede Wereldoorlog&lt;/em&gt;
+
+('s-Gravenhage, 1969- dln.) V, passim; VI, 133; 
+&lt;em&gt;Enqu&amp;ecirc;tecommissie regeringsbeleid 1940-1945,&lt;/em&gt;
+
+4A; 4B; 4C; 5C; 7C passim.&lt;/p&gt;
+&lt;p&gt;A. van der Moer&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

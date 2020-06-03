@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/14582"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johannes</name> <name type="geslachtsnaam">Albarda</name></persName>
+    <event type="birth" when="2004">
+      <place>Workum</place>
+    </event>
+    <event type="death" when="1862-07-28">
+      <place>Franeker</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

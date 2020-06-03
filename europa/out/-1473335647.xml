@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1473335647"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">baron</name> <name type="voornaam">nan</name> <name type="intrapositie">Stockholm nan</name> <name type="geslachtsnaam">Guillaume</name></persName>
+    <event type="birth">
+      <date>26-03-1892</date>
+      <place>Den Haag</place>
+    </event>
+    <event type="death">
+      <date>06-10-1962</date>
+      <place>Stockholm</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

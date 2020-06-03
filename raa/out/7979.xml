@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hieronymus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Dussen van Beverningh</name></persName>
-    <event type="birth" when="1691">
-      <place></place>
+    <persName><name type="voornaam">Johan Fredrik Benjamin</name> <name type="intrapositie">duc (Empire) van der</name> <name type="geslachtsnaam">Capellen</name></persName>
+    <persName>Van der Capellen van Rijsselt</persName>
+    <event type="birth" when="2005">
+      <place>Arnhem</place>
     </event>
-    <event type="death" when="1730-05-13">
-      <place></place>
+    <event type="death" when="1851-01-03">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

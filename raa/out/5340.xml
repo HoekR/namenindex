@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Lambertus</name> <name type="geslachtsnaam">Keuchenius</name></persName>
-    <event type="birth" when="1784">
+    <persName><name type="voornaam">Jan Rippertsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Groenendijk</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1838">
+    <event type="death" when="1650-01-26">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Evert Willemsz.</name> <name type="geslachtsnaam">Waacker</name></persName>
+    <persName><name type="voornaam">Gijsbert</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Dedem tot de Gelder</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1738-01-21">
       <place></place>
     </event>
   </person>

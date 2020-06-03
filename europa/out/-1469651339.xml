@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1469651339"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Kardinaal</name> <name type="voornaam">Eug&#232;ne</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Tisserant</name></persName>
+    <event type="birth">
+      <date>24-03-1884</date>
+      <place>Nancy</place>
+    </event>
+    <event type="death">
+      <date>21-02-1972</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

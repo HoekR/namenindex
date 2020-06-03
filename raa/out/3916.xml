@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Suermondt</name></persName>
-    <event type="birth" when="1740-12-03">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Gabbe</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Wijgers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-03-14">
-      <place>Rotterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

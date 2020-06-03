@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Lodovicus Ernestus Franciscus Jacobus</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">B&#246;nninghausen</name></persName>
-    <persName>Von B&#246;nninghausen van Herinkhave</persName>
-    <event type="birth" when="1828-08-09">
-      <place>Herinkhave</place>
+    <persName><name type="voornaam">Evert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Doncker</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1910-11-29">
-      <place>Herinkhave</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

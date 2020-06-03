@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Babut</name>
-    </persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Florent Theodore Henri Laurent</name> <name type="intrapositie">burggraaf de</name> <name type="geslachtsnaam">Berlaymont</name></persName>
+    <event type="birth" when="2008">
+      <place>Luik</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1825-01-17">
+      <place>Namen</place>
     </event>
   </person>
   <biography/>

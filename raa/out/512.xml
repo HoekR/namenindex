@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Nanning Arend</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Wassenaer</name></persName>
-    <persName>Van Wassenaer van Sint Pancras</persName>
-    <event type="birth" when="1760-06-27">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Jan Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lynden</name></persName>
+    <persName>Van Lynden van Lunenburg</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-09-04">
-      <place>Nijmegen</place>
+    <event type="death" when="1854">
+      <place></place>
     </event>
   </person>
   <biography/>

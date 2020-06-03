@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Carel Gerard</name> <name type="geslachtsnaam">Hultman</name></persName>
-    <event type="birth" when="1752-07-10">
-      <place>Zutphen</place>
+    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Avink</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-03-07">
-      <place>'s-Hertogenbosch</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirk Jacobsz.</name> <name type="geslachtsnaam">Loncq</name></persName>
-    <event type="birth" when="1536">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Maximiliaan Jacob</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Man</name></persName>
+    <event type="birth" when="2006">
+      <place>Nijmegen</place>
     </event>
-    <event type="death" when="1615">
-      <place></place>
+    <event type="death" when="1854-12-22">
+      <place>Nijmegen</place>
     </event>
   </person>
   <biography/>

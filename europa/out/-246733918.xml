@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-246733918"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Blaisse</name></persName>
+    <event type="birth">
+      <date>1911</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>1990</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

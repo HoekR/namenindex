@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Renesse van der Aa</name></persName>
-    <persName>Wulven</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Joan Gideon Willem Karel</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Brugghen</name></persName>
+    <persName>Van der Brugghen van Lauwerecht</persName>
+    <event type="birth" when="2009">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1568">
-      <place></place>
+    <event type="death" when="1826-06-24">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

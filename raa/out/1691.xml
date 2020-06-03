@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Arend Daniel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Coeverden</name></persName>
-    <persName>Van Coeverden van Wegdam</persName>
-    <event type="birth" when="1763-10-26">
-      <place>Wegdam</place>
+    <persName><name type="voornaam">Frans</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vliet</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-04-15">
-      <place>Wegdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

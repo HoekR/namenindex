@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1912994981"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Sir</name> <name type="voornaam">nan</name> <name type="intrapositie">Z&#252;rich nan</name> <name type="geslachtsnaam">Stafford Cripps</name></persName>
+    <event type="birth">
+      <date>24-04-1889</date>
+      <place>Londen</place>
+    </event>
+    <event type="death">
+      <date>21-04-1952</date>
+      <place>Z&#252;rich</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

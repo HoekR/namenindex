@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Leonard</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Fouw</name></persName>
-    <event type="birth" when="1784-01-26">
-      <place>Goes</place>
+    <persName><name type="voornaam">Cornelis Claesz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Driel</name></persName>
+    <persName>Cornelis Nicolai</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-08-10">
-      <place>Goes</place>
+    <event type="death" when="1636-08-17">
+      <place></place>
     </event>
   </person>
   <biography/>

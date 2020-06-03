@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wynant</name> <name type="geslachtsnaam">Alstorphius</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans</name> <name type="intrapositie">bastaard van</name> <name type="geslachtsnaam">Bourgondi&#235;</name></persName>
+    <persName>genaamd Fallais.</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1563">
       <place></place>
     </event>
   </person>

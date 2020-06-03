@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philippus Carolus</name> <name type="geslachtsnaam">Hage</name></persName>
-    <persName>Haagen.</persName>
+    <persName><name type="voornaam">Dani&#235;l</name> <name type="geslachtsnaam">Hooft</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1804">
+    <event type="death" when="1860">
       <place></place>
     </event>
   </person>

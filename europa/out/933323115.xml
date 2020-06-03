@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/933323115"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Stuttgart nan</name> <name type="geslachtsnaam">Hallstein</name></persName>
+    <event type="birth">
+      <date>17-11-1901</date>
+      <place>Mainz</place>
+    </event>
+    <event type="death">
+      <date>29-03-1982</date>
+      <place>Stuttgart</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

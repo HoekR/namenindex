@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-394445295"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Gerard</name> <name type="intrapositie">Wassenaar nan</name> <name type="geslachtsnaam">Peijnenburg</name></persName>
+    <event type="birth">
+      <date>12-06-1919</date>
+      <place>Asten</place>
+    </event>
+    <event type="death">
+      <date>02-01-2000</date>
+      <place>Wassenaar</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

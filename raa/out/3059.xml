@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Lubbert</name> <name type="geslachtsnaam">Umbgrove</name></persName>
-    <event type="birth" when="1800-07-25">
-      <place>Wijhe</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Assuerus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Vierssen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-02-27">
-      <place>Almen</place>
+    <event type="death" when="1713">
+      <place></place>
     </event>
   </person>
   <biography/>

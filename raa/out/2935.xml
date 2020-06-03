@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Samuel Francois Anne</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Pallandt</name></persName>
-    <persName>Van Pallandt van Oud-Beyerland</persName>
-    <event type="birth" when="1808-05-03">
-      <place>Arnhem</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sabinus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Wissema</name></persName>
+    <persName>Sape van Wissema</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1880-05-16">
-      <place>Arnhem</place>
+    <event type="death" when="1678-10-27">
+      <place></place>
     </event>
   </person>
   <biography/>

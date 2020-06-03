@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerard</name> <name type="geslachtsnaam">Costerus</name></persName>
+    <persName><name type="voornaam">Jan Zeger</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Welvelde tot Luttenberg</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1750-11-24">
       <place></place>
     </event>
   </person>

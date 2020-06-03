@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/29531"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Pierre Andr&#233; Servais</name> <name type="geslachtsnaam">Kerens</name></persName>
+    <event type="birth" when="2007">
+      <place>Mechelen</place>
+    </event>
+    <event type="death" when="1862-06-04">
+      <place>Maastricht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

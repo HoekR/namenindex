@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Tommeler</name></persName>
-    <persName>Schuijseman</persName>
-    <event type="birth" when="1739">
+    <persName><name type="voornaam">Vegter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Keijser</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1820">
+    <event type="death" when="1706">
       <place></place>
     </event>
   </person>

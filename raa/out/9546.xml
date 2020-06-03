@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frans</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <event type="birth" when="1594">
+    <persName><name type="voornaam">Johan Heidenrijk</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Coeverden tot Wegdam</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1661-09-03">
+    <event type="death" when="1722-06-17">
       <place></place>
     </event>
   </person>

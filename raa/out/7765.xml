@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Egbert</name> <name type="geslachtsnaam">Pelinck</name></persName>
-    <event type="birth" when="1733">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Fran&#231;ois Bernard Hubert</name> <name type="geslachtsnaam">Michiels van Kessenich</name></persName>
+    <event type="birth" when="2007">
+      <place>Roermond</place>
     </event>
-    <event type="death" when="1801">
-      <place></place>
+    <event type="death" when="1881-01-06">
+      <place>Roermond</place>
     </event>
   </person>
   <biography/>

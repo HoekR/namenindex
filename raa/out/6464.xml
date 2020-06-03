@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gillis</name> <name type="geslachtsnaam">Pieck</name></persName>
-    <persName>Jelis Pieck</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Floris Gerritsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Raaphorst</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1584">
+    <event type="death">
       <place></place>
     </event>
   </person>

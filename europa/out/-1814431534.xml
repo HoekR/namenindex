@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1814431534"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Montecarlo nan</name> <name type="geslachtsnaam">Donat-Cattin</name></persName>
+    <event type="birth">
+      <date>26-06-1919</date>
+      <place>Finale Ligure</place>
+    </event>
+    <event type="death">
+      <date>17-03-1991</date>
+      <place>Montecarlo</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

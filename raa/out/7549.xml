@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Petrus Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ghert</name></persName>
-    <event type="birth" when="1751-12-27">
-      <place>Geertruidenberg</place>
+    <persName><name type="voornaam">Willem Hendrik</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Hertog</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-11-08">
-      <place>Baarle-Nassau</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

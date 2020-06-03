@@ -1,0 +1,68 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Gul, Gerrit (1847-1920)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/gul"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">gul</idno>
+    <persName><name type="geslachtsnaam">Gul</name>, Gerrit</persName>
+    <sex value="1"/>
+    <event type="birth" when="1847"/>
+    <event type="death" when="1920"/>
+    <state type="occupation">oud-katholiek bisschop</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Gul, Gerrit&lt;/strong&gt;, aartsbisschop van de oud-kath. kerk van Utrecht (Egmond aan Zee 27-10-1847 - Utrecht 9-2-1920).
+
+Zoon van Jan Gul, landsman, en Engeltje Tol. Ongehuwd.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Na zijn studies aan het oud-katholiek Seminarie te Amersfoort werd
+hij in 1870 priester gewijd. Na korte tijd werkzaam te zijn geweest in
+Amsterdam (H. Johannes en Willibrordus), Zaandam (H. Maria Magdalena)
+en Utrecht (H. Jacobus) en in Amersfoort als hoogleraar in de theologie
+aan het Seminarie werd hij in 1886 pastoor van de gemeente van de H.
+Vitus in Hilversum, waar onder zijn leiding de oude schuilkerk
+vervangen werd door een nieuwe schuilkerk en pastorie aan het Melkpad.
+Nadat hij in 1890 opgenomen was in het Metropolitaan Kapittel werd hij
+in 1892 tot aartsbisschop van Utrecht gekozen als opvolger van Johannes
+Heykamp. Van deze verkiezing werd voor het eerst geen bevestiging
+gevraagd aan de Paus. Op 11 mei 1892 vond de bisschopswijding plaats te
+Hilversum. Consecrator was Gasparus Johannes Rinkel, bisschop van
+Haarlem. Medewerking verleenden de bisschoppen van Zwitserland en
+Duitsland. Als wapenspreuk koos de aartsbisschop: Geen waarheid zonder
+liefde. Onder zijn voorganger Johannes Heykamp was de zg. Unie van
+Utrecht gesloten, waardoor de kerk van Utrecht een offici&amp;euml;le
+kerkelijke band was aangegaan met de oud-katholieken in Duitsland en
+Zwitserland. Gerardus Gul ondervond in zijn episcopaat dat een einde
+was gekomen aan het isolement der oud- katholieken in Nederland. Hij
+wijdde bisschoppen voor de oud-katholieken in Duitsland, voor de
+Pools-Nationale Kerk in Amerika en voor de kerk van de Mariavieten in
+Polen. Hij had contacten met de 'Petite Eglise' in Frankrijk en
+met de oud-katholieke gemeenten in Nantes en in Parijs. Een voorgenomen
+reis naar Petersburg werd door de oorlog onmogelijk gemaakt.&lt;/p&gt;
+&lt;p&gt;Nieuwe impulsen onderging ook het kerkelijk leven. Van bijzonder
+grote betekenis was de invoering van de moedertaal in de liturgie
+(1909). Ook het verenigingsleven kwam tot ontplooiing: bijv. het
+Oud-Katholiek Ondersteuningsfonds, dat binnen de kerk opereerde en de
+vereniging 'Petrus Buys', die de beginselen van de
+Oud-Katholieke Kerk naar buiten propageerde. Ook de invoering van de
+Synode vond onder zijn episcopaat plaats.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;De Oud-Katholiek&lt;/em&gt;
+
+36 (1920) 5 (21 februari) 33-38.&lt;/p&gt;
+&lt;p&gt;P.J. Maan.&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

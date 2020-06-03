@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wilhelm Truchsess</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Waldburg</name></persName>
-    <event type="birth" when="1469">
+    <persName><name type="voornaam">Adriaen Danielsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boxel</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1557-03-17">
+    <event type="death" when="1691-11-24">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1264609657"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Parijs nan</name> <name type="geslachtsnaam">Pineau</name></persName>
+    <event type="birth">
+      <date>14-10-1904</date>
+      <place>Chaumont-en-Bassingny</place>
+    </event>
+    <event type="death">
+      <date>05-04-1995</date>
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

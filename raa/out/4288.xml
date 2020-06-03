@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Itel-Frederik</name> <name type="geslachtsnaam">Pottey Turcq</name></persName>
-    <event type="birth" when="1756">
+    <persName><name type="voornaam">Baltus Jansz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Wevelinchoven</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1635-01-11">
       <place></place>
     </event>
   </person>

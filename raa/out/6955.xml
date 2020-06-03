@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bartholomeus Jansz.</name> <name type="geslachtsnaam">Veer</name></persName>
+    <persName><name type="voornaam">Witte</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Gevers</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1642-08-16">
+    <event type="death" when="1744-04-06">
       <place></place>
     </event>
   </person>

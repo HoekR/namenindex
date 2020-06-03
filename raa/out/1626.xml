@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Pannekoek</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Willem Anne</name> <name type="intrapositie">prins</name> <name type="geslachtsnaam">Sirtema van Grovestins</name></persName>
+    <persName>Willem August Sirtema van Grovestins</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1813">
       <place></place>
     </event>
   </person>

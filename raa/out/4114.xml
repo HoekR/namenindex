@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Otto</name> <name type="geslachtsnaam">Hinlopen</name></persName>
+    <persName><name type="voornaam">Pieter Pietersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hardenbol</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1681-07-31">
+    <event type="death" when="1655">
       <place></place>
     </event>
   </person>

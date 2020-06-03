@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Teetse</name> <name type="geslachtsnaam">Gonggrijp</name></persName>
-    <event type="birth" when="1772-11-27">
-      <place>Sneek</place>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hoolwerf</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1838-04-06">
-      <place>Sneek</place>
+    <event type="death" when="1742-04-22">
+      <place></place>
     </event>
   </person>
   <biography/>

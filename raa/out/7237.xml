@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Franciscus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Moorsel</name></persName>
-    <event type="birth" when="1749">
-      <place></place>
+    <persName><name type="voornaam">Gerrit Ferdinand</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Asbeck</name></persName>
+    <persName>Van Asbeck tot Berge en Munsterhausen</persName>
+    <event type="birth" when="2009">
+      <place>Wirdum</place>
     </event>
-    <event type="death" when="1823">
-      <place></place>
+    <event type="death" when="1836-04-04">
+      <place>Leeuwarden</place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,85 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Deelder, Comelis (1853-1928)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/deelder"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">deelder</idno>
+    <persName><name type="geslachtsnaam">Deelder</name>, Comelis</persName>
+    <sex value="1"/>
+    <event type="birth" when="1853"/>
+    <event type="death" when="1928"/>
+    <state type="occupation">oud-katholiek priester</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Deelder, Comelis&lt;/strong&gt;, oud-katholiek pastoor (Den Helder 15-12-1853 - Soest 26-7-1928).
+
+Zoon van Comelis Deelder, schilder, en van Martha Jacoba Adriaan. Hij
+was ongehuwd.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Deelder ging in 1867 naar het oud-katholiek seminarie in Amersfoort
+en bezocht daar de Latijnse School. Na zijn eindexamen studeerde hij
+theologie aan het seminarie en werd op 7 november 1877 priester gewijd.
+Na kapelaan te zijn geweest in Egmond en Amersfoort, werd hij met
+ingang van 17 augustus 1884 benoemd tot pastoor van de gemeente van de
+H. Gertrudis te Utrecht. Deze gemeente zou hij veertig jaar dienen tot
+31 augustus 1924. De gemeente kerkte nog in de oude schuilkerk (in de
+Mariahoek). Naast de zorg voor de gemeente had D&amp;eacute;cider ook de
+supervisie over de waardevolle bibliotheek en het rijke archief, dat
+zich hier bevond. Het archief bracht hem in aanraking met Sam. Muller,
+de rijksarchivaris en leverde hem de stof voor zijn 
+&lt;em&gt;Bijdragen voor de Geschiedenis van de Roomsch-Katholieke kerk in
+Nederland (Rotterdam,&lt;/em&gt;
+
+1888-1892. 2 dln. in 1 bd.) die naar (goed) Jansenistisch gebruik
+anoniem verschenen. In 1889 beleefde hij het tot stand komen van de
+&amp;quot;Unie van Utrecht&amp;quot; waardoor een band werd gelegd tussen de
+'Roomsch-Katholieken van de Oude Bisschoppelijke Clerezie' en
+de oud-katholieke kerken, die na het Vaticaans Concilie van 1870 in
+Duitsland, Zwitserland en Oostenrijk waren ontstaan. Ten gevolge van de
+Unie van Utrecht werd de 
+&lt;em&gt;Revue Internationale de Th&amp;eacute;ologie&lt;/em&gt;
+
+opgericht, die D&amp;eacute;cider onder zijn medewerkers mocht rekenen. Van
+D&amp;eacute;cider ging een grote roep als kanselredenaar uit zodat veel
+theologische studenten zg. vastenmeditaties in de oude schuilkerk
+bijwoonden. D&amp;eacute;cider vatte het plan op de oude schuilkerk te
+verlaten en een nieuw kerkgebouw te stichten. Deze bouw symboliseerde
+enerzijds de transformatie van de Oude Bisschoppelijke Clerezie
+(schuilkerk) in de Oud-Katholieke Kerk, anderzijds was het een
+duidelijk streven om de door de Hervorming verloren gegane Mariakerk
+weer te herstellen. In 1913 werd de nieuwe kerk ingewijd. De wens van
+D&amp;eacute;cider om de oude schuilkerk tot museum in te richten kon pas in
+1928 in vervulling gaan. Naast zijn pastoraat was Deelder lid van het
+Metropolitaan Kapittel, aartspriester ab provisor van het seminarie te
+Amersfoort.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve de reeds genoemde werken : 
+&lt;em&gt;Petrus a matre Dei. Clara Relatio missionis hollandicae&lt;/em&gt;
+
+(Rotterdam, 1891).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;De Oud-Katholiek,&lt;/em&gt;
+
+44 (1928) 31-32 (28 juli -4 augustus) 222; 
+&lt;em&gt;ibidem,&lt;/em&gt;
+
+45 (1929) 6 (9 februari) 41; 
+&lt;em&gt;Maandblad van &amp;quot;Oud-Utrecht&amp;quot;&lt;/em&gt;
+
+3 (1928) 58.&lt;/p&gt;
+&lt;p&gt;P.J. Maan&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Thomas</name> <name type="geslachtsnaam">Geniets</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Nicolaus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heloma</name></persName>
+    <event type="birth" when="2006">
+      <place>Heerenveen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1879-09-16">
+      <place>Arnhem</place>
     </event>
   </person>
   <biography/>

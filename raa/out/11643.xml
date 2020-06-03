@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Assueer</name> <name type="geslachtsnaam">Schimmelpenninck van der Oye tot Watergoor</name></persName>
-    <event type="birth" when="1769">
+    <persName><name type="voornaam">Joost</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Fockinck</name></persName>
+    <persName>Jodocus Fockinck</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1810">
+    <event type="death" when="1739-03-26">
       <place></place>
     </event>
   </person>

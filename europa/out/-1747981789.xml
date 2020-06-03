@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1747981789"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">baron</name> <name type="voornaam">nan</name> <name type="intrapositie">nan baron</name> <name type="geslachtsnaam">Hanin</name></persName>
+    <event type="birth">
+      <date>19-09-1914</date>
+      <place>Wellin</place>
+    </event>
+    <event type="death">
+      <date>16-06-2012</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

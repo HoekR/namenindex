@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Loef</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Snellenburg</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan II Jansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kruiningen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1490">
       <place></place>
     </event>
   </person>

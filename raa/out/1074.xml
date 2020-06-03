@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anthon Hendrik</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Voort</name></persName>
-    <event type="birth" when="1768">
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Erasmus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Douma</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1846-12-28">
-      <place>Utrecht</place>
+    <event type="death" when="1581">
+      <place></place>
     </event>
   </person>
   <biography/>

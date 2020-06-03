@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anthony Hendrik Johannes</name> <name type="geslachtsnaam">Ravenstein Medenblik</name></persName>
+    <persName><name type="voornaam">Lodewijk</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Cools</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1691-12-24">
       <place></place>
     </event>
   </person>

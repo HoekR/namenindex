@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/7073"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Alphert</name> <name type="geslachtsnaam">Schimmelpenninck van der Oye</name></persName>
+    <event type="birth"/>
+    <event type="death" when="1691"/>
+  </person>
+  <biography/>
+</biodes>

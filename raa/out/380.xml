@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jan Pieter</name> <name type="intrapositie">Teding van</name> <name type="geslachtsnaam">Berkhout</name></persName>
-    <event type="birth" when="1786-08-21">
-      <place>Haarlem</place>
+    <persName><name type="voornaam">G&#233;raud-Christophe-Michel</name> <name type="geslachtsnaam">Duroc</name></persName>
+    <persName>Duroc, Duc de Frioul.</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1856-08-24">
-      <place>Bloemendaal</place>
+    <event type="death" when="1813">
+      <place></place>
     </event>
   </person>
   <biography/>

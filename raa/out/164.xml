@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Abraham</name> <name type="geslachtsnaam">Boxman</name></persName>
-    <event type="birth" when="1796-10-17">
-      <place>Gorinchem</place>
+    <persName><name type="voornaam">Pieter Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Hanneman&#13;
+Hanneman</name></persName>
+    <event type="birth" when="1540">
+      <place></place>
     </event>
-    <event type="death" when="1856-03-26">
-      <place>Gorinchem</place>
+    <event type="death" when="1593">
+      <place></place>
     </event>
   </person>
   <biography/>

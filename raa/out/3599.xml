@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Berend</name> <name type="geslachtsnaam">Alring</name></persName>
-    <event type="birth" when="1754-12-12">
-      <place>Leer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Tannerie</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-01-03">
-      <place>Sneek</place>
+    <event type="death" when="1439">
+      <place></place>
     </event>
   </person>
   <biography/>

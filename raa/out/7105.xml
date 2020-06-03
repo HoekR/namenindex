@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jan Poppe Andreae</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Canter</name></persName>
+    <persName><name type="voornaam">Elias</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Hoeven</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1767">
       <place></place>
     </event>
   </person>

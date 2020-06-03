@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lambertus</name> <name type="geslachtsnaam">Carsten</name></persName>
-    <event type="birth" when="1820-05-10">
-      <place>Hoogeveen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Aulus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Haersma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-01-15">
-      <place>Meppel</place>
+    <event type="death" when="1669-06-18">
+      <place></place>
     </event>
   </person>
   <biography/>

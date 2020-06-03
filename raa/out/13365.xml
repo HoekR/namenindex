@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/13365"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Bernardus Willem</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Sande</name></persName>
+    <event type="birth">
+      <place>Annen</place>
+    </event>
+    <event type="death" when="1822-05-22">
+      <place>Meppel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

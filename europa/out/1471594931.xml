@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1471594931"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Koning</name> <name type="voornaam">nan</name> <name type="intrapositie">Amman nan</name> <name type="geslachtsnaam">Hussein bin Talal</name></persName>
+    <event type="birth">
+      <date>14-11-1935</date>
+      <place>Amman</place>
+    </event>
+    <event type="death">
+      <date>07-02-1999</date>
+      <place>Amman</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

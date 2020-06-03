@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Epo Jacobsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Juckema</name></persName>
-    <persName>Ipe van Juckema</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan</name> <name type="geslachtsnaam">Six</name></persName>
+    <persName>Six van Hillegom</persName>
+    <event type="birth" when="2010">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1619">
-      <place></place>
+    <event type="death" when="1827-02-07">
+      <place>Wassenaar</place>
     </event>
   </person>
   <biography/>

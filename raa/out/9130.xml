@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">M.F.</name> <name type="geslachtsnaam">Hoffman</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Kniphorst</name></persName>
+    <event type="birth" when="2006">
+      <place>Meppel</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1850-06-01">
+      <place>Assen</place>
     </event>
   </person>
   <biography/>

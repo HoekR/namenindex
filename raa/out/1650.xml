@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Marten</name> <name type="intrapositie">Udink ten</name> <name type="geslachtsnaam">Cate</name></persName>
-    <event type="birth" when="1805-10-19">
-      <place>Enschede</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Lamoraal Albertus Aemilius</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Rengers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-05-20">
-      <place>Lonneker</place>
+    <event type="death" when="1811-03-24">
+      <place></place>
     </event>
   </person>
   <biography/>

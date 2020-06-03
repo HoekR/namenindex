@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Meinard Frederik</name> <name type="geslachtsnaam">Lantsheer</name></persName>
-    <event type="birth" when="1819-07-20">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans Julius Johan</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Eysinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-09-04">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1828-03-08">
+      <place></place>
     </event>
   </person>
   <biography/>

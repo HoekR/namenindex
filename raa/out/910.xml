@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Nicolaas</name> <name type="geslachtsnaam">Verloren</name></persName>
-    <event type="birth" when="1791-03-27">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Syds</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Botnia</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-07-08">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1615">
+      <place></place>
     </event>
   </person>
   <biography/>

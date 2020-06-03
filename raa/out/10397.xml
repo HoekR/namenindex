@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jongh</name></persName>
+    <persName><name type="voornaam">Hendrik Georgesz.</name> <name type="intrapositie">comte (Empire) d'</name> <name type="geslachtsnaam">Acquet</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1769-12-22">
       <place></place>
     </event>
   </person>

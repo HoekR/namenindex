@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-108820676"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">nan van</name> <name type="geslachtsnaam">Boven</name></persName>
+    <event type="birth">
+      <date>07-02-1913</date>
+      <place>Roermond</place>
+    </event>
+    <event type="death">
+      <date>1997</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

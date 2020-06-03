@@ -8,9 +8,9 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Marcellus</name> <name type="geslachtsnaam">Verheggen</name></persName>
-    <event type="birth" when="1796-06-12">
-      <place>Buggenum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf van den</name> <name type="geslachtsnaam">Bosch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
     <event type="death">
       <place></place>

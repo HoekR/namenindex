@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Adriaan</name> <name type="intrapositie">baron van der</name> <name type="geslachtsnaam">Heim</name></persName>
-    <persName>Van der Heim van Duivendijke</persName>
-    <event type="birth" when="1791-01-15">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Arnoldus Adrianus</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Tets</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-10-14">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1792-12-28">
+      <place></place>
     </event>
   </person>
   <biography/>

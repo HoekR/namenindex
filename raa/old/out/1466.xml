@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/1466"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vries</name></persName>
+    <event type="birth" when="1695"/>
+    <event type="death" when="1765"/>
+  </person>
+  <biography/>
+</biodes>

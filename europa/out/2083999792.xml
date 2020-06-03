@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/2083999792"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Hasselt nan</name> <name type="geslachtsnaam">Spinoy</name></persName>
+    <event type="birth">
+      <date>06-12-1906</date>
+      <place>Mechelen</place>
+    </event>
+    <event type="death">
+      <date>06-05-1967</date>
+      <place>Hasselt</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

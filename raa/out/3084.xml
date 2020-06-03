@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Theodorus Joannis Maria Hubertus</name> <name type="intrapositie">baron van Scherpenzeel</name> <name type="geslachtsnaam">Heusch</name></persName>
-    <persName>Van Scherpenzeel Heusch van Dreumel en Oosterhout</persName>
-    <event type="birth" when="1801-11-30">
-      <place>Oosterhout</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Daniel</name> <name type="intrapositie">ridder van der</name> <name type="geslachtsnaam">Haer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-12-27">
-      <place>Arnhem</place>
+    <event type="death" when="1745-01-22">
+      <place></place>
     </event>
   </person>
   <biography/>

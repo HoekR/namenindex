@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lambertus Dominicus</name> <name type="geslachtsnaam">Storm</name></persName>
-    <event type="birth" when="1792-03-25">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Does</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-06-03">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1749-01-12">
+      <place></place>
     </event>
   </person>
   <biography/>

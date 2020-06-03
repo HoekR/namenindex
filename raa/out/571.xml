@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Roverius Petrus</name> <name type="geslachtsnaam">Romme</name></persName>
-    <event type="birth" when="1801-02-18">
-      <place>Terheijden</place>
+    <persName><name type="voornaam">Willem Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Dierkens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-05-01">
-      <place>Terheijden</place>
+    <event type="death" when="1776-04-04">
+      <place></place>
     </event>
   </person>
   <biography/>

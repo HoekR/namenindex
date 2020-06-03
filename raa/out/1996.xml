@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Iman Gualtherus Jacob</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Bosch</name></persName>
-    <event type="birth" when="1799-10-29">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Joan Bernard</name> <name type="geslachtsnaam">Auffmorth</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1880-05-19">
-      <place>Wiesbaden</place>
+    <event type="death" when="1831">
+      <place></place>
     </event>
   </person>
   <biography/>

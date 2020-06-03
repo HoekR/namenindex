@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-364572268"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">Chris</name> <name type="intrapositie">'s-Gravenhage van der</name> <name type="geslachtsnaam">Klaauw</name></persName>
+    <event type="birth">
+      <date>13-08-1924</date>
+      <place>Leiden</place>
+    </event>
+    <event type="death">
+      <date>16-03-2005</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

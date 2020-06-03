@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joan Lodewijk Gerhard</name> <name type="geslachtsnaam">Gregory</name></persName>
-    <event type="birth" when="1808-04-14">
-      <place>Laubegast (Saksen)</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">Fenwick van der</name> <name type="geslachtsnaam">Gon</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1891-01-30">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1826">
+      <place></place>
     </event>
   </person>
   <biography/>

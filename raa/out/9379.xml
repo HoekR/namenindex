@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Filips</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Montmorency</name></persName>
-    <persName>Hoorne</persName>
-    <persName>Horn</persName>
-    <event type="birth" when="1524">
+    <persName><name type="voornaam">Hendrik Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wanroy</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1568">
+    <event type="death">
       <place></place>
     </event>
   </person>

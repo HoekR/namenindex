@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adrianus</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Werk</name></persName>
-    <event type="birth" when="1800-11-09">
-      <place>Erp</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Banchem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-07-26">
-      <place>Zevenbergen</place>
+    <event type="death" when="1751-03-30">
+      <place></place>
     </event>
   </person>
   <biography/>

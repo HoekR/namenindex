@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Bormeester</name></persName>
-    <event type="birth" when="1774-05-23">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Nicolai</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Ruysch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-07-20">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

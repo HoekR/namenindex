@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Estienne</name> <name type="geslachtsnaam">Lespinasse</name></persName>
-    <persName>L' Espinasse</persName>
-    <event type="birth" when="1743">
+    <persName><name type="voornaam">Lourens</name> <name type="geslachtsnaam">Maas</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1804">
+    <event type="death">
       <place></place>
     </event>
   </person>

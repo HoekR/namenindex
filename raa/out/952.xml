@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Maurits</name> <name type="geslachtsnaam">Reinbach</name></persName>
-    <event type="birth" when="1785-05-25">
-      <place>Den Burg</place>
+    <persName><name type="voornaam">Henricus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Royen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-04-09">
-      <place>Leeuwarden</place>
+    <event type="death" when="1844">
+      <place></place>
     </event>
   </person>
   <biography/>

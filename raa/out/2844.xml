@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lambert Gaspar Dieudonn&#233;</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Stockhem</name></persName>
-    <event type="birth" when="1771-11-05">
-      <place>Kermpt</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Geelvinck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-05-12">
-      <place>Brussel</place>
+    <event type="death" when="1689">
+      <place></place>
     </event>
   </person>
   <biography/>

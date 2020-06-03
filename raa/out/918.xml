@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gillis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">IJsselsteyn</name></persName>
-    <event type="birth" when="1801-07-23">
-      <place>Zierikzee</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Bourboom</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-12-01">
-      <place>Velp (G.)</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

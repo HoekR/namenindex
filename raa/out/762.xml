@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Justinus Hendrikus</name> <name type="geslachtsnaam">Kivits</name></persName>
-    <event type="birth" when="1808">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Isaak Martyn</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Adius</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-05-08">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1719-12-06">
+      <place></place>
     </event>
   </person>
   <biography/>

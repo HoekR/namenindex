@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Loon</name></persName>
-    <event type="birth" when="1794-09-20">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Govert</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Kleef</name></persName>
+    <persName>Willem de Gouda</persName>
+    <persName>Walterus de Gouda</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-10-11">
-      <place>De Vuursche</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

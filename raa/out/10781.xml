@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christoffel</name> <name type="geslachtsnaam">Sprakel</name></persName>
-    <event type="birth" when="1682">
-      <place></place>
+    <persName><name type="voornaam">Erdwin Adrianus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jongh</name></persName>
+    <event type="birth" when="2003">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1728-05-31">
-      <place></place>
+    <event type="death" when="1833-09-25">
+      <place>Rotterdam</place>
     </event>
   </person>
   <biography/>

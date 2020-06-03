@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adriaen Gerardsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoogeveen</name></persName>
-    <event type="birth" when="1697">
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Does</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1753-01-04">
+    <event type="death" when="1713-05-26">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Marinus</name> <name type="geslachtsnaam">Chalmers</name></persName>
-    <event type="birth" when="1720">
+    <persName>
+      <name type="geslachtsnaam">Oosthout</name>
+    </persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1796-02-05">
+    <event type="death">
       <place></place>
     </event>
   </person>

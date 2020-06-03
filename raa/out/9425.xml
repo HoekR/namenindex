@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Dirks</name> <name type="geslachtsnaam">Kuipers</name></persName>
-    <event type="birth" when="1750">
+    <persName><name type="voornaam">Nicolaas Christoffel</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bevervoorde tot Oldemeule</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1828">
+    <event type="death" when="1678-02-01">
       <place></place>
     </event>
   </person>

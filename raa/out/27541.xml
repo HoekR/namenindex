@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/27541"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Cornelis Balduinus Gusselinus</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Osy van Zegwaart</name></persName>
+    <event type="birth" when="2012">
+      <place>Rotterdam</place>
+    </event>
+    <event type="death" when="1831-03-12">
+      <place>Brussel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

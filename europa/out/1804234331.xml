@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1804234331"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs</name> <name type="voornaam">nan</name> <name type="intrapositie">Leiden de</name> <name type="geslachtsnaam">Koning</name></persName>
+    <event type="birth">
+      <date>31-08-1926</date>
+      <place>Zwartsluis</place>
+    </event>
+    <event type="death">
+      <date>09-10-1994</date>
+      <place>Leiden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

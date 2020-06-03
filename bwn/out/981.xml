@@ -1,0 +1,98 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Koenen, Salomon (1871-1922)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/koenen"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">koenen</idno>
+    <persName><name type="geslachtsnaam">Koenen</name>, Salomon</persName>
+    <sex value="1"/>
+    <event type="birth" when="1871"/>
+    <event type="death" when="1922"/>
+    <state type="occupation">landbouwkundige</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Koenen, Salomon&lt;/strong&gt;, landbouweconoom (Amsterdam 20-2-1871 - Bennekom 26-12-1922).
+
+Zoon van Daniel Adriaan Koenen, industrieel, en Ignatia van Notten.
+Gehuwd op 25-5-1899 met Daniela Annette de Graaf. Uit dit huwelijk
+werden 2 zoons en 3 dochters geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Koenen studeerde van 1889-1893 aan de Rijkslandbouwschool te
+Wageningen. In het kader van zijn daarop aansluitende studie voor de
+middelbare akte landbouwkunde volgde hij in het wintersemester
+1895-1896 te Jena o.a. de colleges van de landbouweconoom prof. Th. van
+der Goltz. Na het behalen van de akte (1896), was hij
+Rijksland-bouwleraar voor Overijssel (1896-1905). Alvorens een
+benoeming tot leraar in de landhuishoudkunde aan de Rijks Hoogere
+Land-, Tuin- en Boschbouwschool te Wageningen (1906) te aanvaarden,
+verdiepte hij zijn kennis gedurende een half jaar te Berlijn. Bij de
+verheffing van de RHLTB-school in 1918 tot Landbouwhogeschool volgde
+zijn benoeming tot hoogleraar. Naast zijn functie als docent was Koenen
+van 1906-1912 lid van de Staatscommissie voor den Landbouw, waarvan hij
+een van de meest gezaghebbende leden werd en waarvoor een aantal
+grondig bewerkte rapporten door hem werden geschreven. Van de vele
+commissies en besturen waarin hij zitting had, dienen vermeld te worden
+de Staatscommissie voor het pachtvraagstuk (1919) en sedert 1918 de
+Zuiderzeeraad. Door teveel van zichzelf bij dit alles te vergen werd
+zijn gezondheid echter blijvend geschaad.&lt;/p&gt;
+&lt;p&gt;Hij was als docent zeer geliefd bij zijn studenten. Zijn jarenlange
+praktijkervaring in de landbouw stelde hem in staat de theorie
+dienstbaar te maken aan de verklaring van de concrete landbouwkundige
+werkelijkheid. Zijn publikaties muntten uit door helderheid van
+betoogtrant. Koenen was een beminnelijk man, die vele vrienden had,
+niet alleen om zijn onuitputtelijke hulpvaardigheid, maar evenzeer om
+zijn grote verdraagzaamheid. Politiek stelde hij zich vrij conservatief
+op, maar hij was niet blind voor noodzakelijke vernieuwingen. Door het
+aantrekkelijke van zijn persoonlijkheid won hij het vertrouwen van hoog
+tot laag. Ook bij de boeren wist hij steeds de juiste toon te treffen
+en respect te verwerven door zijn kennis. Hij 'kon boer zijn en
+bleef altijd gentleman'. Met zijn sympathie stond hij aan de kant
+van de boer, zoals duidelijk blijkt uit zijn aanval op het
+ontwerp-Jachtwet. Zijn economisch inzicht duldde niet, dat het belang
+van de jager, dat hij allerminst miskende, zou prevaleren boven het
+hogere belang van de landbouw. Zijn theoretische fundering van de wet
+van de afnemende meer-opbrengsten werd na zijn overlijden gepubliceerd
+door H.W.C. Bordewijk.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;'Landbouw-ongevallen-verzekering in Nederland', in 
+&lt;em&gt;Cultura&lt;/em&gt;
+
+23 (1911) 327-347; 'Welke toekomst gaat hoogstwaarschijnlijk onze
+land-, tuin- en boschbouw na den oorlog tegemoet?', in 
+&lt;em&gt;Verslag van het Nederlandsch Landhuishoudkundig Congres&lt;/em&gt;
+
+69 (1917) 39-42, 114-130; 'Economische beschouwingen betreffende
+het jacht- en wildschadeprobleem, mede in verband met het
+ontwerp-Jachtwet', in 
+&lt;em&gt;De Economist&lt;/em&gt;
+
+70 (1921) 131-161, ook in 
+&lt;em&gt;Cultura&lt;/em&gt;
+
+33 (1921) 87-109; 
+&lt;em&gt;Inleiding tot de landhuishoudkunde.&lt;/em&gt;
+
+Bew. door H.W.C. Bordewijk (Haarlem, 1924).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;H.W.C.Bordewijk, in 
+&lt;em&gt;De Economist&lt;/em&gt;
+
+;72(1923) 1-5; I.G.J. van den Bosch, in 
+&lt;em&gt;Cultura&lt;/em&gt;
+
+35 (1923) 33-35.&lt;/p&gt;
+&lt;p&gt;J.M.G. van der Poel&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

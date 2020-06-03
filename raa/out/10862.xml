@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Idzerd</name> <name type="geslachtsnaam">Aebinga van Humalda</name></persName>
-    <event type="birth" when="1754-09-12">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Paul</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Nassau</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-02-21">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

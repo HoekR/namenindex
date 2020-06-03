@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/15925"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Henrik</name> <name type="geslachtsnaam">Hoeufft</name></persName>
+    <persName>Hoeufft van Velsen</persName>
+    <event type="birth" when="2001">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1894-02-01">
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

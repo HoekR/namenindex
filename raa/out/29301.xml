@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/29301"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Samuel</name> <name type="geslachtsnaam">Snoeck</name></persName>
+    <event type="birth" when="2001">
+      <place>Leiden</place>
+    </event>
+    <event type="death" when="1839-05-27">
+      <place>Leiden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

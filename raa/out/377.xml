@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Hendrik</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Beaufort</name></persName>
-    <event type="birth" when="1775-07-12">
-      <place>IJsselstein</place>
+    <persName><name type="voornaam">Herman</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Zuiderhuizen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-04-21">
-      <place>Utrecht</place>
+    <event type="death" when="1536">
+      <place></place>
     </event>
   </person>
   <biography/>

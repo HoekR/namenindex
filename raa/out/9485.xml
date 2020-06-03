@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Francois Pietersz.</name> <name type="geslachtsnaam">Maelson</name></persName>
-    <persName>Francois Pietersz. Maekschoon</persName>
-    <event type="birth" when="1538">
+    <persName><name type="voornaam">Petrus</name> <name type="geslachtsnaam">Cramer</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1601">
+    <event type="death">
       <place></place>
     </event>
   </person>

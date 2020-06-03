@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Stadt</name></persName>
-    <event type="birth" when="1793-11-04">
-      <place>Zaandam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Pieter Upckes</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Cromwal</name></persName>
+    <persName>Pieter Wopkesz. Cromwal</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-06-16">
-      <place>Zaandam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

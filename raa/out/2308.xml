@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Abraham</name> <name type="intrapositie">Siewertsz van</name> <name type="geslachtsnaam">Reesema</name></persName>
-    <event type="birth" when="1786-05-29">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Buys</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-09-16">
-      <place>Rotterdam</place>
+    <event type="death" when="1686">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Anthony Hugosz.</name> <name type="geslachtsnaam">Repelaer</name></persName>
-    <event type="birth" when="1689">
-      <place></place>
+    <persName><name type="voornaam">Charles Jean Baptiste</name> <name type="geslachtsnaam">Wouters de Terweerden</name></persName>
+    <event type="birth" when="2011">
+      <place>Gent</place>
     </event>
-    <event type="death" when="1746-06-28">
-      <place></place>
+    <event type="death" when="1849-10-21">
+      <place>Mechelen</place>
     </event>
   </person>
   <biography/>

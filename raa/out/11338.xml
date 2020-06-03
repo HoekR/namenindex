@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Theodorus</name> <name type="geslachtsnaam">Graswinckel</name></persName>
-    <persName>Dirk Jansz. Graswinckel</persName>
-    <event type="birth" when="1600">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Arendsz.</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1666-10-12">
+    <event type="death">
       <place></place>
     </event>
   </person>

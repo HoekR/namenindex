@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Gerard Arent</name> <name type="intrapositie">Boreel de</name> <name type="geslachtsnaam">Mauregnault</name></persName>
-    <event type="birth" when="1751-06-24">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Albrechtsz.</name></persName>
+    <persName>Jan Gelis</persName>
+    <persName>Jan Jelis</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1821-07-01">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

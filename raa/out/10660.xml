@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gualtherus George Gideon</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Mieden</name></persName>
-    <event type="birth" when="1736">
-      <place></place>
+    <persName><name type="voornaam">Evert Frederik</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
+    <persName>Van Heeckeren van Enghuizen</persName>
+    <persName>Van Heeckeren van Beverweerd</persName>
+    <event type="birth" when="2012">
+      <place>Arnhem</place>
     </event>
-    <event type="death" when="1798-11-19">
-      <place></place>
+    <event type="death" when="1831-01-13">
+      <place>Hummelo</place>
     </event>
   </person>
   <biography/>

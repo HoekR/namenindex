@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ignace Fr&#233;d&#233;ric Nicolas Florentin</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Thier</name></persName>
-    <event type="birth" when="1767-06-06">
-      <place>Luik</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Filips</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bourgondi&#235;</name></persName>
+    <event type="birth" when="1465">
+      <place></place>
     </event>
-    <event type="death" when="1848-01-19">
-      <place>Kanne</place>
+    <event type="death" when="1524">
+      <place></place>
     </event>
   </person>
   <biography/>

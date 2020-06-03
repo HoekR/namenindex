@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Remees</name> <name type="geslachtsnaam">Modderman</name></persName>
-    <event type="birth" when="1778-05-03">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Kapel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-05-18">
-      <place>Semarang</place>
+    <event type="death" when="1796">
+      <place></place>
     </event>
   </person>
   <biography/>

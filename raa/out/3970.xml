@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Justus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Oldenbarneveld genaamd Witte Tullingh</name></persName>
-    <event type="birth" when="1745">
+    <persName><name type="voornaam">Roelof Hendriksz.</name> <name type="geslachtsnaam">Abrahams</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1795">
+    <event type="death" when="1801">
       <place></place>
     </event>
   </person>

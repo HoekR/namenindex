@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ralph Dundas</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Tindal</name></persName>
-    <event type="birth" when="1773-02-24">
-      <place>Deventer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Andries</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Deught</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-08-04">
-      <place>Zeist</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

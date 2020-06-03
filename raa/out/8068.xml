@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hieronimus</name> <name type="geslachtsnaam">Slicher</name></persName>
-    <event type="birth" when="1689">
+    <persName><name type="voornaam">Willem Anthonie</name> <name type="intrapositie">comte (Empire) de Haze</name> <name type="geslachtsnaam">Bomme</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1755-04-12">
+    <event type="death" when="1865">
       <place></place>
     </event>
   </person>

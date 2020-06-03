@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1591953514"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Christopher</name> <name type="intrapositie">Londen nan</name> <name type="geslachtsnaam">Dow</name></persName>
+    <event type="birth">
+      <date>25-02-1916</date>
+      <place>North-Yorkshire</place>
+    </event>
+    <event type="death">
+      <date>01-12-1998</date>
+      <place>Londen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Engelbert</name> <name type="intrapositie">ridder van den</name> <name type="geslachtsnaam">Dale</name></persName>
-    <persName>Engelbert van den Dalle</persName>
-    <event type="birth" when="1496">
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Mijle</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1556">
+    <event type="death" when="1642-11-21">
       <place></place>
     </event>
   </person>

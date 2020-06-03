@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerard</name> <name type="geslachtsnaam">Schagen</name></persName>
-    <event type="birth" when="1628">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Lodewijk Willem Ernst</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heurn</name></persName>
+    <event type="birth" when="2007">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death" when="1690-02-06">
-      <place></place>
+    <event type="death" when="1845-08-11">
+      <place>'s-Hertogenbosch</place>
     </event>
   </person>
   <biography/>

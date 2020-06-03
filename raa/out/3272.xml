@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jules Louis</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Wellens</name></persName>
-    <event type="birth" when="1802-03-08">
-      <place>Antwerpen</place>
+    <persName><name type="voornaam">Arnoud (Arend)</name> <name type="geslachtsnaam">Coebel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1568">
       <place></place>
     </event>
   </person>

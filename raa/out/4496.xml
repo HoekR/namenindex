@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Wiggersz.</name> <name type="geslachtsnaam">Blaeu</name></persName>
-    <event type="birth" when="1589">
+    <persName><name type="voornaam">Albertus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ruinen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1663-04-23">
+    <event type="death">
       <place></place>
     </event>
   </person>

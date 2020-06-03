@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arend Coenraad</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Lawick tot Benthuis</name></persName>
-    <persName>Arend Coenraad van der Lauwick tot Benthuis</persName>
-    <event type="birth" when="1646">
+    <persName><name type="voornaam">Joos Ommerse</name> <name type="geslachtsnaam">Kieboom</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1707-06-07">
+    <event type="death" when="1809">
       <place></place>
     </event>
   </person>

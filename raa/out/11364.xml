@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dierck</name> <name type="geslachtsnaam">Diercksz.</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan</name> <name type="geslachtsnaam">Ackersdijck</name></persName>
+    <event type="birth" when="2010">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1861-07-13">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

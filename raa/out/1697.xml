@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Henricus Arnoldus Johannes Baptist</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Quay</name></persName>
-    <event type="birth" when="1790-06-25">
-      <place>Grave</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Ulbo</name> <name type="intrapositie">ridder Aylva</name> <name type="geslachtsnaam">Rengers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-12-20">
-      <place>Beets</place>
+    <event type="death" when="1787-05-14">
+      <place></place>
     </event>
   </person>
   <biography/>

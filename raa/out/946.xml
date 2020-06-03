@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gustaaf Willem</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Feltz</name></persName>
-    <event type="birth" when="1780-12-13">
-      <place>Dwingelo</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Regnerus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Bruinsma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-11-22">
-      <place>Assen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

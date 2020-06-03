@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/28814"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Wicher</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Swinderen</name></persName>
+    <event type="birth" when="2004">
+      <place>Groningen</place>
+    </event>
+    <event type="death" when="1821-11-27">
+      <place>Groningen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joachim Assuerus</name> <name type="geslachtsnaam">Schorer</name></persName>
-    <event type="birth" when="1748-08-20">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">E.</name> <name type="geslachtsnaam">Knaven</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-11-27">
-      <place>Middelburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

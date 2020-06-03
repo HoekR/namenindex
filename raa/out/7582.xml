@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Gijsbertsz.</name> <name type="geslachtsnaam">Pauw</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Willem Frederik</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">R&#246;ell</name></persName>
+    <event type="birth" when="2010">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1638-07-28">
-      <place></place>
+    <event type="death" when="1835-03-01">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

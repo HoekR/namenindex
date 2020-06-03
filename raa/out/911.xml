@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Campegius Hermannus</name> <name type="geslachtsnaam">Gockinga</name></persName>
-    <event type="birth" when="1804-09-13">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Lodewijk</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Quarles</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-06-02">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1781-03-19">
+      <place></place>
     </event>
   </person>
   <biography/>

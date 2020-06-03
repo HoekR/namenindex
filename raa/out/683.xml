@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Theodore</name> <name type="geslachtsnaam">Gevers Deynoot</name></persName>
-    <event type="birth" when="1808-09-08">
-      <place>Wassenaar</place>
+    <persName><name type="voornaam">Anthony</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Wesele</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-03-25">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

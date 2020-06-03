@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Jansz.</name></persName>
-    <persName>Willem van der Aa</persName>
-    <persName>Willem Vrancken</persName>
-    <event type="birth" when="1551">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Abeele</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1613-12-27">
+    <event type="death" when="1390">
       <place></place>
     </event>
   </person>

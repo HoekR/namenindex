@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arnoldus Joannes Anthonius</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">H&#246;vell tot Westerflier</name></persName>
-    <persName>Van H&#246;vell tot Westerflier en Wezeveld</persName>
-    <event type="birth" when="1779-02-22">
-      <place>Twello</place>
+    <persName><name type="voornaam">Willem Willemsz.</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Meer</name></persName>
+    <persName>Willem van Alkmaar</persName>
+    <event type="birth" when="1494">
+      <place></place>
     </event>
-    <event type="death" when="1862-06-17">
-      <place>Donsbr&#252;ggen</place>
+    <event type="death" when="1543">
+      <place></place>
     </event>
   </person>
   <biography/>

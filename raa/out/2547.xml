@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Andries</name> <name type="geslachtsnaam">Stinstra</name></persName>
-    <event type="birth" when="1783-06-13">
-      <place>Franeker</place>
+    <persName><name type="voornaam">Bernhard</name> <name type="intrapositie">ten Zijthoff</name> <name type="geslachtsnaam">Auffmorth</name></persName>
+    <persName>Aufmorth</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-10-21">
-      <place>Franeker</place>
+    <event type="death" when="1821">
+      <place></place>
     </event>
   </person>
   <biography/>

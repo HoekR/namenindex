@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wybrand</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Itsma</name></persName>
-    <event type="birth" when="1693">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Constantijn Theodore</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Lynden van Sandenburg</name></persName>
+    <event type="birth" when="2002">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1759-06-30">
-      <place></place>
+    <event type="death" when="1885-08-11">
+      <place>Neerlangbroek</place>
     </event>
   </person>
   <biography/>

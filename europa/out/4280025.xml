@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/4280025"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Berlijn nan</name> <name type="geslachtsnaam">Rathenau</name></persName>
+    <event type="birth">
+      <date>29-09-1867</date>
+      <place>Berlijn</place>
+    </event>
+    <event type="death">
+      <date>24-06-1922</date>
+      <place>Berlijn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

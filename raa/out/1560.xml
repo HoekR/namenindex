@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Cornelissen</name></persName>
-    <event type="birth" when="1808-09-02">
-      <place>Steenwijk</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Paul</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Mensin</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-01-14">
-      <place>Meppel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

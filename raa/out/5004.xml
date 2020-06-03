@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philips</name> <name type="geslachtsnaam">Doubleth</name></persName>
-    <event type="birth" when="1600">
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Klaasz. (van Schoonhoven)</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1674-03-31">
+    <event type="death" when="1525">
       <place></place>
     </event>
   </person>

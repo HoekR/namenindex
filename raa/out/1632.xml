@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johannes Albertus</name> <name type="geslachtsnaam">Sandberg</name></persName>
-    <persName>Sandberg van 't Laar</persName>
-    <event type="birth" when="1798-05-27">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">Swerius</name> <name type="geslachtsnaam">Halffman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1883-04-03">
-      <place>Zwolle</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

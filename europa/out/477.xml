@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/477"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Rotterdam van der</name> <name type="geslachtsnaam">Mandele</name></persName>
+    <event type="birth">
+      <date>01-11-1880</date>
+      <place>Delft</place>
+    </event>
+    <event type="death">
+      <date>23-01-1975</date>
+      <place>Rotterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

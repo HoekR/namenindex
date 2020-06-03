@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Haring</name> <name type="geslachtsnaam">Romkes</name></persName>
+    <persName><name type="voornaam">Derk Christoffel</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Voorst tot Hagenvoorde</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1782-12-08">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Reinier</name> <name type="geslachtsnaam">Op ten Noort</name></persName>
-    <event type="birth" when="1771-07-10">
-      <place>Zutphen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pibo</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Doma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-11-13">
-      <place>Zutphen</place>
+    <event type="death" when="1675-12-02">
+      <place></place>
     </event>
   </person>
   <biography/>

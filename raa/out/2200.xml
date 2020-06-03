@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jacob</name> <name type="geslachtsnaam">Carp</name></persName>
-    <event type="birth" when="1792-12-18">
-      <place>Waardenburg</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Feycke</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Herbranda</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-12-02">
-      <place>Leiderdorp</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

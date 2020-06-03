@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Daniel Frans</name> <name type="geslachtsnaam">Schas</name></persName>
-    <event type="birth" when="1821-02-08">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Frederik</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Roorda</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1897-10-02">
-      <place>Eefde</place>
+    <event type="death" when="1665-07-29">
+      <place></place>
     </event>
   </person>
   <biography/>

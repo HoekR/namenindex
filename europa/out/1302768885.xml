@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1302768885"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Rome nan</name> <name type="geslachtsnaam">Ossola</name></persName>
+    <event type="birth">
+      <date>18-11-1913</date>
+      <place>Lecco</place>
+    </event>
+    <event type="death">
+      <date>07-12-1990</date>
+      <place>Rome</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

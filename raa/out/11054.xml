@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Buyskes</name></persName>
-    <event type="birth" when="1636">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Albertus</name> <name type="geslachtsnaam">Sandberg</name></persName>
+    <persName>Sandberg van 't Laar</persName>
+    <event type="birth" when="2012">
+      <place>Zwolle</place>
     </event>
-    <event type="death" when="1696-11-29">
-      <place></place>
+    <event type="death" when="1843-06-03">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

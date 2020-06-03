@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1467107461"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Teheran (executie) nan</name> <name type="geslachtsnaam">Hoveyda</name></persName>
+    <event type="birth">
+      <date>18-02-1919</date>
+      <place>Teheran</place>
+    </event>
+    <event type="death">
+      <date>07-04-1979</date>
+      <place>Teheran (executie)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

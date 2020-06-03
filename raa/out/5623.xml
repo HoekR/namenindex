@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Joost</name> <name type="geslachtsnaam">Revius</name></persName>
-    <event type="birth" when="1735">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Simon Simonsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Benthem</name></persName>
+    <persName>Simon van Teilingen vanaf 1339.</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1817">
+    <event type="death" when="1345">
       <place></place>
     </event>
   </person>

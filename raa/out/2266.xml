@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Alexander</name> <name type="geslachtsnaam">Swaan</name></persName>
-    <event type="birth" when="1789-08-05">
-      <place>Geertruidenberg</place>
+    <persName><name type="voornaam">A.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Pluym</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-12-19">
-      <place>West-Terschelling</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

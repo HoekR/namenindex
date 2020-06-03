@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1380050897"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Sir</name> <name type="voornaam">nan</name> <name type="intrapositie">San Francisco nan</name> <name type="geslachtsnaam">Mansfield </name></persName>
+    <event type="birth">
+      <date>09-05-1926</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>14-05-2003</date>
+      <place>San Francisco</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

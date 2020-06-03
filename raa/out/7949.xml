@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Braet</name></persName>
-    <event type="birth" when="1722">
-      <place></place>
+    <persName><name type="voornaam">Charles Andr&#233; Louis Fran&#231;ois</name> <name type="geslachtsnaam">Huughe</name></persName>
+    <persName>Huughe van Peutevin</persName>
+    <event type="birth" when="2012">
+      <place>Ieper</place>
     </event>
-    <event type="death" when="1802">
-      <place></place>
+    <event type="death" when="1878-09-14">
+      <place>Zillebeke</place>
     </event>
   </person>
   <biography/>

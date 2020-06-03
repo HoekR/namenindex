@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Daniel Marinus</name> <name type="intrapositie">van Dusseldorp de</name> <name type="geslachtsnaam">Superville</name></persName>
-    <event type="birth" when="1801-12-12">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Anthonius Ruardus</name> <name type="geslachtsnaam">Fink</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-03-14">
-      <place>Middelburg</place>
+    <event type="death" when="1834">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Carel</name> <name type="geslachtsnaam">Dierkens</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Hindrik</name> <name type="geslachtsnaam">Keiser</name></persName>
+    <event type="birth" when="2009">
+      <place>Groningen</place>
     </event>
-    <event type="death" when="1778">
-      <place></place>
+    <event type="death" when="1827-03-23">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

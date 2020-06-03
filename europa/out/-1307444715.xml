@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1307444715"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Rotterdam nan</name> <name type="geslachtsnaam">Laan jr.</name></persName>
+    <event type="birth">
+      <date>10-12-1914</date>
+      <place>Velsen</place>
+    </event>
+    <event type="death">
+      <date>03-11-1993</date>
+      <place>Rotterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

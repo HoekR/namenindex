@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/31739"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Herman Ulrich</name> <name type="geslachtsnaam">Huguenin</name></persName>
+    <event type="birth" when="2011">
+      <place>Wolvega</place>
+    </event>
+    <event type="death" when="1873-08-23">
+      <place>Groningen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

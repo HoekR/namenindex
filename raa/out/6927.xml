@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Heyndrick Claesz.</name> <name type="geslachtsnaam">Verwer</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Saris</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Slingeland</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1668">
+    <event type="death" when="1499">
       <place></place>
     </event>
   </person>

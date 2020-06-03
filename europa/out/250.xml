@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/250"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs.</name> <name type="voornaam">nan</name> <name type="intrapositie">Kalmthout nan</name> <name type="geslachtsnaam">Speekenbrink</name></persName>
+    <event type="birth">
+      <date>20-04-1905</date>
+      <place>Breda</place>
+    </event>
+    <event type="death">
+      <date>02-11-1978</date>
+      <place>Kalmthout</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

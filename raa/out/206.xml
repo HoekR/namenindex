@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Hendricus Franciscus Josephus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Schenk van Nijdeggen</name></persName>
-    <event type="birth" when="1758-10-12">
-      <place>Nijmegen</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Uitwijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-02-15">
-      <place>Oranjewoud</place>
+    <event type="death" when="1559">
+      <place></place>
     </event>
   </person>
   <biography/>

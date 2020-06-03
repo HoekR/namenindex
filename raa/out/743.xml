@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Henricus Ludovicus</name> <name type="geslachtsnaam">Fi&#233;vez</name></persName>
-    <event type="birth" when="1796-02-01">
+    <persName><name type="voornaam">Ewout Evertsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bleyswijk</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1869-12-02">
+    <event type="death" when="1723-09-05">
       <place></place>
     </event>
   </person>

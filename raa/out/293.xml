@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Antonius</name> <name type="geslachtsnaam">Schiefbaan</name></persName>
-    <event type="birth" when="1759-01-20">
-      <place>Delft</place>
+    <persName><name type="voornaam">Antoine-Marie</name> <name type="geslachtsnaam">Chamans de La Valette</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1826-01-25">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1830">
+      <place></place>
     </event>
   </person>
   <biography/>

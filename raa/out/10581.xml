@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jacob George</name> <name type="geslachtsnaam">Baert</name></persName>
-    <event type="birth">
+    <persName><name type="voornaam">Heiman Vincentsz.</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Ketel</name></persName>
+    <persName>Heyme van de Ketel</persName>
+    <persName>Heiman Mierop van de Ketel</persName>
+    <event type="birth" when="1510">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1560">
       <place></place>
     </event>
   </person>

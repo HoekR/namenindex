@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Laer</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Edzard Jacob</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Lewe van Middelstum</name></persName>
+    <event type="birth" when="2006">
+      <place>Groningen</place>
     </event>
-    <event type="death" when="1799-12-09">
-      <place></place>
+    <event type="death" when="1856-11-05">
+      <place>Meppel</place>
     </event>
   </person>
   <biography/>

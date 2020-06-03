@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="intrapositie">de</name> <name type="geslachtsnaam">Bruyn</name></persName>
+    <persName><name type="voornaam">Sweder</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Scheele tot Weleveld</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1639-05-28">
       <place></place>
     </event>
   </person>

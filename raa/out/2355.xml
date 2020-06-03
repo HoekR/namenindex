@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Abraham Matthieu</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Rouville</name></persName>
-    <event type="birth" when="1812-05-13">
-      <place>Middelharnis</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Floris</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Mol</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-10-09">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

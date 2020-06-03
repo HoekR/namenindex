@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arie</name> <name type="geslachtsnaam">Vlielander</name></persName>
-    <persName>Vlielander van Nieuwenhoorn</persName>
-    <event type="birth" when="1793-03-23">
-      <place>Zuidland</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Veen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-11-02">
-      <place>Numansdorp</place>
+    <event type="death" when="1752-09-01">
+      <place></place>
     </event>
   </person>
   <biography/>

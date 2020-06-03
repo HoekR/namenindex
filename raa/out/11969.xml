@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Boudewijn</name> <name type="geslachtsnaam">Onderwater</name></persName>
-    <event type="birth" when="1764-07-08">
-      <place>Dordrecht</place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Michel Joseph</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gobbelschroy</name></persName>
+    <event type="birth" when="2003">
+      <place>Leuven</place>
     </event>
-    <event type="death" when="1842-11-18">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1825-12-03">
+      <place>Brussel</place>
     </event>
   </person>
   <biography/>

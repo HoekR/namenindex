@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Guillaume Adrien G&#233;rard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Maanen</name></persName>
-    <event type="birth" when="1801-03-05">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Adrianus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Bergsma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-11-25">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1824-10-14">
+      <place></place>
     </event>
   </person>
   <biography/>

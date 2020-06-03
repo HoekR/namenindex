@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adrianus Cornelis</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Thom&#232;ze</name></persName>
-    <event type="birth" when="1751">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter Lodewijk</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lom de Berg</name></persName>
+    <event type="birth" when="2003">
+      <place>Venlo</place>
     </event>
-    <event type="death" when="1803">
-      <place></place>
+    <event type="death" when="1873">
+      <place>Venlo</place>
     </event>
   </person>
   <biography/>

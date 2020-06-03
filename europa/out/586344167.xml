@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/586344167"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Ir.</name> <name type="voornaam">nan</name> <name type="intrapositie">Breda nan</name> <name type="geslachtsnaam">Woltjer</name></persName>
+    <event type="birth">
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>15-05-1996</date>
+      <place>Breda</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

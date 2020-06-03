@@ -1,0 +1,94 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Dorren, Corneille Jacques Odilon (1880-1970)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/dorren"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">dorren</idno>
+    <persName><name type="geslachtsnaam">Dorren</name>, Corneille Jacques Odilon</persName>
+    <sex value="1"/>
+    <event type="birth" when="1880"/>
+    <event type="death" when="1970"/>
+    <state type="occupation">marineofficier</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Dorren, Corneille Jacques Odilon&lt;/strong&gt;, marineofficier (Breda 22-6-1880 - Rotterdam 5-12-1970).
+
+Zoon van Christiaan Hubertus Dorren, 1e luitenant infanterie, en Maria
+Antonia Marijnen. Gehuwd sinds 3-6-1905 met Maria Cornelia Brouwer. Uit
+dit huwelijk werden 2 dochters geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Dorren volgde, na enige jaren de R.K. lagere school te Beek bij
+Nijmegen bezocht te hebben, het onderwijs op de R.K. kostschool De
+Ruwenberg te St. Michielsgestel en daarna van 1892 tot 1895 op het
+Seminarie te Culemborg. Omdat hij officier wilde worden, verliet hij
+deze instelling en ging ter voorbereiding op de toelating tot het
+Koninklijke Instituut voor de Marine naar het internaat Wegerif te
+Nijmegen. In 1897 begon zijn 4-jarige adelborsten-opleiding tot
+officier der mariniers. Dorren werd op 21-9-1901 benoemd tot 2e
+luitenant. Diverse detacheringen vonden aan boord van schepen en op
+walinrichtingen plaats, zowel in Nederland als in het voormalige
+Nederlands-Oost-Indi&amp;euml;. Zo was hij o.m. eerste officier op het
+Koninklijk Instituut voor de Marine, tevens belast met militaire
+vorming en opvoeding van adelborsten en voerde hij bevel over de
+marinekazerne Goebeng in Soerabaja. In 1926, ten tijde van de
+communistische onlusten op Java, was hij als kapitein der mariniers, op
+verzoek van het civiel bestuur, belast met het bevel over de
+troepenmacht ter beveiliging van vitale objecten in Soerabaja. In 1933
+was Dorren president van de zeekrijgsraad daar bij de berechting van
+betrokkenen bij de muiterij aan boord van Hr.Ms. De Zeven
+Provinci&amp;euml;n. Van 1-11-1934 tot l-9-1938 was hij chef van het Korps
+Mariniers in de rang van kolonel der mariniers. Tijdens dit commando
+werd de eerste 'vredesoperatie' van het Korps uitgevoerd door
+deelneming van een detachement mariniers onder leiding van de kapitein
+der mariniers M.R. de Bruyne aan de internationale troepenmacht bij de
+volksstemming in het Saargebied.&lt;/p&gt;
+&lt;p&gt;Na zijn pensionering per 1 -9-1938 maakte hij zich verdienstelijk
+met het schrijven van geschiedkundige werken, in het bijzonder over het
+Korps Mariniers. Op grond van zijn wetenschappelijk werk 
+&lt;em&gt;De geschiedenis van het Nederlandsche Korps Mariniers van
+1665-1945&lt;/em&gt;
+
+('s-Gravenhage, 1948) werd hij op 1-12-1947 bevorderd tot
+generaal-majoor der mariniers (titulair). Verder publiceerde hij in het
+
+&lt;em&gt;Marineblad&lt;/em&gt;
+
+van 1950 'Een historische terugblik op de ontsluiting van Japan na
+de maritieme strafexpedities tegen Kagoshima en Simonoseki
+(1863-1864)'. Tegelijkertijd begon hij een studie over de
+mariniersbrigade, die werd uitgegeven onder de titel 
+&lt;em&gt;Onze mariniersbrigade (1945-1949). Een veelbewogen episode in de
+korpsgeschiedenis&lt;/em&gt;
+
+('s-Gravenhage, [1955]), handelende over de activiteiten van het
+Korps Mariniers van na de Japanse capitulatie tot aan de
+souvereiniteitsoverdracht. Ook publiceerde hij regelmatig in het
+periodiek voor officieren der mariniers 
+&lt;em&gt;Qua Palet Orbis,&lt;/em&gt;
+
+zelfs nog op 90-jarige leeftijd, kort voor zijn dood, 'Paradox
+bewapeningswedloop en 's mensen gedragspatroon in het dreigend
+conflict mens-biosfeer' (1970).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve de reeds genoemde werken: 'Hoe staan de kansen voor een
+derde wereldoorlog', 'Een zaak op leven en dood van het
+mensdom' en 'Japan, explosief fenomeen na de vrede van Tokyo
+(1945)', in 
+&lt;em&gt;Qua Palet Orbis&lt;/em&gt;
+
+van 1969.&lt;/p&gt;
+&lt;p&gt;W.G. Snellen&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

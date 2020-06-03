@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Everhard Alexander</name> <name type="geslachtsnaam">Ver Huell</name></persName>
-    <event type="birth" when="1759">
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Westwoude</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1829">
+    <event type="death" when="1673-03-09">
       <place></place>
     </event>
   </person>

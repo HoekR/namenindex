@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Popke Gjalts</name> <name type="geslachtsnaam">Landmeter</name></persName>
-    <persName>Siebes</persName>
-    <event type="birth" when="1756">
+    <persName><name type="voornaam">Albert Hilberts</name> <name type="geslachtsnaam">Kok</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1825">
+    <event type="death" when="1850">
       <place></place>
     </event>
   </person>

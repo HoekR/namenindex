@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan Willem</name> <name type="intrapositie">Van Thije</name> <name type="geslachtsnaam">Hannes</name></persName>
-    <event type="birth" when="1809-01-09">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">Jan Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schagen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-03-26">
-      <place>Zwolle</place>
+    <event type="death" when="1725-12-13">
+      <place></place>
     </event>
   </person>
   <biography/>

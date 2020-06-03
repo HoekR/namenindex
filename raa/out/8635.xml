@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Epe</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Aylva</name></persName>
-    <persName>Epo van Aylva</persName>
-    <event type="birth" when="1650">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerrit Willem</name> <name type="geslachtsnaam">Panneboeter</name></persName>
+    <event type="birth" when="2007">
+      <place>Fijnaart</place>
     </event>
-    <event type="death" when="1720-09-06">
-      <place></place>
+    <event type="death" when="1830-08-04">
+      <place>Roosendaal</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaen Cornelisz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Stockum</name></persName>
-    <persName>Adriaen Cornelisz. Stockman</persName>
-    <event type="birth" when="1587">
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sixtus Julius</name> <name type="intrapositie">ridder Botnia van</name> <name type="geslachtsnaam">Dekema</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1659-10-01">
+    <event type="death">
       <place></place>
     </event>
   </person>

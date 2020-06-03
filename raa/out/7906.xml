@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter Theodoor</name> <name type="geslachtsnaam">Golts</name></persName>
-    <persName>Pieter Derk Golts</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Foppe</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jansz.</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1778-10-12">
+    <event type="death">
       <place></place>
     </event>
   </person>

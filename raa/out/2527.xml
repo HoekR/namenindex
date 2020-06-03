@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Carel Salomon</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Poll</name></persName>
-    <event type="birth" when="1802-09-26">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Unico Wilhelm</name> <name type="intrapositie">heer van</name> <name type="geslachtsnaam">Wassenaer-Obdam</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-09-21">
-      <place>St. George d'Elmina</place>
+    <event type="death" when="1766-09-11">
+      <place></place>
     </event>
   </person>
   <biography/>

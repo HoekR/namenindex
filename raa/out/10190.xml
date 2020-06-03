@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antonie Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Doorn</name></persName>
+    <persName><name type="voornaam">Adriaan Nicolaesz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boogaert</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1769-11-22">
       <place></place>
     </event>
   </person>

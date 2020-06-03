@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1680378093"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Bad Honnef nan</name> <name type="geslachtsnaam">Berger</name></persName>
+    <event type="birth">
+      <date>29-10-1909</date>
+      <place>K&#246;ln</place>
+    </event>
+    <event type="death">
+      <date>06-03-1985</date>
+      <place>Bad Honnef</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

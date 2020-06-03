@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gellinchuysen</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Herman van Gijsenz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Boschuysen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1646-11-29">
+    <event type="death">
       <place></place>
     </event>
   </person>

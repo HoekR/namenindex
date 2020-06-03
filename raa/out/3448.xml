@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Eusebius Willem</name> <name type="geslachtsnaam">Bentinck tot Diepenheim</name></persName>
-    <event type="birth" when="1710">
+    <persName><name type="voornaam">Jan Willemsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Verdam</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1756-12-25">
+    <event type="death">
       <place></place>
     </event>
   </person>

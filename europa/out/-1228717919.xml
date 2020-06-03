@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1228717919"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">Henk</name> <name type="intrapositie">Huizen van</name> <name type="geslachtsnaam">Nierop</name></persName>
+    <event type="birth">
+      <date>07-06-1881</date>
+      <place>Amsterdam</place>
+    </event>
+    <event type="death">
+      <date>1976</date>
+      <place>Huizen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

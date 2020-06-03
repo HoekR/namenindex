@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Meinardus</name> <name type="geslachtsnaam">Siderius</name></persName>
-    <event type="birth" when="1754">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Franciscus Xaverius</name> <name type="geslachtsnaam">Verheyen</name></persName>
+    <event type="birth" when="2002">
+      <place>Loon op Zand</place>
     </event>
-    <event type="death" when="1829">
-      <place></place>
+    <event type="death" when="1851-08-22">
+      <place>Loon op Zand</place>
     </event>
   </person>
   <biography/>

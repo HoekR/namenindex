@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/807"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr. dr.</name> <name type="voornaam">Louis</name> <name type="intrapositie">Maastricht nan</name> <name type="geslachtsnaam">Regout</name></persName>
+    <event type="birth">
+      <date>03-04-1891</date>
+      <place>Maastricht</place>
+    </event>
+    <event type="death">
+      <date>20-08-1966</date>
+      <place>Maastricht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

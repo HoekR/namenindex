@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/30846"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jean Fran&#231;ois</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Iddekinge</name></persName>
+    <event type="birth" when="2005">
+      <place>Kropswolde</place>
+    </event>
+    <event type="death" when="1848-06-04">
+      <place>Groningen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

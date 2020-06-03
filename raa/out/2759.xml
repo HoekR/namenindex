@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Alexandre</name> <name type="geslachtsnaam">Schoenmaekers</name></persName>
-    <event type="birth" when="1819-06-11">
-      <place>Meerssen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Symons</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-03-10">
+    <event type="death">
       <place></place>
     </event>
   </person>

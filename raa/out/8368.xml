@@ -8,14 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jasper Lievensz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hogelande</name></persName>
-    <persName>Casparus de Terra Alta</persName>
-    <persName>Casparus Levini Hogelandius</persName>
-    <persName>Casper Lievensz. van Hoochlande</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan Andriesz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Biggekerke</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1546">
+    <event type="death">
       <place></place>
     </event>
   </person>

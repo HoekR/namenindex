@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Rutger</name> <name type="geslachtsnaam">Feith</name></persName>
-    <event type="birth" when="1773-09-08">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Leonard Constantijn</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sonsbeeck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-03-12">
-      <place>Zwolle</place>
+    <event type="death" when="1812">
+      <place></place>
     </event>
   </person>
   <biography/>

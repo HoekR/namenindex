@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.dr.</name> <name type="voornaam">Wicher</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Swinderen</name></persName>
-    <event type="birth" when="1802-03-24">
-      <place>Groningen</place>
+    <persName><name type="voornaam">M.C.G.</name> <name type="geslachtsnaam">Crol</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-08-17">
-      <place>Hichtum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

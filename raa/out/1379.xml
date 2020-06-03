@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Duuring</name></persName>
-    <persName>Duuring van Oudaen en Breukelen-St. Pieter</persName>
-    <event type="birth" when="1780-09-03">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Gerardus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Jacobi</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-12-10">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

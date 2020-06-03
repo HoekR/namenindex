@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jan Reinhart Gerard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reede</name></persName>
-    <persName>Van Reede van Ginkel</persName>
-    <persName>Van Reede van Doeveren</persName>
-    <event type="birth" when="1774-12-11">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Jan (Hendriksz.)</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wassenaar</name></persName>
+    <event type="birth" when="1427">
+      <place></place>
     </event>
-    <event type="death" when="1818-03-18">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1496">
+      <place></place>
     </event>
   </person>
   <biography/>

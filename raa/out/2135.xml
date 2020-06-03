@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Paul Fran&#231;ois</name> <name type="geslachtsnaam">Hubrecht</name></persName>
-    <event type="birth" when="1778-03-25">
-      <place>Leiden</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Feycke</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Tatmans</name></persName>
+    <persName>Feycke Tetmans</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-03-11">
-      <place>Leiden</place>
+    <event type="death" when="1601-02-04">
+      <place></place>
     </event>
   </person>
   <biography/>

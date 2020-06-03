@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Petrus Franciscus</name> <name type="geslachtsnaam">Gulj&#233;</name></persName>
-    <event type="birth" when="1749">
+    <persName><name type="voornaam">Jacob Sybrantsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Walhoven</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1810">
+    <event type="death">
       <place></place>
     </event>
   </person>

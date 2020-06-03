@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Job Seaburne</name> <name type="geslachtsnaam">May</name></persName>
-    <event type="birth" when="1765-03-18">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gajus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Nauta</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-01-21">
-      <place>Rotterdam</place>
+    <event type="death" when="1645-10-19">
+      <place></place>
     </event>
   </person>
   <biography/>

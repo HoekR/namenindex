@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1672342009"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jhr.</name> <name type="voornaam">Tjarda</name> <name type="intrapositie">nan van</name> <name type="geslachtsnaam">Starkenborgh Stachouwer</name></persName>
+    <event type="birth">
+      <date>07-03-1888</date>
+      <place>Groningen</place>
+    </event>
+    <event type="death">
+      <date>16-08-1978</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

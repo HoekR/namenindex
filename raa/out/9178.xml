@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Timon</name> <name type="geslachtsnaam">Sloet tot Borgbeuningen</name></persName>
-    <event type="birth" when="1667">
-      <place></place>
+    <persName><name type="voornaam">Christoffel</name> <name type="geslachtsnaam">Binkes</name></persName>
+    <event type="birth" when="2008">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1743-11-08">
-      <place></place>
+    <event type="death" when="1868-04-20">
+      <place>Haarlem</place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arien Jacobsz.</name> <name type="geslachtsnaam">Dijksen</name></persName>
+    <persName><name type="voornaam">Jasper</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ockers</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1689-10-05">
       <place></place>
     </event>
   </person>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Pierre Godefroid Gilles Joseph</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">L&#233;onaerdts</name></persName>
-    <persName>De Leonaerdts d'Achel</persName>
-    <event type="birth" when="1763-12-22">
-      <place>Waldfeucht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sjuck</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Burmania</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1830-01-26">
-      <place>Luik</place>
+    <event type="death" when="1726-05-21">
+      <place></place>
     </event>
   </person>
   <biography/>

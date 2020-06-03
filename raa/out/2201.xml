@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Anthony</name> <name type="geslachtsnaam">Ebeling</name></persName>
-    <event type="birth" when="1788-11-12">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Johan Wilhem</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Lormier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-10-27">
-      <place>Zeist</place>
+    <event type="death" when="1785">
+      <place></place>
     </event>
   </person>
   <biography/>

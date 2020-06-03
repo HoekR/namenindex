@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jacob</name> <name type="geslachtsnaam">Rochussen</name></persName>
-    <event type="birth" when="1797-10-23">
-      <place>Etten</place>
+    <persName><name type="voornaam">Antonie</name> <name type="geslachtsnaam">Roepel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-01-21">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

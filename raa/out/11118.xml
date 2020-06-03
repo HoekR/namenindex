@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Vincent Gustaaf</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hompesch</name></persName>
-    <event type="birth" when="1728">
-      <place></place>
+    <persName><name type="voornaam">Gijsbert Carel Cornelis Jan</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Lynden van Sandenburg</name></persName>
+    <event type="birth" when="2002">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1778-09-09">
-      <place></place>
+    <event type="death" when="1850-03-08">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

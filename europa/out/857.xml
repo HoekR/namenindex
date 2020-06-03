@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/857"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Hjalmar</name> <name type="intrapositie">M&#252;nchen nan</name> <name type="geslachtsnaam">Schacht</name></persName>
+    <event type="birth">
+      <date>22-01-1877</date>
+      <place>Tinglev</place>
+    </event>
+    <event type="death">
+      <date>03-06-1970</date>
+      <place>M&#252;nchen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

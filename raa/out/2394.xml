@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ary</name> <name type="geslachtsnaam">Hoogendijk</name></persName>
-    <event type="birth" when="1800-08-15">
-      <place>Vlaardingen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arend</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Simonsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-07-14">
-      <place>Vlaardingen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-340183361"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Nye</name> <name type="intrapositie">Chresham nan</name> <name type="geslachtsnaam">Bevan</name></persName>
+    <event type="birth">
+      <date>15-11-1897</date>
+      <place>Tredegar</place>
+    </event>
+    <event type="death">
+      <date>06-07-1960</date>
+      <place>Chresham</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

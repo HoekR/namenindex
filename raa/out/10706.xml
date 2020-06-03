@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Brasker</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Jan</name> <name type="intrapositie">duc (Empire) d'</name> <name type="geslachtsnaam">Ablaing van Giessenburg</name></persName>
+    <event type="birth" when="2007">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1704">
-      <place></place>
+    <event type="death" when="1892-01-04">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

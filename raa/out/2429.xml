@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Christinus Wijnand</name> <name type="geslachtsnaam">Hubrecht</name></persName>
-    <event type="birth" when="1821-01-17">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Nanningh</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Cloeck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1889-03-02">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1702-07-26">
+      <place></place>
     </event>
   </person>
   <biography/>

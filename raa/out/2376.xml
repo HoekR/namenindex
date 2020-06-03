@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">August Eduard</name> <name type="geslachtsnaam">Roest van Limburg</name></persName>
-    <event type="birth" when="1814-07-19">
-      <place>Antwerpen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan III</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Arkel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1898-01-18">
-      <place>Rotterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

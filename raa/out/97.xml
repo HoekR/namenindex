@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arnoldus Johannes</name> <name type="intrapositie">Vos de</name> <name type="geslachtsnaam">Wael</name></persName>
-    <event type="birth" when="1787-02-10">
-      <place>Venlo</place>
+    <persName><name type="voornaam">Johan</name> <name type="geslachtsnaam">Meerman van Dalem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-05-09">
-      <place>Zwolle</place>
+    <event type="death" when="1815">
+      <place></place>
     </event>
   </person>
   <biography/>

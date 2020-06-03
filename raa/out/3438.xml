@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Leendert Huibrecht</name> <name type="intrapositie">de Haze</name> <name type="geslachtsnaam">Bomme</name></persName>
-    <event type="birth" when="1762">
+    <persName><name type="voornaam">Fran&#231;ois Adriaan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Leyden van Leeuwen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1837">
+    <event type="death" when="1726-12-08">
       <place></place>
     </event>
   </person>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hoite</name> <name type="intrapositie">(van)</name> <name type="geslachtsnaam">Meinsma</name></persName>
-    <persName>Horatius Meinsma</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Fran&#231;ois Joseph</name> <name type="intrapositie">du</name> <name type="geslachtsnaam">Bus</name></persName>
+    <event type="birth" when="2009">
+      <place>Dottignies</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1835-01-17">
+      <place>Doornik</place>
     </event>
   </person>
   <biography/>

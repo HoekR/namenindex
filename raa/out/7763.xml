@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Reynder Claesz.</name> <name type="geslachtsnaam">Snoeck</name></persName>
+    <persName><name type="voornaam">Huibert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Griffioen</name></persName>
+    <persName>Griffioen van Waarder</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1836-06-17">
       <place></place>
     </event>
   </person>

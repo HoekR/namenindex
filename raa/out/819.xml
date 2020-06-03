@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Laurent Antoine Ghislain</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Male de Ghorain</name></persName>
-    <event type="birth" when="1776-08-23">
-      <place>Brussel</place>
+    <persName><name type="voornaam">Jacob Johansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Gael</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-04-20">
-      <place>Sint Jans Molenbeek</place>
+    <event type="death" when="1780-08-30">
+      <place></place>
     </event>
   </person>
   <biography/>

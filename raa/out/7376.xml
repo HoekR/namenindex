@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Clemens August</name> <name type="intrapositie">baron (empire) von</name> <name type="geslachtsnaam">Wedel tot G&#246;dens</name></persName>
-    <event type="birth" when="1754">
+    <persName><name type="voornaam">N.J.</name> <name type="geslachtsnaam">Janssen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1825">
+    <event type="death">
       <place></place>
     </event>
   </person>

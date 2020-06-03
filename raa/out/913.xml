@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Pieter</name> <name type="intrapositie">Noiret de</name> <name type="geslachtsnaam">Bruyn</name></persName>
-    <persName>Noiret de Bruyn van Melis- en Mariekerke</persName>
-    <event type="birth" when="1794-02-05">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Filips</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Coebel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-09-15">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1566">
+      <place></place>
     </event>
   </person>
   <biography/>

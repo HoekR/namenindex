@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.C.</name> <name type="geslachtsnaam">Volcker</name></persName>
-    <persName>Volckar</persName>
-    <event type="birth">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Blasiusz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Bouquet</name></persName>
+    <event type="birth" when="1505">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1570">
       <place></place>
     </event>
   </person>

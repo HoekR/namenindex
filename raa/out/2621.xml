@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Frederik Hessel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Beyma thoe Kingma</name></persName>
-    <event type="birth" when="1818-04-07">
-      <place>Workum</place>
+    <persName><name type="voornaam">J.P.</name> <name type="geslachtsnaam">Strik van Wijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1899-02-03">
-      <place>Heerenveen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

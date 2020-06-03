@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/2003075983"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Rotterdam nan</name> <name type="geslachtsnaam">Oud</name></persName>
+    <event type="birth">
+      <date>05-12-1886</date>
+      <place>Purmerend</place>
+    </event>
+    <event type="death">
+      <date>12-08-1968</date>
+      <place>Rotterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Carolus Fredericus Josephus</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Keverberg van Kessel</name></persName>
-    <persName>De Keverberg d'Aldengoor</persName>
-    <event type="birth" when="1769-07-18">
-      <place>Haelen</place>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Aerssen van Voshol</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-07-16">
-      <place>Haelen</place>
+    <event type="death" when="1766-11-16">
+      <place></place>
     </event>
   </person>
   <biography/>

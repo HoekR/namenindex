@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Claes Jacobsz.</name> <name type="geslachtsnaam">Sijms</name></persName>
-    <persName>Claes Jacobsz. Simonsz.</persName>
-    <event type="birth" when="1556">
+    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Lanckamp</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1613-11-28">
+    <event type="death">
       <place></place>
     </event>
   </person>

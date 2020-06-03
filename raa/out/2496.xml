@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Tjalling Aedo Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <event type="birth" when="1790-12-06">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Weyns</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-05-10">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

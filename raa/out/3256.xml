@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Henri Jean</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Meyier</name></persName>
-    <event type="birth" when="1809-03-02">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Aucke</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Lycklama &#224; Nijeholt</name></persName>
+    <persName>Augustinus Lycklama &#224; Nijeholt</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-09-10">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1715">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Willemsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Teylingen</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Job Seaburne</name> <name type="geslachtsnaam">May</name></persName>
+    <event type="birth" when="2003">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1637-02-14">
-      <place></place>
+    <event type="death" when="1827-01-21">
+      <place>Rotterdam</place>
     </event>
   </person>
   <biography/>

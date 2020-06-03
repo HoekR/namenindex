@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-5011970"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs.</name> <name type="voornaam">Jaap</name> <name type="intrapositie">Amsterdam nan</name> <name type="geslachtsnaam">Boersma</name></persName>
+    <event type="birth">
+      <date>02-12-1929</date>
+      <place>Leeuwarden</place>
+    </event>
+    <event type="death">
+      <date>06-03-2012</date>
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

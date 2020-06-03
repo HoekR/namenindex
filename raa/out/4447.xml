@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Zuylen van Nyevelt</name></persName>
-    <event type="birth" when="1699">
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schagen Hoogland</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1753-03-28">
+    <event type="death" when="1672">
       <place></place>
     </event>
   </person>

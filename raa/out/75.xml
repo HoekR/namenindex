@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Constantin Fran&#231;ois Antoine Joseph</name> <name type="intrapositie">burggraaf le</name> <name type="geslachtsnaam">Preud'homme d'Hailly burggraaf van Nieuwpoort</name></persName>
-    <event type="birth" when="1748-05-24">
-      <place>Gent</place>
+    <persName><name type="voornaam">Henri Damas</name> <name type="geslachtsnaam">Bonhomme</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-02-05">
-      <place>Brugge</place>
+    <event type="death" when="1826">
+      <place></place>
     </event>
   </person>
   <biography/>

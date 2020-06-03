@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Cornelisz.</name> <name type="intrapositie">de Jonge</name> <name type="geslachtsnaam">Houtcooper</name></persName>
-    <persName>Willem Cornelisz. de Jonge</persName>
-    <event type="birth" when="1555">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">David</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Ewoudsz.</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1618">
+    <event type="death">
       <place></place>
     </event>
   </person>

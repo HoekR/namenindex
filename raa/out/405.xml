@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Maria</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hengst</name></persName>
-    <event type="birth" when="1771-02-25">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Rochus</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Honert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-12-28">
-      <place>Zeist</place>
+    <event type="death" when="1638-01-30">
+      <place></place>
     </event>
   </person>
   <biography/>

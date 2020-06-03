@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Guillaume Georges Fran&#231;ois</name> <name type="intrapositie">graaf de</name> <name type="geslachtsnaam">Borchgrave d'Altena</name></persName>
-    <event type="birth" when="1774-03-07">
-      <place>Luik</place>
+    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Blanken Jansz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-04-19">
-      <place>Mechelen</place>
+    <event type="death" when="1838">
+      <place></place>
     </event>
   </person>
   <biography/>

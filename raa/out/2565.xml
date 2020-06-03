@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Steven</name> <name type="intrapositie">ten</name> <name type="geslachtsnaam">Cate</name></persName>
-    <event type="birth" when="1788-03-04">
-      <place>Sneek</place>
+    <persName><name type="voornaam">J.L.</name> <name type="geslachtsnaam">Crajenschot</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-11-03">
-      <place>Sneek</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

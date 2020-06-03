@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Simeon Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Swinden</name></persName>
-    <event type="birth" when="1751-11-24">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ketelaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-01-06">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1749-07-05">
+      <place></place>
     </event>
   </person>
   <biography/>

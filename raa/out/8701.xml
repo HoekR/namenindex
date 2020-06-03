@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jan</name> <name type="intrapositie">ten</name> <name type="geslachtsnaam">Broeke</name></persName>
-    <event type="birth" when="1759">
+    <persName><name type="voornaam">Willem Aernout</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Beveren</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1807">
+    <event type="death" when="1820-06-17">
       <place></place>
     </event>
   </person>

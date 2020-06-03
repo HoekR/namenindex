@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/103"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">'s-Gravenhage van der</name> <name type="geslachtsnaam">Beugel</name></persName>
+    <event type="birth">
+      <date>02-02-1918</date>
+      <place>Amsterdam</place>
+    </event>
+    <event type="death">
+      <date>29-09-2004</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

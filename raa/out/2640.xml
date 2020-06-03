@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Wilco</name> <name type="intrapositie">van Andringa de</name> <name type="geslachtsnaam">Kempenaer</name></persName>
-    <event type="birth" when="1809-07-22">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Lievensz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Werkendet</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-02-20">
-      <place>Lemmer</place>
+    <event type="death" when="1576">
+      <place></place>
     </event>
   </person>
   <biography/>

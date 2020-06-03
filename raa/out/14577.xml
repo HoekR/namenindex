@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/14577"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Alexander</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Munq</name></persName>
+    <persName>Alexander Munq de oude</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

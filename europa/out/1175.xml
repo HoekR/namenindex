@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1175"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">P.J.</name> <name type="intrapositie">Oegstgeest nan</name> <name type="geslachtsnaam">Koets</name></persName>
+    <event type="birth">
+      <date>03-11-1901</date>
+      <place>Macon (Georgia, VS)</place>
+    </event>
+    <event type="death">
+      <date>12-05-1995</date>
+      <place>Oegstgeest</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

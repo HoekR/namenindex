@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Edzard Moritz</name> <name type="intrapositie">zu</name> <name type="geslachtsnaam">Inn- und Knyphausen L&#252;tetsburg</name></persName>
-    <event type="birth" when="1748">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbrecht Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Koning</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1824">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Hendrik Gerard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Holthe tot Echten</name></persName>
-    <event type="birth" when="1810-04-22">
-      <place>Ruinen</place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Gael</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-07-02">
-      <place>Echten (Ruinen)</place>
+    <event type="death" when="1731-03-16">
+      <place></place>
     </event>
   </person>
   <biography/>

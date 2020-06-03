@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dani&#235;l</name> <name type="geslachtsnaam">Fannius</name></persName>
-    <event type="birth" when="1618">
+    <persName><name type="voornaam">Cornelis Adriaansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Stavenisse</name></persName>
+    <persName>Cornelis Staefnisse</persName>
+    <persName>Cornelis Staefvenisse</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1681">
+    <event type="death" when="1649-05-28">
       <place></place>
     </event>
   </person>

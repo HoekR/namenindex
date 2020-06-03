@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hubert Joseph Jean Lambert</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Stuers</name></persName>
-    <event type="birth" when="1788-11-16">
-      <place>Roermond</place>
+    <persName><name type="prepositie">ds.</name> <name type="voornaam">Hero</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Wiarda</name></persName>
+    <persName>Hero Viarda</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-04-13">
-      <place>Maastricht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

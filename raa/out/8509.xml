@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Henricus</name> <name type="geslachtsnaam">Verhagen</name></persName>
-    <event type="birth" when="1763-11-16">
-      <place>St. Oedenrode</place>
+    <persName><name type="voornaam">Richard</name> <name type="geslachtsnaam">Sturenberg</name></persName>
+    <event type="birth" when="2006">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1820-06-11">
-      <place>St. Oedenrode</place>
+    <event type="death" when="1823-01-28">
+      <place>Rotterdam</place>
     </event>
   </person>
   <biography/>

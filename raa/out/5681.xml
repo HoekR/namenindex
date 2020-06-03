@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Jacob</name> <name type="geslachtsnaam">Huyssen van Kattendijke</name></persName>
-    <event type="birth" when="1758-02-17">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Leendert Huibrecht</name> <name type="intrapositie">de Haze</name> <name type="geslachtsnaam">Bomme</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1826-05-20">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1837">
+      <place></place>
     </event>
   </person>
   <biography/>

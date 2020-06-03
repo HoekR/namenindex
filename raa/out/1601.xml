@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerhard J. [Gerrit]</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Schepper</name></persName>
-    <event type="birth" when="1780-07-09">
-      <place>Deventer</place>
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Jan Anthony</name> <name type="geslachtsnaam">Ardesch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-11-23">
-      <place>Deventer</place>
+    <event type="death" when="1824">
+      <place></place>
     </event>
   </person>
   <biography/>

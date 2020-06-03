@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Sitter</name></persName>
-    <event type="birth" when="1750-07-21">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Gerrit Klaasz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Assendelft</name></persName>
+    <event type="birth" when="1488">
+      <place></place>
     </event>
-    <event type="death" when="1827-06-07">
-      <place>Midlaren</place>
+    <event type="death" when="1558">
+      <place></place>
     </event>
   </person>
   <biography/>

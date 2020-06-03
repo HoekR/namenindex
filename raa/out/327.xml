@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Henri Joseph</name> <name type="geslachtsnaam">Robinet de Villeval</name></persName>
-    <event type="birth" when="1757-12-16">
-      <place>Namen</place>
+    <persName><name type="voornaam">Lukas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Dijl</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-11-30">
-      <place>Hilvarenbeek</place>
+    <event type="death" when="1822-07-10">
+      <place></place>
     </event>
   </person>
   <biography/>

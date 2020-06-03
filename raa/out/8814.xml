@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">G.W.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Sluis</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Joachimus Lunsingh</name> <name type="geslachtsnaam">Tonckens</name></persName>
+    <event type="birth" when="2011">
+      <place>Westervelde</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1821-11-23">
+      <place>Westervelde</place>
     </event>
   </person>
   <biography/>

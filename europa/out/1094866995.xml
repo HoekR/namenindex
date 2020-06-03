@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1094866995"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Ir.</name> <name type="voornaam">Siep</name> <name type="intrapositie">Nootdorp nan</name> <name type="geslachtsnaam">Posthumus</name></persName>
+    <event type="birth">
+      <date>29-04-1910</date>
+      <place>Franeker</place>
+    </event>
+    <event type="death">
+      <date>25-02-1987</date>
+      <place>Nootdorp</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

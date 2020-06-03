@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Oene Frederick</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Glinstra</name></persName>
-    <event type="birth" when="1682">
+    <persName><name type="voornaam">Willem Lievensz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Vrijberghe</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1679">
       <place></place>
     </event>
   </person>

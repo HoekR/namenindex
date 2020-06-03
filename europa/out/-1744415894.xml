@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1744415894"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Marburg nan</name> <name type="geslachtsnaam">Jahn</name></persName>
+    <event type="birth">
+      <date>10-09-1927</date>
+      <place>Kassel</place>
+    </event>
+    <event type="death">
+      <date>20-10-1998</date>
+      <place>Marburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

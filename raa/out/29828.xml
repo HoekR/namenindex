@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/29828"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">T.J.</name> <name type="geslachtsnaam">Zeeman</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

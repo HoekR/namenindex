@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">Schuurbeque</name> <name type="geslachtsnaam">Boeye</name></persName>
-    <event type="birth" when="1781-02-20">
-      <place>Zierikzee</place>
+    <persName><name type="voornaam">Willem Berend</name> <name type="geslachtsnaam">Buys</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-11-10">
-      <place>Zierikzee</place>
+    <event type="death" when="1832">
+      <place></place>
     </event>
   </person>
   <biography/>

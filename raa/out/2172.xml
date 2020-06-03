@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Schellinger</name></persName>
-    <event type="birth" when="1795-03-01">
-      <place>Hoorn</place>
+    <persName><name type="voornaam">Ludovicus Ernestus</name> <name type="geslachtsnaam">Diert van Melissant</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-06-06">
-      <place>Nieuwendam</place>
+    <event type="death" when="1811">
+      <place></place>
     </event>
   </person>
   <biography/>

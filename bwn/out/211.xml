@@ -1,0 +1,82 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Bordes, Jan de (1894-1947)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/bordes"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">bordes</idno>
+    <persName><name type="geslachtsnaam">Bordes</name>, Jan de</persName>
+    <sex value="1"/>
+    <event type="birth" when="1894"/>
+    <event type="death" when="1947"/>
+    <state type="occupation">burgemeester</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Bordes, Jan de&lt;/strong&gt; (bekend onder de naam &lt;b&gt;Van Walr&amp;eacute;&lt;/b&gt; &lt;b&gt;de Bordes&lt;/b&gt;; na het overlijden van zijn grootvader van moederszijde
+kreeg hij bij K.B. van 14-7-1902 no. 66 de naam &lt;b&gt;Van Walr&amp;eacute;&lt;/b&gt; erbij) (Utrecht 6-6-1894 - Delft 21-1-1947).
+
+Zoon van Cornelis Eliza Jan de Bordes, bankier, en Henrietta Antoinetta
+van Walr&amp;eacute;. Gehuwd op 4-6-1919 met Sophia Machtelina Grothe. Uit
+dit huwelijk werden 3 dochters en 2 zoons geboren. 
+
+
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Jan van Walr&amp;eacute; de Bordes studeerde te Utrecht rechten, waar hij
+in 1919 zijn doctoraal deed. Werd ambtenaar op het ministerie van
+Buitenlandse Zaken en trad in 1921 in dienst van de Volkenbond (lid
+economische en financi&amp;euml;le sectie van het secretariaat, als zodanig
+o.a. in 1923 werkzaam bij mr. A.R. Zimmerman, oud-burgemeester van
+Rotterdam, op het Commissariaat-Generaal van de Volkenbond in
+Oostenrijk en in 1933 secretaris van de Londense economische en
+financi&amp;euml;le conferentie). In 1924 promoveerde hij te Leiden op 
+&lt;em&gt;The Austrian Crown. lts depreciation and stabilisation.&lt;/em&gt;
+
+(Londen, 1924). In 1937 keerde hij terug naar Utrecht om zich als
+aanhanger van de Oxford-beweging geheel te wijden aan het werk van de
+morele en geestelijke herbewapening. Hoewel politiek dakloos stond hij
+achter de denkbeelden van de CHU.&lt;/p&gt;
+&lt;p&gt;In 1939 werd Van Walr&amp;eacute; de Bordes burgemeester van Middelburg.
+Tijdens het bombardement van 17 mei 1940 verwierf hij grote sympathie
+door, anders dan de velen die in paniek de stad uit vluchtten, op het
+stadhuis te blijven om te redden wat er te redden viel. Sindsdien
+noemde men hem de held van Middelburg. De bezettingsomstandigheden
+stelden spoedig ook deze burgemeester voor vele problemen. In oktober
+1942 nam hij plotseling ontslag, niet zozeer vanwege deze problemen,
+alswel omdat hij door de voortdurende luchtaanvallen op Duitsland tot
+het inzicht was gekomen op andere wijze meer voor de vrede te kunnen
+doen dan als burgemeester van Middelburg. Hij verspeelde daarmee de
+sympathie van de bevolking van Middelburg, omdat zijn vrijwillig
+vertrek de benoeming van een NSB'er mogelijk maakte. Ook voor de
+Duitsers was zijn heengaan een verrassing, een onaangename zelfs, omdat
+zij in hem kennelijk een plooibare figuur zagen, die moeilijkheden
+tussen de bezetter en de bevolking kon voorkomen. Hij bleef opnieuw
+ambteloos, totdat het Militair Gezag hem najaar 1944 verzocht de
+leiding op zich te nemen van het opvangcentrum te Eindhoven voor
+degenen die terugkwamen uit de Duitse concentratiekampen. Nadat deze
+stroom verwerkt was (sinds 1945), is hem gevraagd als sous-chef
+Repatri&amp;euml;ringsdienst Indi&amp;euml; mee te werken aan de
+repatri&amp;euml;ring van de Nederlanders. Begin 1947 kwam hij bij een
+auto-ongeluk om het leven.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;M.W.G. van der Veur, 
+&lt;em&gt;Middelburg in oorlogs- en bezettingsjaren (1939-1944).&lt;/em&gt;
+
+(Middelburg, 1945) 64-65, 68; J.L.J. Bosmans, 
+&lt;em&gt;De Nederlander Mr. A.R. Zimmerman als Commissaris-Generaal van de
+Volkenbond in Oostenrijk 1922-1926&lt;/em&gt;
+
+(Nijmegen, 1973). Proefschrift Nijmegen.&lt;/p&gt;
+&lt;p&gt;J. Bosmans&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

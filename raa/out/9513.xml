@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fredrik Alberts</name> <name type="intrapositie">ten</name> <name type="geslachtsnaam">Heuvel</name></persName>
-    <event type="birth" when="1739">
-      <place></place>
+    <persName><name type="voornaam">Pierre Godefroid Gilles Joseph</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">L&#233;onaerdts</name></persName>
+    <persName>De Leonaerdts d'Achel</persName>
+    <event type="birth" when="2012">
+      <place>Waldfeucht</place>
     </event>
-    <event type="death" when="1817">
-      <place></place>
+    <event type="death" when="1830-01-26">
+      <place>Luik</place>
     </event>
   </person>
   <biography/>

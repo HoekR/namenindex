@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Lodewijk</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lom de Berg</name></persName>
-    <event type="birth" when="1804-03-03">
-      <place>Venlo</place>
+    <persName><name type="voornaam">Gerardus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lennep</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873">
-      <place>Venlo</place>
+    <event type="death" when="1833">
+      <place></place>
     </event>
   </person>
   <biography/>

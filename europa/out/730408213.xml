@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/730408213"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs.</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Peters</name></persName>
+    <event type="birth">
+      <date>25-07-1924</date>
+      <place>Naarden</place>
+    </event>
+    <event type="death">
+      <date>06-03-2008</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

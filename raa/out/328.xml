@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Hendrik Rombout</name> <name type="intrapositie">Damisse de</name> <name type="geslachtsnaam">Roos</name></persName>
-    <event type="birth" when="1773-01-31">
-      <place>Etten</place>
+    <persName><name type="voornaam">Theodorus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kooten</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-06-20">
-      <place>Terheyden</place>
+    <event type="death" when="1813">
+      <place></place>
     </event>
   </person>
   <biography/>

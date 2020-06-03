@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Winand Carel Hugo</name> <name type="geslachtsnaam">Staring</name></persName>
-    <event type="birth" when="1808-10-05">
-      <place>Vorden</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Lange</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-06-04">
-      <place>Laren (Gld.)</place>
+    <event type="death" when="1712">
+      <place></place>
     </event>
   </person>
   <biography/>

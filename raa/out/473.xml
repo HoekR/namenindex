@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Pieter Benjamin Johan</name> <name type="geslachtsnaam">Vegelin van Claerbergen</name></persName>
-    <event type="birth" when="1808-06-22">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Th&#233;ophile</name> <name type="geslachtsnaam">Berlier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-05-27">
-      <place>Leeuwarden</place>
+    <event type="death" when="1844">
+      <place></place>
     </event>
   </person>
   <biography/>

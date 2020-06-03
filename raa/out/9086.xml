@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">van Oosterwijk</name> <name type="geslachtsnaam">Bruijn</name></persName>
-    <event type="birth" when="1752">
-      <place></place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">Spiegelmaker</name> <name type="geslachtsnaam">Spanjaard</name></persName>
+    <event type="birth" when="2004">
+      <place>Medemblik</place>
     </event>
-    <event type="death" when="1810">
-      <place></place>
+    <event type="death" when="1854-02-16">
+      <place>Broek op Langendijk</place>
     </event>
   </person>
   <biography/>

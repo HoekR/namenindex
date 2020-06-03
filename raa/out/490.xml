@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Roeland</name> <name type="intrapositie">Scheers van</name> <name type="geslachtsnaam">Harencarspel</name></persName>
-    <event type="birth" when="1795-08-07">
-      <place>Nijmegen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes</name> <name type="intrapositie">ridder (van)</name> <name type="geslachtsnaam">Rhala</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-09-02">
-      <place>Malden</place>
+    <event type="death" when="1686-06-16">
+      <place></place>
     </event>
   </person>
   <biography/>

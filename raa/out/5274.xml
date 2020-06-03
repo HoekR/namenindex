@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ritscke</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rinia</name></persName>
-    <persName>Ritske van Rengia</persName>
-    <persName>Ritske van Ringia</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Laurensz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kats</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1618">
+    <event type="death" when="1457">
       <place></place>
     </event>
   </person>

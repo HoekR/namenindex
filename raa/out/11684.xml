@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jouke</name> <name type="geslachtsnaam">Andeles</name></persName>
-    <event type="birth" when="1727">
-      <place></place>
+    <persName><name type="voornaam">Gustaaf Eugenius Gijsbert Constant Karel</name> <name type="geslachtsnaam">Dommer van Poldersveldt</name></persName>
+    <event type="birth" when="2007">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1806-09-06">
-      <place></place>
+    <event type="death" when="1862-05-17">
+      <place>Bonn</place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jacob</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Gansneb genaamd Tengnagel</name></persName>
-    <persName>Gansneb genaamd Tengnagel van de Luttenberg</persName>
-    <event type="birth" when="1768-12-04">
-      <place>Kampen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-03-10">
-      <place>Kampen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

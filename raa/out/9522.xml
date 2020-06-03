@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hilbert</name> <name type="geslachtsnaam">Meylofs</name></persName>
+    <persName><name type="voornaam">Johan Borchard</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Coeverden tot Rhaen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1721-04-17">
       <place></place>
     </event>
   </person>

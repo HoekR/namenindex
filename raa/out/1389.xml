@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hymen Bart</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Zijll</name></persName>
-    <persName>Van Zijll van den Ham</persName>
-    <event type="birth" when="1791">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Adriaansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Fijck van Hove</name></persName>
+    <persName>Tristam de Lucerne</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1864-06-18">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

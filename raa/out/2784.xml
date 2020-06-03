@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Georgius Wilhelmus</name> <name type="geslachtsnaam">Janssens</name></persName>
-    <event type="birth" when="1822-10-17">
-      <place>Linne</place>
+    <persName><name type="voornaam">Volckert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Overlander</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-10-28">
-      <place>Roermond</place>
+    <event type="death" when="1630">
+      <place></place>
     </event>
   </person>
   <biography/>

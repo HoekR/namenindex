@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Coenraad Jan</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Zuylen van Nievelt</name></persName>
-    <persName>Van Zuylen van Nievelt van den Brielert</persName>
-    <event type="birth" when="1779-08-24">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Johannes</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lokhorst</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-01-29">
-      <place>Arnhem</place>
+    <event type="death" when="1826">
+      <place></place>
     </event>
   </person>
   <biography/>

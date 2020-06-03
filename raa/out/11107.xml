@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albert</name> <name type="geslachtsnaam">Braams</name></persName>
-    <event type="birth" when="1759">
-      <place></place>
+    <persName><name type="voornaam">Ernst Louis</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Hardenbroek</name></persName>
+    <persName>Van Hardenbroek van Lockhorst</persName>
+    <event type="birth" when="2010">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death" when="1816">
-      <place></place>
+    <event type="death" when="1843-02-28">
+      <place>Leusden</place>
     </event>
   </person>
   <biography/>

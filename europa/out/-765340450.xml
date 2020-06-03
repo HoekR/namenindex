@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-765340450"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Luxemburg nan</name> <name type="geslachtsnaam">Werner</name></persName>
+    <event type="birth">
+      <date>29-12-1913</date>
+      <place>Saint Andr&#233; (Lille)</place>
+    </event>
+    <event type="death">
+      <date>24-06-2002</date>
+      <place>Luxemburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

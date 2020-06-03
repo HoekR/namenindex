@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Antonius Josephus Joannes Caspar</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Voocht</name></persName>
-    <persName>De Voocht van het Hof te Tongelre</persName>
-    <event type="birth" when="1775-04-10">
-      <place>Tongelre</place>
+    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Badon Ghijben</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-10-12">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1831">
+      <place></place>
     </event>
   </person>
   <biography/>

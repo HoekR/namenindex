@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Epo Sjuck</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Burmania</name></persName>
-    <event type="birth" when="1697">
+    <persName><name type="voornaam">Christoffel</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mathias</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1775-02-01">
+    <event type="death" when="1702">
       <place></place>
     </event>
   </person>

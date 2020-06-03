@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Johan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lange van Wijngaarden</name></persName>
-    <event type="birth" when="1752">
+    <persName><name type="voornaam">Johan Lodewijk</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Kinschot</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1820">
+    <event type="death" when="1725-02-28">
       <place></place>
     </event>
   </person>

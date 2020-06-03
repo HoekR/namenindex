@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Florisz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Serooskerke</name></persName>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Resen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1582">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Christiaan Willem</name> <name type="geslachtsnaam">Moorrees</name></persName>
-    <event type="birth" when="1801-06-05">
-      <place>Nijmegen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jacobsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-08-06">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

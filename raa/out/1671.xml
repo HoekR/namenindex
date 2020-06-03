@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bernardus Georgius</name> <name type="intrapositie">ten</name> <name type="geslachtsnaam">Pol</name></persName>
-    <event type="birth" when="1815-02-07">
-      <place>Ootmarssum</place>
+    <persName><name type="voornaam">Jacobus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Pembroek</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1809">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Lodewijcksz.</name> <name type="geslachtsnaam">Bosschaert</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Antonie</name> <name type="geslachtsnaam">Warin</name></persName>
+    <persName>Warin van Schonauwen</persName>
+    <event type="birth" when="2012">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1698-12-13">
-      <place></place>
+    <event type="death" when="1852-11-23">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

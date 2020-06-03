@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Leendert</name> <name type="geslachtsnaam">Slingeland</name></persName>
-    <event type="birth" when="1803-09-19">
-      <place>Schoonhoven</place>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vermeulen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1880-04-11">
-      <place>Schoonhoven</place>
+    <event type="death" when="1810-12-06">
+      <place></place>
     </event>
   </person>
   <biography/>

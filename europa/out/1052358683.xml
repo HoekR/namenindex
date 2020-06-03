@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1052358683"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jhr. mr.</name> <name type="voornaam">Mauk</name> <name type="intrapositie">Leiden de</name> <name type="geslachtsnaam">Brauw</name></persName>
+    <event type="birth">
+      <date>14-09-1925</date>
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death">
+      <date>12-11-1984</date>
+      <place>Leiden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

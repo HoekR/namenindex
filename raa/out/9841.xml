@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Reijers</name> <name type="geslachtsnaam">Vos</name></persName>
-    <event type="birth" when="1739">
-      <place></place>
+    <persName><name type="voornaam">Johannes Antonius Christianus Arnoldus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nispen van Sevenaer</name></persName>
+    <event type="birth" when="2012">
+      <place>Zevenaar</place>
     </event>
-    <event type="death" when="1821">
-      <place></place>
+    <event type="death" when="1875-05-05">
+      <place>Zevenaar</place>
     </event>
   </person>
   <biography/>

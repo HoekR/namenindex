@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hyacinthe J. Ant.</name> <name type="intrapositie">graaf de</name> <name type="geslachtsnaam">Baillet</name></persName>
-    <event type="birth" when="1798-02-16">
-      <place>Antwerpen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Loo</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-12-25">
-      <place>Antwerpen</place>
+    <event type="death" when="1562-12-28">
+      <place></place>
     </event>
   </person>
   <biography/>

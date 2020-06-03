@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">C.A.</name> <name type="geslachtsnaam">Drossaerts van Drongelen</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Barthold</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Nijsten</name></persName>
+    <persName>Bartholomeus van Nijsten</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1696-12-03">
       <place></place>
     </event>
   </person>

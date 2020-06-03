@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Boudewyn Willemsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Muylwijck</name></persName>
-    <event type="birth" when="1550">
-      <place></place>
+    <persName><name type="voornaam">Joannes Ludovicus Theodorus Antonius Libuinus</name> <name type="intrapositie">duc (Empire) van Scherpenzeel</name> <name type="geslachtsnaam">Heusch</name></persName>
+    <event type="birth" when="2011">
+      <place>Oosterhout</place>
     </event>
-    <event type="death" when="1625">
-      <place></place>
+    <event type="death" when="1872-02-14">
+      <place>Vlodrop</place>
     </event>
   </person>
   <biography/>

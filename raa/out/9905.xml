@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Poll</name></persName>
-    <event type="birth" when="1721">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter Jacob</name> <name type="geslachtsnaam">Elout van Soeterwoude</name></persName>
+    <event type="birth" when="2008">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1801">
-      <place></place>
+    <event type="death" when="1893-04-10">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

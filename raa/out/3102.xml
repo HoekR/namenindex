@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Willem</name> <name type="geslachtsnaam">Schiff</name></persName>
-    <event type="birth" when="1801-07-01">
-      <place>Oosterbeek</place>
+    <persName><name type="voornaam">Taco</name> <name type="geslachtsnaam">Schonegevel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-09-24">
-      <place>Arnhem</place>
+    <event type="death" when="1819">
+      <place></place>
     </event>
   </person>
   <biography/>

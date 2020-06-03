@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Govert Corstiaensz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Slingeland</name></persName>
-    <persName>Govert Christiaensz. van Slingeland</persName>
+    <persName><name type="voornaam">Pieter Frederik</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Kuffeler</name></persName>
+    <persName>Van Kuffeler van Hoogeveen</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1839">
       <place></place>
     </event>
   </person>

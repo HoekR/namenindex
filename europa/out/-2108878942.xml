@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-2108878942"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">San Salvador nan</name> <name type="geslachtsnaam">Duarte</name></persName>
+    <event type="birth">
+      <date>23-11-1925</date>
+      <place>San Salvador</place>
+    </event>
+    <event type="death">
+      <date>23-02-1990</date>
+      <place>San Salvador</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

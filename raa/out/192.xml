@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ludolph</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
-    <persName>Van Heeckeren van de Wiersse</persName>
-    <event type="birth" when="1755-05-04">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Jan Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Bouwens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-07-11">
-      <place>Vorden</place>
+    <event type="death" when="1788-12-21">
+      <place></place>
     </event>
   </person>
   <biography/>

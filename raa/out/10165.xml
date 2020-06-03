@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lucas</name> <name type="geslachtsnaam">Sivertsz.</name></persName>
-    <persName>Lucas Siberti</persName>
+    <persName><name type="voornaam">Herman Johan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Royen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1615">
+    <event type="death" when="1812">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Poll</name></persName>
-    <event type="birth" when="1780-09-28">
-      <place>Bloemendaal</place>
+    <persName><name type="voornaam">Epimachus Jacobus Ignatius</name> <name type="geslachtsnaam">Cremers</name></persName>
+    <persName>Eppo Cremers</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-11-13">
-      <place>Utrecht</place>
+    <event type="death" when="1815">
+      <place></place>
     </event>
   </person>
   <biography/>

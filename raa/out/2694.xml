@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Petrus Josephus Theodorus</name> <name type="geslachtsnaam">Beerenbroek</name></persName>
-    <event type="birth" when="1793-09-21">
-      <place>Weert</place>
+    <persName><name type="voornaam">Oene Gerrits</name> <name type="geslachtsnaam">Gorter&#13;
+Gorter</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1818">
       <place></place>
     </event>
   </person>

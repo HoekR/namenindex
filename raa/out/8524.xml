@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Filips (II)</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Croy</name></persName>
-    <persName>Aarschot</persName>
-    <event type="birth" when="1496">
+    <persName><name type="voornaam">L.</name> <name type="geslachtsnaam">Vermasen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1549">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Harko Melisz.</name> <name type="geslachtsnaam">Kopges</name></persName>
-    <persName>Henrick Melisz. Coppens</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Petrus</name> <name type="geslachtsnaam">Haesebroeck</name></persName>
+    <event type="birth" when="2010">
+      <place>Zutphen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1818-05-14">
+      <place>Zutphen</place>
     </event>
   </person>
   <biography/>

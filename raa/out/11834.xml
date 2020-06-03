@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">F.W.</name> <name type="geslachtsnaam">Tichgelaar</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bosvelt</name></persName>
+    <event type="birth" when="2008">
+      <place>Jutphaas</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1819-11-14">
+      <place>Hazerswoude</place>
     </event>
   </person>
   <biography/>

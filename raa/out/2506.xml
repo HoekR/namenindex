@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Aukes</name> <name type="geslachtsnaam">Lootsma</name></persName>
-    <event type="birth" when="1762-08-24">
-      <place>Stavoren</place>
+    <persName><name type="voornaam">J.C.</name> <name type="geslachtsnaam">Bisschoff</name></persName>
+    <persName>Bisschop</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-11-24">
-      <place>Huizum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

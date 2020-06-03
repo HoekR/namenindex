@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Oudewagen</name></persName>
-    <event type="birth" when="1697">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Th&#233;odore</name> <name type="geslachtsnaam">Dotrenge</name></persName>
+    <event type="birth" when="2001">
+      <place>Brussel</place>
     </event>
-    <event type="death" when="1763-01-10">
-      <place></place>
+    <event type="death" when="1836-06-15">
+      <place>Brussel</place>
     </event>
   </person>
   <biography/>

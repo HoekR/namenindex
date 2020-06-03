@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Simon</name> <name type="geslachtsnaam">Binckes</name></persName>
-    <event type="birth" when="1732">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johannes Lambertus Antonius</name> <name type="geslachtsnaam">Luyben</name></persName>
+    <event type="birth" when="2012">
+      <place>Delft</place>
     </event>
-    <event type="death" when="1786-10-13">
-      <place></place>
+    <event type="death" when="1859-09-15">
+      <place>'s-Hertogenbosch</place>
     </event>
   </person>
   <biography/>

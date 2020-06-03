@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gossardus</name> <name type="geslachtsnaam">Zandleven</name></persName>
-    <event type="birth" when="1753">
+    <persName><name type="voornaam">Antonie</name> <name type="geslachtsnaam">Warin</name></persName>
+    <persName>Warin van Schonauwen</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1834">
+    <event type="death" when="1852">
       <place></place>
     </event>
   </person>

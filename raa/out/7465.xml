@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joost Adriaensz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Coulster</name></persName>
-    <event type="birth" when="1581">
-      <place></place>
+    <persName><name type="voornaam">Wigbold Albert Willem</name> <name type="intrapositie">burggraaf van der Does van</name> <name type="geslachtsnaam">Limburg Stirum</name></persName>
+    <persName>Van Limburg Stirum Noordwijk</persName>
+    <event type="birth" when="2004">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death" when="1649-03-23">
-      <place></place>
+    <event type="death" when="1855-01-14">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

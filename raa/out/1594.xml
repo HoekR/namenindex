@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Henri</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Vos van Steenwijk</name></persName>
-    <persName>De Vos van Steenwijk van Abbenbroek</persName>
-    <event type="birth" when="1812-01-18">
-      <place>Nice</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbrecht Jansz.</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Mije</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1893-09-08">
-      <place>Laag Zuthem</place>
+    <event type="death" when="1483">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adrianus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Linden</name></persName>
-    <event type="birth" when="1779-03-12">
-      <place>Dordrecht</place>
+    <persName>
+      <name type="geslachtsnaam">Stratenus</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-03-30">
-      <place>Dordrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

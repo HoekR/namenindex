@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Zuylen van Nijevelt</name></persName>
-    <event type="birth" when="1777-10-30">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Dorre</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-05-10">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1599">
+      <place></place>
     </event>
   </person>
   <biography/>

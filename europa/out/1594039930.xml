@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1594039930"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Peckham, South London nan</name> <name type="geslachtsnaam">Morrison</name></persName>
+    <event type="birth">
+      <date>03-01-1888</date>
+      <place>Lambeth, London</place>
+    </event>
+    <event type="death">
+      <date>06-03-1965</date>
+      <place>Peckham, South London</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

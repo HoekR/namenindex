@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Leopold Frans Jan Jacob Joseph</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sasse van Ysselt</name></persName>
-    <event type="birth" when="1778-09-02">
-      <place>Boxmeer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">graaf den</name> <name type="geslachtsnaam">Bern</name></persName>
+    <persName>gez. Briel.</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-03-21">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

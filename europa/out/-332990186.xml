@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-332990186"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Gordon</name> <name type="intrapositie">Londen nan</name> <name type="geslachtsnaam">Walker</name></persName>
+    <event type="birth">
+      <date>07-04-1907</date>
+      <place>Worthing, Sussex</place>
+    </event>
+    <event type="death">
+      <date>02-12-1980</date>
+      <place>Londen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

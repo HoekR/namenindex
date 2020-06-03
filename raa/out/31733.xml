@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/31733"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Daniel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eck</name></persName>
+    <event type="birth" when="2005">
+      <place>Kloosterzande</place>
+    </event>
+    <event type="death" when="1895-03-13">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

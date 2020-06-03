@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kerkwijk</name></persName>
-    <event type="birth" when="1802-10-21">
-      <place>Goes</place>
+    <persName><name type="voornaam">Dirck Heyndricksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Verwer</name></persName>
+    <persName>Dirck Heyndricksz. Dyckgraeff</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-12-05">
-      <place>Ouddorp</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

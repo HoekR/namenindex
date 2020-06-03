@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adrianus</name> <name type="geslachtsnaam">Slotemaker</name></persName>
+    <persName><name type="voornaam">Jacob Jacobsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Neck</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1687-01-13">
       <place></place>
     </event>
   </person>

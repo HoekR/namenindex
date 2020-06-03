@@ -1,0 +1,95 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Moerman, Jacob Diederik (1885-1965)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/moerman"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">moerman</idno>
+    <persName><name type="geslachtsnaam">Moerman</name>, Jacob Diederik</persName>
+    <sex value="1"/>
+    <event type="birth" when="1885"/>
+    <event type="death" when="1965"/>
+    <state type="occupation">historicus</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Moerman, Jacob Diederik&lt;/strong&gt;, oudheidkundige (Ugchelen, gem. Apeldoorn 4-7-1885 - Apeldoorn 24-5-1965).
+
+Zoon van Johannes Jacobus Jentjes Moerman, hoofd van een openbare
+school, en Carolina Witteveen. Gehuwd op 18-7-1940 met Willemina Jacoba
+Sanders. Uit dit huwelijk werden geen kinderen geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Een belangrijk deel van zijn vorming verkreeg Moerman aan de
+Rijkskweekschool te Deventer, waar hem o.a. een nauwkeurig
+waarnemingsvermogen werd bijgebracht. Na in 1905 de aktes voor
+onderwijzer en handtekenen behaald te hebben, volgde in 1907 die voor
+hoofdonderwijzer. Van 1905 tot 1916 was hij onderwijzer in Wageningen.
+Daarna vestigde hij zich te Apeldoorn, waar hij achtereenvolgens potten
+bakte en zilvervossen kweekte tot ca. 1934.&lt;/p&gt;
+&lt;p&gt;Een niet te stillen drang tot weten, juist en vooral ten aanzien van
+archeologie en prehistorie in eigen streek, beheerste zijn leven. Eigen
+kritisch onderzoek tot in de kleinste details kenmerkt het werk van
+deze autodidact. Het vinden van prehistorisch aardewerk bracht hem er
+toe zelf potten te gaan bakken. De bestudering van de middeleeuwse
+smeedijzerindustrie op de Veluwe leidde tot het bouwen en branden van
+een experimentele oven. Zijn onderzoek beperkte zich tot fenomenen
+binnen zijn actieradius i.e. de Veluwe. Pas na 1945 reisde hij veel in
+het buitenland, waar hij de thuis opgedane ervaringen trachtte te
+toetsen.&lt;/p&gt;
+&lt;p&gt;Van zijn studies over wat de mens in het verleden op de Veluwe heeft
+uitgericht en het waarom daarvan, getuigt een reeks publikaties, die
+nog steeds van fundamenteel belang is mede door overvloed aan primaire
+informatie. Grote belangstelling voor de alchemie vloeide voort uit
+zijn bezigheden als pottenbakker. Onvoltooid bleef een artikel overeen
+plaatselijke papierindustrie.&lt;/p&gt;
+&lt;p&gt;Bescheiden van aard, genoot deze uitmuntende streekonderzoeker
+erkenning in beperkte kring. Hij trad pas in de publiciteit, wanneer
+hij daar recht toe meende te hebben. In Apeldoorn is postuum een museum
+naar hem vernoemd.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;
+  'Beken, sprengen en watermolens op de Veluwe', in 
+&lt;em&gt;Tijdschrift van het Koninklijk Nederlandsch Aardrijkskundig
+Genootschap&lt;/em&gt;
+
+51 (1934) 167-206; 'Veluwsche beken en daling van het
+grondwaterpeil', 
+&lt;em&gt;ibidem&lt;/em&gt;
+
+51 (1934) 495-520 en 676-697;' 'Rood Zand' en
+praehistorische bewoning', 
+&lt;em&gt;ibidem&lt;/em&gt;
+
+64 (1947) 537-547 en 680-698; 'Oude Smeedijzerindustrie', in 
+&lt;em&gt;Bijdragen en Mededelingen der Vereniging &amp;quot;Gelre&amp;quot; 56&lt;/em&gt;
+
+(1957) 3-32; 59 (1960) 1-37; 63 (1968-1969) 1-30; 64(1970) 1-41.
+Alsmede artikelen in 
+&lt;em&gt;De Levende Natuur&lt;/em&gt;
+
+... 30 (1925-1926) 88-96 en 44 (1939-1940) 307-313; 
+&lt;em&gt;Chemisch Weekblad&lt;/em&gt;
+
+29 (1932) 702-709 en 
+&lt;em&gt;Nederlandsch kruidkundig archief. . .&lt;/em&gt;
+
+57 (1950) 363-384.
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;R. Hardonk, in 
+&lt;em&gt;Gelders Oudheidkundig Contactbericht&lt;/em&gt;
+
+4 (1965) 26 (juni) 6&lt;/p&gt;
+&lt;p&gt;P.J.R. Modderman&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

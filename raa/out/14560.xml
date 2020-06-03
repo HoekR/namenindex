@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/14560"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">Adama</name> <name type="geslachtsnaam">Zijlstra</name></persName>
+    <event type="birth" when="2005">
+      <place>Harlingen</place>
+    </event>
+    <event type="death" when="1863-12-16">
+      <place>Harlingen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

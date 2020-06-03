@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Carel Jan Christiaan Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nispen tot Sevenaer</name></persName>
-    <event type="birth" when="1824-08-28">
-      <place>Zevenaar</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Arent Eerckes</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Haersma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1884-04-03">
-      <place>Arnhem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

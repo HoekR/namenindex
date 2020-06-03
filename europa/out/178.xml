@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/178"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Marratxinet (Mallorca) nan</name> <name type="geslachtsnaam">Bonnerman</name></persName>
+    <event type="birth">
+      <date>08-07-1896</date>
+      <place>Soerabaja</place>
+    </event>
+    <event type="death">
+      <date>19-12-1977</date>
+      <place>Marratxinet (Mallorca)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

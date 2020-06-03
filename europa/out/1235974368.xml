@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1235974368"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Parijs nan</name> <name type="geslachtsnaam">Charpentier</name></persName>
+    <event type="birth">
+      <date>09-06-1909</date>
+      <place>Parijs</place>
+    </event>
+    <event type="death">
+      <date>02-01-1999</date>
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

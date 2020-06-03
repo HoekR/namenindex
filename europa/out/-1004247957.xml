@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1004247957"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">West Vancouver (Canada) nan</name> <name type="geslachtsnaam">Hay</name></persName>
+    <event type="birth">
+      <date>24-11-1919</date>
+      <place>Brighton</place>
+    </event>
+    <event type="death">
+      <date>27-01-1998</date>
+      <place>West Vancouver (Canada)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

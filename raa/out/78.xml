@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cl&#233;ment Wenceslas Fran&#231;ois Charles Cun&#233;gonde Constant Jean-N&#233;pomuc&#232;ne</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Renesse-Breidbach</name></persName>
-    <event type="birth" when="1776-02-12">
-      <place>Luik</place>
+    <persName><name type="voornaam">Marinus</name> <name type="geslachtsnaam">Piepers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-04-26">
-      <place>s Heren Elderen</place>
+    <event type="death" when="1861">
+      <place></place>
     </event>
   </person>
   <biography/>

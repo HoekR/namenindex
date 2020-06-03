@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1384359957"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Soutou</name></persName>
+    <event type="birth">
+      <date>18-09-1912</date>
+      <place>Bruges (Basses-Pyr&#233;n&#233;es)</place>
+    </event>
+    <event type="death">
+      <date>10-09-2003</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

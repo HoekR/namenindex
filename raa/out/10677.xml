@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jean Constantin</name> <name type="intrapositie">le</name> <name type="geslachtsnaam">Gu&#233;</name></persName>
+    <persName><name type="voornaam">Meinardus</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Buery</name></persName>
+    <persName>Meinardus van Buuren</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1712-01-09">
       <place></place>
     </event>
   </person>

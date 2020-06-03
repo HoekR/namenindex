@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jacob Nicolaas Joan</name> <name type="geslachtsnaam">Jantzon van Erffrenten</name></persName>
-    <persName>Jantzon van Erffrenten van Babylonienbroek</persName>
-    <event type="birth" when="1801-05-30">
-      <place>Dordrecht</place>
+    <persName><name type="voornaam">Joost Isaac</name> <name type="geslachtsnaam">Schluiter</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1884-08-14">
-      <place>Dordrecht</place>
+    <event type="death" when="1797">
+      <place></place>
     </event>
   </person>
   <biography/>

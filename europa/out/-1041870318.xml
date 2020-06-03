@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1041870318"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Sir</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Kirk</name></persName>
+    <event type="birth">
+      <date>18-05-1928</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>17-04-1977</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

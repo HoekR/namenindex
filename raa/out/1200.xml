@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lucas</name> <name type="geslachtsnaam">Homan</name></persName>
-    <event type="birth" when="1817-12-28">
-      <place>Rolde</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">baron (Empire) van</name> <name type="geslachtsnaam">Styrum</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-03-03">
-      <place>Norg</place>
+    <event type="death" when="1824">
+      <place></place>
     </event>
   </person>
   <biography/>

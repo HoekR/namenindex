@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Rijkee</name></persName>
-    <persName>Rijkee van Alblasserdam</persName>
-    <event type="birth" when="1793-12-15">
-      <place>Alblasserdam</place>
+    <persName><name type="voornaam">Pieter Gerhard</name> <name type="geslachtsnaam">Siberg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-01-18">
-      <place>Alblasserdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Marinus Cornelis</name> <name type="geslachtsnaam">Bichon van IJsselmonde</name></persName>
-    <event type="birth" when="1781-07-02">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Jan Pietersz.</name> <name type="intrapositie">comte (Empire) Teding van</name> <name type="geslachtsnaam">Berkhout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-08-03">
-      <place>Rotterdam</place>
+    <event type="death" when="1766-02-10">
+      <place></place>
     </event>
   </person>
   <biography/>

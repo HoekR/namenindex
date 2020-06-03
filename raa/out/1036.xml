@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Chr&#233;tien Pierre Gerard</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Geusau</name></persName>
-    <event type="birth" when="1809-01-15">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Hippolytus Roelofsz.</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Crack</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-06-15">
-      <place>Eysden</place>
+    <event type="death" when="1626-10-17">
+      <place></place>
     </event>
   </person>
   <biography/>

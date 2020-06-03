@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Halmael</name></persName>
-    <event type="birth" when="1754-07-21">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">Cromstrien</name> <name type="geslachtsnaam">Evertsen</name></persName>
+    <event type="birth" when="2007">
+      <place>Middelburg</place>
     </event>
-    <event type="death" when="1829-02-16">
-      <place>Haarlem</place>
+    <event type="death" when="1818-06-14">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Edo Johannes</name> <name type="geslachtsnaam">Offerhaus</name></persName>
-    <event type="birth" when="1795-06-11">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Dobben</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-03-25">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

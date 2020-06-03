@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Willem Anne</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Haren</name></persName>
-    <event type="birth" when="1749-08-24">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Annocque</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-04-22">
-      <place>Veenklooster</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

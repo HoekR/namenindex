@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Dircksz.</name> <name type="geslachtsnaam">Roosterman</name></persName>
+    <persName><name type="voornaam">Mattheus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hesselt van Dinther</name></persName>
+    <persName>Mattheus Hessels van Dinther</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1629">
+    <event type="death" when="1650-06-30">
       <place></place>
     </event>
   </person>

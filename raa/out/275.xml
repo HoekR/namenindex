@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Marinus</name> <name type="geslachtsnaam">Hoog</name></persName>
-    <event type="birth" when="1754-12-25">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Hayo Hoytez</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Wommels</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-04-22">
-      <place>Rotterdam</place>
+    <event type="death" when="1571-06-15">
+      <place></place>
     </event>
   </person>
   <biography/>

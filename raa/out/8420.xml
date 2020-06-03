@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">C.F.</name> <name type="geslachtsnaam">Frisius</name></persName>
+    <persName><name type="voornaam">Willem Adriaan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Nassau-Odijk</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1705-09-21">
       <place></place>
     </event>
   </person>

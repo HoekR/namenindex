@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Pietersz.</name> <name type="geslachtsnaam">Boreel</name></persName>
-    <event type="birth" when="1552">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Teilingen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1636-12-19">
+    <event type="death">
       <place></place>
     </event>
   </person>

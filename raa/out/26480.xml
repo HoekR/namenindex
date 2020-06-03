@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/26480"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Johan Marthe</name> <name type="intrapositie">hertog</name> <name type="geslachtsnaam">Collot d'Escury</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1817-01-12">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

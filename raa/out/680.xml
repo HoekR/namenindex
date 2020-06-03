@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Jacob Anton</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wijlick</name></persName>
-    <event type="birth" when="1803-03-10">
-      <place>Kessel (L.)</place>
+    <persName><name type="voornaam">Jan Ernst</name> <name type="geslachtsnaam">Wildeman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-06-26">
-      <place>Kessel (L.)</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

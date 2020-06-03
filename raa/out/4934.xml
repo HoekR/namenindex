@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Finot</name>
-    </persName>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Oostdorp</name></persName>
+    <persName>Osdorp</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1489">
       <place></place>
     </event>
   </person>

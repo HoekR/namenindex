@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bernardus</name> <name type="geslachtsnaam">Dorhout</name></persName>
-    <event type="birth" when="1797-02-01">
-      <place>Harlingen</place>
+    <persName><name type="voornaam">Antonius</name> <name type="geslachtsnaam">Volding van Bevervoorde</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-05-29">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

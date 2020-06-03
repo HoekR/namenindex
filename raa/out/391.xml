@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Ludovicus Maria</name> <name type="geslachtsnaam">Cavellier van Adrichem</name></persName>
-    <event type="birth" when="1776-10-02">
-      <place>Haarlem</place>
+    <persName><name type="voornaam">Philippe-Antoine</name> <name type="geslachtsnaam">Merlin de Douai</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-11-02">
-      <place>Boxmeer</place>
+    <event type="death" when="1838">
+      <place></place>
     </event>
   </person>
   <biography/>

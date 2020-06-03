@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Cornelis Adriaan</name> <name type="geslachtsnaam">Mollerus</name></persName>
-    <event type="birth" when="1782-02-06">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Johan Johansz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Grootvelt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-06-11">
-      <place>Utrecht</place>
+    <event type="death" when="1722-01-02">
+      <place></place>
     </event>
   </person>
   <biography/>

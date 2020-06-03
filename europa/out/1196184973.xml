@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1196184973"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bonn nan</name> <name type="geslachtsnaam">Grund</name></persName>
+    <event type="birth">
+      <date>15-01-1907</date>
+      <place>K&#246;niglich Neudorf, Obersclesien</place>
+    </event>
+    <event type="death">
+      <date>02-10-1986</date>
+      <place>Bonn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/576"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof. (geen dr.)</name> <name type="voornaam">nan</name> <name type="intrapositie">Overveen nan</name> <name type="geslachtsnaam">Posthuma</name></persName>
+    <event type="birth">
+      <date>25-07-1900</date>
+      <place>Djember (Nederlands-Indi&#235;)</place>
+    </event>
+    <event type="death">
+      <date>12-07-1991</date>
+      <place>Overveen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hasz</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Gerhard Horenken</name> <name type="geslachtsnaam">Alberda van Bloemersma</name></persName>
+    <event type="birth" when="2007">
+      <place>Groningen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1831-09-27">
+      <place>Groningen</place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1640952277"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Piet</name> <name type="intrapositie">Heerlen van</name> <name type="geslachtsnaam">Zeil</name></persName>
+    <event type="birth">
+      <date>03-08-1927</date>
+      <place>Hillegom</place>
+    </event>
+    <event type="death">
+      <date>10-11-2012</date>
+      <place>Heerlen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gijsbert</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dedem tot de Gelder</name></persName>
-    <event type="birth" when="1686">
-      <place></place>
+    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Hoekwater</name></persName>
+    <event type="birth" when="2011">
+      <place>Delft</place>
     </event>
-    <event type="death" when="1738-01-21">
-      <place></place>
+    <event type="death" when="1877-01-07">
+      <place>Delft</place>
     </event>
   </person>
   <biography/>

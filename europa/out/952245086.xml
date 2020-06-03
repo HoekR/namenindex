@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/952245086"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Worchester nan</name> <name type="geslachtsnaam">Walker</name></persName>
+    <event type="birth">
+      <date>25-03-1932</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>23-06-2010</date>
+      <place>Worchester</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

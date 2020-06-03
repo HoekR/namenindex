@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Constantijn Theodore</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Lynden van Sandenburg</name></persName>
-    <event type="birth" when="1826-02-24">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Pieter Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Veen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1885-11-08">
-      <place>Neerlangbroek</place>
+    <event type="death" when="1715-01-04">
+      <place></place>
     </event>
   </person>
   <biography/>

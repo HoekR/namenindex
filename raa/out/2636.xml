@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hans Clazes</name> <name type="geslachtsnaam">Wouda</name></persName>
-    <event type="birth" when="1794-11-19">
-      <place>Sneek</place>
+    <persName><name type="intrapositie">van</name> <name type="geslachtsnaam">Twist</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-08-03">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albertus Regnerus</name> <name type="geslachtsnaam">Sloos</name></persName>
-    <event type="birth" when="1805-08-15">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Jacob Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Baen (de jonge)</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-02-01">
-      <place>Winkel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

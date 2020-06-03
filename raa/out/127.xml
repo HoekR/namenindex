@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fredericus Joannes Thomas</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Bruyn</name></persName>
-    <event type="birth" when="1795-05-30">
-      <place>Overlangel</place>
+    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Hinlopen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1856-07-28">
-      <place>Helmond</place>
+    <event type="death" when="1808">
+      <place></place>
     </event>
   </person>
   <biography/>

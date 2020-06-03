@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Julius Philip Jacob Adriaan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Zuylen van Nijevelt</name></persName>
-    <event type="birth" when="1819-08-19">
-      <place>Luxemburg</place>
+    <persName><name type="voornaam">&#201;tienne</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Hastrel de Rivedoux</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1894-07-01">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1846">
+      <place></place>
     </event>
   </person>
   <biography/>

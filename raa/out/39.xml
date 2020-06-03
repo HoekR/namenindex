@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jean Baptiste Marie Joseph Frans Ghislain</name> <name type="intrapositie">graaf d'</name> <name type="geslachtsnaam">Hane de Steenhuyse</name></persName>
-    <event type="birth" when="1757-08-21">
-      <place>Gent</place>
+    <persName><name type="voornaam">Willem Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Schouten</name></persName>
+    <event type="birth" when="1528">
+      <place></place>
     </event>
-    <event type="death" when="1826-01-17">
-      <place>Gent</place>
+    <event type="death" when="1604">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Frederik George Lodewijk</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Oranje-Nassau</name></persName>
-    <persName>koning Willem II</persName>
-    <event type="birth" when="1792-12-06">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Daniel Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Camerling</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-03-17">
-      <place>Tilburg</place>
+    <event type="death" when="1767-11-09">
+      <place></place>
     </event>
   </person>
   <biography/>

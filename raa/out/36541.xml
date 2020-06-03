@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/36541"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Carel Salomon</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Poll</name></persName>
+    <event type="birth" when="2009">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1833-09-21">
+      <place>St. George d'Elmina</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

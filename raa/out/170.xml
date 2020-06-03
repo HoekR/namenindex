@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Loopuyt</name></persName>
-    <event type="birth" when="1791-07-03">
-      <place>Schiedam</place>
+    <persName><name type="voornaam">Jacob Adriaensz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Lelij</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-06-05">
-      <place>Schiedam</place>
+    <event type="death" when="1795">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Arend</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Echten tot Arendshorst</name></persName>
-    <event type="birth" when="1733">
+    <persName><name type="voornaam">Johan Philips Christoffel</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Keppel tot Stoevelaar</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1818-02-26">
+    <event type="death" when="1741-03-30">
       <place></place>
     </event>
   </person>

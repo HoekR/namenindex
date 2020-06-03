@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Samuel</name> <name type="geslachtsnaam">Crena</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Bosscha</name></persName>
+    <event type="birth" when="2003">
+      <place>Harderwijk</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1874-09-12">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

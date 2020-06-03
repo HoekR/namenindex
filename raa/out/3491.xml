@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wicher</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Swinderen</name></persName>
-    <event type="birth" when="1745-04-13">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Jan Cornelisz.</name> <name type="geslachtsnaam">Kooi</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1821-11-27">
-      <place>Groningen</place>
+    <event type="death" when="1830">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1243743682"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Lannung</name></persName>
+    <event type="birth">
+      <date>09-11-1895</date>
+      <place>Verstervang</place>
+    </event>
+    <event type="death">
+      <date>14-10-1996</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

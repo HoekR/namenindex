@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Mello</name> <name type="geslachtsnaam">Sichterman</name></persName>
-    <event type="birth" when="1743-12-05">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Jan David</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Schelle</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1826-10-14">
-      <place>Groningen</place>
+    <event type="death" when="1825">
+      <place></place>
     </event>
   </person>
   <biography/>

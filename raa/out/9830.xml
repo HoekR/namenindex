@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">G&#233;raud-Christophe-Michel</name> <name type="intrapositie">duc (empire)</name> <name type="geslachtsnaam">Duroc</name></persName>
-    <persName>Duroc, Duc de Frioul.</persName>
-    <event type="birth" when="1772">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Bronkhorst van Batenburg</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1813">
+    <event type="death">
       <place></place>
     </event>
   </person>

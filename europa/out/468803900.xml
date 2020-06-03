@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/468803900"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Prof.Mr.Dr.</name> <name type="voornaam">Bas</name> <name type="intrapositie">nan de</name> <name type="geslachtsnaam">Gaay Fortman</name></persName>
+    <event type="birth">
+      <date>06-11-1937</date>
+      <place>Den Haag</place>
+    </event>
+    <event type="death">
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

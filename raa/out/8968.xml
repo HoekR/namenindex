@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Hendrik Bernard</name> <name type="geslachtsnaam">Martini</name></persName>
-    <event type="birth" when="1768-08-30">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Joan</name> <name type="geslachtsnaam">Huydecoper</name></persName>
+    <persName>Huydecoper van Maarsseveen</persName>
+    <event type="birth" when="2002">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1848-12-16">
-      <place>Vught</place>
+    <event type="death" when="1836-09-08">
+      <place>Baden-Baden</place>
     </event>
   </person>
   <biography/>

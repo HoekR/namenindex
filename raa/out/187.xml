@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik Lodewijk Ferdinand</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Drachstett</name></persName>
-    <event type="birth" when="1761-09-24">
-      <place>Grave</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ludolph</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Hattum</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-12-17">
-      <place>Leiden</place>
+    <event type="death" when="1554">
+      <place></place>
     </event>
   </person>
   <biography/>

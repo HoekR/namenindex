@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Paulus Adriaan</name> <name type="geslachtsnaam">Beelaerts van Blokland</name></persName>
-    <persName>Beelaerts van Blokland van Oosterwijk</persName>
-    <event type="birth" when="1781-03-04">
-      <place>Dordrecht</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Compostel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-08-21">
-      <place>Utrecht</place>
+    <event type="death" when="1693-05-18">
+      <place></place>
     </event>
   </person>
   <biography/>

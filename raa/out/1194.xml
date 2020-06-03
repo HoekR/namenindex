@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Meursing</name> <name type="geslachtsnaam">Braams</name></persName>
-    <event type="birth" when="1766-04-25">
-      <place>Anloo</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Maximiliaan</name> <name type="intrapositie">knaap van</name> <name type="geslachtsnaam">Hennin-Lietard</name></persName>
+    <persName>Boussu</persName>
+    <persName>Bossu</persName>
+    <event type="birth" when="1542">
+      <place></place>
     </event>
-    <event type="death" when="1848-01-27">
-      <place>Eext</place>
+    <event type="death" when="1578">
+      <place></place>
     </event>
   </person>
   <biography/>

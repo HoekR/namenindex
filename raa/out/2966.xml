@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan Carel</name> <name type="intrapositie">Visscher</name> <name type="geslachtsnaam">Bouricius</name></persName>
-    <event type="birth" when="1787-06-21">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Arnout</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Duyck de Jode</name></persName>
+    <persName>Arnout Daye de Jode jr.</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-04-13">
-      <place>Arnhem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

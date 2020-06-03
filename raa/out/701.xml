@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Frederik Carel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lidth de Jeude</name></persName>
-    <event type="birth" when="1815-02-28">
-      <place>Tiel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">knaap van</name> <name type="geslachtsnaam">Croy</name></persName>
+    <persName>Roeulx</persName>
+    <event type="birth" when="1492">
+      <place></place>
     </event>
-    <event type="death" when="1874-05-04">
-      <place>Tiel</place>
+    <event type="death" when="1553">
+      <place></place>
     </event>
   </person>
   <biography/>

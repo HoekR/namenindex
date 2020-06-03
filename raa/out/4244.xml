@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">Verheye van</name> <name type="geslachtsnaam">Citters</name></persName>
-    <event type="birth" when="1753-03-04">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Engbert Bernard</name> <name type="intrapositie">ten</name> <name type="geslachtsnaam">Raa</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-07-17">
-      <place>St. Laurens</place>
+    <event type="death" when="1855">
+      <place></place>
     </event>
   </person>
   <biography/>

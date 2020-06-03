@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Fran&#231;ois</name> <name type="intrapositie">Timmers</name> <name type="geslachtsnaam">Verhoeven</name></persName>
-    <event type="birth" when="1802-07-16">
-      <place>Dordrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lambrecht</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Schellinck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-06-10">
-      <place>Dordrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

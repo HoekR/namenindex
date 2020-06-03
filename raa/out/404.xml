@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">Both</name> <name type="geslachtsnaam">Hendriksen</name></persName>
-    <event type="birth" when="1744-02-20">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gellius</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Jongestal</name></persName>
+    <persName>Jelle van Jongestal</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1817-08-28">
-      <place>De Bilt</place>
+    <event type="death" when="1641-10-31">
+      <place></place>
     </event>
   </person>
   <biography/>

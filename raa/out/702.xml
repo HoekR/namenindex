@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Carolus Cornelius Aloysius</name> <name type="geslachtsnaam">Beens</name></persName>
-    <event type="birth" when="1817-12-18">
-      <place>Ulvenhout</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Dani&#235;l</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Blocq</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1887-02-10">
-      <place>Breda</place>
+    <event type="death" when="1617-07-07">
+      <place></place>
     </event>
   </person>
   <biography/>

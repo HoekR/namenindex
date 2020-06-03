@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Rudolph Willem</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Lynden</name></persName>
-    <event type="birth" when="1808-12-08">
-      <place>Emmerik</place>
+    <persName><name type="voornaam">Anthony Hendrik Christiaan</name> <name type="geslachtsnaam">Staring</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-04-19">
-      <place>Middelburg</place>
+    <event type="death" when="1805">
+      <place></place>
     </event>
   </person>
   <biography/>

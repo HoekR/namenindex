@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Marinus Samuel Fran&#231;ois</name> <name type="intrapositie">de Moraaz</name> <name type="geslachtsnaam">Imans</name></persName>
-    <event type="birth" when="1821-11-20">
-      <place>Beverwijk</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Houten</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-09-25">
-      <place>Haarlem</place>
+    <event type="death" when="1678">
+      <place></place>
     </event>
   </person>
   <biography/>

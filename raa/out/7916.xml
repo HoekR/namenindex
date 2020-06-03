@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Henricus Jacobus</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Wijkerslooth de Weerdesteyn</name></persName>
-    <event type="birth" when="1752">
+    <persName><name type="voornaam">Joannes</name> <name type="geslachtsnaam">Vos</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1808">
+    <event type="death">
       <place></place>
     </event>
   </person>

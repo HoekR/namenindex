@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arnoldus Antonius</name> <name type="geslachtsnaam">Heeren</name></persName>
-    <event type="birth" when="1804-10-15">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Dirksz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Assendelft</name></persName>
+    <event type="birth" when="1420">
+      <place></place>
     </event>
-    <event type="death" when="1878-07-27">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1486">
+      <place></place>
     </event>
   </person>
   <biography/>

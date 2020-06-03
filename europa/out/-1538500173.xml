@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1538500173"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Poitiers nan</name> <name type="geslachtsnaam">Abelin</name></persName>
+    <event type="birth">
+      <date>16-05-1909</date>
+      <place>Poitiers</place>
+    </event>
+    <event type="death">
+      <date>23-05-1977</date>
+      <place>Poitiers</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

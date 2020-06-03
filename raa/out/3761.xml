@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Godefridus Franciscus Antonius Henricus Cornelius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hugenpoth tot Aerdt</name></persName>
-    <event type="birth" when="1743-02-11">
-      <place>Herwen</place>
+    <persName><name type="voornaam">Klaas Oenes</name> <name type="geslachtsnaam">Gorter</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-07-27">
-      <place>Herwen</place>
+    <event type="death" when="1805">
+      <place></place>
     </event>
   </person>
   <biography/>

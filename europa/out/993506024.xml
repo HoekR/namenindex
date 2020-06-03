@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/993506024"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Brussel nan</name> <name type="geslachtsnaam">Mu&#251;ls</name></persName>
+    <event type="birth">
+      <date>12-07-1892</date>
+      <place>Saint-Josse-ten-Noode</place>
+    </event>
+    <event type="death">
+      <date>02-03-1981</date>
+      <place>Brussel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

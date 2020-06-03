@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/31337"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jan Jacob</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Geer</name></persName>
+    <event type="birth" when="2004">
+      <place>Utrecht</place>
+    </event>
+    <event type="death" when="1871-06-11">
+      <place>Utrecht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

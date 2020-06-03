@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Johan Hendrik Petrus Eleonardt</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Renesse</name></persName>
-    <persName>Van Renesse van Wilp</persName>
-    <event type="birth" when="1746-08-14">
-      <place>Nijmegen</place>
+    <persName><name type="voornaam">Adriaen Adriaensz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Blijenburg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-01-30">
-      <place>Nijmegen</place>
+    <event type="death" when="1682-10-09">
+      <place></place>
     </event>
   </person>
   <biography/>

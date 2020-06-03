@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Sleyden</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Louis Frederik Christiaan</name> <name type="intrapositie">comte (d'Empire) van</name> <name type="geslachtsnaam">Rappard</name></persName>
+    <event type="birth" when="2005">
+      <place>Arnhem</place>
     </event>
-    <event type="death" when="1842">
-      <place></place>
+    <event type="death" when="1862-09-06">
+      <place>Laren (Gld.)</place>
     </event>
   </person>
   <biography/>

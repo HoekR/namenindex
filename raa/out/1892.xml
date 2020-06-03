@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Assuerus</name> <name type="geslachtsnaam">Becius</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Auke Edesz.</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Reynalda</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1823">
+    <event type="death">
       <place></place>
     </event>
   </person>

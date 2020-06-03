@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Guillaume Eug&#232;ne Francois Xavier Mathias</name> <name type="geslachtsnaam">Kerens de Wylr&#233;</name></persName>
-    <event type="birth" when="1805-01-30">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Frankenz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Veenlant</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1880-01-05">
-      <place>Maastricht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

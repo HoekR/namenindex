@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">Duvelaer van de</name> <name type="geslachtsnaam">Spiegel</name></persName>
-    <event type="birth" when="1771-12-29">
-      <place>Goes</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gerritsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-10-28">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

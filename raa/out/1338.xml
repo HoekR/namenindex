@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Rudolph Pabus</name> <name type="geslachtsnaam">Cleveringa</name></persName>
-    <event type="birth" when="1819-11-07">
-      <place>Appingedam</place>
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bredehoff</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1890-08-01">
-      <place>Appingedam</place>
+    <event type="death" when="1795-01-11">
+      <place></place>
     </event>
   </person>
   <biography/>

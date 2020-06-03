@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans Martinus</name> <name type="intrapositie">de Vries van</name> <name type="geslachtsnaam">Heyst</name></persName>
-    <event type="birth" when="1791-10-21">
-      <place>Culemborg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arend</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Voort</name></persName>
+    <persName>Hoogstraten</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-05-06">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

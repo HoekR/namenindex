@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bernhard</name> <name type="intrapositie">ten Zijthoff</name> <name type="geslachtsnaam">Auffmorth</name></persName>
-    <persName>Aufmorth</persName>
+    <persName><name type="voornaam">Wouter Matthijsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Neercassel</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1821">
+    <event type="death" when="1623-05-08">
       <place></place>
     </event>
   </person>

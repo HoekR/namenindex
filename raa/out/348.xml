@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Ferdinand</name> <name type="intrapositie">Mogge</name> <name type="geslachtsnaam">Muilman</name></persName>
-    <persName>Mogge Muilman van Haamstede</persName>
-    <event type="birth" when="1778-02-22">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Juchem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-12-14">
-      <place>Amsterdam</place>
+    <event type="death" when="1808">
+      <place></place>
     </event>
   </person>
   <biography/>

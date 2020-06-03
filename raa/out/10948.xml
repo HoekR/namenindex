@@ -8,10 +8,7 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrick Dircksz.</name> <name type="geslachtsnaam">Schoenmaker</name></persName>
-    <persName>Hendrick Dircksz. Wems</persName>
-    <persName>Hendrick Dircksz. Wemes</persName>
-    <persName>Hendrick Dircksz. Wemmes</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arend</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Tol</name></persName>
     <event type="birth">
       <place></place>
     </event>

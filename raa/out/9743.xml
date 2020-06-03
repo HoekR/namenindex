@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reygersberge</name></persName>
-    <event type="birth" when="1704">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Floris Adriaan</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Hall</name></persName>
+    <event type="birth" when="2005">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1762-11-11">
-      <place></place>
+    <event type="death" when="1866-03-29">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

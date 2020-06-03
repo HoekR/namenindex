@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Anne</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Mackay</name></persName>
-    <event type="birth" when="1769-02-13">
-      <place>Tiel</place>
+    <persName><name type="voornaam">Johan</name> <name type="geslachtsnaam">Lulofs</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-05-10">
-      <place>Zutphen</place>
+    <event type="death" when="1804">
+      <place></place>
     </event>
   </person>
   <biography/>

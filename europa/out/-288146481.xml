@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-288146481"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Parijs nan</name> <name type="geslachtsnaam">Perrin</name></persName>
+    <event type="birth">
+      <date>17-08-1901</date>
+      <place>Parijs</place>
+    </event>
+    <event type="death">
+      <date>04-07-1992</date>
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

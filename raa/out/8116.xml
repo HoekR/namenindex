@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Andrieu</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Roubaix</name></persName>
-    <persName>Rubais</persName>
-    <persName>Adrian de Roubais</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Cornelis Fran&#231;ois</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vries</name></persName>
+    <event type="birth" when="2001">
+      <place>Paramaribo</place>
     </event>
-    <event type="death" when="1543">
-      <place></place>
+    <event type="death" when="1823-01-24">
+      <place>Harderwijk</place>
     </event>
   </person>
   <biography/>

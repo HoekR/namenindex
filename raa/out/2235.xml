@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Henrik</name> <name type="geslachtsnaam">Hoeufft</name></persName>
-    <persName>Hoeufft van Velsen</persName>
-    <event type="birth" when="1812-01-21">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Baert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1894-01-02">
-      <place>Amsterdam</place>
+    <event type="death" when="1763-02-15">
+      <place></place>
     </event>
   </person>
   <biography/>

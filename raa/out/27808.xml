@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/27808"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">Corver</name> <name type="geslachtsnaam">Hooft</name></persName>
+    <event type="birth" when="2012">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1855-07-25">
+      <place>s-Graveland</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1181550412"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">generaal</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Anemaet</name></persName>
+    <event type="birth">
+      <date>13-05-1920</date>
+      <place>Nijmegen</place>
+    </event>
+    <event type="death">
+      <date>23-09-1997</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

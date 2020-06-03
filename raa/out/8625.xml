@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Augustijn</name> <name type="geslachtsnaam">Baccart</name></persName>
-    <persName>Augustinus Bakker</persName>
+    <persName><name type="voornaam">Jacob Lambert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Colve</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1647">
+    <event type="death" when="1722-01-31">
       <place></place>
     </event>
   </person>

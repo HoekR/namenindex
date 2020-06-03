@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Martinus Anne</name> <name type="geslachtsnaam">Wijnaendts</name></persName>
-    <event type="birth" when="1793-11-16">
-      <place>Overschie</place>
+    <persName><name type="voornaam">Carel Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Grasveld</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1842-05-15">
-      <place>Delft</place>
+    <event type="death" when="1841">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Thijs Jacobsz.</name> <name type="geslachtsnaam">Horn</name></persName>
-    <event type="birth" when="1681">
+    <persName><name type="voornaam">Lambertus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Nilant</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1719">
+    <event type="death" when="1778-10-26">
       <place></place>
     </event>
   </person>

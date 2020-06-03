@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gualtherus</name> <name type="geslachtsnaam">Kolff</name></persName>
-    <event type="birth" when="1775-07-31">
-      <place>Deil</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Eizo</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Wendt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-09-30">
-      <place>Deil</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

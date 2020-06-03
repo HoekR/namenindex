@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Franciscus Egon Philippus Joannes</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">B&#246;nninghausen</name></persName>
-    <persName>Von B&#246;nninghausen van Herinkhave</persName>
-    <event type="birth" when="1789-03-13">
-      <place>Fleringen</place>
+    <persName><name type="voornaam">Maximiliaan</name> <name type="intrapositie">den</name> <name type="geslachtsnaam">Appel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-04-10">
-      <place>Fleringen</place>
+    <event type="death" when="1822">
+      <place></place>
     </event>
   </person>
   <biography/>

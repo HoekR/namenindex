@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jongh van Hedikhuizen</name></persName>
-    <event type="birth" when="1759">
+    <persName><name type="voornaam">Dirk Jansz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Woerden</name></persName>
+    <persName>Dirk Thierry Jansz. van Woerden</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1803">
+    <event type="death" when="1591">
       <place></place>
     </event>
   </person>

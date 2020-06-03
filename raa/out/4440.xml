@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Robrecht</name> <name type="geslachtsnaam">Valckenburch</name></persName>
+    <persName><name type="voornaam">Josephus Ernestus Ludovicus Franciscus Alexander</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">B&#246;nninghausen tot Herinckhave en Darup</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1812">
       <place></place>
     </event>
   </person>

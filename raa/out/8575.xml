@@ -8,7 +8,9 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lambertus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Beusichem</name></persName>
+    <persName>
+      <name type="geslachtsnaam">Graafland</name>
+    </persName>
     <event type="birth">
       <place></place>
     </event>

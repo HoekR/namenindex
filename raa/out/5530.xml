@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Gustaaf Frederik</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Bentinck-Rhoon</name></persName>
-    <event type="birth" when="1762-06-21">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Ticlau</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-10-22">
-      <place>Varel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

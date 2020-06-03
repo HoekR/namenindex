@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1536"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr. baron</name> <name type="voornaam">nan</name> <name type="intrapositie">Aigle (Vaud) van der</name> <name type="geslachtsnaam">Feltz</name></persName>
+    <event type="birth">
+      <date>07-11-1913</date>
+      <place>Rotterdam</place>
+    </event>
+    <event type="death">
+      <date>21-02-1984</date>
+      <place>Aigle (Vaud)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Thade</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vries</name></persName>
-    <event type="birth" when="1768-06-14">
-      <place>Enkhuizen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sicke</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Dijcxtra</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-09-03">
-      <place>Edam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

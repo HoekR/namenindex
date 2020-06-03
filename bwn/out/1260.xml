@@ -1,0 +1,73 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Molster, Frederik Adriaan (1865-1936)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/molster"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">molster</idno>
+    <persName><name type="geslachtsnaam">Molster</name>, Frederik Adriaan</persName>
+    <sex value="1"/>
+    <event type="birth" when="1865"/>
+    <event type="death" when="1936"/>
+    <state type="occupation">jurist</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Molster, Frederik Adriaan&lt;/strong&gt;, jurist (Amsterdam 30-1-1865 - Amsterdam 18-12-1936).
+
+Zoon van Johannes Adriaan Molster, advocaat, en Carolina Louisa Augusta
+Tendering. Gehuwd op 28-8-1902 met Catharina Johanna Rijk. Uit dit
+huwelijk waren geen kinderen.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Na in Amsterdam zijn gymnasiumopleiding te hebben ontvangen
+studeerde Molster daar rechten. Hij voltooide zijn studie in 1888 met
+de verdediging van het proefschrift 
+&lt;em&gt;Opzettelijke stranding in het Averijgrosrecht.&lt;/em&gt;
+
+Hij oefende daarna praktijk uit als advocaat en procureur, eveneens te
+Amsterdam. Van 1896-1901 was hij tevens kantonrechter-plaatsvervanger.
+In 1914 werd hij benoemd tot buitengewoon hoogleraar in het
+Handelsrecht en het Faillissementsrecht aan de Universiteit van
+Amsterdam, welk ambt door hem aanvaard werd met een rede getiteld 
+&lt;em&gt;Oorlog en Handelsovereenkomst.&lt;/em&gt;
+
+Tijdens zijn hoogleraarschap bleef hij zijn zeer aanzienlijk geworden
+advocatenpraktijk uitoefenen. De combinatie van een theoretische en
+praktische werkkring verklaren zijn betrekkelijk geringe aantal
+wetenschappelijke publikaties. Voornamelijk schreef hij in het door
+hemzelf, in samenwerking met C.D. Asser jr., in 1889 heropgerichte 
+&lt;em&gt;Magazijn voor Handelsrecht,&lt;/em&gt;
+
+dat 30 jaar eerder, onder redactie van o.m. zijn vader en daarna nog
+tijdelijk onder een andere naam, verschenen was. De uitgave werd
+gestaakt in 1920. In 1930 legde hij zijn hoogleraarschap neer. Hij was
+een vriendelijk, in uiterlijkheden wat ouderwets man. Van dat laatste
+getuigt de toen reeds opmerkelijke afwezigheid van telefoon op zijn
+kantoor. Hij vervulde veel maatschappelijke functies, o.m. in de
+remonstrantse kerk.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve de reeds genoemde: 
+&lt;em&gt;De eigendom der gemeene heiden en weiden van Gooiland&lt;/em&gt;
+
+(Amsterdam, 1888).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;Stud. Alm. Amst.&lt;/em&gt;
+
+101 (1931) 97-99; 
+&lt;em&gt;Ned. Jur. Blad&lt;/em&gt;
+
+11 (1936) 1053.&lt;/p&gt;
+&lt;p&gt;A.M.M. Orie&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

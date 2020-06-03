@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bocke</name> <name type="geslachtsnaam">Burmania</name></persName>
-    <persName>Bocco van Burmania</persName>
-    <event type="birth" when="1637">
+    <persName><name type="voornaam">Claas Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Thoen</name></persName>
+    <persName>Claas Jansz. 't Hoen</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1702-07-08">
+    <event type="death" when="1668">
       <place></place>
     </event>
   </person>

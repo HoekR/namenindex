@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hieronymus Joannes Wilhelmus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Aken</name></persName>
-    <event type="birth" when="1796-01-22">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wouter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Paulsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-07-19">
+    <event type="death">
       <place></place>
     </event>
   </person>

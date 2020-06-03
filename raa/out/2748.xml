@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Josephus Edwardus</name> <name type="geslachtsnaam">Lebens</name></persName>
-    <event type="birth" when="1816-09-08">
-      <place>Maastricht</place>
+    <persName><name type="voornaam">Barthold Adriaensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Cromhout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1883-02-26">
+    <event type="death" when="1624">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">W.</name> <name type="geslachtsnaam">Craeijvanger</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Matthijs</name> <name type="geslachtsnaam">Lagerwey</name></persName>
+    <event type="birth" when="2004">
+      <place>Woudenberg</place>
     </event>
-    <event type="death" when="1806">
-      <place></place>
+    <event type="death" when="1881-01-15">
+      <place>Westbroek</place>
     </event>
   </person>
   <biography/>

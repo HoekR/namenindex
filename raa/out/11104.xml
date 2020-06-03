@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jean</name> <name type="geslachtsnaam">Lacl&#233;</name></persName>
-    <event type="birth" when="1738">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerard Johan</name> <name type="geslachtsnaam">Ver Loren van Themaat</name></persName>
+    <event type="birth" when="2002">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1802-05-04">
-      <place></place>
+    <event type="death" when="1890-11-22">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Buisman</name></persName>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Stralen</name></persName>
+    <persName>Hendrik Jansz. Mossel van Stralen</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1822">
       <place></place>
     </event>
   </person>

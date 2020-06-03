@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">C.C.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Haverkamp</name></persName>
+    <persName><name type="voornaam">Pieter Arendsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Deyman</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1626-08-05">
       <place></place>
     </event>
   </person>

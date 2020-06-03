@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Willemsz.</name> <name type="geslachtsnaam">Spiering</name></persName>
-    <event type="birth" when="1663">
+    <persName><name type="voornaam">Bouwen</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Heijndricxz</name></persName>
+    <persName>Bouwen Heijnsz.</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1745-04-29">
+    <event type="death">
       <place></place>
     </event>
   </person>

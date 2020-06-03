@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Reynier</name> <name type="geslachtsnaam">Hinlopen</name></persName>
-    <event type="birth" when="1648">
-      <place></place>
+    <persName><name type="voornaam">Diederik</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Tuyll van Serooskerken</name></persName>
+    <persName>Van Tuyll van Serooskerken van Maarssen</persName>
+    <event type="birth" when="2004">
+      <place>Heeze</place>
     </event>
-    <event type="death" when="1723-02-01">
-      <place></place>
+    <event type="death" when="1840-11-22">
+      <place>Maarssen</place>
     </event>
   </person>
   <biography/>

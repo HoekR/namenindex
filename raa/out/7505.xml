@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bruno Arentsz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Dussen</name></persName>
-    <persName>Bruine Arendsz. van der Dussen</persName>
-    <event type="birth" when="1588">
-      <place></place>
+    <persName><name type="voornaam">Charles Aim&#233; Emmanuel</name> <name type="intrapositie">burggraaf van der</name> <name type="geslachtsnaam">Meere van Cruyshautem</name></persName>
+    <event type="birth" when="2005">
+      <place>Oudenaarde</place>
     </event>
-    <event type="death" when="1655-04-27">
-      <place></place>
+    <event type="death" when="1837-07-03">
+      <place>Brussel</place>
     </event>
   </person>
   <biography/>

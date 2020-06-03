@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Lodewijk Carel Jacob Christiaan Frans</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nispen</name></persName>
-    <persName>Van Nispen van Velde</persName>
-    <event type="birth" when="1790-06-28">
-      <place>Chaudfontaine</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Frederik</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Vierssen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-05-08">
-      <place>Wehl</place>
+    <event type="death" when="1715-10-08">
+      <place></place>
     </event>
   </person>
   <biography/>

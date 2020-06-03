@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Jacobus Hendricus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reenen</name></persName>
-    <event type="birth" when="1783-11-02">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ulricus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Huber</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-08-03">
-      <place>Amsterdam</place>
+    <event type="death" when="1694-08-11">
+      <place></place>
     </event>
   </person>
   <biography/>

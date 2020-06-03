@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerard jr.</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Bosch</name></persName>
-    <event type="birth" when="1691">
-      <place></place>
+    <persName><name type="voornaam">Cornelis Hendrik Theodorus</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Nahuys</name></persName>
+    <event type="birth" when="2004">
+      <place>Vreeswijk</place>
     </event>
-    <event type="death" when="1751">
-      <place></place>
+    <event type="death" when="1870-08-06">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Lodewijk</name> <name type="geslachtsnaam">Wijchgel</name></persName>
-    <persName>Wijchgel van Lellens</persName>
-    <event type="birth" when="1757-09-01">
-      <place>Schildwolde</place>
+    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Spoors</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1830-07-02">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

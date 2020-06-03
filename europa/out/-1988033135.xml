@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1988033135"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Parijs nan</name> <name type="geslachtsnaam">Naegelen</name></persName>
+    <event type="birth">
+      <date>17-01-1892</date>
+      <place>Belfort</place>
+    </event>
+    <event type="death">
+      <date>15-04-1978</date>
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

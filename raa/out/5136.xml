@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Roeloff Jacobsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Paffenrode</name></persName>
+    <persName><name type="voornaam">Adriaen</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Matenesse</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1673-06-13">
+    <event type="death" when="1621">
       <place></place>
     </event>
   </person>

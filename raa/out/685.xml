@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anthony</name> <name type="geslachtsnaam">Hoynck van Papendrecht</name></persName>
-    <event type="birth" when="1819-01-16">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf die</name> <name type="geslachtsnaam">Rooi</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-09-30">
-      <place>Rotterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

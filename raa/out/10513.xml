@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jacob Lodewijk</name> <name type="intrapositie">Snouck</name> <name type="geslachtsnaam">Hurgronje</name></persName>
-    <event type="birth" when="1778-04-05">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dani&#235;l Jan</name> <name type="intrapositie">Steyn</name> <name type="geslachtsnaam">Parv&#233;</name></persName>
+    <event type="birth" when="2012">
+      <place>Haarlem</place>
     </event>
-    <event type="death" when="1845-11-19">
+    <event type="death" when="1831-10-13">
       <place>'s-Gravenhage</place>
     </event>
   </person>

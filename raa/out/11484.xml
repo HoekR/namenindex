@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Erasmus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Romunde</name></persName>
-    <persName>Erasmus van Romondt</persName>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pesters</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1749-04-09">
+    <event type="death" when="1797-12-08">
       <place></place>
     </event>
   </person>

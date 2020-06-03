@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Carl Philip Ferdinand Hermann</name> <name type="intrapositie">baron von</name> <name type="geslachtsnaam">Riedesel d'Eisenbach</name></persName>
-    <event type="birth" when="1775-11-25">
-      <place>Brunswijk</place>
+    <persName><name type="voornaam">Warner</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-12-21">
-      <place>Oh&#233; en Laak</place>
+    <event type="death" when="1836">
+      <place></place>
     </event>
   </person>
   <biography/>

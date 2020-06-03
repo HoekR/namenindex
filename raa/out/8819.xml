@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles-Fran&#231;ois</name> <name type="intrapositie">prince (empire)</name> <name type="geslachtsnaam">Lebrun</name></persName>
-    <persName>Lebrun, Prince-Duc de Plaisance</persName>
-    <event type="birth" when="1739">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan Boudijnsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Fijck van Hove</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1824">
+    <event type="death">
       <place></place>
     </event>
   </person>

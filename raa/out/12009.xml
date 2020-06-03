@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bosvelt</name></persName>
-    <event type="birth" when="1756-08-29">
-      <place>Jutphaas</place>
+    <persName><name type="voornaam">Fokko Willem</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Stennekes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-11-14">
-      <place>Hazerswoude</place>
+    <event type="death" when="1808-05-11">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,78 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Beek, Johannes Albertus van (1836-1913)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/beek"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">beek</idno>
+    <persName><name type="geslachtsnaam">Beek</name>, Johannes Albertus van</persName>
+    <sex value="1"/>
+    <event type="birth" when="1836"/>
+    <event type="death" when="1913"/>
+    <state type="occupation">oud-katholiek priester</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Beek, Johannes Albertus van&lt;/strong&gt;, deken en pastoor (Amersfoort 10-4-1836 - Rotterdam 2-4-1913).
+
+Zoon van Richardus Willibrordus van Beek, grutter, en Alida de Jager.
+Hij was ongehuwd.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;In 1847 op het klein-seminarie der oud-katholieke kerk in zijn
+geboortestad gekomen, volgde hij van 1848 tot 1854 het onderwijs aan de
+stedelijke Latijnse school. Daarna studeerde hij aan het oud-katholiek
+seminarie. Aartsbisschop Henricus Loos voltooide persoonlijk in Utrecht
+de opleiding van de student. Nog diaken zijnde werd hij in 1859
+kapelaan bij de aartsbisschop. Op 30 november 1859 diende deze aan Van
+Beek de priesterwijding toe. Vervolgens was hij als hulpgeestelijke
+werkzaam te Enkhuizen, Gouda, Hilversum en Utrecht. Daarna volgden twee
+pastoraten, van 1862 tot 1875 te Dordrecht en van 1875 tot zijn
+overlijden in 1913 te Rotterdam-Oppert (hh Laurentius en Maria
+Magdalena).&lt;/p&gt;
+&lt;p&gt;Hij maakte een bloeiperiode van het gemeenteleven mede. In veertig
+jaar tijd, tussen 1869 en 1909, verdubbelde het aantal oud-katholieken
+in den lande. Verzet tegen de onfeilbaarheidsverklaring van de Paus
+(1870) kwam haar bepaald niet op verlies van leden te staan. Pastoor
+Van Beek bekleedde verscheidene hoge kerkelijke ambten. Hij was sinds
+1886 kanunnik en van 1894 af deken van het Metropolitaan Kapittel van
+Utrecht; voorts aartspriester van Schieland en Zuid-Holland. Hij
+onderkende de kentering van het getij, bevorderde meer openheid naar
+buiten en stimuleerde het opkomend verenigingswerk. Hij was
+medeoprichter van de priestervereniging Cor Unum et Anima Una (1884),
+van de Vereeniging Oud-Katholiek Ondersteuningsfonds (1887) en van het
+landelijk blad 
+&lt;em&gt;De Oud-Katholiek&lt;/em&gt;
+
+(1894), waarvan hij zelf jarenlang hoofdredacteur was. Het eerste
+internationale congres van oud-katholieken, dat in Nederland werd
+gehouden, vond in 1894 te Rotterdam plaats. Pastoor Van Beek was ook
+geschiedvorser waarvan verscheidene publikaties getuigen. Bij zijn
+omvangrijke arbeid binnen eigen kerk voegde hij algemeen sociaal werk.
+De Maatschappij tot zedelijke verbetering van gevangenen bezat in hem
+een toegewijd bezoeker van de gedetineerden. Ook het werk van de
+Maatschappij tot Nut van 't Algemeen vond in hem een pleitbezorger
+en als schoolopziener deed hij veel ter bevordering van het openbaar
+onderwijs.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Zie o.a. voor zijn publikaties bibliografie in 
+&lt;em&gt;Soli Deo Gloria&lt;/em&gt;
+
+.., 113-114.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;H.J.W. Verhey, 
+&lt;em&gt;Soli Deo Gloria&lt;/em&gt;
+
+... (De Bilt, 1950).&lt;/p&gt;
+&lt;p&gt;H.J.W. Verhey &amp;#134;&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

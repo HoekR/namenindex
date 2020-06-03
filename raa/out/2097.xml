@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Berend</name> <name type="geslachtsnaam">Lewe tot Aduard</name></persName>
-    <event type="birth" when="1787-01-19">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Adriaen Jansz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Vredenrijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-06-13">
-      <place>Leiden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

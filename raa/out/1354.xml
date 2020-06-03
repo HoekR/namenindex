@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus Johannes</name> <name type="geslachtsnaam">Tonckens</name></persName>
-    <event type="birth" when="1809-03-23">
-      <place>Eelde</place>
+    <persName><name type="voornaam">Dirck</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Admiraal</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1894-01-16">
-      <place>Den Ham (Aduard)</place>
+    <event type="death" when="1691-11-26">
+      <place></place>
     </event>
   </person>
   <biography/>

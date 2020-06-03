@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Adriaan</name> <name type="geslachtsnaam">Rauws</name></persName>
-    <event type="birth" when="1770-07-24">
-      <place>Heusden</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Wallendal</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-11-02">
-      <place>Nijmegen</place>
+    <event type="death" when="1789">
+      <place></place>
     </event>
   </person>
   <biography/>

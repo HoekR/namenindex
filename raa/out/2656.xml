@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Onno Reint</name> <name type="geslachtsnaam">Alberda van Ekenstein</name></persName>
-    <event type="birth" when="1813-03-17">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Willem Willemsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Winder</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1887-09-22">
-      <place>Groningen</place>
+    <event type="death" when="1789">
+      <place></place>
     </event>
   </person>
   <biography/>

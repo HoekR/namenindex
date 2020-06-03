@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-723086010"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">F&#252;rth nan</name> <name type="geslachtsnaam">Seeling</name></persName>
+    <event type="birth">
+      <date>01-03-1891</date>
+      <place>F&#252;rth</place>
+    </event>
+    <event type="death">
+      <date>1955</date>
+      <place>F&#252;rth</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

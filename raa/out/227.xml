@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Frederick</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sloterdijck</name></persName>
-    <event type="birth" when="1757-03-26">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hippolitus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Persijn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1815-08-31">
-      <place>Huizum</place>
+    <event type="death" when="1568-03-12">
+      <place></place>
     </event>
   </person>
   <biography/>

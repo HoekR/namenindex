@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Frederik</name> <name type="geslachtsnaam">Heshuysen</name></persName>
-    <event type="birth" when="1818-06-18">
-      <place>Doornik</place>
+    <persName><name type="voornaam">H.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Moorsel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1896-07-21">
-      <place>Bienne (Zwi.)</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

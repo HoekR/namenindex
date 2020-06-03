@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1871541849"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bromma nan</name> <name type="geslachtsnaam">Lange</name></persName>
+    <event type="birth">
+      <date>09-03-1909</date>
+      <place>Stockholm</place>
+    </event>
+    <event type="death">
+      <date>16-09-1976</date>
+      <place>Bromma</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

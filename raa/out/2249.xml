@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Antony</name> <name type="geslachtsnaam">Brugmans</name></persName>
-    <event type="birth" when="1799-12-22">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Ysbrand</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Kock</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-01-16">
-      <place>Amsterdam</place>
+    <event type="death" when="1805">
+      <place></place>
     </event>
   </person>
   <biography/>

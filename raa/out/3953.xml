@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoolwerf</name></persName>
-    <event type="birth" when="1676">
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Huyg</name></persName>
+    <persName>Hendrik Huigh</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1742-04-22">
+    <event type="death" when="1679-10-29">
       <place></place>
     </event>
   </person>

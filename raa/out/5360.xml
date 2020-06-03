@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles-&#201;tienne</name> <name type="intrapositie">baron (empire)</name> <name type="geslachtsnaam">Coquebert de Montbret</name></persName>
-    <event type="birth" when="1755">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbrecht</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Queckel</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1831">
+    <event type="death">
       <place></place>
     </event>
   </person>

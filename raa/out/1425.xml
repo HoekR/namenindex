@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Isaac</name> <name type="geslachtsnaam">Scheltus van Leusden</name></persName>
+    <persName><name type="voornaam">Dirck Outgersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Oossaanen</name></persName>
+    <persName>Dirck Outgersz. Oostzanen</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1685">
       <place></place>
     </event>
   </person>

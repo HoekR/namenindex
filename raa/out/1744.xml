@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Theodorus Louis</name> <name type="geslachtsnaam">Drabbe</name></persName>
-    <event type="birth" when="1738-12-09">
-      <place>Bergen op Zoom</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Filips (Jansz.)</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wassenaar</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-12-06">
-      <place>Bergen op Zoom</place>
+    <event type="death" when="1493">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Johan</name> <name type="geslachtsnaam">Bergsma</name></persName>
-    <event type="birth" when="1771-12-26">
-      <place>Dantumawoude</place>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Duikink</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-10-23">
-      <place>Utrecht</place>
+    <event type="death" when="1781">
+      <place></place>
     </event>
   </person>
   <biography/>

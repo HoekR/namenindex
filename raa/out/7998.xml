@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolaas Jansz.</name> <name type="geslachtsnaam">Honich</name></persName>
+    <persName><name type="voornaam">Willem Anthonie</name> <name type="intrapositie">de Haze</name> <name type="geslachtsnaam">Bomme</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1865">
       <place></place>
     </event>
   </person>

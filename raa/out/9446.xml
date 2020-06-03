@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Govert</name> <name type="geslachtsnaam">Brasser</name></persName>
-    <event type="birth" when="1590">
-      <place></place>
+    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Huidekoper</name></persName>
+    <event type="birth" when="2003">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1654-04-29">
-      <place></place>
+    <event type="death" when="1852-04-06">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

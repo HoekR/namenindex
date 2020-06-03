@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaan Fran&#231;ois</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Virieu</name></persName>
-    <event type="birth" when="1767-02-26">
-      <place>Zaltbommel</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Munter</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1838-05-05">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1759-10-23">
+      <place></place>
     </event>
   </person>
   <biography/>

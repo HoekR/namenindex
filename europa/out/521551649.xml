@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/521551649"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Maurice</name> <name type="intrapositie">Sint-Niklaas nan</name> <name type="geslachtsnaam">Orban</name></persName>
+    <event type="birth">
+      <date>04-02-1889</date>
+      <place>Virton</place>
+    </event>
+    <event type="death">
+      <date>21-05-1977</date>
+      <place>Sint-Niklaas</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

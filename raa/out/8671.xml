@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Roosbeecke</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Andreas Arnoldus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Velthoven</name></persName>
+    <event type="birth" when="2011">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1641">
-      <place></place>
+    <event type="death" when="1830-06-09">
+      <place>Waalre</place>
     </event>
   </person>
   <biography/>

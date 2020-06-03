@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/27512"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Andr&#233; Charles</name> <name type="geslachtsnaam">Membr&#232;de</name></persName>
+    <event type="birth" when="2011">
+      <place>Maastricht</place>
+    </event>
+    <event type="death" when="1831-05-10">
+      <place>Aken</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

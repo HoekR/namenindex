@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Kruijne</name></persName>
+    <persName><name type="voornaam">Lodewijk Arend</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sloet tot de Hare</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1720-02-24">
       <place></place>
     </event>
   </person>

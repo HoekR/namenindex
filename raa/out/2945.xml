@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan Francois Hendrik Jacob Ernestus</name> <name type="geslachtsnaam">Mackay</name></persName>
-    <event type="birth" when="1807-03-13">
-      <place>Nijmegen</place>
+    <persName><name type="voornaam">Eisso</name> <name type="geslachtsnaam">Metelerkamp</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-07-27">
-      <place>Nijmegen</place>
+    <event type="death" when="1813">
+      <place></place>
     </event>
   </person>
   <biography/>

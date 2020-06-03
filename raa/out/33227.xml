@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/33227"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jan Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoey</name></persName>
+    <event type="birth" when="2007">
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death" when="1838-10-13">
+      <place>Vlijmen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vrijberghe</name></persName>
-    <event type="birth" when="1649">
+    <persName><name type="voornaam">Gisbert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Cuper</name></persName>
+    <persName>Gijsbert Kuijper</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1720-04-17">
+    <event type="death" when="1716-11-22">
       <place></place>
     </event>
   </person>

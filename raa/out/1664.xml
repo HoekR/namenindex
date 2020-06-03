@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Gerrit Johan Constantijn</name> <name type="geslachtsnaam">Schimmelpenninck</name></persName>
-    <event type="birth" when="1825-07-04">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Jansz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Witte</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1904-09-22">
-      <place>Diepenheim</place>
+    <event type="death" when="1479">
+      <place></place>
     </event>
   </person>
   <biography/>

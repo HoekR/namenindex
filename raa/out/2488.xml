@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Onno Reint</name> <name type="intrapositie">van Andringa de</name> <name type="geslachtsnaam">Kempenaer</name></persName>
-    <event type="birth" when="1801-07-01">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Anthony</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Jongh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-08-08">
-      <place>Bad Neuenahr (Pruisen)</place>
+    <event type="death" when="1727">
+      <place></place>
     </event>
   </person>
   <biography/>

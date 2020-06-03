@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lambertus</name> <name type="geslachtsnaam">Kniphorst</name></persName>
-    <event type="birth" when="1756">
+    <persName><name type="voornaam">Bartolomeus</name> <name type="geslachtsnaam">Pertant</name></persName>
+    <persName>Bartelmeus Partout</persName>
+    <persName>De Castello</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1810">
+    <event type="death" when="1467">
       <place></place>
     </event>
   </person>

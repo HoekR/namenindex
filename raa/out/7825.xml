@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Ysbrands</name></persName>
-    <event type="birth" when="1665">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Fredericus Ludovicus Hubertus Joannes</name> <name type="geslachtsnaam">Bosch van Drakestein</name></persName>
+    <event type="birth" when="2012">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1749">
-      <place></place>
+    <event type="death" when="1866-08-07">
+      <place>Lage Vuursche</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Woldringh</name></persName>
-    <event type="birth" when="1794-12-17">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Andries Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Baxz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-08-25">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

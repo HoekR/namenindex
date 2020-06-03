@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Willem</name> <name type="geslachtsnaam">R&#246;mer</name></persName>
-    <event type="birth" when="1816-07-22">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Johannes</name> <name type="intrapositie">ridder Crack van</name> <name type="geslachtsnaam">Bouricius</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1899-06-08">
-      <place>Zeist</place>
+    <event type="death" when="1700-03-27">
+      <place></place>
     </event>
   </person>
   <biography/>

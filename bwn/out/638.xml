@@ -1,0 +1,80 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Gunning, Maximiliaan Frederik (1895-1972)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/gunning"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">gunning</idno>
+    <persName><name type="geslachtsnaam">Gunning</name>, Maximiliaan Frederik</persName>
+    <sex value="1"/>
+    <event type="birth" when="1895"/>
+    <event type="death" when="1972"/>
+    <state type="occupation">ondernemer</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Gunning, Maximiliaan Frederik&lt;/strong&gt;, scheepsbouwkundig ingenieur (Zwolle 9-10-1895 - Petersfield in Engeland 13-2-1972).
+
+Zoon van Johannes Hermanus Gunning, hoogleraar pedagogiek te Utrecht,
+en Cecilia van Eeghen. Gehuwd op 12-4-1920 met Anna Maria Francisca van
+Loenen Martinet, echtscheiding op 28-1-1946. Op 7-3-1946 gehuwd met
+Jacoba Julie Danielle Scheltema. Uit het eerste huwelijk werden 4
+dochters en 1 zoon geboren; het tweede was kinderloos.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Gunning doorliep de lagere school in Amsterdam en de middelbare
+school te Petersfield (Engeland) en deed in 1914 in Amsterdam
+eindexamen gymnasium. Hoewel hij tot 1918 te Amsterdam wis- en
+natuurkunde studeerde, had hij geen ambitie voor het leraarsambt of een
+universiteitsfunctie en ging na zijn kandidaatsexamen naar Delft, waar
+hij met een studietoelage van de Koninklijke Marine scheepsbouw ging
+studeren en in 1922 zijn ingenieursdiploma verwierf. Als 'ingenieur
+van de marine' kreeg hij al spoedig de leiding van de tekenkamer
+van het bureau scheepsbouw. Daar werd zijn bekende ontwerp van de
+kanonneerboten Flores en Soemba geboren.&lt;/p&gt;
+&lt;p&gt;In 1926 volgde zijn aanstelling tot hoofd van de afdeling
+marinescheepsbouw van de N.V. 'De Schelde' te Vlissingen. Onder
+zijn leiding werden daar tot 1930 de torpedojager De Ruyter, de
+onderzeeboten 0-12, 0-13 en 0-14 en het flottille-vaartuig Johan
+Maurits van Nassau gebouwd. Gezien het onzekere politieke klimaat in
+Portugal en het dientengevolge uitblijven van een garantie van de
+Nederlandse regering, durfde 'De Schelde' in 1930 het risico
+van een zeer grote order van de Portugese marine niet te nemen;
+teneinde in de toekomst een dergelijk risico te verkleinen kwam Gunning
+op het idee om een constructiebureau voor marinevaartuigen op te
+richten, waarin alle grote werven zouden samenwerken. Tevens zou dit
+bureau dienen voor de bundeling van de krachten van de Nederlandse
+industrie. Uiteindelijk werd in 1935 de N.V. Verenigde
+Scheepsbouw-bureaux (NEVESBU) te 's-Gravenhage opgericht met
+Gunning als eerste directeur. Door zijn inventieve geest, constructieve
+gaven en persoonlijke inspanning bij onderhandelingen verkreeg NEVESBU
+naast opdrachten voor een belangrijk programma voor de Koninklijke
+Marine tevens de opdracht tot de bouw van twee Poolse onderzeeboten. In
+mei 1940 reisde Gunning van Portugal naar Engeland en was daar tot 1945
+hoofdingenieur der marine in tijdelijke dienst, in welke functie hij
+was belast met de afbouw en reparatie van o.a. Hr.Ms. Heemskerk en
+Isaac Sweers. In deze tijd ontstond ook zijn idee voor een
+vrachtonderzeeboot van een driecylinder-type; dit ontwerp werd na de
+oorlog toegepast voor een nieuw model conventionele onderzeeboot,
+waarvan er vier stuks voor de Koninklijke Marine werden gebouwd.
+Terwijl hij in Engeland (Petersfield) bleef wonen, was hij van 1945 tot
+1960 verbonden aan de NEVESBU als vaste adviseur in
+scheepsbouw-technische zaken. Na 1960 trok hij zich uit deze functie
+terug, doch verleende tot 1966 nog incidenteel advies.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;A.M. Fabery de Jonge, in 
+&lt;em&gt;Roering 9&lt;/em&gt;
+
+(1972) 1 (juli) 19-20.&lt;/p&gt;
+&lt;p&gt;K.H.L. Gerretse&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

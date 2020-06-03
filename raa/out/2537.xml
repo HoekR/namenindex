@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Sible</name> <name type="geslachtsnaam">Speelman</name></persName>
-    <event type="birth" when="1819-09-07">
-      <place>Heerenveen</place>
+    <persName><name type="voornaam">Frederik Everard</name> <name type="geslachtsnaam">Turr</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-09-21">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

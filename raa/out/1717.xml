@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Michel</name> <name type="geslachtsnaam">Smolders</name></persName>
-    <event type="birth" when="1771">
-      <place>Oude Tonge</place>
+    <persName><name type="voornaam">Carel Heijnsius</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Willigen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-08-08">
-      <place>Zevenbergen</place>
+    <event type="death" when="1770">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Roelof Pietersz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Leeuw</name></persName>
-    <event type="birth" when="1692">
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Brommer</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1763-04-30">
+    <event type="death" when="1731">
       <place></place>
     </event>
   </person>

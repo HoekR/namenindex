@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Barthold</name> <name type="geslachtsnaam">Sloet tot Oldhuis</name></persName>
-    <event type="birth" when="1605">
+    <persName><name type="voornaam">Boudewijn</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Witte</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1639">
+    <event type="death">
       <place></place>
     </event>
   </person>

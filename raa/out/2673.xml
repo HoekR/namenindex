@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Paulus Jan</name> <name type="geslachtsnaam">Bosch van Drakestein</name></persName>
-    <event type="birth" when="1825-02-15">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Jan Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Brouwer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1894-05-25">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1779">
+      <place></place>
     </event>
   </person>
   <biography/>

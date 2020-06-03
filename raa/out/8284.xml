@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hector Livius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Haersma</name></persName>
-    <event type="birth" when="1737">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Paterssen (Patrisson)</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1820-01-15">
+    <event type="death" when="1579">
       <place></place>
     </event>
   </person>

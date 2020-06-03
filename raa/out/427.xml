@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Andries Cornelis Willem</name> <name type="geslachtsnaam">Munter</name></persName>
-    <event type="birth" when="1774-01-04">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Scheltinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-03-27">
-      <place>Amsterdam</place>
+    <event type="death" when="1654-12-15">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus Balthasar</name> <name type="geslachtsnaam">Forsten</name></persName>
-    <event type="birth">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Zeger Florisz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Kijfhoek</name></persName>
+    <event type="birth" when="1358">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1399">
       <place></place>
     </event>
   </person>

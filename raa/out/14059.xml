@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/14059"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Johannes Josephus Wigbold</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Coeverden</name></persName>
+    <persName>Van Coeverden van Kampferbeek</persName>
+    <event type="birth" when="2009">
+      <place>Zwolle</place>
+    </event>
+    <event type="death" when="1818-02-07">
+      <place>Vollenhove</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

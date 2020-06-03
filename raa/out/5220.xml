@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Jacobsz.</name> <name type="geslachtsnaam">Baert</name></persName>
-    <event type="birth" when="1636">
+    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">comte (Empire) Teding van</name> <name type="geslachtsnaam">Berkhout</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1684-01-28">
+    <event type="death" when="1620-09-19">
       <place></place>
     </event>
   </person>

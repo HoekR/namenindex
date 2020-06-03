@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Remmetsz.</name> <name type="geslachtsnaam">Ringh</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Ludwig Bernhard</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Muralt</name></persName>
+    <persName>De Muralt van Vlijmen</persName>
+    <event type="birth" when="2005">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death" when="1655-02-28">
-      <place></place>
+    <event type="death" when="1889-08-28">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Henrick</name> <name type="geslachtsnaam">Bisschop</name></persName>
-    <event type="birth" when="1598">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Floris Gijsbrechtsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Bokelsz.</name></persName>
+    <persName>Floris heren Dirks Bokelsbroeder.</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1651-12-27">
+    <event type="death">
       <place></place>
     </event>
   </person>

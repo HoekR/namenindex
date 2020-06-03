@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Dirckz.</name> <name type="geslachtsnaam">Cassatier</name></persName>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Herman Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Dijckmeester</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1762-09-11">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">G.</name> <name type="geslachtsnaam">Masthoff</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Hendricus Franciscus Josephus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Schenk van Nijdeggen</name></persName>
+    <event type="birth" when="2010">
+      <place>Nijmegen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1827-02-15">
+      <place>Oranjewoud</place>
     </event>
   </person>
   <biography/>

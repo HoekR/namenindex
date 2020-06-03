@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Upcke</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Burmania</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Antonius Alexius Josephus</name> <name type="geslachtsnaam">Meylink</name></persName>
+    <event type="birth" when="2010">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1673-06-18">
-      <place></place>
+    <event type="death" when="1863-11-12">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

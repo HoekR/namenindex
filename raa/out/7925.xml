@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pytter</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Gaveren</name></persName>
-    <event type="birth" when="1763">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Maurits</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Brauw</name></persName>
+    <event type="birth" when="2004">
+      <place>Zierikzee</place>
     </event>
-    <event type="death" when="1814">
-      <place></place>
+    <event type="death" when="1874-01-17">
+      <place>Haarlem</place>
     </event>
   </person>
   <biography/>

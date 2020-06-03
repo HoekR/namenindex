@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis Joansz.</name> <name type="geslachtsnaam">Steengracht</name></persName>
-    <persName>Cornelis Joansz. Steengracht de Wehl</persName>
-    <event type="birth" when="1723">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Simon Jacobsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Magnus</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1781-10-12">
+    <event type="death">
       <place></place>
     </event>
   </person>

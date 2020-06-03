@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Louis Gaspard Adrien</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Limburg Stirum</name></persName>
-    <event type="birth" when="1802-01-10">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Christof</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Cuppener</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1884-08-30">
-      <place>Arnhem</place>
+    <event type="death" when="1511">
+      <place></place>
     </event>
   </person>
   <biography/>

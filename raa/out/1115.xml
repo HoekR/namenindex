@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoey</name></persName>
-    <persName>Van Hoey van Vlijmen</persName>
-    <event type="birth" when="1755-07-31">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Tjallingh</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Eysinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1838-10-13">
-      <place>Vlijmen</place>
+    <event type="death" when="1653">
+      <place></place>
     </event>
   </person>
   <biography/>

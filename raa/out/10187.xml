@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Derk</name> <name type="geslachtsnaam">Schothorst</name></persName>
-    <event type="birth" when="1755">
+    <persName><name type="voornaam">Allard Philip Reinier Carel</name> <name type="intrapositie">baron (Empire) van der</name> <name type="geslachtsnaam">Borch van Verwolde</name></persName>
+    <persName>Van der Borch van Vorden</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1836">
       <place></place>
     </event>
   </person>

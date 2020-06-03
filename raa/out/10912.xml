@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles</name> <name type="geslachtsnaam">Ruysch</name></persName>
+    <persName><name type="voornaam">Charles Jean</name> <name type="intrapositie">hertog</name> <name type="geslachtsnaam">Bentinck tot Nijenhuis</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1779-09-03">
       <place></place>
     </event>
   </person>

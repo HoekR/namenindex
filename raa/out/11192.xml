@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Onno Zwier</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sandick</name></persName>
-    <event type="birth" when="1759">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Gijsbert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Weijer Haesbaert</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1822">
+    <event type="death">
       <place></place>
     </event>
   </person>

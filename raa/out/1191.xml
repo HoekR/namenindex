@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Warmolt</name> <name type="geslachtsnaam">Alingh</name></persName>
-    <event type="birth" when="1749-06-22">
-      <place>Gasselte</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Johan</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Goslinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-11-28">
-      <place>Gasselte</place>
+    <event type="death" when="1688-10-27">
+      <place></place>
     </event>
   </person>
   <biography/>

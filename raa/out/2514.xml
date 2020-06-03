@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Sybrens</name> <name type="geslachtsnaam">Hoytema</name></persName>
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hoogtwoud</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1728-03-30">
       <place></place>
     </event>
   </person>

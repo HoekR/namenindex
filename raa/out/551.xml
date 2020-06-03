@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Erasme Louis</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Surlet de Chokier</name></persName>
-    <event type="birth" when="1769-11-27">
-      <place>Luik</place>
+    <persName><name type="voornaam">Johan Hendriksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Duyst van Voorhout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-08-07">
-      <place>Gingelom</place>
+    <event type="death" when="1666-12-05">
+      <place></place>
     </event>
   </person>
   <biography/>

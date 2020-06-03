@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Christoffel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Voss</name></persName>
-    <event type="birth" when="1757-04-13">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lodewijk</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vlaanderen</name></persName>
+    <persName>Praat</persName>
+    <event type="birth" when="1488">
+      <place></place>
     </event>
-    <event type="death" when="1825-07-11">
-      <place>Oud Gastel</place>
+    <event type="death" when="1555">
+      <place></place>
     </event>
   </person>
   <biography/>

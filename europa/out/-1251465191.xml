@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1251465191"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Heidelberg nan</name> <name type="geslachtsnaam">Becker</name></persName>
+    <event type="birth">
+      <date>25-05-1888</date>
+      <place>Kassel</place>
+    </event>
+    <event type="death">
+      <date>29-07-1960</date>
+      <place>Heidelberg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

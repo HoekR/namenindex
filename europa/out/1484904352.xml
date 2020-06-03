@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1484904352"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">H&#252;ttebr&#228;uker</name></persName>
+    <event type="birth">
+      <date>22-02-1904</date>
+      <place>Berlijn</place>
+    </event>
+    <event type="death">
+      <date>28-01-1996</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

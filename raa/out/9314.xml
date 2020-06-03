@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan junior</name> <name type="geslachtsnaam">Nolet</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gijsbert Karel</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Hogendorp</name></persName>
+    <event type="birth" when="2010">
+      <place>Rotterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1834-05-08">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

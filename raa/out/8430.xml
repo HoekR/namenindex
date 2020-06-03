@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adriaan</name> <name type="geslachtsnaam">Bodt</name></persName>
-    <event type="birth" when="1730">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Willem</name> <name type="intrapositie">van der Cruysse van</name> <name type="geslachtsnaam">Hoey</name></persName>
+    <event type="birth" when="2012">
+      <place>Gorinchem</place>
     </event>
-    <event type="death" when="1816-10-29">
-      <place></place>
+    <event type="death" when="1826-01-16">
+      <place>Gorinchem</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Mauritius Calixtus Franciscus Joannes</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Rotte</name></persName>
-    <event type="birth" when="1788-06-14">
-      <place>Rinsumageest</place>
+    <persName><name type="voornaam">L.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jongh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-12-15">
-      <place>Gouderak</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

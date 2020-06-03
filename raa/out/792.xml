@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arnold Jacob Hubert Joseph</name> <name type="geslachtsnaam">Bloemarts</name></persName>
-    <event type="birth" when="1780-07-26">
-      <place>Weert</place>
+    <persName><name type="voornaam">Fr&#233;d&#233;ric Joseph Antoine</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Co&#235;ls</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-03-26">
-      <place>Roermond</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

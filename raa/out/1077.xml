@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Willem Albert</name> <name type="geslachtsnaam">Royaards</name></persName>
-    <event type="birth" when="1784-11-25">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wouter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cortgens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-01-16">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

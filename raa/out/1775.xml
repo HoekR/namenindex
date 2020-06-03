@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johannes Baptista Arnoldus Josephus Maria</name> <name type="geslachtsnaam">Verheyen</name></persName>
-    <event type="birth" when="1818-01-18">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">Garbrant Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Wormer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1898-01-11">
-      <place>Loon op Zand</place>
+    <event type="death" when="1684-11-20">
+      <place></place>
     </event>
   </person>
   <biography/>

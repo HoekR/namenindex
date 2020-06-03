@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Rendorp</name></persName>
-    <event type="birth" when="1759-10-25">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Ernst Frans</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1814-12-03">
-      <place>Haarlem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

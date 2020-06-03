@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-454268375"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Josy</name> <name type="intrapositie">Luxemburg nan</name> <name type="geslachtsnaam">Barthel</name></persName>
+    <event type="birth">
+      <date>24-04-1927</date>
+      <place>Mamer</place>
+    </event>
+    <event type="death">
+      <date>07-07-1992</date>
+      <place>Luxemburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

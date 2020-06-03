@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Egbert Willem Justinus</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Six</name></persName>
-    <persName>Six tot Oterleek</persName>
-    <event type="birth" when="1824-11-04">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Dirck Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Steenwijck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1901-12-15">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1633">
+      <place></place>
     </event>
   </person>
   <biography/>

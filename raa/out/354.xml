@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Justus Hendrik Ludovicus</name> <name type="intrapositie">baron d'</name> <name type="geslachtsnaam">Aulnis de Bourouill</name></persName>
-    <persName>D'Aulnis de Bourouill van Bijma</persName>
-    <event type="birth" when="1777-05-07">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Lieuwe</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Juckema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1832-04-24">
-      <place>Oldekerk</place>
+    <event type="death" when="1614">
+      <place></place>
     </event>
   </person>
   <biography/>

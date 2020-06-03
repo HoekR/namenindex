@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Paulus Johan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Reuver</name></persName>
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Vries</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1745-11-30">
+    <event type="death" when="1765-10-30">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fredrik Pietersz.</name> <name type="geslachtsnaam">Broeker</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerhard Antony</name> <name type="intrapositie">IJssel de</name> <name type="geslachtsnaam">Schepper</name></persName>
+    <event type="birth" when="2005">
+      <place>Deventer</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1868-10-22">
+      <place>Olst</place>
     </event>
   </person>
   <biography/>

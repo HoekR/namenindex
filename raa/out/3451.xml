@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ewout</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Vredenburch</name></persName>
-    <event type="birth" when="1779-12-12">
-      <place>Delft</place>
+    <persName><name type="voornaam">Willem Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Brasser</name></persName>
+    <persName>Willem Jacobsz. Brassen</persName>
+    <persName>Willem Jacobsz. Brassaert</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-06-12">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1653-09-11">
+      <place></place>
     </event>
   </person>
   <biography/>

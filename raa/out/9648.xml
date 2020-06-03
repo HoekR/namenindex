@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ulbe</name> <name type="geslachtsnaam">Sixma van Andla</name></persName>
-    <event type="birth" when="1673">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Hoff</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1760-03-17">
+    <event type="death">
       <place></place>
     </event>
   </person>

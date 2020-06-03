@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">W.H.</name> <name type="geslachtsnaam">Michorius</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Daniel</name> <name type="intrapositie">ridder de Blocq</name> <name type="geslachtsnaam">Lycklama &#224; Nijeholt</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1781-09-10">
       <place></place>
     </event>
   </person>

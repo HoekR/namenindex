@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/1278"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bartholdus Jansz.</name> <name type="geslachtsnaam">Steenhuysen</name></persName>
+    <event type="birth" when="1618"/>
+    <event type="death" when="1670"/>
+  </person>
+  <biography/>
+</biodes>

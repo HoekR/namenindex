@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jean L&#233;onard Hubert</name> <name type="geslachtsnaam">Olislagers van Meersenhoven</name></persName>
-    <event type="birth" when="1759-09-06">
+    <persName><name type="voornaam">Anthonie Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Westervelt</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1827-09-11">
+    <event type="death" when="1823">
       <place></place>
     </event>
   </person>

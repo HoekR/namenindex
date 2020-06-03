@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Theodorus Judocus Hubertus Leonardus</name> <name type="geslachtsnaam">Voss</name></persName>
-    <event type="birth" when="1815-11-06">
-      <place>Wychen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik Hessel</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Burmania</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1794-09-26">
       <place></place>
     </event>
   </person>

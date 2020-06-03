@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Cornelisz.</name> <name type="geslachtsnaam">Botercoper</name></persName>
-    <persName>Cornelis Cornelisz. Butterkooper</persName>
+    <persName><name type="voornaam">Gerlach Johan Herbert</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Heim</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1822-07-07">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Quesnoy</name></persName>
-    <event type="birth">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Juliaan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cleerhaghe</name></persName>
+    <persName>Diderich von Westrom zu Langendonck</persName>
+    <event type="birth" when="1555">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1598">
       <place></place>
     </event>
   </person>

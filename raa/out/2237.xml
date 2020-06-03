@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johannes</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Iddekinge</name></persName>
-    <event type="birth" when="1787-03-24">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Pietersz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-07-16">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

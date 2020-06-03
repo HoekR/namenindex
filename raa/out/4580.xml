@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joost</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Kater</name></persName>
-    <event type="birth" when="1773-06-22">
-      <place>Zierikzee</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Maurijnsz.</name></persName>
+    <persName>Jacob Mauritsz.</persName>
+    <event type="birth" when="1478">
+      <place></place>
     </event>
-    <event type="death" when="1851-05-16">
-      <place>Burgh</place>
+    <event type="death" when="1522">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jean Gijsberto</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Mey van Streefkerk</name></persName>
-    <event type="birth" when="1782-04-16">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Pieter Freerks</name> <name type="geslachtsnaam">Fontein</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-01-05">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1826">
+      <place></place>
     </event>
   </person>
   <biography/>

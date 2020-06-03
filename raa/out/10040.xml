@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Claas Jansz.</name> <name type="geslachtsnaam">Raat</name></persName>
+    <persName><name type="voornaam">Willem Fransz.</name> <name type="intrapositie">comte (Empire) Duyst van</name> <name type="geslachtsnaam">Santen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1679-09-30">
+    <event type="death" when="1610-12-13">
       <place></place>
     </event>
   </person>

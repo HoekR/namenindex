@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/834985911"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Georg</name> <name type="intrapositie">Bremen nan</name> <name type="geslachtsnaam">Duckwitz</name></persName>
+    <event type="birth">
+      <date>29-09-1904</date>
+      <place>Bremen</place>
+    </event>
+    <event type="death">
+      <date>16-02-1973</date>
+      <place>Bremen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

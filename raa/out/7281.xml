@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Saeckle</name> <name type="geslachtsnaam">Kingma</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Willem Joseph</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Brienen</name></persName>
+    <persName>Van Brienen van de Groote Lindt</persName>
+    <event type="birth" when="2012">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1839-10-10">
+      <place>Wassenaar</place>
     </event>
   </person>
   <biography/>

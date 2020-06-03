@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Matthijs Hendrik</name> <name type="geslachtsnaam">Weldijk</name></persName>
-    <persName>Weldijk van Limmen</persName>
-    <event type="birth" when="1793-08-03">
-      <place>Noord-Schermer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anthonis (Frankenz.)</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Sweers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-06-08">
-      <place>Limmen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

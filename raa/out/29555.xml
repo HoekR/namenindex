@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/29555"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Henri Hubert</name> <name type="geslachtsnaam">Geradts</name></persName>
+    <event type="birth" when="2012">
+      <place>Roermond</place>
+    </event>
+    <event type="death" when="1886-07-22">
+      <place>Sint Odili&#235;nberg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

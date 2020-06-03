@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes</name> <name type="geslachtsnaam">Albarda</name></persName>
-    <event type="birth" when="1825-04-20">
-      <place>Workum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pierart</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Dassche</name></persName>
+    <persName>Pieraart Assche</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-07-28">
-      <place>Franeker</place>
+    <event type="death" when="1394">
+      <place></place>
     </event>
   </person>
   <biography/>

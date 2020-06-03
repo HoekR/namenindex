@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Franchois</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Coninck</name></persName>
-    <persName>Franchois Regius</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Andries Arend Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gozensz.</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1613-12-03">
+    <event type="death">
       <place></place>
     </event>
   </person>

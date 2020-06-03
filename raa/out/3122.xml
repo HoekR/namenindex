@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Henri Isaak</name> <name type="geslachtsnaam">Swaving</name></persName>
-    <event type="birth" when="1815-03-04">
-      <place>Zutphen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Schelte</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Eysinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-01-25">
-      <place>Zutphen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

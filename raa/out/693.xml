@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter Jacob</name> <name type="geslachtsnaam">Costerus</name></persName>
-    <event type="birth" when="1806-10-03">
-      <place>Edam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jansz.</name></persName>
+    <persName>Aarschot</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-03-16">
-      <place>Sneek</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

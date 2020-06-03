@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Willem</name> <name type="geslachtsnaam">Eekhout</name></persName>
-    <event type="birth" when="1788-02-28">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Thomas Dolegius Adriaan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Verboom</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-05-06">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

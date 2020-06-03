@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1781739438"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Sir</name> <name type="voornaam">Ted</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Leather</name></persName>
+    <event type="birth">
+      <date>19-05-1919</date>
+      <place>Toronto</place>
+    </event>
+    <event type="death">
+      <date>05-04-2005</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

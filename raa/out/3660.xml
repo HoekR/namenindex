@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">H.</name> <name type="geslachtsnaam">Mighels</name></persName>
-    <persName>Migchels</persName>
+    <persName><name type="voornaam">Georgius Albertus</name> <name type="geslachtsnaam">Abbring</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1804">
       <place></place>
     </event>
   </person>

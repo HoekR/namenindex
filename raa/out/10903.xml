@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Claes Adriaensz.</name> <name type="geslachtsnaam">Hoots</name></persName>
+    <persName><name type="voornaam">Borchard Joost</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Welvelde tot Arendshorst</name></persName>
+    <persName>Borchard Joost van Welvelde tot Buckhorst</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1710-09-16">
       <place></place>
     </event>
   </person>

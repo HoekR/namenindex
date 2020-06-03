@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Gerrit</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Poll</name></persName>
-    <event type="birth" when="1793-04-01">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Coenraad Wolter Ellents</name> <name type="geslachtsnaam">Hofstede</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-05-22">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1841">
+      <place></place>
     </event>
   </person>
   <biography/>

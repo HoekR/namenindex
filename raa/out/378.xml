@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Otto Willem Johan</name> <name type="geslachtsnaam">Berg</name></persName>
-    <persName>Berg van Dussen-Muilkerk</persName>
-    <event type="birth" when="1752-03-05">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Benne</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Meynsma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-02-05">
-      <place>Amsterdam</place>
+    <event type="death" when="1612">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Agnites</name> <name type="geslachtsnaam">Vrolik</name></persName>
-    <event type="birth" when="1810-02-28">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jasper</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Laureten</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1894-06-08">
-      <place>Arnhem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

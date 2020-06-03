@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dam van Isselt</name></persName>
-    <event type="birth" when="1785-05-25">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Ermerins</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-11-14">
-      <place>Amersfoort</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

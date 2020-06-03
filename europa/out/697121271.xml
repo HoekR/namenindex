@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/697121271"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Anthony</name> <name type="intrapositie">Suffolk nan</name> <name type="geslachtsnaam">Barber</name></persName>
+    <event type="birth">
+      <date>04-07-1920</date>
+      <place>Doncaster</place>
+    </event>
+    <event type="death">
+      <date>16-12-2005</date>
+      <place>Suffolk</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

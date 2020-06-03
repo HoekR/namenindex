@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Koker</name></persName>
-    <event type="birth" when="1796-11-23">
-      <place>Broek in Waterland</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Reiersz.</name></persName>
+    <event type="birth" when="1454">
+      <place></place>
     </event>
-    <event type="death" when="1849-01-11">
-      <place>Broek in Waterland</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

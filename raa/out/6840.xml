@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolaas Jansz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Huybert</name></persName>
-    <event type="birth" when="1543">
+    <persName><name type="voornaam">Zeger Symonsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Berchout</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1611-03-24">
+    <event type="death" when="1641-04-29">
       <place></place>
     </event>
   </person>

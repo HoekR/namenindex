@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Mattheus</name> <name type="geslachtsnaam">Gool</name></persName>
+    <persName><name type="voornaam">Jan Gijsbert Reinder</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Optenoort</name></persName>
+    <persName>Jan Gijsbert Reinder Opten Noort</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1702-09-09">
+    <event type="death" when="1787-10-04">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Josephus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Wijs</name></persName>
-    <event type="birth" when="1778-08-27">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Druyvesteyn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-03-11">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1691">
+      <place></place>
     </event>
   </person>
   <biography/>

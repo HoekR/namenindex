@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Douwe</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Aylva</name></persName>
-    <event type="birth" when="1610">
-      <place></place>
+    <persName><name type="voornaam">Cornelis Balduinus Gusselinus</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Osy van Zegwaart</name></persName>
+    <event type="birth" when="2012">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1665-02-11">
-      <place></place>
+    <event type="death" when="1831-03-12">
+      <place>Brussel</place>
     </event>
   </person>
   <biography/>

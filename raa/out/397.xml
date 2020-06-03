@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Paulus Andries</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eys</name></persName>
-    <event type="birth" when="1752-10-12">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Francois David Constantijn</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Druyvesteyn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1826-01-15">
-      <place>Amsterdam</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

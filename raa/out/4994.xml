@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Nicolaas</name> <name type="geslachtsnaam">Steengracht</name></persName>
-    <persName>Steengracht van Oosterland</persName>
-    <event type="birth" when="1754-11-27">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Roelofsen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-12-13">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1829">
+      <place></place>
     </event>
   </person>
   <biography/>

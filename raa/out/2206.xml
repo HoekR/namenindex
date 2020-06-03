@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Peeting</name></persName>
-    <event type="birth" when="1784-06-18">
-      <place>Wormerveer</place>
+    <persName><name type="voornaam">Eise</name> <name type="geslachtsnaam">Eisinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-01-08">
-      <place>Edam</place>
+    <event type="death" when="1828">
+      <place></place>
     </event>
   </person>
   <biography/>

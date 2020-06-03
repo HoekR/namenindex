@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Dionisiusz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Schuijlenburch</name></persName>
-    <event type="birth" when="1695">
-      <place></place>
+    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Bartholomeus</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Boogaert</name></persName>
+    <event type="birth" when="2006">
+      <place>Delft</place>
     </event>
-    <event type="death" when="1768-05-29">
-      <place></place>
+    <event type="death" when="1836-12-17">
+      <place>Delft</place>
     </event>
   </person>
   <biography/>

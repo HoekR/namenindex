@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus Paulus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Bilt</name></persName>
-    <event type="birth" when="1822-01-06">
-      <place>Goes</place>
+    <persName>
+      <name type="geslachtsnaam">Stavorinus</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1880-06-12">
-      <place>Middelburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

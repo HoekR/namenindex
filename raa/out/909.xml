@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Benedictus</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Velden</name></persName>
-    <event type="birth" when="1800-05-13">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Melis</name> <name type="intrapositie">graaf de</name> <name type="geslachtsnaam">Vos</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-04-28">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

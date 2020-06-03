@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arius Johannes</name> <name type="geslachtsnaam">Rodenhuis</name></persName>
-    <event type="birth" when="1812-01-13">
-      <place>Harlingen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Zandijk</name></persName>
+    <event type="birth" when="1528">
+      <place></place>
     </event>
-    <event type="death" when="1859-10-26">
-      <place>Harlingen</place>
+    <event type="death" when="1583">
+      <place></place>
     </event>
   </person>
   <biography/>

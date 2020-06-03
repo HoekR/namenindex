@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/836"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs.</name> <name type="voornaam">nan</name> <name type="intrapositie">Haastrecht nan</name> <name type="geslachtsnaam">Nederhorst</name></persName>
+    <event type="birth">
+      <date>17-10-1907</date>
+      <place>Gouda</place>
+    </event>
+    <event type="death">
+      <date>28-08-1979</date>
+      <place>Haastrecht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

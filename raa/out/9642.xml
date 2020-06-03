@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">A.</name> <name type="geslachtsnaam">Schuijlenburg</name></persName>
+    <persName><name type="voornaam">Frederik Hendrik</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Rechteren tot Mennigjeshave</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1839-05-02">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-592636635"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">M&#252;hlenfeld</name></persName>
+    <event type="birth">
+      <date>11-09-1901</date>
+      <place>Hannover</place>
+    </event>
+    <event type="death">
+      <date>1969</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

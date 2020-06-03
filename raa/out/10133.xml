@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arend</name> <name type="geslachtsnaam">Sloet tot Tweenijenhuizen</name></persName>
-    <event type="birth" when="1660">
+    <persName><name type="voornaam">Antonius Josephus Lambertus</name> <name type="geslachtsnaam">Borret</name></persName>
+    <persName>Elders J.H.</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1706-04-16">
+    <event type="death" when="1858">
       <place></place>
     </event>
   </person>

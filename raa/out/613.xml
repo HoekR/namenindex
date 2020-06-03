@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Gerlach Cornelis Joannes</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reenen</name></persName>
-    <persName>Van Reenen van Loenen</persName>
-    <event type="birth" when="1818-09-30">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Diederik</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Santheuvel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1893-05-31">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1718-08-09">
+      <place></place>
     </event>
   </person>
   <biography/>

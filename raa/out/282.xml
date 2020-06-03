@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Isaac Nicolaas Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Mierop</name></persName>
-    <event type="birth" when="1764-08-02">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Boudijnsz.</name></persName>
+    <event type="birth" when="1453">
+      <place></place>
     </event>
-    <event type="death" when="1835-06-17">
-      <place>Rotterdam</place>
+    <event type="death" when="1515">
+      <place></place>
     </event>
   </person>
   <biography/>

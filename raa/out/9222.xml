@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Willem</name> <name type="geslachtsnaam">Ramaker</name></persName>
-    <event type="birth" when="1700">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Herman Jacob</name> <name type="geslachtsnaam">Dijckmeester</name></persName>
+    <event type="birth" when="2002">
+      <place>Tiel</place>
     </event>
-    <event type="death" when="1778">
-      <place></place>
+    <event type="death" when="1850-06-16">
+      <place>Tiel</place>
     </event>
   </person>
   <biography/>

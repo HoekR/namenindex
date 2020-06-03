@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Charles</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Brouck&#232;re</name></persName>
-    <event type="birth" when="1757-10-06">
-      <place>Torhout</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Renoy</name></persName>
+    <event type="birth" when="1495">
+      <place></place>
     </event>
-    <event type="death" when="1850-04-03">
-      <place>Brugge</place>
+    <event type="death" when="1567">
+      <place></place>
     </event>
   </person>
   <biography/>

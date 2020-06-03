@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="geslachtsnaam">Six</name></persName>
-    <persName>Six van Hillegom</persName>
-    <event type="birth" when="1756-10-14">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Herbaren</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Riede</name></persName>
+    <event type="birth" when="1285">
+      <place></place>
     </event>
-    <event type="death" when="1827-07-02">
-      <place>Wassenaar</place>
+    <event type="death" when="1353">
+      <place></place>
     </event>
   </person>
   <biography/>

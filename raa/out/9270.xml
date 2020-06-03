@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Splinter</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Ernst</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Panhuys</name></persName>
+    <event type="birth" when="2007">
+      <place>Groningen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1878-10-25">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

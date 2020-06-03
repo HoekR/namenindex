@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Goes</name></persName>
-    <persName>Van der Goes van Naters</persName>
-    <event type="birth" when="1766-12-09">
-      <place>Delft</place>
+    <persName><name type="voornaam">Charles-Jacques-Nicolas</name> <name type="geslachtsnaam">Duch&#226;tel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-11-28">
-      <place>Delft</place>
+    <event type="death" when="1844">
+      <place></place>
     </event>
   </person>
   <biography/>

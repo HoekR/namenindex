@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/302761842"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">'s-Gravenhage nan</name> <name type="geslachtsnaam">Meyer Ranneft</name></persName>
+    <event type="birth">
+      <date>31-10-1887</date>
+      <place>Magelang (N-Indi&#235;)</place>
+    </event>
+    <event type="death">
+      <date>03-02-1968</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

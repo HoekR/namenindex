@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Breggen</name></persName>
-    <event type="birth" when="1788-10-14">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Jacobus Jzn.</name> <name type="geslachtsnaam">Nolet</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1843-08-22">
-      <place>Harderwijk</place>
+    <event type="death" when="1806">
+      <place></place>
     </event>
   </person>
   <biography/>

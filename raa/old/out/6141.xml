@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/6141"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anthonis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Cuyck</name></persName>
+    <event type="birth" when="1535"/>
+    <event type="death" when="1600"/>
+  </person>
+  <biography/>
+</biodes>

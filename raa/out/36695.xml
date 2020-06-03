@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/36695"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Egidius Daniel</name> <name type="geslachtsnaam">Beyma</name></persName>
+    <event type="birth" when="2004">
+      <place>Zweins</place>
+    </event>
+    <event type="death" when="1894-01-12">
+      <place>Weidum</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Isaac</name> <name type="geslachtsnaam">Thooft</name></persName>
-    <event type="birth" when="1785-07-03">
-      <place>Zaltbommel</place>
+    <persName><name type="voornaam">Dirk Dirksz.</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Berch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1865-10-29">
-      <place>Rotterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

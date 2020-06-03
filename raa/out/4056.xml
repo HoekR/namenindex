@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Scato</name> <name type="geslachtsnaam">Trip</name></persName>
-    <event type="birth" when="1742-02-21">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Taatsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-06-29">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

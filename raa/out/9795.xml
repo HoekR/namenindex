@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Vergroesen</name></persName>
-    <event type="birth" when="1767-08-29">
-      <place>Bergen op Zoom</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Karel</name> <name type="intrapositie">graaf (van)</name> <name type="geslachtsnaam">Bentinck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-07-29">
-      <place>Bergen op Zoom</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham</name> <name type="geslachtsnaam">Meijer</name></persName>
-    <event type="birth" when="1765-01-17">
-      <place>Hasselt</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Govert</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Anthonisz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-10-09">
-      <place>Huizen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

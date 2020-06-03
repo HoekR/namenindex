@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Imbert Imbertsz.</name> <name type="geslachtsnaam">Versteegh</name></persName>
-    <persName>Engbert Engbertsz. Versteegh</persName>
+    <persName><name type="voornaam">Arend</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Ruitenberg</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1646-07-02">
+    <event type="death" when="1645-03-31">
       <place></place>
     </event>
   </person>

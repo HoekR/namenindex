@@ -1,0 +1,98 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Terpstra, Heert (1884-1964)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn2/terpstra"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">terpstra</idno>
+    <persName><name type="geslachtsnaam">Terpstra</name>, Heert</persName>
+    <sex value="1"/>
+    <event type="birth" when="1884"/>
+    <event type="death" when="1964"/>
+    <state type="occupation">historicus</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Terpstra, Heert&lt;/strong&gt;, historicus (Stiens, gem. Leeuwarderadeel 13-12-1884 - Hilversum 24-12-1964).
+
+Zoon van Jan Terpstra, veehouder, en Trijntje de Jong. Gehuwd op
+9-8-1911 met Elizabeth Petronella Roorda. Uit dit huwelijk werden 2
+zoons en 1 dochter geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Terpstra bezocht na de lagere school te Stiens het gymnasium te
+Groningen en liet zich daar in 1904 aan de Universiteit inschrijven als
+student in de Nederlandse letteren. Na ook nog een semester te hebben
+gestudeerd te Freiburg i. Br. (Duitsland) legde hij in 1907 het
+kandidaats- en in 1910 het doctoraal examen af. Omdat het
+proefschriftonderwerp dat zijn leermeester J. Huizinga hem aan de hand
+had gedaan hem weinig aanstond ori&amp;euml;nteerde hij zich op het
+Algemeen Rijksarchief te 's-Gravenhage, waar J. de Hullu hem wees
+op het belang van de nog weinig onderzochte koloniale archieven.
+Terpstra verrichtte in feite pioniersarbeid met zijn dissertatie 
+&lt;em&gt;De vestiging van de Nederlanders aan de kust van Koromandel,&lt;/em&gt;
+
+waarop hij in 1911 bij Huizinga in Groningen promoveerde. Na van 1911
+tot 1913 werkzaam te zijn geweest als leraar geschiedenis en
+aardrijkskunde aan het Nederlandsch Lyceum te 's-Gravenhage,
+aanvaardde hij in laatstgenoemd jaar een functie als leraar
+geschiedenis aan het zojuist opgerichte stedelijk gymnasium te
+Hilversum. Terpstra was een consci&amp;euml;ntieus en degelijk docent, die
+op een heel eigen wijze vele generaties van leerlingen kennis van en
+liefde voor de geschiedenis bijbracht. Ondanks de veeleisende
+leraarstaak zag hij kans publicistisch actief te blijven, hij begaf
+zich echter nooit buiten het terrein der koloniale geschiedenis,
+waarbij hij zich beperkte tot bestudering der Nederlandse
+geschiedbronnen. In 1918 volgde een publikatie in aansluiting op zijn
+proefschrift: 
+&lt;em&gt;De opkomst der Westerkwartieren van de Oost-Indische Compagnie
+(Suratte, Arabi&amp;euml;, Perzi&amp;euml;).&lt;/em&gt;
+
+Sedert 1926 verschenen van Terpstra's hand regelmatig
+boekbesprekingen en artikelen in het 
+&lt;em&gt;Tijdschrift voor Geschiedenis.&lt;/em&gt;
+
+Voor een breder publiek bestemd waren de Patria-boeken 
+&lt;em&gt;Buitenlandse getuigen van onze koloniale expansie&lt;/em&gt;
+
+(1940) en 
+&lt;em&gt;De Nederlanders in Voor-Indi&amp;euml;&lt;/em&gt;
+
+(1947). In 1944 zag Terpstra zich om gezondheidsredenen genoodzaakt het
+Hilversums gymnasium te verlaten. Hij werd wetenschappelijk medewerker
+van het Koloniaal Instituut (later Koninklijk Instituut voor de Tropen)
+te Amsterdam en bleef daar werkzaam tot aan zijn pensionering in 1949.
+Van 1947 tot 1954 gaf hij bovendien nog een beperkt aantal lessen aan
+scholen voor VHMO in het Gooi en Utrecht.&lt;/p&gt;
+&lt;p&gt;Terpstra bezocht nooit de landen die hij beschreef en voelde dit
+waarschijnlijk niet als een gemis. Zijn geschriften genoten grote
+belangstelling bij Indiase en Ceylonese historici. Aan het einde van
+zijn leven mocht Terpstra met voldoening constateren dat de
+belangstelling voor Nederlands overzeese geschiedenis sterk was
+toegenomen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Bibliografie in onder L genoemd 
+&lt;em&gt;Jaarboek...,&lt;/em&gt;
+
+131-132.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;W.Ph. Coolhaas, in 
+&lt;em&gt;Tijdschrift voor Geschiedenis&lt;/em&gt;
+
+78 (1965) 187-188; M.A.P. Meilink-Roelofsz, in 
+&lt;em&gt;Jaarboek van de Maatschappij der Nederlandse Letterkunde te Leiden
+1965-1966. Levensberichten&lt;/em&gt;
+
+124-131.&lt;/p&gt;
+&lt;p&gt;S.B.J. Zilverberg&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

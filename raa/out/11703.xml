@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jeronimus</name> <name type="geslachtsnaam">Lettin</name></persName>
-    <persName>Jeronimus Lettyn</persName>
+    <persName><name type="voornaam">Gijsbert</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hemert</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1566">
+    <event type="death" when="1656-12-19">
       <place></place>
     </event>
   </person>

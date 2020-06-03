@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gillis</name> <name type="geslachtsnaam">Watervliet</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Fran&#231;ois Henri Fran&#231;ois de Paul Joseph</name> <name type="intrapositie">duc (Empire) d'</name> <name type="geslachtsnaam">Anethan</name></persName>
+    <event type="birth" when="2007">
+      <place>Luxemburg</place>
     </event>
-    <event type="death" when="1635-02-19">
-      <place></place>
+    <event type="death" when="1824-10-03">
+      <place>Habay la Vieille</place>
     </event>
   </person>
   <biography/>

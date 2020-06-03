@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/1722"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jacob Cornelisz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Neck</name></persName>
+    <event type="birth" when="1564"/>
+    <event type="death" when="1638"/>
+  </person>
+  <biography/>
+</biodes>

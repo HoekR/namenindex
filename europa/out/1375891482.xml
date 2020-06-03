@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1375891482"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bremen nan</name> <name type="geslachtsnaam">Kaisen</name></persName>
+    <event type="birth">
+      <date>22-05-1887</date>
+      <place>Hambrug</place>
+    </event>
+    <event type="death">
+      <date>19-12-1979</date>
+      <place>Bremen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

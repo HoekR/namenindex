@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Stakebrand</name></persName>
-    <persName>Stokebrand</persName>
-    <event type="birth" when="1735">
+    <persName><name type="voornaam">Arnold Antoni</name> <name type="geslachtsnaam">Gaymans</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1806">
+    <event type="death" when="1831">
       <place></place>
     </event>
   </person>

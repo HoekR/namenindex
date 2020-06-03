@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Kaspar Karl Ferdinand Anton Franz</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Weichs de Wenne</name></persName>
-    <persName>Van Weichs van Winnen van Geysteren</persName>
-    <event type="birth" when="1777-04-06">
-      <place>Wenne (Westf.)</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Foppe</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Grovestins</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-10-25">
-      <place>Wanssum</place>
+    <event type="death" when="1607-05-28">
+      <place></place>
     </event>
   </person>
   <biography/>

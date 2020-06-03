@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerbrand</name> <name type="intrapositie">Pancras</name> <name type="geslachtsnaam">Clifford</name></persName>
-    <event type="birth" when="1745">
+    <persName><name type="voornaam">Carl Philip Crafft</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Huffel tot Beerse</name></persName>
+    <persName>Carl Philip Crafft van Huffel van Ne&#255;windeck</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1789-02-12">
+    <event type="death" when="1743-12-08">
       <place></place>
     </event>
   </person>

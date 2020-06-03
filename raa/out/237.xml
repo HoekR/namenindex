@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jasper Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ittersum</name></persName>
-    <persName>Van Ittersum van Relaer</persName>
-    <event type="birth" when="1745-03-25">
-      <place>Rijssen</place>
+    <persName><name type="voornaam">Jean-Pierre</name> <name type="geslachtsnaam">Bachasson de Montalivet</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-03-23">
-      <place>Raalte</place>
+    <event type="death" when="1823">
+      <place></place>
     </event>
   </person>
   <biography/>

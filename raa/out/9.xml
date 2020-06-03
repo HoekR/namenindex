@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Florent Theodore Henri Laurent</name> <name type="intrapositie">graaf de</name> <name type="geslachtsnaam">Berlaymont</name></persName>
-    <event type="birth" when="1755-08-10">
-      <place>Luik</place>
+    <persName><name type="voornaam">Vincent</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <event type="birth" when="1469">
+      <place></place>
     </event>
-    <event type="death" when="1825-01-17">
-      <place>Namen</place>
+    <event type="death" when="1550">
+      <place></place>
     </event>
   </person>
   <biography/>

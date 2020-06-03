@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">Haak</name> <name type="geslachtsnaam">Oosting</name></persName>
-    <event type="birth" when="1749-10-27">
-      <place>Assen</place>
+    <persName><name type="voornaam">Charles Antoine</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Bieberstein Rogalla Zawadsky</name></persName>
+    <event type="birth" when="2004">
+      <place>Tongeren</place>
     </event>
-    <event type="death" when="1828-12-01">
-      <place>Assen</place>
+    <event type="death" when="1880-10-31">
+      <place>Maastricht</place>
     </event>
   </person>
   <biography/>

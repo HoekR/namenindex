@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Hixenius</name>
-    </persName>
+    <persName><name type="voornaam">Roelof Hendrik</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Isselmuden</name></persName>
+    <persName>Van Isselmuden van Zwollingercamp</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1834-03-06">
       <place></place>
     </event>
   </person>

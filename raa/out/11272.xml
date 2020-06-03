@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Hendrik</name> <name type="geslachtsnaam">Stoffenberg</name></persName>
-    <event type="birth" when="1749">
-      <place></place>
+    <persName><name type="voornaam">Christiaan Hendrik</name> <name type="geslachtsnaam">Cordes</name></persName>
+    <event type="birth" when="2002">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1838">
-      <place></place>
+    <event type="death" when="1869-10-16">
+      <place>Driebergen</place>
     </event>
   </person>
   <biography/>

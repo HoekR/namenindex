@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Simon Jaspersz.</name> <name type="geslachtsnaam">Parduin</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Reint Wolter</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Sloet van Marxveld</name></persName>
+    <persName>Sloet tot Lindenhorst</persName>
+    <event type="birth" when="2011">
+      <place>Vollenhove</place>
     </event>
-    <event type="death" when="1612-10-05">
-      <place></place>
+    <event type="death" when="1842-08-23">
+      <place>Olst</place>
     </event>
   </person>
   <biography/>

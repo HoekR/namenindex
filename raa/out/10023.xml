@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Hendrik</name> <name type="geslachtsnaam">Swellengrebel</name></persName>
-    <event type="birth" when="1757-04-26">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Royen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1842-12-26">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

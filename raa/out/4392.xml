@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Frederik Sigismund</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bylandt</name></persName>
-    <persName>Van Bylandt Halt</persName>
-    <event type="birth" when="1749-04-13">
-      <place>Wageningen</place>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Teffelen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-02-02">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1689-12-26">
+      <place></place>
     </event>
   </person>
   <biography/>

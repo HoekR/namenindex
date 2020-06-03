@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arent</name> <name type="geslachtsnaam">Nijenhuis</name></persName>
-    <persName>Nieuwenhuis</persName>
+    <persName><name type="voornaam">Amelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Amstel van Mijnden tot Cronenburgh</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1805">
+    <event type="death" when="1593">
       <place></place>
     </event>
   </person>

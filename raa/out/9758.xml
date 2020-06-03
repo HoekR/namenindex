@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Zeger Symonsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Berchout</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Siebert Rudolph</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Franck</name></persName>
+    <event type="birth" when="2009">
+      <place>Heusden</place>
     </event>
-    <event type="death" when="1641-04-29">
-      <place></place>
+    <event type="death" when="1867-01-12">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

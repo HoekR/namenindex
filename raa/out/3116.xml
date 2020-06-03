@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Justinus Egbert Hendrik</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Nagell</name></persName>
-    <persName>Van Nagell van Ampsen</persName>
-    <event type="birth" when="1825-11-14">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Dirk Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Loncq</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1901-01-24">
-      <place>Laren (Gld.)</place>
+    <event type="death" when="1615">
+      <place></place>
     </event>
   </person>
   <biography/>

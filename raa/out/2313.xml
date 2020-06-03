@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Fr&#233;deric</name> <name type="geslachtsnaam">Hoffmann</name></persName>
-    <event type="birth" when="1791-01-07">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Everdeisz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-08-16">
-      <place>Rotterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

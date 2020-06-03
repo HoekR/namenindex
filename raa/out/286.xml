@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">David</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Poeli&#235;n</name></persName>
-    <persName>Van Poeli&#235;n van Nuland</persName>
-    <event type="birth" when="1769-07-12">
-      <place>Dordrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Renesse</name></persName>
+    <persName>drossaart van Diest, of heer van Mal.</persName>
+    <event type="birth" when="1470">
+      <place></place>
     </event>
-    <event type="death" when="1830-01-10">
-      <place>Dordrecht</place>
+    <event type="death" when="1538">
+      <place></place>
     </event>
   </person>
   <biography/>

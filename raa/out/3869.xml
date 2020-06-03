@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Josias</name> <name type="geslachtsnaam">Cos</name></persName>
-    <event type="birth" when="1664">
+    <persName><name type="voornaam">Albert Fransz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sonck</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1710">
+    <event type="death" when="1658-11-28">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-364100527"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Ir.</name> <name type="voornaam">nan</name> <name type="intrapositie">Ede van der</name> <name type="geslachtsnaam">Pols</name></persName>
+    <event type="birth">
+      <date>21-01-1906</date>
+      <place>Amsterdam</place>
+    </event>
+    <event type="death">
+      <date>24-01-1995</date>
+      <place>Ede</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

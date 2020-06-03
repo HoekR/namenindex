@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gilles</name> <name type="geslachtsnaam">Valckenier</name></persName>
-    <event type="birth" when="1623">
-      <place></place>
+    <persName><name type="voornaam">Izaak</name> <name type="geslachtsnaam">Schalij</name></persName>
+    <event type="birth" when="2003">
+      <place>Jutphaas</place>
     </event>
-    <event type="death" when="1680">
-      <place></place>
+    <event type="death" when="1844-12-23">
+      <place>Jutphaas</place>
     </event>
   </person>
   <biography/>

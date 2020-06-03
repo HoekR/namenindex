@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Samuel Johan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Limburg Stirum</name></persName>
-    <event type="birth" when="1754-02-11">
-      <place>Hoogeveen</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Echten tot Relaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-07-20">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1719-02-24">
+      <place></place>
     </event>
   </person>
   <biography/>

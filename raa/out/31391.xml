@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/31391"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Petrus Marinus</name> <name type="geslachtsnaam">Jongeneel</name></persName>
+    <event type="birth" when="2008">
+      <place>Utrecht</place>
+    </event>
+    <event type="death" when="1875-09-28">
+      <place>Utrecht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

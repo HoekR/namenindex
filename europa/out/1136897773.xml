@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1136897773"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Jhr.mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Wassenaar nan</name> <name type="geslachtsnaam">Tjarda van Starkenborgh Stachouwer</name></persName>
+    <event type="birth">
+      <date>07-03-1888</date>
+      <place>Groningen</place>
+    </event>
+    <event type="death">
+      <date>16-08-1978</date>
+      <place>Wassenaar</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

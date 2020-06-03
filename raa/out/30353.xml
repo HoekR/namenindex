@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/30353"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Otto</name> <name type="geslachtsnaam">Braet</name></persName>
+    <event type="birth" when="2008">
+      <place>Schoonhoven</place>
+    </event>
+    <event type="death" when="1817-07-07">
+      <place>Schoonhoven</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

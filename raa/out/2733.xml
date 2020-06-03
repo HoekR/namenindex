@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antoine Guillaume</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Liebergen</name></persName>
-    <event type="birth" when="1803-07-12">
-      <place>Venlo</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Klaas Horstz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Bogaard</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-05-17">
+    <event type="death">
       <place></place>
     </event>
   </person>

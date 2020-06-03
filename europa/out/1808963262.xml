@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1808963262"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Victor</name> <name type="intrapositie">Munneref nan</name> <name type="geslachtsnaam">Bodson</name></persName>
+    <event type="birth">
+      <date>24-03-1902</date>
+      <place>Luxemburg-Stad</place>
+    </event>
+    <event type="death">
+      <date>29-06-1984</date>
+      <place>Munneref</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

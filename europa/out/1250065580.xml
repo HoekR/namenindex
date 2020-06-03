@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1250065580"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">M&#252;nchen nan</name> <name type="geslachtsnaam">Semler</name></persName>
+    <event type="birth">
+      <date>16-12-1898</date>
+      <place>Hamburg</place>
+    </event>
+    <event type="death">
+      <date>31-01-1973</date>
+      <place>M&#252;nchen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

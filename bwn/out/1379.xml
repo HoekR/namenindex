@@ -1,0 +1,80 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Pauwels, Fran&#195;&#167;ois D&#195;&#169;sir&#195;&#169; (1888-1966)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/pauwels"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">pauwels</idno>
+    <persName><name type="geslachtsnaam">Pauwels</name>, Fran&amp;ccedil;ois D&amp;eacute;sir&amp;eacute;</persName>
+    <sex value="1"/>
+    <event type="birth" when="1888"/>
+    <event type="death" when="1966"/>
+    <state type="occupation">jurist</state>
+    <state type="occupation">schrijver</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/PAUWELS.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Pauwels, Fran&amp;ccedil;ois D&amp;eacute;sir&amp;eacute;&lt;/strong&gt;, jurist en schrijver/ dichter (Amsterdam 25-10-1888 - Amstelveen 8-1-1966).
+
+Zoon van Desiderius Clementinus Pauwels, operazanger, en Sophia van
+Biene. Gehuwd met Rebecca Koe op 25-5-1916. Na echtscheiding op 30-
+8-1932, hertrouwd met Maria Magdalena Hemminga op 29-12-1932. Uit het
+tweede huwelijk werd 1 dochter geboren.
+
+
+&lt;img src=&amp;quot;images/PAUWELS.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Pauwels, Fran&amp;ccedil;ois D&amp;eacute;sir&amp;eacute;&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+
+&lt;/p&gt;
+&lt;p&gt;Fran&amp;ccedil;ois bezocht het gymnasium te Amsterdam en studeerde
+vervolgens rechten aan de universiteiten van Utrecht en Amsterdam. Zijn
+promotie vond in 1915 op stellingen aan de Utrechtse universiteit
+plaats. Hierna vestigde hij zich als advocaat en procureur te Amsterdam
+en werd hij vooral bekend als strafpleiter. Pauwels had een scherpe
+mensenkennis en het vermogen in enkele bewoordingen een figuur of een
+situatie te schetsen. Zijn manier van repliceren was vlijmscherp. In
+1965 besloot hij zijn 50-jarige carri&amp;egrave;re met de verdediging van de
+verdachten in de geruchtmakende 'Baarnse moordzaak'. Als
+pleiter was hij vooral bekend om de dramatisch kleurige wijze waarop
+hij de verdediging bracht. Voorstanders ervan, en daar behoorde
+gewoonlijk de pers toe, waardeerden daarin de sociale gevoeligheid en
+het vermogen van hem een rechtszaak boeiend te maken; tegenstanders,
+vooral in de rechterlijke macht, meenden dat deze vorm van pleiten
+binnen de Nederlandse rechtspraak, waar de jury immers ontbreekt,
+onnodig was en te sterk op de emoties speelde. Pauwels was echter meer
+schrijver van romans en dichter dan advocaat. Veel van zijn
+cli&amp;euml;nten zijn door hem als romanfiguren vereeuwigd in zijn boeken.
+Zijn romans hebben dan ook meestal een juridische achtergrond. Zij
+bereikten nooit de toppen van literatuur, maar vormden populaire
+leesstof, met enthousiasme en warmte geschreven. Ook hierin bleek de
+belangstelling van de schrijver voor individueel en sociaal bepaalde
+achtergronden. Als advocaat nam hij vaak zaken aan vanwege de in die
+zaken interessante en of intrigerende figuren en situaties teneinde
+deze te kunnen gebruiken in zijn romans. Een van zijn laatste romans
+getiteld 
+&lt;em&gt;Als het niet waar is&lt;/em&gt;
+
+heeft een sterk autobiografische inslag. Naast gedichten en romans
+schreef hij ook liedteksten.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve crimineel commentaar in 
+&lt;em&gt;Elseviers Weekblad,&lt;/em&gt;
+
+zie verder: Documentatiedienst Nederlands Letterkundig Museum in Den
+Haag.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;&lt;i&gt;Persoonlijkheden in het Koninkrijk der Nederlanden in woord en beeld&lt;/i&gt;. Onder hoofdred. van H.P. van den Aardweg (Amsterdam 1938) 1137.
+&lt;/p&gt;
+
+&lt;p&gt;L.J.M. Tonino&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

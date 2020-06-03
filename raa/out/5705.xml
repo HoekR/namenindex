@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lienart</name> <name type="intrapositie">d'</name> <name type="geslachtsnaam">Espotes</name></persName>
-    <persName>Lienart de Potes</persName>
+    <persName><name type="voornaam">Nicolaas Cornelis</name> <name type="geslachtsnaam">Lambrechtsen</name></persName>
+    <persName>Lambrechtsen van Ritthem</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1823">
       <place></place>
     </event>
   </person>

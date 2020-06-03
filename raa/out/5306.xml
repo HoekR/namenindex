@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Dingemansz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vries</name></persName>
-    <event type="birth" when="1624">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik IV</name> <name type="intrapositie">"jonker" van</name> <name type="geslachtsnaam">Montfoort</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1681">
+    <event type="death" when="1459">
       <place></place>
     </event>
   </person>

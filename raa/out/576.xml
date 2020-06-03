@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Baptista</name> <name type="geslachtsnaam">Bots</name></persName>
-    <event type="birth" when="1806-10-14">
-      <place>Helmond</place>
+    <persName><name type="voornaam">Fran&#231;ois</name> <name type="geslachtsnaam">Leroux</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-03-02">
-      <place>Helmond</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

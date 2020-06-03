@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Otto Albertsz.</name> <name type="geslachtsnaam">Nuis</name></persName>
+    <persName><name type="voornaam">Jan Fredrik</name> <name type="intrapositie">Guillermet</name> <name type="geslachtsnaam">Welman</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1649-02-10">
+    <event type="death">
       <place></place>
     </event>
   </person>

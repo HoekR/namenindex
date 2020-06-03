@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Willem</name> <name type="geslachtsnaam">Callenfels</name></persName>
-    <event type="birth" when="1792-08-22">
-      <place>Sluis</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Thamesz.</name></persName>
+    <persName>Leonard Stalberg</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-04-12">
-      <place>Vlissingen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

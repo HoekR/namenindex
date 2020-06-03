@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Philip</name> <name type="geslachtsnaam">Graafland</name></persName>
-    <event type="birth" when="1756">
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Blankenoort</name></persName>
+    <persName>Pieter van Blankenbort</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1828">
+    <event type="death">
       <place></place>
     </event>
   </person>

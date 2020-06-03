@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Aert</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Goes</name></persName>
-    <event type="birth" when="1803-05-25">
-      <place>Ravenstein</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Willem</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Ramaker</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-02-10">
-      <place>Gent (gld.)</place>
+    <event type="death" when="1778">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Arnold</name> <name type="geslachtsnaam">Clignett</name></persName>
-    <event type="birth" when="1756-09-01">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Bilderdijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-12-29">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1831">
+      <place></place>
     </event>
   </person>
   <biography/>

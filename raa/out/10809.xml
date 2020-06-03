@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gosen</name> <name type="geslachtsnaam">Hogers</name></persName>
-    <persName>Goswijn Hogers</persName>
-    <event type="birth" when="1636">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joris Hugenz.</name> <name type="intrapositie">graaf van de</name> <name type="geslachtsnaam">Lindt</name></persName>
+    <persName>Mol</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1676">
+    <event type="death" when="1574">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Rembt Tobias Hugo Pieter Liebrecht Alexander</name> <name type="intrapositie">van Boneval</name> <name type="geslachtsnaam">Faure</name></persName>
-    <event type="birth" when="1826-01-25">
-      <place>Groningen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Johannes</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Rispens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1909-08-19">
-      <place>Putten</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

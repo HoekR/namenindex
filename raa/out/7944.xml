@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis Adriaansz.</name> <name type="geslachtsnaam">Stavenisse</name></persName>
-    <persName>Cornelis Staefvenisse</persName>
-    <persName>Cornelis Staefnisse</persName>
-    <event type="birth" when="1595">
+    <persName><name type="voornaam">J.C.</name> <name type="geslachtsnaam">Volcker</name></persName>
+    <persName>Volckar</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1649-05-28">
+    <event type="death">
       <place></place>
     </event>
   </person>

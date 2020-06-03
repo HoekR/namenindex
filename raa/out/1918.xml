@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Adriaan</name> <name type="geslachtsnaam">Moens</name></persName>
-    <event type="birth" when="1766-04-18">
-      <place>Colombo</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan Jansz.</name> <name type="intrapositie">graaf van de</name> <name type="geslachtsnaam">Weteringe</name></persName>
+    <persName>Dionys van Wesenhagen</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-01-09">
-      <place>Middelburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Lodewijk Mathias</name> <name type="geslachtsnaam">Leclercq</name></persName>
-    <event type="birth" when="1795-09-22">
-      <place>Maaseik</place>
+    <persName><name type="voornaam">Wolfert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Nobeling</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-07-02">
-      <place>Heythuysen</place>
+    <event type="death" when="1733-11-29">
+      <place></place>
     </event>
   </person>
   <biography/>

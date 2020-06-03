@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lennep</name></persName>
-    <event type="birth" when="1802-03-24">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Willem Lodewijk</name> <name type="intrapositie">heer van</name> <name type="geslachtsnaam">Wassenaer</name></persName>
+    <persName>Van Wassenaer van Starrenburg</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-08-25">
-      <place>Oosterbeek</place>
+    <event type="death" when="1833-03-25">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik Zacharias</name> <name type="geslachtsnaam">Reneman</name></persName>
-    <event type="birth" when="1776-03-30">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Nicolaas Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Wijtmans</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-06-08">
-      <place>Wyckel</place>
+    <event type="death" when="1720">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Aerssen van Voshol</name></persName>
-    <event type="birth" when="1698">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Mammo</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Eponis</name></persName>
+    <persName>Mamma Eponis</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1766-11-16">
+    <event type="death" when="1504">
       <place></place>
     </event>
   </person>

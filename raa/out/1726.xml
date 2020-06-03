@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Thomas Josephus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reijsingen</name></persName>
-    <event type="birth" when="1796-12-11">
-      <place>Oud-Gastel</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Haasman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-11-01">
-      <place>Roosendaal</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

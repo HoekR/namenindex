@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Baptista Constantinus Josephus Carel Cornelius Maria</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Hugenpoth van Stockum</name></persName>
-    <persName>Van Hugenpoth tot den Beerenclaauw</persName>
-    <event type="birth" when="1816-01-11">
-      <place>Boxmeer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joost</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Ratingen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-11-06">
-      <place>'s-Hertogenbosch</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

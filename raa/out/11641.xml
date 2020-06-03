@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Staackmans</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Ahasverus Samuel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nierop</name></persName>
+    <event type="birth" when="2001">
+      <place>Hoorn</place>
     </event>
-    <event type="death" when="1640-11-02">
-      <place></place>
+    <event type="death" when="1878-05-15">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

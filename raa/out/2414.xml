@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joan</name> <name type="geslachtsnaam">Cambier</name></persName>
-    <event type="birth" when="1818-01-31">
-      <place>Vianen</place>
+    <persName><name type="voornaam">Jan Frederik</name> <name type="geslachtsnaam">Abbema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-07-07">
-      <place>Utrecht</place>
+    <event type="death" when="1820">
+      <place></place>
     </event>
   </person>
   <biography/>

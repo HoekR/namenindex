@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">Scheltinga van</name> <name type="geslachtsnaam">Heemstra</name></persName>
-    <event type="birth" when="1767-03-16">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gillis</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Flory</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-01-30">
-      <place>Oenkerk</place>
+    <event type="death" when="1623">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerard Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoey</name></persName>
-    <event type="birth" when="1774-04-19">
-      <place>Gorinchem</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Hothje</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Aysma</name></persName>
+    <persName>Hotze van Aysma</persName>
+    <persName>Hotthie van Aysma</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-02-06">
-      <place>Gorinchem</place>
+    <event type="death" when="1603-07-02">
+      <place></place>
     </event>
   </person>
   <biography/>

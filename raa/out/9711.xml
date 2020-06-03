@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Paulus</name> <name type="intrapositie">Teding van</name> <name type="geslachtsnaam">Berkhout</name></persName>
-    <event type="birth" when="1609">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Josias</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Backer</name></persName>
+    <event type="birth" when="2008">
+      <place>Axel</place>
     </event>
-    <event type="death" when="1672-06-24">
-      <place></place>
+    <event type="death" when="1850-08-23">
+      <place>Goes</place>
     </event>
   </person>
   <biography/>

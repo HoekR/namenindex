@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Reinhard Johan Wilt</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
-    <persName>Van Heeckeren van Marhulsen</persName>
-    <event type="birth" when="1785-06-25">
-      <place>Laren (Gld.)</place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Does</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-01-05">
-      <place>Eibergen</place>
+    <event type="death" when="1704">
+      <place></place>
     </event>
   </person>
   <biography/>

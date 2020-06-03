@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Alexander Karel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heiden tot den Dam</name></persName>
-    <event type="birth" when="1709">
-      <place></place>
+    <persName><name type="voornaam">Tiete Solkes</name> <name type="geslachtsnaam">Tromp</name></persName>
+    <event type="birth" when="2002">
+      <place>Woudsend</place>
     </event>
-    <event type="death" when="1776-02-20">
-      <place></place>
+    <event type="death" when="1844-12-17">
+      <place>Leeuwarden</place>
     </event>
   </person>
   <biography/>

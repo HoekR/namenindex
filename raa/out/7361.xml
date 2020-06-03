@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hieronymus</name> <name type="intrapositie">ridder van den</name> <name type="geslachtsnaam">Dorpe</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Maarten</name> <name type="intrapositie">duc (Empire) van der</name> <name type="geslachtsnaam">Goes</name></persName>
+    <persName>Van der Goes van Dirxland</persName>
+    <event type="birth" when="2001">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1532">
-      <place></place>
+    <event type="death" when="1826-10-07">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

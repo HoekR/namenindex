@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philip Julius</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Zuylen van Nijevelt</name></persName>
-    <persName>Van Zuylen van Nijevelt van Hinderstein</persName>
-    <event type="birth" when="1785-04-21">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Raarda</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1864-06-01">
-      <place>Utrecht</place>
+    <event type="death" when="1799-11-01">
+      <place></place>
     </event>
   </person>
   <biography/>

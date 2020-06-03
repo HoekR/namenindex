@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/616301411"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Yamoussoukro nan</name> <name type="geslachtsnaam">Houphouet-Boigny</name></persName>
+    <event type="birth">
+      <date>18-10-1905</date>
+      <place>N'Gokro (C&#244;te d'Ivoire)</place>
+    </event>
+    <event type="death">
+      <date>07-12-1993</date>
+      <place>Yamoussoukro</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Pierre Andr&#233; Servais</name> <name type="geslachtsnaam">Kerens</name></persName>
-    <persName>Kerens Cadet</persName>
-    <event type="birth" when="1780-07-22">
-      <place>Mechelen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pierius</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Lycklama &#224; Nijeholt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-04-06">
-      <place>Maastricht</place>
+    <event type="death" when="1720-09-14">
+      <place></place>
     </event>
   </person>
   <biography/>

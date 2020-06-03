@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1309992460"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">K&#246;ln nan</name> <name type="geslachtsnaam">Berg</name></persName>
+    <event type="birth">
+      <date>27-08-1901</date>
+      <place>Altena</place>
+    </event>
+    <event type="death">
+      <date>03-02-1979</date>
+      <place>K&#246;ln</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

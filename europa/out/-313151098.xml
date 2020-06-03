@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-313151098"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">generaal</name> <name type="voornaam">nan</name> <name type="intrapositie">Gibraltar nan</name> <name type="geslachtsnaam">Sikorski</name></persName>
+    <event type="birth">
+      <date>20-05-1881</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>04-07-1943</date>
+      <place>Gibraltar</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

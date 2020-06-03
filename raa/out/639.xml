@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Adriaan</name> <name type="geslachtsnaam">Sander</name></persName>
-    <event type="birth" when="1821-05-07">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Feltrum</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Vries</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-03-23">
-      <place>Rotterdam</place>
+    <event type="death" when="1723-08-13">
+      <place></place>
     </event>
   </person>
   <biography/>

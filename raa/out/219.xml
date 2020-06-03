@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Casparus</name> <name type="geslachtsnaam">Bergsma</name></persName>
-    <event type="birth" when="1775-03-13">
-      <place>Dantumawoude</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Rommarts</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-07-06">
-      <place>Dokkum</place>
+    <event type="death" when="1558-01-15">
+      <place></place>
     </event>
   </person>
   <biography/>

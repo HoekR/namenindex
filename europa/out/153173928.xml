@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/153173928"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">M&#252;nchen nan</name> <name type="geslachtsnaam">Niklas</name></persName>
+    <event type="birth">
+      <date>24-09-1887</date>
+      <place>Traunstein</place>
+    </event>
+    <event type="death">
+      <date>12-04-1957</date>
+      <place>M&#252;nchen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

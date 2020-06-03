@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Diederik Barthout</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Slingelandt</name></persName>
-    <event type="birth" when="1764-05-10">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Johannes Wybes</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vries</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-03-13">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1836">
+      <place></place>
     </event>
   </person>
   <biography/>

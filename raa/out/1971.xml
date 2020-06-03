@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Broecke</name></persName>
-    <event type="birth" when="1768-12-07">
-      <place>Aardenburg</place>
+    <persName><name type="voornaam">Willem Andries</name> <name type="geslachtsnaam">Abbema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-01-26">
-      <place>Aardenburg</place>
+    <event type="death" when="1820">
+      <place></place>
     </event>
   </person>
   <biography/>

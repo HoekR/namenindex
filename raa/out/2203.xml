@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Hendrik Daniel</name> <name type="geslachtsnaam">Hooft</name></persName>
-    <persName>Hooft van Woudenberg en Geerestein</persName>
-    <event type="birth" when="1798-10-25">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Snel</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Klaasz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-09-10">
-      <place>Woudenberg</place>
+    <event type="death" when="1521">
+      <place></place>
     </event>
   </person>
   <biography/>

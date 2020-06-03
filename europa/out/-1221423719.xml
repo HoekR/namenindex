@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1221423719"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof. mr. drs.</name> <name type="voornaam">Harry</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Langman</name></persName>
+    <event type="birth">
+      <date>23-02-1931</date>
+      <place>Akkrum</place>
+    </event>
+    <event type="death">
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

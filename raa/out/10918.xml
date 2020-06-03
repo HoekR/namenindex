@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirk Boudijnsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Zwieten</name></persName>
-    <persName>Dirk van Zweeten</persName>
-    <persName>Dirk van Swieten</persName>
+    <persName><name type="voornaam">Gerrit Helmich</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Voorst tot Bergentheim</name></persName>
+    <persName>Gerrit Helmich van Voorst tot Alerdinck</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1482">
+    <event type="death" when="1778-12-23">
       <place></place>
     </event>
   </person>

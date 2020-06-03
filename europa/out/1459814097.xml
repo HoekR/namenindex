@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1459814097"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Graf</name> <name type="voornaam">nan</name> <name type="intrapositie">Bonn nan</name> <name type="geslachtsnaam">Lambsdorff</name></persName>
+    <event type="birth">
+      <date>20-12-1926</date>
+      <place>Aken</place>
+    </event>
+    <event type="death">
+      <date>05-12-2009</date>
+      <place>Bonn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

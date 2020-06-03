@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">Fenwick van der</name> <name type="geslachtsnaam">Gon</name></persName>
-    <event type="birth" when="1747-02-09">
-      <place>Rotterdam</place>
-    </event>
-    <event type="death" when="1826-08-29">
+    <persName><name type="voornaam">Johan Frederik Willem</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Spaen</name></persName>
+    <persName>Van Spaen van Biljoen</persName>
+    <event type="birth" when="2005">
       <place>'s-Gravenhage</place>
+    </event>
+    <event type="death" when="1827-11-18">
+      <place>Velp</place>
     </event>
   </person>
   <biography/>

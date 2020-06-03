@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arnoldus</name> <name type="geslachtsnaam">Oudeman</name></persName>
-    <event type="birth" when="1809-09-04">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Karel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bourgondi&#235;</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1892-03-23">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jean Lambert</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lenarts d'Ingenop</name></persName>
-    <event type="birth" when="1773-05-05">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk Jan</name> <name type="intrapositie">graaf</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-03-21">
-      <place>Maastricht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

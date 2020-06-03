@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/13985"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Tjakko</name> <name type="geslachtsnaam">Borgesius</name></persName>
+    <event type="birth" when="2006">
+      <place>Oude Pekela</place>
+    </event>
+    <event type="death" when="1888-04-13">
+      <place>Oude Pekela</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

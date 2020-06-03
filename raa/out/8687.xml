@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Mey</name></persName>
-    <event type="birth" when="1642">
-      <place></place>
+    <persName><name type="voornaam">Kaspar Karl Ferdinand Anton Franz</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Weichs de Wenne</name></persName>
+    <persName>Van Weichs van Winnen van Geysteren</persName>
+    <event type="birth" when="2004">
+      <place>Wenne (Westf.)</place>
     </event>
-    <event type="death" when="1722-08-31">
-      <place></place>
+    <event type="death" when="1850-10-25">
+      <place>Wanssum</place>
     </event>
   </person>
   <biography/>

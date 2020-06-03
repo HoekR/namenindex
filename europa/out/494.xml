@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/494"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Jhr. mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">'s-Gravenhage nan</name> <name type="geslachtsnaam">Beelaerts van Blokland</name></persName>
+    <event type="birth">
+      <date>02-05-1908</date>
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death">
+      <date>30-04-1997</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

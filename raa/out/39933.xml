@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/39933"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Jan Laurenszn.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Loosen</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1617-05-13">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

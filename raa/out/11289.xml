@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Schorer</name></persName>
-    <event type="birth" when="1719">
-      <place></place>
+    <persName><name type="voornaam">Arnoud Jan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Beaufort</name></persName>
+    <event type="birth" when="2004">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1771-09-13">
-      <place></place>
+    <event type="death" when="1866-01-07">
+      <place>Leusden</place>
     </event>
   </person>
   <biography/>

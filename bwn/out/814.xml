@@ -1,0 +1,94 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Hulshoff, Abram (1877-1955)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn2/hulshoff"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">hulshoff</idno>
+    <persName><name type="geslachtsnaam">Hulshoff</name>, Abram</persName>
+    <sex value="1"/>
+    <event type="birth" when="1877"/>
+    <event type="death" when="1955"/>
+    <state type="occupation">bibliothecaris</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Hulshoff, Abram&lt;/strong&gt;, bibliothecaris (Borne (Ov) 6-11-1877 - Utrecht 13-1-1955).
+
+Zoon van Abram Hulshoff, meelfabrikant, en Margaretha Hendrika ten
+Cate. Gehuwd op 23-8-1910 met Christine L&amp;ouml;gters. Uit dit huwelijk
+werden 3 zoons en 1 dochter geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Hulshoff bezocht de lagere school te Borne en het stedelijk
+gymnasium te Kampen. Na zijn eindexamen in 1896 liet hij zich
+inschrijven als student in de theologie aan de Universiteit van
+Amsterdam en het Doopsgezind Seminarium aldaar. In 1899 werd het
+kandidaats-, in 1901 het doctoraal examen afgelegd. Vervolgens
+studeerde hij een jaar te Straatsburg, ook om zich voor te bereiden op
+zijn proefschrift. In 1905 volgde zijn promotie te Amsterdam bij S.
+Cramer op een dissertatie 
+&lt;em&gt;Geschiedenis van de Doopsgezinden te Straatsburg van 1525-1557.&lt;/em&gt;
+
+Zijn belangstelling ging niet uit naar het predikantschap; in 1906
+aanvaardde hij een benoeming als conservator van de
+Universiteitsbibliotheek te Utrecht; in de eerste jaren van zijn
+verblijf werden in deze stad ook colleges gevolgd bij de hoogleraren
+G.W. Kernkamp, J.W. Muller en O. Oppermann. Hulsoff verrichtte veel
+onderzoek in binnen- en buitenland naar voor Nederland belangrijke
+handschriften en archivalia. Vele bronnen werden uitgegeven in de 
+&lt;em&gt;Werken&lt;/em&gt;
+
+en 
+&lt;em&gt;Bijdragen en Mededeelingen van het Historisch Genootschap.&lt;/em&gt;
+
+In 1913 toegelaten als privaatdocent voor middeleeuwse geschiedenis en
+paleografie aan de Utrechtse Universiteit opende hij zijn lessen met
+een redevoering: 
+&lt;em&gt;Historiographie der Middeleeuwsche Geschiedenis van Nederland&lt;/em&gt;
+
+(Haarlem, 1913). Bekendheid verwierf de uitgave van de paleografische
+atlas 
+&lt;em&gt;Deutsche und lateinische Schrift in den Niederlanden (1350-1650)&lt;/em&gt;
+
+(Bonn, 1918). In 1922 volgde Hulshoff J.F. van Someren op als
+bibliothecaris van de Utrechtse Universiteitsbibliotheek. Door de vele
+administratieve beslommeringen kon hij nog maar weinig tijd besteden
+aan de studie der handschriften, de crisisjaren en de hiermee gepaard
+gaande bezuinigingen bereidden hem vele zorgen. Verdienstelijk maakte
+Hulshoff zich met zijn bibliografische uitgaven, zoals de 
+&lt;em&gt;Klassieke bibliographie,&lt;/em&gt;
+
+die hij zelfs na zijn pensionering voortzette. Door het organiseren van
+tentoonstellingen wist hij zijn bibliotheek bij een breder publiek
+bekendheid te geven.&lt;/p&gt;
+&lt;p&gt;Tijdens de Tweede Wereldoorlog betoonde Hulshoff zich pro-Duits;
+hoewel hij op 1 december 1944 wegens pensioengerechtigde leeftijd had
+moeten aftreden, bleef hij tot 1 mei 1945 het directoraat waarnemen
+omdat zijn opvolger, A.J.C. R&amp;uuml;ter, wegens de gevolgen van de
+spoorwegstakingen Utrecht niet kon bereiken. Hulshoffs
+privaatdocentenschap werd op zijn verzoek met ingang van 19 september
+1946 be&amp;euml;indigd.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;A. Brom Jr., 
+&lt;em&gt;Lijst van geschriften van dr. A. Hulshoff&lt;/em&gt;
+
+[Utrecht, 1945] (Aanvulling 1958 door G.A. Evers. Aanwezig in UB
+Utrecht).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;D. Grosheide, in 
+&lt;em&gt;Bibliotheekleven&lt;/em&gt;
+
+40 (1955) 109-110.&lt;/p&gt;
+&lt;p&gt;S.B.J. Zilverberg&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

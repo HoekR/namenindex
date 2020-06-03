@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/174453181"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Longwood, St. Helena nan</name> <name type="geslachtsnaam">Bonaparte</name></persName>
+    <event type="birth">
+      <date>15-08-1769</date>
+      <place>Ajaccio</place>
+    </event>
+    <event type="death">
+      <date>05-05-1821</date>
+      <place>Longwood, St. Helena</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

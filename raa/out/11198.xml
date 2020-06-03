@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Cornelis</name> <name type="geslachtsnaam">Lampsins</name></persName>
-    <event type="birth" when="1716">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Carel Nomagus Jan Frederick Lodewijck</name> <name type="intrapositie">heer van</name> <name type="geslachtsnaam">Bylandt van Oye Persingen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1767-08-21">
+    <event type="death">
       <place></place>
     </event>
   </person>

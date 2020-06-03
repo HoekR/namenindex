@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Louis</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Pallandt</name></persName>
-    <persName>Van Pallandt tot Eerde</persName>
-    <event type="birth" when="1809-01-16">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="geslachtsnaam">Bolle</name></persName>
+    <persName>Willem van Zaanden</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1885-05-11">
-      <place>Lausanne</place>
+    <event type="death" when="1474">
+      <place></place>
     </event>
   </person>
   <biography/>

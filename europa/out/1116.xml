@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1116"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Ukkel van</name> <name type="geslachtsnaam">Offelen</name></persName>
+    <event type="birth">
+      <date>18-10-1915</date>
+      <place>Isleworth</place>
+    </event>
+    <event type="death">
+      <date>22-02-2006</date>
+      <place>Ukkel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

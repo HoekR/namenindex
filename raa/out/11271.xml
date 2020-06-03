@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vierssen</name></persName>
-    <event type="birth" when="1644">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Coenraad Diderick Neomagus</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Singendonck van Diedem</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1680-02-24">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Adriaan Joseph</name> <name type="geslachtsnaam">Trip</name></persName>
-    <event type="birth" when="1755">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gellius</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Hillema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-02-09">
-      <place>Groningen</place>
+    <event type="death" when="1626-02-01">
+      <place></place>
     </event>
   </person>
   <biography/>

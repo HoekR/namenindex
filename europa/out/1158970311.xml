@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1158970311"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Chalon-sur-Sa&#244;ne nan</name> <name type="geslachtsnaam">Jarrot</name></persName>
+    <event type="birth">
+      <date>13-12-1909</date>
+      <place>Lux</place>
+    </event>
+    <event type="death">
+      <date>21-04-2000</date>
+      <place>Chalon-sur-Sa&#244;ne</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

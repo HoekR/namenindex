@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1399594869"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Th&#233;o</name> <name type="intrapositie">Sint-Lambrechts-Woluwe nan</name> <name type="geslachtsnaam">Lef&#232;vre</name></persName>
+    <event type="birth">
+      <date>17-01-1914</date>
+      <place>Gent</place>
+    </event>
+    <event type="death">
+      <date>18-09-1973</date>
+      <place>Sint-Lambrechts-Woluwe</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

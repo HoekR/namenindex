@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1355497567"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Prof. Dr.</name> <name type="voornaam">Gerard</name> <name type="intrapositie">Rijswijk nan</name> <name type="geslachtsnaam">Veringa</name></persName>
+    <event type="birth">
+      <date>13-04-1924</date>
+      <place>Groningen</place>
+    </event>
+    <event type="death">
+      <date>29-12-1999</date>
+      <place>Rijswijk</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

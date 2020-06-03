@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Hendrik Adriaan Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rouwenoort</name></persName>
-    <persName>Van Rouwenoort van Ulenpas</persName>
-    <event type="birth" when="1741-01-22">
-      <place>Hoog-Keppel</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lille</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1815-01-07">
-      <place>Hummelo</place>
+    <event type="death" when="1810">
+      <place></place>
     </event>
   </person>
   <biography/>

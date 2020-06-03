@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Justin</name> <name type="geslachtsnaam">Schneitter</name></persName>
-    <persName>Schneitter</persName>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Walraven Robbert</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Heeckeren tot de Brantsenburg</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1758-06-15">
       <place></place>
     </event>
   </person>

@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Floris</name> <name type="geslachtsnaam">Paedze</name></persName>
-    <persName>Floris Paedzen van Leiden</persName>
-    <persName>Floris Paedzensz.</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Pont</name></persName>
+    <event type="birth" when="2004">
+      <place>Medemblik</place>
     </event>
-    <event type="death" when="1448">
-      <place></place>
+    <event type="death" when="1846-06-18">
+      <place>Medemblik</place>
     </event>
   </person>
   <biography/>

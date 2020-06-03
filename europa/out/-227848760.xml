@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-227848760"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Jhr.mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Beelaerts van Blokland</name></persName>
+    <event type="birth">
+      <date>08-12-1932</date>
+      <place>Heerjansdam (ZH)</place>
+    </event>
+    <event type="death">
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Hendriksz.</name> <name type="geslachtsnaam">Duyst van Voorhout</name></persName>
-    <event type="birth" when="1581">
+    <persName><name type="voornaam">Roelof</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Isselmuden</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1666-05-12">
+    <event type="death" when="1625-02-09">
       <place></place>
     </event>
   </person>

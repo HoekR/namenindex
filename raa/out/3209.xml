@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Conrad</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Lewe van Middelstum</name></persName>
-    <event type="birth" when="1827-04-16">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Gerrit Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vroesen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-12-13">
-      <place>Haarlem</place>
+    <event type="death" when="1630">
+      <place></place>
     </event>
   </person>
   <biography/>

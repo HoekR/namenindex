@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fran&#231;ois</name> <name type="geslachtsnaam">Lestevenon</name></persName>
-    <event type="birth" when="1702">
+    <persName><name type="voornaam">Sigismund Jacques</name> <name type="intrapositie">markies van</name> <name type="geslachtsnaam">Heiden Reinestein</name></persName>
+    <persName>Van Heiden Reinestein tot Laarwoud</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1767-08-09">
+    <event type="death" when="1830">
       <place></place>
     </event>
   </person>

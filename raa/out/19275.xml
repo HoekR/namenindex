@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/19275"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Johan Claasz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Dierhout</name></persName>
+    <persName>Johan Claasz. Dirout</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1626-07-07">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

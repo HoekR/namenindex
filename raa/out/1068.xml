@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit David</name> <name type="geslachtsnaam">Ribbius</name></persName>
-    <event type="birth" when="1814-10-28">
-      <place>Deventer</place>
+    <persName><name type="voornaam">Jan Pieter</name> <name type="geslachtsnaam">Beekman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-04-24">
-      <place>Zwolle</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Isselmuden tot Rollecate</name></persName>
-    <event type="birth" when="1705">
+    <persName><name type="voornaam">Galenus</name> <name type="intrapositie">comte (Empire) Trezel</name> <name type="geslachtsnaam">Bevers</name></persName>
+    <persName>Galenus Bevers</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1741-02-22">
+    <event type="death" when="1770-07-17">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1088612191"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Wassenaar van</name> <name type="geslachtsnaam">Royen </name></persName>
+    <event type="birth">
+      <date>10-04-1905</date>
+      <place>Istanbul</place>
+    </event>
+    <event type="death">
+      <date>16-03-1991</date>
+      <place>Wassenaar</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

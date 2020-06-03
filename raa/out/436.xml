@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Putman</name></persName>
-    <event type="birth" when="1786-02-19">
-      <place>Oudewater</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Brandwijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-07-24">
-      <place>Oudewater</place>
+    <event type="death" when="1696-03-29">
+      <place></place>
     </event>
   </person>
   <biography/>

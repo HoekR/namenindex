@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerhard Jan</name> <name type="geslachtsnaam">Fabius</name></persName>
-    <event type="birth" when="1807-07-26">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hogendorp</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1899-09-03">
-      <place>Utrecht</place>
+    <event type="death" when="1784">
+      <place></place>
     </event>
   </person>
   <biography/>

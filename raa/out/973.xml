@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">John Frederic</name> <name type="geslachtsnaam">Pringle</name></persName>
-    <event type="birth" when="1810-09-19">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dieloff</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Adriaansz.</name></persName>
+    <persName>Champagney</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-01-03">
-      <place>Arnhem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

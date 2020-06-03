@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J. junior</name> <name type="geslachtsnaam">Heuvelman</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adolph Warner</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Pallandt</name></persName>
+    <persName>Van Pallandt van Beerse</persName>
+    <event type="birth" when="2002">
+      <place>Beerse</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1848-12-27">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

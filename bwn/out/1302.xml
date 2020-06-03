@@ -1,0 +1,95 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Nierman, Pieter Antonius (1901-1976)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/nierman"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">nierman</idno>
+    <persName><name type="geslachtsnaam">Nierman</name>, Pieter Antonius</persName>
+    <sex value="1"/>
+    <event type="birth" when="1901"/>
+    <event type="death" when="1976"/>
+    <state type="occupation">r.k. bisschop</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/NIERMAN.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Nierman, Pieter Antonius&lt;/strong&gt;, bisschop van Groningen (Hilversum 29-1-1901 - Lage Vuursche gem. Baarn 15-9-1976).
+
+Zoon van Johann Gerhardt Nierman, winkelier, en Cornelia Wilhelmina
+Maria Andriessen.
+
+&lt;img src=&amp;quot;images/NIERMAN.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Nierman, Pieter Antonius&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Mgr. Nierman stamde uit een groep katholieken in Nederland, die in
+de 19e eeuw vanuit Duitsland zich hier vestigden; levensonderhoud
+zochten en vonden zij goeddeels in handel en nering: textiel,
+gedistilleerd en tabak. Opmerkelijk groot is de vertegenwoordiging van
+deze families in de geestelijkheid zowel onder seculieren als
+regulieren. Zo volgt de jonge Nierman na de lagere school in Hilversum
+de gebruikelijke opleidingen van klein-seminarie (Culemborg) en
+groot-seminarie (Rijsenburg) van het aartsbisdom Utrecht tot aan de
+priesterwijding (15-8-1924), welke hij gelijk ontving met de latere
+Bernardus, kardinaal Alfrink. Niets in de dan aangevangen loopbaan van
+zielzorger in de praktijk: assistent in Borne (Overijssel) 1924-1926;
+kapelaan in twee parochies te Utrecht 1926-1943; pastoor in Oosterhout
+(Gelderland) 1943-1954 wees in de richting van bestuur op
+bisschopsniveau. Anders lag dit misschien al bij de benoeming tot
+pastoor en deken van Groningen (2-4-1954), want sinds het begin van het
+decennium 1950 was het vraagstuk van de bisdommenindeling van de
+Nederlandse kerkprovincie voorwerp van grondig onderzoek en
+binnenkamerse discussie. Op grond van vergelijking met bisdomsgrootte
+en gelaagdheid erin van het contingent katholieken elders in de wereld
+voelde men te onzent weinig voor wijziging, maar kwam niettemin
+16-7-1955 de oprichtingsbulle voor nieuwe bisdommen in Groningen en
+Rotterdam af.&lt;/p&gt;
+&lt;p&gt;Mgr. Nierman, op 11-5-1956 bisschop gewijd te Groningen, viel de
+taak toe opnieuw - na de kortstondige bisdomsperiode in 1559 voor
+Leeuwarden en Groningen begonnen - nu voor heel het Noorden een diocees
+te verwezenlijken. Kenmerkend is, dat nu niet, zoals in de 16e eeuw,
+werd gekozen voor een academisch gevormde ambtsdrager, maar voor een
+zielzorger uit de praktijk. Diens werkterrein was naar binnen sterk
+verscheiden: Groningen, universiteitstad als centrum met een wat
+sterker concentratie van katholieken; daarnaast Friesland met een
+sterke spreiding van agrari&amp;euml;rs, niet meer dan zeven procent van de
+bevolking en verder nog tweetalig; Drenthe, vanouds een provincie
+apart; ten slotte de Noordoostpolder met een klein contingent
+katholieken. Niermans zonder pretenties aanvaarde praktische aanpak om
+in dit gebied van katholieke minderheid naast buitenkerkelijke en
+protestantse dominantie wat vastere verbanden te leggen bleef niet
+zonder succes. Karakteristiek is o.a. zijn wijze van samenwerken met de
+her en der verspreid operende reguliere zielzorgers, die de soms weinig
+cordiale verhoudingen met seculieren, late nawerking van de 17e-18e
+eeuw, grondig verbeterde. Naar buiten eenzelfde samenwerking in
+oecumenisch verband. Niet onbekend met de eeuwenoude humanistische en
+reformatorische accenten van de noordelijke gewesten, gaf hij tijdens
+het Tweede Vaticaans Concilie stem aan aandrang tot sterker
+saamhorigheid tussen de kerken en geestelijke stromingen. Een minder
+goede gezondheid dwong in 1968 de bisschop zich terug te trekken; hij
+verliet zijn bisdom en vestigde zich tot zijn verscheiden in de Lage
+Vuursche.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='agedeelte'&gt;A: &lt;/a&gt;Collectie-Nierman in archief bisdom Groningen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;'In memoriam mgr. P.A. Nierman', in 
+&lt;em&gt;Informatie.&lt;/em&gt;
+
+Bulletin van het bisdom Groningen 9 (1976) 10 (oktober)
+1-9.&lt;/p&gt;
+
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;
+Katholiek Documentatie Centrum te Nijmegen, Collectie personen: afb. 2A6774 [Foto: Bouchier, Groningen].&lt;/p&gt;
+
+
+
+&lt;p&gt;M.P. van Buijtenen&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

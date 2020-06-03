@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus Nicolaas</name> <name type="geslachtsnaam">Witteveen</name></persName>
-    <event type="birth" when="1821-05-10">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Cornelisz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Kerkwerve</name></persName>
+    <event type="birth" when="1488">
       <place></place>
     </event>
-    <event type="death" when="1886">
+    <event type="death">
       <place></place>
     </event>
   </person>

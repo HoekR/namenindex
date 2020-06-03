@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Paulus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Asperen</name></persName>
-    <persName>Ellert de Veer</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Johan Marthe</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Collot d'Escury</name></persName>
+    <event type="birth" when="2007">
+      <place>Sliedrecht</place>
     </event>
-    <event type="death" when="1641-05-13">
-      <place></place>
+    <event type="death" when="1817-01-12">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

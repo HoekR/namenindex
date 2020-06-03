@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerardus Jacobus</name> <name type="geslachtsnaam">Deyselman</name></persName>
-    <event type="birth" when="1780-12-26">
-      <place>Leiden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf de</name> <name type="geslachtsnaam">Vries</name></persName>
+    <persName>Vossius</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-09-30">
-      <place>Geertruidenberg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

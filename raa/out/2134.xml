@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Simon</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Stralen</name></persName>
-    <event type="birth" when="1783-03-20">
-      <place>Hoorn</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Arendsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Schout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-10-31">
-      <place>Haarlem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

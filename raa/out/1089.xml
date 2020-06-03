@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bartholome&#252;s Cornelis Johannes</name> <name type="geslachtsnaam">Visscher</name></persName>
-    <event type="birth" when="1799-12-27">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Harmanus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Eckringa</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-12-22">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

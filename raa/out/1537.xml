@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerhard Antony</name> <name type="intrapositie">IJssel de</name> <name type="geslachtsnaam">Schepper</name></persName>
-    <event type="birth" when="1810-05-30">
-      <place>Deventer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Drabbe</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-10-22">
-      <place>Olst</place>
+    <event type="death" when="1503">
+      <place></place>
     </event>
   </person>
   <biography/>

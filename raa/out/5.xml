@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Onno Reint</name> <name type="geslachtsnaam">Alberda van Ekenstein</name></persName>
-    <event type="birth" when="1752-02-03">
-      <place>Groningen</place>
+    <persName>
+      <name type="geslachtsnaam">Lodewijk Napoleon</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1821-10-21">
-      <place>Tjamsweer</place>
+    <event type="death" when="1846">
+      <place></place>
     </event>
   </person>
   <biography/>

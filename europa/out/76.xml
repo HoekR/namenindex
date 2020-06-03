@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/76"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs.</name> <name type="voornaam">Jan-Willem</name> <name type="intrapositie">'s-Gravenhage de</name> <name type="geslachtsnaam">Pous</name></persName>
+    <event type="birth">
+      <date>23-01-1920</date>
+      <place>Aalsmeer</place>
+    </event>
+    <event type="death">
+      <date>06-01-1996</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

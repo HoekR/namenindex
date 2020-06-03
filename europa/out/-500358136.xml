@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-500358136"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Ljubljana nan</name> <name type="geslachtsnaam">Tito</name></persName>
+    <event type="birth">
+      <date>07-05-1892</date>
+      <place>Kumrovec</place>
+    </event>
+    <event type="death">
+      <date>04-05-1980</date>
+      <place>Ljubljana</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

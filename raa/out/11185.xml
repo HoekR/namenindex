@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">P.</name> <name type="geslachtsnaam">Lorentz</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Wijnand</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Assenraad</name></persName>
+    <event type="birth" when="2011">
+      <place>Amersfoort</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1855-05-12">
+      <place>Amersfoort</place>
     </event>
   </person>
   <biography/>

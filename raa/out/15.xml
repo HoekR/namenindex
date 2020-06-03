@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philippe Nicolas Joseph</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Borssele van der Hooghe</name></persName>
-    <event type="birth" when="1751-07-21">
-      <place>Brugge</place>
+    <persName><name type="voornaam">Vincent</name> <name type="geslachtsnaam">Dammasz.</name></persName>
+    <event type="birth" when="1486">
+      <place></place>
     </event>
-    <event type="death" when="1829-09-27">
-      <place>Brugge</place>
+    <event type="death" when="1554">
+      <place></place>
     </event>
   </person>
   <biography/>

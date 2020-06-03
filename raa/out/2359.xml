@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arie Adriaan</name> <name type="geslachtsnaam">Visser</name></persName>
-    <event type="birth" when="1814-10-09">
-      <place>Sliedrecht</place>
+    <persName><name type="voornaam">Gerard</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schagen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1690-06-02">
       <place></place>
     </event>
   </person>

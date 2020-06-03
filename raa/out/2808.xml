@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ph.J. Alexander</name> <name type="geslachtsnaam">Wadeleux</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Ewout Jetsen</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Stiensma</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1672">
       <place></place>
     </event>
   </person>

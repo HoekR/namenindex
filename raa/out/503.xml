@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Berend</name> <name type="geslachtsnaam">Wichers</name></persName>
-    <event type="birth" when="1790-03-05">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Rutger</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Boetzelaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-06-28">
-      <place>Groningen</place>
+    <event type="death" when="1604">
+      <place></place>
     </event>
   </person>
   <biography/>

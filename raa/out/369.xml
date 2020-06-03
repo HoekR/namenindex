@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Reneke</name> <name type="intrapositie">de Marees van</name> <name type="geslachtsnaam">Swinderen</name></persName>
-    <persName>De Marees van Swinderen van Allersma</persName>
-    <event type="birth" when="1764-03-21">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Boudijn Jacobsz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Ouderkerk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-05-01">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

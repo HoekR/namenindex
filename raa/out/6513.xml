@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Jacobus</name> <name type="geslachtsnaam">Florison</name></persName>
-    <event type="birth" when="1723">
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Nebbens</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1819">
+    <event type="death" when="1761-06-08">
       <place></place>
     </event>
   </person>

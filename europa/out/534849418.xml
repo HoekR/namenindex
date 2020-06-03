@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/534849418"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Athene nan</name> <name type="geslachtsnaam">Karamanlis</name></persName>
+    <event type="birth">
+      <date>08-03-1907</date>
+      <place>Proti</place>
+    </event>
+    <event type="death">
+      <date>23-04-1998</date>
+      <place>Athene</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

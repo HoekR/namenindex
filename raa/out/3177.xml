@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pedro Wijnand</name> <name type="intrapositie">Alstorphius</name> <name type="geslachtsnaam">Grevelink</name></persName>
-    <event type="birth" when="1808-06-04">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Pieter Willemsz.</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Meer</name></persName>
+    <event type="birth" when="1534">
+      <place></place>
     </event>
-    <event type="death" when="1896-04-17">
-      <place>Ellecom</place>
+    <event type="death" when="1616">
+      <place></place>
     </event>
   </person>
   <biography/>

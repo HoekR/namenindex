@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Barthold Johan Christiaan</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Mackay</name></persName>
-    <persName>Mackay van Ophemert en Zennewijnen</persName>
-    <event type="birth" when="1773-09-04">
-      <place>Tiel</place>
+    <persName><name type="voornaam">Hippolitus</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Persijn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-11-24">
-      <place>Ophemert</place>
+    <event type="death" when="1568">
+      <place></place>
     </event>
   </person>
   <biography/>

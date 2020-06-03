@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adriaan</name> <name type="geslachtsnaam">Prins</name></persName>
-    <event type="birth" when="1692">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerlach Cornelis Joannes</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reenen</name></persName>
+    <persName>Van Reenen van Loenen</persName>
+    <event type="birth" when="2009">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1780-03-05">
-      <place></place>
+    <event type="death" when="1893-05-31">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

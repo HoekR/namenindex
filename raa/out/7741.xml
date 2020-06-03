@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Berg</name></persName>
-    <event type="birth" when="1678">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Mello</name> <name type="geslachtsnaam">Sichterman</name></persName>
+    <persName>Sichterman van de Brake</persName>
+    <event type="birth" when="2005">
+      <place>Groningen</place>
     </event>
-    <event type="death" when="1763">
-      <place></place>
+    <event type="death" when="1856-07-08">
+      <place>Obergum</place>
     </event>
   </person>
   <biography/>

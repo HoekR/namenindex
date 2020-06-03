@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Thomas</name> <name type="geslachtsnaam">Gramaye&#13;
-Ysendoorn</name></persName>
+    <persName><name type="voornaam">Pieter Pietersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Back</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1583">
+    <event type="death" when="1708">
       <place></place>
     </event>
   </person>

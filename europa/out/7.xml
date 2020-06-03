@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/7"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Wassenaar nan</name> <name type="geslachtsnaam">Stikker</name></persName>
+    <event type="birth">
+      <date>05-02-1897</date>
+      <place>Winschoten</place>
+    </event>
+    <event type="death">
+      <date>24-12-1979</date>
+      <place>Wassenaar</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

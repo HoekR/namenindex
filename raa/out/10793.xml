@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Symon</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Phirt</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">David</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Poeli&#235;n</name></persName>
+    <persName>Van Poeli&#235;n van Nuland</persName>
+    <event type="birth" when="2007">
+      <place>Dordrecht</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1830-10-01">
+      <place>Dordrecht</place>
     </event>
   </person>
   <biography/>

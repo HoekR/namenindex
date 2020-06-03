@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Ocker</name> <name type="geslachtsnaam">Repelaer</name></persName>
-    <persName>Repelaer van Molenaarsgraaf</persName>
-    <event type="birth" when="1796-10-06">
-      <place>Dordrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jeronimus</name> <name type="geslachtsnaam">Sandelijn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-10-31">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1570">
+      <place></place>
     </event>
   </person>
   <biography/>

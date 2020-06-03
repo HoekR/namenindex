@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Sixtus Gerhardus</name> <name type="geslachtsnaam">Koning</name></persName>
-    <event type="birth" when="1809-07-24">
-      <place>Wedde</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Gronsvelt</name></persName>
+    <persName>Gerrit van Gronsselt</persName>
+    <persName>Gerrit van Gronselle</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1888-03-08">
-      <place>Amsterdam</place>
+    <event type="death" when="1514">
+      <place></place>
     </event>
   </person>
   <biography/>

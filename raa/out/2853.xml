@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Santheuvel</name></persName>
-    <event type="birth" when="1756-10-18">
-      <place>G</place>
+    <persName><name type="voornaam">Jacob Warmolt</name> <name type="geslachtsnaam">Keiser</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-04-05">
-      <place>Maastricht</place>
+    <event type="death" when="1821">
+      <place></place>
     </event>
   </person>
   <biography/>

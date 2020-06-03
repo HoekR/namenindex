@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Dirk Ernst</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vo&#235;rst tot Averbergen</name></persName>
-    <event type="birth" when="1776-11-19">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Huybert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Doudijns</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-07-06">
-      <place>Zwolle</place>
+    <event type="death" when="1680">
+      <place></place>
     </event>
   </person>
   <biography/>

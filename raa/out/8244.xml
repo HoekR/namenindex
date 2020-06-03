@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Engelbert George</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Plaat</name></persName>
-    <event type="birth" when="1756">
-      <place></place>
+    <persName><name type="voornaam">Roelof Hendrik</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Isselmuden</name></persName>
+    <persName>Van Isselmuden van Zwollingercamp</persName>
+    <event type="birth" when="2005">
+      <place>Zwolle</place>
     </event>
-    <event type="death" when="1831">
-      <place></place>
+    <event type="death" when="1834-03-06">
+      <place>Wanneperveen</place>
     </event>
   </person>
   <biography/>

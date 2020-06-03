@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Herman</name> <name type="geslachtsnaam">Rahusen</name></persName>
-    <event type="birth" when="1817-06-15">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Johan</name> <name type="geslachtsnaam">Geelvinck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-05-24">
-      <place>Wiesbaden</place>
+    <event type="death" when="1802">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Boudewijn</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Berlicum</name></persName>
-    <persName>Boudewijn van Barlicom</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dirk</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Foreest</name></persName>
+    <event type="birth" when="2008">
+      <place>Alkmaar</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1833-04-17">
+      <place>Alkmaar</place>
     </event>
   </person>
   <biography/>

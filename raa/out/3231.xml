@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Petrus Joannes Maximilianus</name> <name type="intrapositie">de l'</name> <name type="geslachtsnaam">Orthye</name></persName>
-    <event type="birth" when="1753-12-27">
-      <place>Brussel</place>
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Leonardus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Voort</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1809">
       <place></place>
     </event>
   </person>

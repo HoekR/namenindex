@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Jan</name> <name type="intrapositie">baron d'</name> <name type="geslachtsnaam">Ablaing van Giessenburg</name></persName>
-    <event type="birth" when="1812-07-01">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Rutger</name> <name type="geslachtsnaam">Metelerkamp</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1892-04-01">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1836">
+      <place></place>
     </event>
   </person>
   <biography/>

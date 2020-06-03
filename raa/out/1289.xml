@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Edzard Harmannus</name> <name type="geslachtsnaam">Engelkens</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Saphaeus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Heemstra</name></persName>
+    <persName>Sapheus Hiemstra</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1841-02-06">
+    <event type="death">
       <place></place>
     </event>
   </person>

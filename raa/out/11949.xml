@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="intrapositie">ter</name> <name type="geslachtsnaam">Wischa</name></persName>
-    <persName>Johannes ter Wisga</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anthonis</name> <name type="intrapositie">graaf van den</name> <name type="geslachtsnaam">Broek</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1609-03-10">
+    <event type="death">
       <place></place>
     </event>
   </person>

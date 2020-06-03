@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joost Christoffel</name> <name type="geslachtsnaam">Bevervoorde tot Oldemeule</name></persName>
-    <event type="birth" when="1638">
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Goes van Absmade</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1700">
+    <event type="death" when="1690">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Petrus Andreas</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Meeuwen</name></persName>
-    <event type="birth" when="1772-01-27">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Lodewijk Napoleon</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Randwijck</name></persName>
+    <event type="birth" when="2005">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1848-08-19">
-      <place>Maastricht</place>
+    <event type="death" when="1891-04-12">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

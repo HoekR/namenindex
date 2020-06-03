@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sixtus Gerhardus</name> <name type="geslachtsnaam">Eckringa</name></persName>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Honert</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1743-05-23">
       <place></place>
     </event>
   </person>

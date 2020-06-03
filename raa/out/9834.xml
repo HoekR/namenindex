@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Godert Alexander Gerard Philip</name> <name type="intrapositie">baron van der</name> <name type="geslachtsnaam">Capellen</name></persName>
-    <persName>Van der Capellen van Berkenwoude</persName>
-    <event type="birth" when="1778-12-15">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Roelof</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Stakenbroek</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-04-10">
-      <place>De Bilt</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

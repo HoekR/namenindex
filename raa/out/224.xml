@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Imilius Frederik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Poppenhuizen</name></persName>
-    <event type="birth" when="1776-08-11">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Hermanus</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Hart</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-05-11">
-      <place>Leeuwarden</place>
+    <event type="death" when="1819">
+      <place></place>
     </event>
   </person>
   <biography/>

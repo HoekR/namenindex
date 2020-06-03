@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jonas (Johannes)</name> <name type="geslachtsnaam">Wertheim</name></persName>
-    <event type="birth" when="1798-01-26">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Johan Boudewijnsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Banchem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-08-16">
-      <place>Haarlem</place>
+    <event type="death" when="1699">
+      <place></place>
     </event>
   </person>
   <biography/>

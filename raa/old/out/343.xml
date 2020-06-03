@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/343"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Philip Jacob</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Goes</name></persName>
+    <event type="birth" when="1728"/>
+    <event type="death" when="1789"/>
+  </person>
+  <biography/>
+</biodes>

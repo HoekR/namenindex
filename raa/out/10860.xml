@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antonie</name> <name type="intrapositie">le</name> <name type="geslachtsnaam">Clercq</name></persName>
-    <event type="birth" when="1779-01-31">
-      <place>Warmond</place>
+    <persName><name type="voornaam">Johan Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Lampsins</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-11-28">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1767-08-21">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Anthonij Jansz.</name> <name type="geslachtsnaam">Houttuijn</name></persName>
-    <event type="birth" when="1660">
+    <persName><name type="voornaam">Simon Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hens</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1720">
+    <event type="death">
       <place></place>
     </event>
   </person>

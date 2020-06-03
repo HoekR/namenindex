@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Simeon Petrus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Idsinga</name></persName>
-    <event type="birth" when="1784-12-12">
-      <place>Groningen</place>
+    <persName>
+      <name type="geslachtsnaam">Babut</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-11-10">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arnoldus</name> <name type="geslachtsnaam">Copius</name></persName>
+    <persName><name type="voornaam">Adolf Hendrik</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Rechteren tot Almelo</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1741-03-15">
       <place></place>
     </event>
   </person>

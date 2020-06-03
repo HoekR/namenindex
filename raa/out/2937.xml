@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Constantijn Sigismund Willem Jacob</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Nagell</name></persName>
-    <persName>Van Nagell van Wisch</persName>
-    <event type="birth" when="1798-06-11">
-      <place>Wageningen</place>
+    <persName><name type="voornaam">Christiaan George Reinhard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Marle</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-02-01">
-      <place>Luik</place>
+    <event type="death" when="1821">
+      <place></place>
     </event>
   </person>
   <biography/>

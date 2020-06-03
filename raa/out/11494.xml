@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Abraham Pietersz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Meer</name></persName>
-    <event type="birth" when="1584">
-      <place></place>
+    <persName><name type="voornaam">Petrus Franciscus</name> <name type="geslachtsnaam">Helmich</name></persName>
+    <event type="birth" when="2011">
+      <place>Zwolle</place>
     </event>
-    <event type="death" when="1638-05-20">
-      <place></place>
+    <event type="death" when="1860-09-02">
+      <place>Gildehaus (Bentheim)</place>
     </event>
   </person>
   <biography/>

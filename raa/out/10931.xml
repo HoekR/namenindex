@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gajus</name> <name type="geslachtsnaam">Nauta</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Anne Willem</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Straalman</name></persName>
+    <event type="birth" when="2010">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1645-10-19">
-      <place></place>
+    <event type="death" when="1824-08-18">
+      <place>'s-Graveland</place>
     </event>
   </person>
   <biography/>

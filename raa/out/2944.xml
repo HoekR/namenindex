@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Heeckeren van Kell</name></persName>
-    <event type="birth" when="1815-07-01">
-      <place>Ruurlo</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire) Teding van</name> <name type="geslachtsnaam">Berkhout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1914-02-10">
-      <place>Ruurlo</place>
+    <event type="death" when="1743">
+      <place></place>
     </event>
   </person>
   <biography/>

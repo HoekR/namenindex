@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jacobsz.</name> <name type="geslachtsnaam">Musch</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johannes Servaas</name> <name type="geslachtsnaam">Lotsy</name></persName>
+    <event type="birth" when="2005">
+      <place>Dordrecht</place>
     </event>
-    <event type="death" when="1610">
-      <place></place>
+    <event type="death" when="1863-04-04">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

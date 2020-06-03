@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Josias</name> <name type="geslachtsnaam">Westenberg</name></persName>
-    <event type="birth" when="1764-10-14">
-      <place>Goor</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Tjalling Aedo Johan</name> <name type="intrapositie">ridder Heringa van</name> <name type="geslachtsnaam">Eysinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-03-19">
-      <place>Utrecht</place>
+    <event type="death" when="1768-05-07">
+      <place></place>
     </event>
   </person>
   <biography/>

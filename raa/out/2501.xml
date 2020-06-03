@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans Godard Ayzo Boelens</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Lynden</name></persName>
-    <event type="birth" when="1781-09-21">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Boomgaard</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-04-09">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

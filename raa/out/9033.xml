@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Jan Wouter</name> <name type="geslachtsnaam">Nahuys</name></persName>
-    <persName>Nahuys van Burgst</persName>
-    <event type="birth" when="1762-10-09">
-      <place>Goes</place>
+    <persName><name type="voornaam">Jacobus Adriaansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Maanen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-05-27">
-      <place>Princenhage</place>
+    <event type="death" when="1822">
+      <place></place>
     </event>
   </person>
   <biography/>

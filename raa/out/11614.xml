@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Siccama</name></persName>
-    <event type="birth" when="1763">
-      <place></place>
+    <persName><name type="voornaam">Dirk Joachim Willem Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Raesfelt</name></persName>
+    <persName>Van Raesfelt van Elsen</persName>
+    <event type="birth" when="2008">
+      <place>Zwolle</place>
     </event>
-    <event type="death" when="1844">
-      <place></place>
+    <event type="death" when="1828-05-09">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

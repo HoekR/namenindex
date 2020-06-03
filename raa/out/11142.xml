@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Floris</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Keeskes</name></persName>
-    <event type="birth" when="1669">
-      <place></place>
+    <persName><name type="voornaam">Gijsbert Franco</name> <name type="intrapositie">duc (Empire) von</name> <name type="geslachtsnaam">Derfelden</name></persName>
+    <persName>Von Derfelden van Hindersteyn</persName>
+    <event type="birth" when="2007">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1721">
-      <place></place>
+    <event type="death" when="1857-05-17">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Bluss&#233; van Oud-Alblas</name></persName>
-    <event type="birth" when="1812-03-11">
-      <place>Dordrecht</place>
+    <persName>
+      <name type="geslachtsnaam">Geffroy</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1887-05-19">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

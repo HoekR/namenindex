@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Oosthuyse van Rysenborgh</name>
-    </persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Ludolf</name> <name type="geslachtsnaam">Wichers</name></persName>
+    <event type="birth" when="2006">
+      <place>Groningen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1853-04-03">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

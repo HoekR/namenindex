@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Steven Stevensz.</name> <name type="geslachtsnaam">Laeckervelt</name></persName>
+    <persName><name type="voornaam">Edmond Charles Guillaume Ghislain</name> <name type="intrapositie">de la</name> <name type="geslachtsnaam">Coste</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1870">
       <place></place>
     </event>
   </person>

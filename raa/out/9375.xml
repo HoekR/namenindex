@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Tobie Constantin</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Bordes</name></persName>
-    <persName>Tobias.</persName>
-    <event type="birth" when="1772-12-13">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">G.J.</name> <name type="geslachtsnaam">Ketjen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-10-03">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

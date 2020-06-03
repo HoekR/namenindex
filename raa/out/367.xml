@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">Hora</name> <name type="geslachtsnaam">Siccama</name></persName>
-    <event type="birth" when="1763-09-06">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Samuel Rudolphus</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Nispen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-06-01">
-      <place>Groningen</place>
+    <event type="death" when="1775">
+      <place></place>
     </event>
   </person>
   <biography/>

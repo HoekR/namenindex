@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Zacharias</name> <name type="geslachtsnaam">Paspoort</name></persName>
-    <persName>Paspoort van Grijpskerke</persName>
-    <event type="birth" when="1759-03-03">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Carel Lodewijk</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Wassenaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-06-29">
-      <place>Middelburg</place>
+    <event type="death" when="1751-02-11">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Schagen Hoogland</name></persName>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Anthony</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Tael</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1672-03-31">
+    <event type="death" when="1725">
       <place></place>
     </event>
   </person>

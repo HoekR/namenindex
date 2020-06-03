@@ -1,0 +1,95 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Tinbergen, Nikolaas (1907-1988)</title>
+    <author>R.P.W. Visser</author>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn6/tinbergen"/>
+    <date when="2008-08-19"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">tinbergen</idno>
+    <persName><name type="geslachtsnaam">Tinbergen</name>, Nikolaas</persName>
+    <sex value="1"/>
+    <event type="birth" when="1907"/>
+    <event type="death" when="1988"/>
+    <state type="occupation">dierkundige</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn6/images/images/TINBERGEN.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class=&amp;quot;genealogie&amp;quot;&gt;
+
+&lt;strong&gt;Tinbergen, Nikolaas&lt;/strong&gt;, dierkundige ('s-Gravenhage 15-4-1907 - Oxford (Groot-Brittanni&#235;) 21-12-1988). Zoon van Dirk Cornelis Tinbergen, leraar Nederlands aan een gymnasium, en Jeannette van Eek. Gehuwd op 14-4-1932 met Elisabeth Am&#233;lie Rutten (1912-1990). Uit dit huwelijk werden 2 zoons en 3 dochters geboren. Hij kreeg in 1955 de Britse nationaliteit.
+&lt;/p&gt;
+
+
+&lt;img src=&amp;quot;images/TINBERGEN.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Tinbergen, Nikolaas&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;p&gt;Niko Tinbergen groeide op, samen met drie broers en een zuster, als derde kind in een Haags leraarsgezin. Terugblikkend zou hij de sfeer in zijn ouderlijk huis karakteriseren als gelukkig, harmonieus en intellectueel stimulerend. Alle kinderen zouden een academische opleiding voltooien. Niko en zijn broers Jan en Luuk zouden alle drie prominente wetenschappelijke onderzoekers worden.&lt;/p&gt;
+
+&lt;p&gt;Niko bezocht van 1920 tot 1925 de Tweede HBS in zijn geboortestad. Hij leverde daar weinig opvallende schoolprestaties. Liever besteedde hij zijn tijd en energie aan buitenschoolse activiteiten. Hij was een fanatiek sporter en deed aan hockey, schaatsen en polsstokhoogspringen. Ge&#239;nspireerd door de populariserende geschriften van E. Heimans en J.P. Thijsse ontpopte Niko zich daarnaast al vroeg als een gedreven veldbioloog met een bijzondere belangstelling voor vogels. Als lid van de pas opgerichte Nederlandsche Jeugdbond voor Natuurstudie (NJN) publiceerde hij in 1923 in &lt;i&gt;Amoeba&lt;/i&gt;, het bondstijdschrift, zijn eerste artikelen.&lt;/p&gt;
+
+&lt;p&gt;In eerste instantie zag Tinbergen niets in een universitaire studie en hij overwoog een loopbaan in de sport. Dat hij uiteindelijk toch in 1925 aan de Rijksuniversiteit te Leiden biologie ging studeren, was te danken aan de aansporingen en adviezen van zijn biologieleraar A. Schierbeek en van Paul Ehrenfest, hoogleraar theoretische natuurkunde en promotor van zijn oudste broer Jan. Van meet af aan stond voor Tinbergen vast dat hij zich in de dierkunde zou specialiseren.&lt;/p&gt;
+
+&lt;p&gt;Toen Tinbergen zijn studie begon, werd het zo&#246;logisch onderwijs nog steeds beheerst door beschrijvende disciplines als vergelijkende morfologie en taxonomie. Deze traditionele vakken wisten zijn wetenschappelijke nieuwsgierigheid niet te prikkelen. Goeddeels onafhankelijk van het Leidse curriculum ontwikkelde hij zijn belangstelling voor de studie van het diergedrag in de vrije natuur. Daartoe werd hij in belangrijke mate gestimuleerd door Jan Verwey, assistent op het Leidse Zo&#246;logisch Laboratorium en in Nederland een pionier in de veldbiologische studie van vogelgedrag. Onder diens leiding verrichtte Tinbergen zijn afstudeeronderzoek naar het paringsgedrag van het visdiefje. Daarover schreef hij zijn eerste wetenschappelijke publicatie &lt;i&gt;Zur Paarungsbiologie der Fluszseeschwalbe&lt;/i&gt; (1931).&lt;/p&gt;
+
+&lt;p&gt;Nadat Tinbergen op 12 december 1930 het doctoraalexamen had behaald, kreeg hij bij het Zo&#246;logisch Laboratorium een aanstelling als assistent om te werken aan een proefschrift. Op 12 april 1932 promoveerde hij aan de Rijksuniversiteit te Leiden bij de hoogleraar zo&#246;logie H. Boschma op een dissertatie over de ori&#235;ntatie van de bijenwolf, een graafwespensoort: &lt;i&gt;&#220;ber die Orientierung von Philanthus triangulum, Fabr&lt;/i&gt;. De werkwijze die hij hierin hanteerde was kenmerkend voor veel van zijn latere gedragsstudies: het bestuderen van dieren in hun natuurlijke omgeving met behulp van zorgvuldige observaties en nauwkeurig gecontroleerde en doorgaans simpele experimenten. Het onderzoek voor zijn proefschrift bracht Tinbergen tot het besef dat hij verder wilde gaan met dit type wetenschappelijk onderzoek.&lt;/p&gt;
+
+&lt;p&gt;Twee dagen na zijn promotie trad Tinbergen in het huwelijk met Lies Rutten, de dochter van de Utrechtse hoogleraar geologie L.M.R. Rutten. Zij studeerde scheikunde, en Tinbergen had haar leren kennen via haar broer Martien, met wie hij bevriend was. Enkele maanden later vertrok hij met zijn vrouw naar Groenland als lid van het Nederlandse team dat daar in het kader van het tweede International Polar Year onderzoek ging doen. Tinbergen zelf heeft zich in het arctisch gebied beziggehouden met ornithologisch veldonderzoek. In het najaar van 1933 hervatte Tinbergen zijn werkzaamheden aan het Zo&#246;logisch Laboratorium. Hij werd toen ook ingeschakeld bij het onderwijs. Met steun van C.J. van der Klaauw, de hoogleraar-directeur van het Laboratorium, introduceerde Tinbergen met veel succes de ethologie - het onderzoek naar het gedrag van dieren - in het onderwijs, zowel in het kandidaats- als in het doctoraalprogramma. &lt;/p&gt;
+
+&lt;p&gt;In de eerste helft van de jaren dertig breidde Tinbergen zijn eigen gedragsonderzoek uit naar andere dieren - in het bijzonder zilvermeeuwen en stekelbaarzen - en met nieuwe vragen, namelijk over territoriumgedrag. Karakteristiek voor zijn vroege studies is het ontbreken van een samenhangend theoretisch kader. Tinbergens onderzoek was beschrijvend van aard, gericht op het verzamelen van feiten, zonder een duidelijke vraagstelling. Daarin kwam verandering toen hij in november 1936 in Leiden de Oostenrijkse etholoog Konrad Lorenz ontmoette. De twee onderzoekers bleken het goed met elkaar te kunnen vinden, en er ontstond een levenslange vriendschap.&lt;/p&gt;
+
+&lt;p&gt;Lorenz had zeer uitvoerig getheoretiseerd over instincthandelingen, die hij beschouwde als het primaire object van gedragsonderzoek. Tinbergen nam Lorenz' theoretisch stelsel over. Hij had weliswaar op onderdelen kritiek, maar zag het als een middel om samenhang te brengen in zijn eigen observaties en als een vruchtbare bron voor nieuwe onderzoeksvragen. Al snel na zijn ontmoeting met Lorenz kwam hij met belangrijke conceptuele aanvullingen op diens stelsel, zoals de oversprongbeweging en het hi&#235;rarchieconcept, waarmee de aandacht wordt gericht op de relatieve betekenis van verschillende oorzaken van gedragspatronen. Vanaf 1937 combineerde Tinbergen theorievorming met experimenteel onderzoek. Zijn benadering van de ethologie begon vanaf dat moment een formatieve invloed uit te oefenen op de verdere ontwikkeling van het vakgebied. Zijn wetenschappelijke autoriteit kreeg een bevestiging toen hij - inmiddels hoofdassistent - in 1940 aan de Leidse universiteit tot lector werd benoemd.&lt;/p&gt;
+
+&lt;p&gt;Met Lorenz deelde Tinbergen het streven om van de ethologie een erkende discipline binnen de biologie te maken. Daarbij nam hij nadrukkelijk afstand van het gedragsonderzoek van vorige generaties, dat zich concentreerde op de belevingswereld van het dier. Tinbergen vond deze meer psychologische aanpak te subjectief. Hier tegenover plaatste hij zijn eigen benadering, die volgens hem het gedragsonderzoek voor het eerst tot een echte natuurwetenschap had gemaakt. Na zijn ontmoeting met Lorenz zou Tinbergen zich - meer nog dan zijn Oostenrijkse collega en vriend - nationaal en internationaal opwerpen als de grote pleitbezorger van de ethologie.&lt;/p&gt;
+
+&lt;p&gt;Op 9 september 1942 werd Tinbergen door de Duitsers ge&#239;nterneerd. De reden was dat hij, evenals meer dan de helft van de docenten aan de universiteit, zijn ontslag aan de bezetter had aangeboden als protest tegen beknotting van de academische vrijheid. Een aantal van hen werd als vergelding ge&#239;nterneerd in het gijzelaarskamp 'Beekvliet' in Sint-Michelsgestel, waar hij twee jaar lang, tot 11 september 1944, gevangen zou zitten. Na zijn vrijlating pakte hij weer snel de draad van het academisch leven op.&lt;/p&gt;
+
+&lt;p&gt;Tussen 1945 en 1949 ontplooide Tinbergen een grote wetenschappelijke productiviteit. Zijn werk begon grotere bekendheid te krijgen in de Engelssprekende wereld. Zowel in Groot-Brittanni&#235; als de Verenigde Staten zocht hij collega's op. Meer en meer ging hij in het Engels publiceren, niet alleen wetenschappelijke publicaties, maar ook populaire geschriften, zoals het in Sint-Michelsgestel geschreven kinderboek &lt;i&gt;Kleew, the story of a gull&lt;/i&gt; (1947). Zijn inspanning om de aandacht voor de biologische benadering van diergedrag te vergroten kreeg onder meer gestalte in zijn initiatief tot de oprichting van het tijdschrift &lt;i&gt;Behaviour&lt;/i&gt; (1948), dat al spoedig een van de leidende ethologische tijdschriften werd.&lt;/p&gt;
+
+&lt;p&gt;Tinbergens reputatie was inmiddels van dien aard dat hij vanuit binnen- en buitenland interessante universitaire banen kreeg aangeboden. Voor Van der Klaauw was dat een van de redenen ervoor te zorgen dat Tinbergen begin 1947 in Leiden tot hoogleraar in de experimentele zo&#246;logie werd benoemd. Maar tot ontsteltenis van Van der Klauw en zijn overige collega's verruilde Tinbergen al na twee jaar zijn alma mater voor de universiteit van Oxford om daar zijn wetenschappelijke carri&#232;re in het Zoology Department voort te zetten. Dit was een opmerkelijke overstap, aangezien hij er in positie en salari&#235;ring aanzienlijk op achteruit ging. Tinbergen werd aangesteld als 'lecturer' en zou pas in 1966 tot hoogleraar worden benoemd. Naar eigen zeggen kwam hij tot zijn besluit, omdat hij meende vanuit Oxford zijn wetenschappelijke boodschap beter te kunnen verspreiden in de Engelssprekende landen. Het is onmiskenbaar dat een grote onvrede met de maatschappelijke en culturele situatie in zijn vaderland evenzeer heeft bijgedragen tot zijn besluit om Nederland definitief te verlaten. &lt;/p&gt;
+
+&lt;p&gt;In Oxford werd Tinbergen de leider van de Animal Behaviour Group. Vrijwel van begin af aan kon hij zich verheugen in een grote belangstelling van studenten en promovendi. Dat kwam niet alleen omdat de ethologie door een groeiend aantal zo&#246;logen werd gezien als een uitdagend onderzoeksterrein, maar vooral ook door Tinbergens kwaliteiten als docent. Hij was benaderbaar, inspirerend, enthousiasmerend en een kundig communicator. Hij had altijd een grote schare toegewijde en doorgaans buitengewoon getalenteerde discipelen om zich heen. Het merendeel van de door hem in Oxford - evenals trouwens in Leiden - opgeleide ethologen hadden uiterst succesrijke carri&#232;res en hebben een belangrijk aandeel gehad in de verspreiding van de ethologie.&lt;/p&gt;
+
+&lt;p&gt;Binnen twee jaar na zijn komst naar Oxford publiceerde Tinbergen zijn - al in Leiden voltooide - boek &lt;i&gt;The study of instinct&lt;/i&gt; (1951). Centraal in dit theoretische geschrift, dat was gebaseerd op een aantal lezingen die hij in 1947 in de Verenigde Staten had gehouden, staan de vier fundamentele vragen die volgens Tinbergen over diergedrag beantwoord dienen te worden. Dat zijn de vraag naar de directe oorzaak van gedrag, naar de biologische functie, naar de individuele ontwikkeling en naar de evolutionaire oorsprong. Terwijl hij in het boek de meeste aandacht besteedt aan de oorzaak van gedrag, lag in zijn onderzoek de nadruk op de functie en de evolutie van gedrag. &lt;i&gt;The study of instinct&lt;/i&gt; beleefde vele herdrukken en is Tinbergens invloedrijkste publicatie.&lt;/p&gt;
+
+&lt;p&gt;Tinbergen was ook in zijn Oxfordse periode een productief schrijver. Meer dan de helft van zijn productie bestond uit populair-wetenschappelijke boeken en artikelen. Zoals bijvoorbeeld blijkt uit zijn &lt;i&gt;The herring gull's world. A study of the social behaviour of birds &lt;/i&gt;(1953) was hij door zijn heldere schrijfstijl en veelvuldig gebruik van zelfgemaakte tekeningen en foto's goed in staat om wetenschappelijke kennis aan de niet-specialist over te dragen. Tinbergen was altijd van mening dat de bioloog de plicht heeft om het grote publiek te informeren over zijn onderzoekingen en denkbeelden. Zijn eigen populariserende activiteiten beperkten zich niet tot het geschreven en gesproken woord. In Groot-Brittanni&#235; ging hij zich ook toeleggen op het maken van films. Met een daarvan, de voor de BBC vervaardigde &lt;i&gt;Signals for survival&lt;/i&gt; (1968), won hij een jaar later de prestigieuze Prix Italia voor televisiedocumentaires.&lt;/p&gt;
+
+&lt;p&gt;Tegen het eind van de jaren zestig raakte het ethologisch onderzoek meer en meer op de achtergrond en ging Tinbergen zich steeds intensiever bezighouden met de betekenis van de ethologie voor mens en samenleving. Hij besteedde er veel tijd en energie aan om duidelijk te maken hoe de ethologie kon bijdragen aan de oplossing van maatschappelijke problemen. Hij deed dat bijvoorbeeld in zijn inaugurele rede in Oxford, getiteld 'On war and peace in animals and man' (in: &lt;i&gt;Science&lt;/i&gt; 160 (1968) 1411-1418). Hierin vergeleek hij het territoriumgedrag van mens en dier, pleitte hij voor meer onderzoek naar de biologische kant van menselijke agressie en besprak hij onder andere de mogelijkheden om hieraan door opvoeding iets te doen. Tinbergen was van plan om deze idee&#235;n in een boek verder uit te werken, maar daarvan is het niet gekomen.&lt;/p&gt;
+
+&lt;p&gt;In 1977 ging Tinbergen in Oxford met emeritaat. Het liefst verbleef hij daarna in zijn buitenhuisje in Noordwest-Engeland aan de Ierse Zee, te midden van de meeuwen, ver weg van de bewoonde wereld en verstoken van ieder comfort. Aan het eind van zijn leven legde hij zich steeds meer toe op onderzoek naar de mogelijke betekenis van de ethologie voor de medische wetenschap. Zo publiceerde hij in 1983 samen met zijn vrouw het boek &lt;i&gt;Autistic children. New hope for a cure&lt;/i&gt;, een poging om vanuit de ethologie het autisme te begrijpen en te verhelpen.&lt;/p&gt;
+
+&lt;p&gt;Met deze en andere soortgelijke activiteiten oogstte Tinbergen echter minder waardering van zijn collega's dan met zijn strikt ethologische werk. Zijn pioniersbijdragen aan het ontstaan en de ontwikkeling van het biologisch gedragsonderzoek zijn op vele wijzen ge&#235;erd. Zo werd hij in 1962 Fellow of the Royal Society te Londen en was hij (ere)lid van tal van buitenlandse academies. Tinbergen ontving eredoctoraten van de universiteiten van Edinburgh en Leicester. Ook werden hem verscheidene prijzen toegekend, waaronder in 1973 de eens in de tien jaar toegekende Swammerdam Medaille van de Koninklijke Nederlandse Akademie van Wetenschappen. In datzelfde jaar viel Tinbergen het allerhoogste eerbetoon ten deel. Nadat in 1969 al aan zijn broer Jan de Nobelprijs voor Economie was verleend, mocht hij in 1973, samen met Konrad Lorenz en Karl von Frisch, een andere pionier van de ethologie, de Nobelprijs voor Fysiologie of Geneeskunde in ontvangst nemen 'for their discoveries concerning organization and elicitation of individual and social behaviour patterns'.&lt;/p&gt;
+
+&lt;p&gt;Nadat hij in zijn laatste levensjaren te kampen had gekregen met een verslechterende gezondheidstoestand, overleed Tinbergen op 81-jarige leeftijd toch nog onverwacht. Hij was een bescheiden mens en gepassioneerd onderzoeker. Tegen het einde van zijn leven constateerde hij zonder veel ophef en volkomen terecht dat het zijn verdienste was dat hij had bijgedragen aan de uitbreiding van de levenswetenschappen met een nieuwe en succesrijke discipline.&lt;/p&gt;
+
+
+&lt;p&gt;
+&lt;a href=&amp;quot;agedeelte&amp;quot;&gt;A: &lt;/a&gt;Archief-Nikolaas Tinbergen in de Bodleian Library van de Universiteit van Oxford (Groot-Brittanni&#235;).
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&amp;quot;pgedeelte&amp;quot;&gt;P: &lt;/a&gt;Bibliografie van N. Tinbergen in de onder L genoemde publicatie van Kruuk, pp. 373-383. Autobiografische aantekeningen: 'Watching and Wondering', in &lt;i&gt;Leaders in the study of animal behavior. Autobiographical perspectives&lt;/i&gt;. Onder red. van D.A. Dewsbury (Lewisburg 1985) 430-463.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&amp;quot;lgedeelte&amp;quot;&gt;L: &lt;/a&gt;Behalve necrologie&#235;n o.a. door G. Baerends, in &lt;i&gt;Ardea&lt;/i&gt; 77 (1989) 129-144, door idem, in &lt;i&gt;Jaarboek [der] Koninklijke Nederlandse Akademie van Wetenschappen 1990 &lt;/i&gt;(Amsterdam 1990) 166-171 en door R.A. Hinde, in &lt;i&gt;Biographical memoirs of fellows of the Royal Society&lt;/i&gt; 36 (1990) 548-565: &lt;i&gt;The Tinbergen legacy&lt;/i&gt;. Onder red. van M.S. Dawkins [e.a.] (Londen [etc.] 1991); David Ren&#233; R&#246;ell, &lt;i&gt;De wereld van instinct. Niko Tinbergen en het ontstaan van de ethologie in Nederland (1920-1950)&lt;/i&gt; (Rotterdam 1996); Hans Kruuk, &lt;i&gt;Niko's nature. The life of Niko Tinbergen and his science of animal behaviour&lt;/i&gt; (Oxford 2003) [Ned. vertaling: &lt;i&gt;Niko's natuur. Een biografie van Niko Tinbergen&lt;/i&gt; (Amsterdam 2007)]; Richard W. Burkhardt jr., &lt;i&gt;Patterns of behavior. Konrad Lorenz, Niko Tinbergen, and the founding of ethology&lt;/i&gt; (Chicago [etc.] 2005); idem, 'Niko Tinbergen. The ethologist as field naturalist', in &lt;i&gt;Biological Theory&lt;/i&gt; 2 (winter 2007) 87-90.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;Hans Kruuk, &lt;i&gt;Niko's natuur. Een biografie van Niko Tinbergen&lt;/i&gt; (Amsterdam 2007) 387 [Foto: Lary Schaffer; Tinbergen omstreeks de tijd dat hij de Nobelprijs won].  
+&lt;/p&gt;
+
+
+&lt;p&gt;R.P.W. Visser&lt;/p&gt;
+ 
+
+
+</text>
+  </biography>
+</biodes>
+

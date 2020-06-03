@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Anthony Boldewijn Gijsbert</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dedem van Gelder</name></persName>
-    <persName>Boudewijn (zie Van der Aa.)</persName>
-    <event type="birth" when="1774">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Alexander Hendrik</name> <name type="intrapositie">hertog van der</name> <name type="geslachtsnaam">Capellen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1825">
+    <event type="death" when="1807-02-14">
       <place></place>
     </event>
   </person>

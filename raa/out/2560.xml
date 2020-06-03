@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ciprianus Johannes</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Veen</name></persName>
-    <event type="birth" when="1796-06-18">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Pietersz.</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Molen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-04-05">
-      <place>Leeuwarden</place>
+    <event type="death" when="1520">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles Servais</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Rosen</name></persName>
-    <persName>De Rosen de Haren</persName>
-    <event type="birth" when="1746-07-03">
-      <place>Luik</place>
+    <persName><name type="voornaam">Balthasar</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boreel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-05-02">
+    <event type="death" when="1744">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Burchard</name> <name type="geslachtsnaam">Duisenberg</name></persName>
-    <event type="birth" when="1807-07-14">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jansz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-10-30">
-      <place>Haarlem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

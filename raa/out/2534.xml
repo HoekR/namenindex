@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Arent Johannes</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sminia</name></persName>
-    <event type="birth" when="1806-02-01">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">W.A.</name> <name type="geslachtsnaam">Maclaine</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-10-15">
-      <place>Oudkerk</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

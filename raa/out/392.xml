@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Constantijn</name> <name type="geslachtsnaam">Cras</name></persName>
-    <event type="birth" when="1739-01-04">
-      <place>Leiden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">ridder van den</name> <name type="geslachtsnaam">Sande</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-04-05">
-      <place>Amsterdam</place>
+    <event type="death" when="1638-11-17">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Leendert Adrianus</name> <name type="geslachtsnaam">Bruyn</name></persName>
-    <event type="birth" when="1794-01-26">
-      <place>Moordrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jansz.</name></persName>
+    <event type="birth" when="1490">
+      <place></place>
     </event>
-    <event type="death" when="1876-08-25">
-      <place>Delfshaven</place>
+    <event type="death" when="1555">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jacob Arnout Bastingius</name> <name type="geslachtsnaam">Bloys van Treslong</name></persName>
-    <event type="birth" when="1756-03-10">
-      <place>Steenbergen</place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Leonardus Antonius</name> <name type="geslachtsnaam">Lightenvelt</name></persName>
+    <event type="birth" when="2010">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death" when="1825-03-26">
-      <place>Maarsseveen</place>
+    <event type="death" when="1873-10-29">
+      <place>Hy&#232;res</place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Hilvaart Theodorus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Teylingen</name></persName>
-    <persName>Van Teylingen van Hilvarenbeek</persName>
-    <event type="birth" when="1780-11-08">
-      <place>Gouda</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Fedde</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Feddens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1865-10-07">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

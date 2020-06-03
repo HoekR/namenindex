@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/66"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Amsterdam nan</name> <name type="geslachtsnaam">Samkalden</name></persName>
+    <event type="birth">
+      <date>10-08-1912</date>
+      <place>Rotterdam</place>
+    </event>
+    <event type="death">
+      <date>11-05-1995</date>
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

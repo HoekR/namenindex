@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Age Hylkes</name> <name type="geslachtsnaam">Tromp</name></persName>
-    <event type="birth" when="1794-02-06">
-      <place>Woudsend</place>
+    <persName><name type="voornaam">Paulus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Gevaerts</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-06-09">
-      <place>Woudsend</place>
+    <event type="death" when="1770-06-22">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/12894"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Anton Cornelis</name> <name type="geslachtsnaam">Chais van Buren</name></persName>
+    <event type="birth" when="2003">
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death" when="1862-01-30">
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Otto Napoleon Maximiliaan Hubertus Maria</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Lo&#235;-Imstenraedt</name></persName>
-    <event type="birth" when="1821-08-29">
-      <place>Mheer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Huge</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Hugenz.</name></persName>
+    <event type="birth" when="1451">
+      <place></place>
     </event>
-    <event type="death" when="1897-10-27">
-      <place>Mheer</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

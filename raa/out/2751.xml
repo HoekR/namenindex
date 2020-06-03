@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Hubert</name> <name type="geslachtsnaam">Pijls</name></persName>
-    <event type="birth" when="1819-02-28">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Wilco</name> <name type="intrapositie">prins thoe</name> <name type="geslachtsnaam">Schwartzenberg en Hohenlansberg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1903-02-06">
-      <place>Maastricht</place>
+    <event type="death" when="1788-05-24">
+      <place></place>
     </event>
   </person>
   <biography/>

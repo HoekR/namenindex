@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">A.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Hartog</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Engel Pieter</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Monchy</name></persName>
+    <event type="birth" when="2007">
+      <place>Rotterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1883-07-09">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

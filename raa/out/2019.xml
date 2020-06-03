@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Zacharias</name> <name type="geslachtsnaam">Snijder</name></persName>
-    <event type="birth" when="1793-07-29">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Gerard</name> <name type="geslachtsnaam">Beljaart</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-07-30">
-      <place>Middelburg</place>
+    <event type="death" when="1806">
+      <place></place>
     </event>
   </person>
   <biography/>

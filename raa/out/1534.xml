@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Budde jr.</name></persName>
-    <event type="birth" when="1773-11-15">
-      <place>Deventer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hieronimus</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Blau</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-12-12">
-      <place>Diepenveen</place>
+    <event type="death" when="1753-06-02">
+      <place></place>
     </event>
   </person>
   <biography/>

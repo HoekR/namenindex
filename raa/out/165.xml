@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Maurits</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Brauw</name></persName>
-    <event type="birth" when="1810-04-24">
-      <place>Zierikzee</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Karel</name> <name type="intrapositie">ridder van der</name> <name type="geslachtsnaam">Nitzen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-01-17">
-      <place>Haarlem</place>
+    <event type="death" when="1569-12-23">
+      <place></place>
     </event>
   </person>
   <biography/>

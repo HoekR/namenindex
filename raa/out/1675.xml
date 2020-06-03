@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Willem Christiaan Theodoor</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nahuys</name></persName>
-    <event type="birth" when="1820-07-30">
-      <place>Lobith</place>
+    <persName><name type="voornaam">Petrus</name> <name type="geslachtsnaam">Pijpers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1901-11-19">
-      <place>Zwolle</place>
+    <event type="death" when="1805">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Fecke</name> <name type="geslachtsnaam">Rhaela</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">van Bredehoff de</name> <name type="geslachtsnaam">Vicq</name></persName>
+    <persName>Van Bredehoff de Vicq van Oosthuizen</persName>
+    <event type="birth" when="2007">
+      <place>Hoorn</place>
     </event>
-    <event type="death" when="1581-12-05">
-      <place></place>
+    <event type="death" when="1849-11-08">
+      <place>Hoorn</place>
     </event>
   </person>
   <biography/>

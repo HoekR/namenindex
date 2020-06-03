@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Derk Willem Abraham</name> <name type="geslachtsnaam">Brantsen van Rhederoort</name></persName>
-    <event type="birth" when="1742">
+    <persName><name type="voornaam">Gijsbert</name> <name type="intrapositie">comte (Empire) Rudolphi van</name> <name type="geslachtsnaam">Nideck</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1808">
+    <event type="death" when="1690-06-04">
       <place></place>
     </event>
   </person>

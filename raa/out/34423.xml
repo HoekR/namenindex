@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/34423"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jacobus Gerhardus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Setten</name></persName>
+    <event type="birth" when="2010">
+      <place>Meppel</place>
+    </event>
+    <event type="death">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

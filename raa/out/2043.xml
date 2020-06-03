@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbert Andre</name> <name type="geslachtsnaam">Vermeulen</name></persName>
-    <event type="birth" when="1773-07-25">
-      <place>Haarlem</place>
+    <persName><name type="voornaam">Fran&#231;ois</name> <name type="geslachtsnaam">Blondel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-09-24">
-      <place>Heemstede</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

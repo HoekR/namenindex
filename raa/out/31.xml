@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adam Fran&#231;ois Jules Armand</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Duyn van Maasdam</name></persName>
-    <event type="birth" when="1771-04-13">
-      <place>Deventer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dietrich</name> <name type="intrapositie">ridder von</name> <name type="geslachtsnaam">Witzleben</name></persName>
+    <persName>Dietrich von Witzleben zu Wendelstein</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-12-18">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1531">
+      <place></place>
     </event>
   </person>
   <biography/>

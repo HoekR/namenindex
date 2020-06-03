@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bartholomeus</name> <name type="intrapositie">&#224; la</name> <name type="geslachtsnaam">Truye</name></persName>
-    <persName>Bartholomeus van der Zeuge</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Waiboer</name></persName>
+    <event type="birth" when="2005">
+      <place>Wieringerwaard</place>
     </event>
-    <event type="death" when="1446">
-      <place></place>
+    <event type="death" when="1817-04-09">
+      <place>Wieringerwaard</place>
     </event>
   </person>
   <biography/>

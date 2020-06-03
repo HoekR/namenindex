@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Jacobsz.</name> <name type="geslachtsnaam">Wappers</name></persName>
+    <persName><name type="voornaam">Johannes Josephus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Swanenburg</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1672">
+    <event type="death" when="1828">
       <place></place>
     </event>
   </person>

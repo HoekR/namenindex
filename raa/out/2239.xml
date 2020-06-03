@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">David Abraham</name> <name type="geslachtsnaam">Portielje</name></persName>
-    <event type="birth" when="1813-12-19">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Arent Jan</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Steen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-06-25">
-      <place>Bloemendaal</place>
+    <event type="death" when="1779-10-31">
+      <place></place>
     </event>
   </person>
   <biography/>

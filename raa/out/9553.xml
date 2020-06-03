@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Theodorus</name> <name type="geslachtsnaam">Elout</name></persName>
-    <event type="birth" when="1767-03-22">
-      <place>Haarlem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Foy</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Broekhoven</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-05-03">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

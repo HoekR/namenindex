@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirk Durks</name> <name type="geslachtsnaam">Kuipers</name></persName>
-    <event type="birth" when="1795-09-15">
-      <place>Buitenpost</place>
+    <persName><name type="voornaam">Gerardus Leonardus</name> <name type="geslachtsnaam">Gertsen</name></persName>
+    <persName>Gerritzen</persName>
+    <persName>Gerritsen</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-01-22">
-      <place>Buitenpost</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

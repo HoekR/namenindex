@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Blocq</name></persName>
-    <persName>Nicolaas de Block</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Frans Julius Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Scheltinga</name></persName>
+    <event type="birth" when="2011">
+      <place>Kollum</place>
     </event>
-    <event type="death" when="1621">
-      <place></place>
+    <event type="death" when="1831-07-04">
+      <place>Leeuwarden</place>
     </event>
   </person>
   <biography/>

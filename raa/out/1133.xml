@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Coenraad</name> <name type="geslachtsnaam">Koopman</name></persName>
-    <event type="birth" when="1790-03-21">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Wybo</name> <name type="geslachtsnaam">Fijnje</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-04-21">
-      <place>Utrecht</place>
+    <event type="death" when="1809">
+      <place></place>
     </event>
   </person>
   <biography/>

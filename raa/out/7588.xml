@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirk Cornelis</name> <name type="geslachtsnaam">Kuiken</name></persName>
-    <event type="birth" when="1746">
+    <persName><name type="voornaam">Jan Adriaen</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Tubalkijn</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1804">
+    <event type="death" when="1748-09-21">
       <place></place>
     </event>
   </person>

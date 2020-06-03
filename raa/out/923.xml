@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jilles Hendrik</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Sande</name></persName>
-    <event type="birth" when="1805-07-19">
-      <place>Dordrecht</place>
+    <persName><name type="voornaam">Adriaan Pieter</name> <name type="geslachtsnaam">Twent van Raephorst</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-11-16">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1816">
+      <place></place>
     </event>
   </person>
   <biography/>

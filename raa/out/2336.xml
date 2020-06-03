@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arend</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Weel</name></persName>
-    <event type="birth" when="1783-12-06">
-      <place>Den Bommel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Elwoud</name> <name type="intrapositie">graaf van den</name> <name type="geslachtsnaam">Schore</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-03-12">
-      <place>Middelharnis</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

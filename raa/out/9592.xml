@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Everard Jansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Couwerve</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Paulus Emanuel Antonius</name> <name type="intrapositie">de la</name> <name type="geslachtsnaam">Court</name></persName>
+    <event type="birth" when="2012">
+      <place>Gemert</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1848-05-04">
+      <place>Oostelbeers</place>
     </event>
   </person>
   <biography/>

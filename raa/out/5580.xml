@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Reinerus Wilhelmus Josephus Antonius Franciscus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Middachten</name></persName>
-    <persName>Van Middachten van Vrieswijk en Oldhagensdorp</persName>
-    <persName>Reint Willem van Middachten</persName>
-    <event type="birth" when="1755-02-18">
-      <place>Diepenveen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk Klaasz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Alphen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-08-22">
-      <place>Wirdum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

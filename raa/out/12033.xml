@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Auco</name> <name type="geslachtsnaam">Aijsma</name></persName>
-    <persName>Ausonius Aijsma</persName>
+    <persName><name type="voornaam">Rutger</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Haersolte tot Westerveld</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1625">
+    <event type="death" when="1666-11-04">
       <place></place>
     </event>
   </person>

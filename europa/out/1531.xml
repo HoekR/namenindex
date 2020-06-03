@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1531"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Rh&#246;ndorf nan</name> <name type="geslachtsnaam">Adenauer</name></persName>
+    <event type="birth">
+      <date>05-01-1876</date>
+      <place>Keulen</place>
+    </event>
+    <event type="death">
+      <date>19-04-1967</date>
+      <place>Rh&#246;ndorf</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

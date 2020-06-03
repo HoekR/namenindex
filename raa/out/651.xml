@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbertus Martinus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Linden</name></persName>
-    <event type="birth" when="1812-09-09">
-      <place>Dordrecht</place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Haer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1888-04-04">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1726-02-01">
+      <place></place>
     </event>
   </person>
   <biography/>

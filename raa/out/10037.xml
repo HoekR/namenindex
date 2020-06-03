@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arnold Antoni</name> <name type="geslachtsnaam">Gaymans</name></persName>
-    <event type="birth" when="1758-12-29">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Gerrit Ferdinand</name> <name type="intrapositie">baron (Empire) van</name> <name type="geslachtsnaam">Asbeck</name></persName>
+    <persName>Van Asbeck tot Berge en Munsterhausen</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-04-18">
-      <place>Arnhem</place>
+    <event type="death" when="1836">
+      <place></place>
     </event>
   </person>
   <biography/>

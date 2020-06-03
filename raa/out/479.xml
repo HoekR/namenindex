@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Binse</name> <name type="geslachtsnaam">Albarda</name></persName>
-    <event type="birth" when="1796-08-30">
-      <place>Sint Annaparochie</place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Matenesse</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-06-11">
-      <place>Leeuwarden</place>
+    <event type="death" when="1653-06-30">
+      <place></place>
     </event>
   </person>
   <biography/>

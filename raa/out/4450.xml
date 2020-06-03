@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerard</name> <name type="intrapositie">ter</name> <name type="geslachtsnaam">Borch</name></persName>
+    <persName><name type="voornaam">Michiel Harcksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Bijwaert</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1678">
       <place></place>
     </event>
   </person>

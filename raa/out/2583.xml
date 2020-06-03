@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Willems</name> <name type="geslachtsnaam">Wassenaar</name></persName>
-    <event type="birth" when="1781-09-14">
-      <place>Sint Annaparochie</place>
+    <persName><name type="voornaam">A.W.</name> <name type="geslachtsnaam">Hoedt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-09-15">
+    <event type="death">
       <place></place>
     </event>
   </person>

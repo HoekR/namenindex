@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/552709105"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Rome nan</name> <name type="geslachtsnaam">Medi</name></persName>
+    <event type="birth">
+      <date>26-04-1911</date>
+      <place>Porto Recanati</place>
+    </event>
+    <event type="death">
+      <date>26-05-1974</date>
+      <place>Rome</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

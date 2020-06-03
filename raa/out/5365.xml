@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Joost</name> <name type="geslachtsnaam">Jarges</name></persName>
-    <event type="birth" when="1760-06-25">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rozenburg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-01-06">
-      <place>Groningen</place>
+    <event type="death" when="1327">
+      <place></place>
     </event>
   </person>
   <biography/>

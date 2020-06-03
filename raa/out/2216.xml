@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Pauw</name></persName>
-    <event type="birth" when="1798-04-23">
-      <place>Purmerend</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Agge</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Jurryens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-11-13">
-      <place>Purmerend</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

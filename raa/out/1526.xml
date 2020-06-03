@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Louis Rhijnvisch</name> <name type="geslachtsnaam">Feith</name></persName>
-    <event type="birth" when="1783-03-04">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Gillis</name> <name type="intrapositie">graaf de</name> <name type="geslachtsnaam">Cabotre</name></persName>
+    <persName>Gillis de Caboeter</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-07-20">
-      <place>Zwolle</place>
+    <event type="death" when="1467">
+      <place></place>
     </event>
   </person>
   <biography/>

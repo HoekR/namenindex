@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Mauritz</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Bruyn</name></persName>
-    <event type="birth" when="1777-08-11">
-      <place>Nijmegen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Reinier</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Tzum</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-07-09">
-      <place>Arnhem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

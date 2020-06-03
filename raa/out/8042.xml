@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adolf Werner Carel Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Pallandt tot Zuthem</name></persName>
-    <event type="birth" when="1733">
-      <place></place>
+    <persName><name type="voornaam">Samu&#235;l</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lynden</name></persName>
+    <persName>Van Lynden van Oldenaller en de Snor</persName>
+    <event type="birth" when="2001">
+      <place>Putten</place>
     </event>
-    <event type="death" when="1813">
-      <place></place>
+    <event type="death" when="1849-07-31">
+      <place>Putten</place>
     </event>
   </person>
   <biography/>

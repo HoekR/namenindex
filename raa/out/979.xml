@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Reneke</name> <name type="geslachtsnaam">Gockinga</name></persName>
-    <event type="birth" when="1785-01-28">
-      <place>Groningen</place>
+    <persName><name type="voornaam">C.H.</name> <name type="geslachtsnaam">Tjaden Jullens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-12-29">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

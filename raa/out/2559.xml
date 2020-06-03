@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wageningen</name></persName>
-    <event type="birth" when="1764-01-04">
-      <place>Sprang</place>
+    <persName><name type="voornaam">A.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Zolingen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-08-10">
-      <place>Jelsum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

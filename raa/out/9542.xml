@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Stefanus Jacobus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Langen</name></persName>
-    <event type="birth" when="1758">
+    <persName><name type="voornaam">Anthony Adolf</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Haersolte tot Haerst</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1847">
+    <event type="death" when="1722-06-10">
       <place></place>
     </event>
   </person>

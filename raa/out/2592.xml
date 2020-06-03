@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bavius Anthonius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hylckama</name></persName>
-    <event type="birth" when="1779-03-20">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">J.H.</name> <name type="geslachtsnaam">Brinkhoff</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-01-10">
-      <place>Dwingeloo</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

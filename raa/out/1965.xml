@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jacob</name> <name type="geslachtsnaam">Fercken</name></persName>
+    <persName><name type="voornaam">Ennius Harmen</name> <name type="geslachtsnaam">Bergsma</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1828">
       <place></place>
     </event>
   </person>

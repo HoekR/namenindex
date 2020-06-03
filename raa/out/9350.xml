@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus</name> <name type="intrapositie">de la</name> <name type="geslachtsnaam">Torre</name></persName>
-    <event type="birth" when="1500">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johannes Cornelius</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Kemp</name></persName>
+    <event type="birth" when="2002">
+      <place>Leiden</place>
     </event>
-    <event type="death" when="1581">
-      <place></place>
+    <event type="death" when="1823-11-23">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

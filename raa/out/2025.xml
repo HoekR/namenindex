@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus Maria</name> <name type="geslachtsnaam">Hennequin</name></persName>
-    <event type="birth" when="1817-01-23">
-      <place>Sluis</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sippe</name> <name type="intrapositie">ridder Meckema van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <persName>Sicco Meckema van Aylva</persName>
+    <persName>Scipio Meckema van Aylva</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-07-05">
-      <place>Sluis</place>
+    <event type="death" when="1669">
+      <place></place>
     </event>
   </person>
   <biography/>

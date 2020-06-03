@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Embertus Joachim</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rooij</name></persName>
-    <event type="birth" when="1779-10-25">
-      <place>Stratum</place>
+    <persName><name type="voornaam">Abraham Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Onderwater</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-05-17">
-      <place>Monnickendam</place>
+    <event type="death" when="1817">
+      <place></place>
     </event>
   </person>
   <biography/>

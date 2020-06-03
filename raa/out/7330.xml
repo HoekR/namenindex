@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sabinus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wissema</name></persName>
-    <persName>Sape van Wissema</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Buis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1678-10-27">
+    <event type="death">
       <place></place>
     </event>
   </person>

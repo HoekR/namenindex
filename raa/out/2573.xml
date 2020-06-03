@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Wiardus</name> <name type="geslachtsnaam">Meijer</name></persName>
-    <event type="birth" when="1800-02-02">
-      <place>Oude Pekela</place>
+    <persName><name type="voornaam">Iman</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mogge</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1737-04-09">
       <place></place>
     </event>
   </person>

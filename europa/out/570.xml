@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/570"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Luik nan</name> <name type="geslachtsnaam">Rey</name></persName>
+    <event type="birth">
+      <date>15-07-1902</date>
+      <place>Luik</place>
+    </event>
+    <event type="death">
+      <date>19-05-1983</date>
+      <place>Luik</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

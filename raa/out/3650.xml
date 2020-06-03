@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jansz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vrij</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">IJsbrand</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <persName>Johannes Nisse</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1665">
+    <event type="death">
       <place></place>
     </event>
   </person>

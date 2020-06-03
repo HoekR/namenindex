@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pierre L&#233;onard Louis Marie</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Schiervel</name></persName>
-    <persName>Schiervel d'Altembrouck</persName>
-    <event type="birth" when="1783-02-10">
-      <place>s-Gravenvoeren</place>
+    <persName><name type="voornaam">Hendrik Dani&#235;l</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoorn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-11-04">
-      <place>Rothem</place>
+    <event type="death" when="1802">
+      <place></place>
     </event>
   </person>
   <biography/>

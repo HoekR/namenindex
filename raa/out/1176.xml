@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Berend</name> <name type="geslachtsnaam">Eleveld</name></persName>
-    <event type="birth" when="1769">
-      <place>Zuidwolde</place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Veer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-07-25">
-      <place>Ten Heuvel</place>
+    <event type="death" when="1717-01-04">
+      <place></place>
     </event>
   </person>
   <biography/>

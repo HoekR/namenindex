@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Simon Pompejus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Tuuk</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Willem Hendrick</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Heemstra</name></persName>
+    <persName>Willem Hendrick van Hiemstra</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1869-04-03">
+    <event type="death" when="1775-09-18">
       <place></place>
     </event>
   </person>

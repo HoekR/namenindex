@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jelle</name> <name type="geslachtsnaam">Banga</name></persName>
-    <event type="birth" when="1786-08-23">
-      <place>Franeker</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Sander</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Frederiksz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-04-13">
-      <place>Franeker</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

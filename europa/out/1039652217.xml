@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1039652217"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Francesco</name> <name type="intrapositie">Rome nan</name> <name type="geslachtsnaam">Cossiga</name></persName>
+    <event type="birth">
+      <date>26-07-1928</date>
+      <place>Sassari</place>
+    </event>
+    <event type="death">
+      <date>17-08-2010</date>
+      <place>Rome</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vollenhoven</name></persName>
-    <event type="birth" when="1753-09-03">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">R.</name> <name type="geslachtsnaam">Dibbetz</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-12-22">
-      <place>Rotterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

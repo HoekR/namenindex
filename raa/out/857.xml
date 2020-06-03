@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Johannes Theodorus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Spengler</name></persName>
-    <event type="birth" when="1790-12-04">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf d'</name> <name type="geslachtsnaam">Enghien</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1856-11-16">
-      <place>Gendringen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

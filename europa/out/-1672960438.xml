@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1672960438"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Ir.</name> <name type="voornaam">nan</name> <name type="intrapositie">Eelde de</name> <name type="geslachtsnaam">Zeeuw</name></persName>
+    <event type="birth">
+      <date>24-01-1924</date>
+      <place>Tandjong Poera (Sumatra)</place>
+    </event>
+    <event type="death">
+      <date>04-01-2000</date>
+      <place>Eelde</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

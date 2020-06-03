@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Appeltere</name></persName>
-    <event type="birth" when="1798-09-21">
-      <place>Gorinchem</place>
+    <persName><name type="voornaam">Franc</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Goes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-03-07">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1801">
+      <place></place>
     </event>
   </person>
   <biography/>

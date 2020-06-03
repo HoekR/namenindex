@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Antony</name> <name type="geslachtsnaam">Bichon Visch</name></persName>
-    <event type="birth" when="1780-11-02">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Delft</name></persName>
+    <persName>Filips le Noir</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-11-21">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

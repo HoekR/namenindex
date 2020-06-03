@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1117396905"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Monaco nan</name> <name type="geslachtsnaam">Ritter</name></persName>
+    <event type="birth">
+      <date>20-09-1918</date>
+      <place>Utrecht</place>
+    </event>
+    <event type="death">
+      <date>05-07-2003</date>
+      <place>Monaco</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

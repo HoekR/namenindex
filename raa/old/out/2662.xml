@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/2662"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Meynard Elias</name> <name type="intrapositie">de Vries van</name> <name type="geslachtsnaam">Vossen</name></persName>
+    <event type="birth" when="1735"/>
+    <event type="death" when="1805"/>
+  </person>
+  <biography/>
+</biodes>

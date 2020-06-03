@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">Prov&#243;</name> <name type="geslachtsnaam">Kluit</name></persName>
-    <event type="birth" when="1803-09-09">
-      <place>Utrecht</place>
+    <persName><name type="intrapositie">de</name> <name type="geslachtsnaam">Bonnechose</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-10-27">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

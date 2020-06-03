@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Adolph</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Hardenbroek</name></persName>
-    <persName>Van Hardenbroek van Hardenbroek</persName>
-    <event type="birth" when="1821-07-14">
-      <place>Doorn</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Simonsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1885-03-04">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

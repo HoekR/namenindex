@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abrahamus Henricus</name> <name type="geslachtsnaam">Brouwer</name></persName>
-    <event type="birth" when="1765">
+    <persName><name type="voornaam">Doen Jorisz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Beijs</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1835">
+    <event type="death" when="1646-05-26">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Casper</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Breugel Douglas</name></persName>
-    <event type="birth" when="1824-02-02">
-      <place>Groningen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Regnerus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Andringa</name></persName>
+    <persName>Rintze van Andringa</persName>
+    <persName>Rinso van Andringa</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1894-05-07">
-      <place>Kleef</place>
+    <event type="death" when="1671-10-05">
+      <place></place>
     </event>
   </person>
   <biography/>

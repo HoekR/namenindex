@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/552343776"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Lord</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Caradon</name></persName>
+    <event type="birth">
+      <date>08-10-1907</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>05-09-1990</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

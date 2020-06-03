@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">G. junior</name> <name type="geslachtsnaam">Moll</name></persName>
+    <persName><name type="voornaam">Reint</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Vos van Steenwijk tot Nijerwal</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1705-11-24">
       <place></place>
     </event>
   </person>

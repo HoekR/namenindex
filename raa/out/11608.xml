@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Harm</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Veen</name></persName>
-    <event type="birth" when="1750">
-      <place></place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Ittersum</name></persName>
+    <persName>Van Ittersum tot den Oosterhof</persName>
+    <persName>Van Ittersum van Plattenburg</persName>
+    <event type="birth" when="2005">
+      <place>Raalte</place>
     </event>
-    <event type="death" when="1819">
-      <place></place>
+    <event type="death" when="1854-09-01">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

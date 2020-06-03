@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lucas Oldenhuis</name> <name type="geslachtsnaam">Kymmell</name></persName>
-    <event type="birth" when="1754-12-21">
-      <place>Havelte</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Ruuschen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-01-08">
-      <place>Smilde</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

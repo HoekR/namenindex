@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Derk</name> <name type="geslachtsnaam">Harms</name></persName>
-    <event type="birth" when="1754">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Isa&#228;c Antoni</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Royen</name></persName>
+    <persName>Soetens van Royen</persName>
+    <event type="birth" when="2003">
+      <place>Vledder</place>
     </event>
-    <event type="death" when="1811">
-      <place></place>
+    <event type="death" when="1868-01-14">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

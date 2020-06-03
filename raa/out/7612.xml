@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Garbrant Jansz.</name> <name type="geslachtsnaam">Jonckers</name></persName>
+    <persName><name type="voornaam">Pierre Jean</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Changuion</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1820-08-11">
       <place></place>
     </event>
   </person>

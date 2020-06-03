@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jetze</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sminia</name></persName>
-    <event type="birth" when="1759">
-      <place></place>
+    <persName><name type="voornaam">Hendrik Christiaan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Houven</name></persName>
+    <event type="birth" when="2011">
+      <place>Nieuw-Beierland</place>
     </event>
-    <event type="death" when="1814-01-17">
-      <place></place>
+    <event type="death" when="1852-09-12">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

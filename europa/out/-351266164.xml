@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-351266164"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jo</name> <name type="intrapositie">Velp (Rheden) nan</name> <name type="geslachtsnaam">Meynen</name></persName>
+    <event type="birth">
+      <date>13-04-1901</date>
+      <place>Winsum (Baarderadeel)</place>
+    </event>
+    <event type="death">
+      <date>13-02-1980</date>
+      <place>Velp (Rheden)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

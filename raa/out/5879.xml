@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Barthout Gerritsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vlooswijck</name></persName>
+    <persName><name type="voornaam">Dirk</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Boetzelaer</name></persName>
+    <persName>Van Boetzelaer van Kijfhoek</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1626">
+    <event type="death" when="1819-05-11">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ysaac</name> <name type="geslachtsnaam">Vlink</name></persName>
-    <event type="birth" when="1752-12-22">
-      <place>Sneek</place>
+    <persName><name type="voornaam">M</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Waerden</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-04-12">
-      <place>Sneek</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

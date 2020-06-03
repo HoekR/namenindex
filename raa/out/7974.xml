@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Martinus</name> <name type="geslachtsnaam">Huysmans</name></persName>
-    <event type="birth" when="1763-12-20">
-      <place>Bladel</place>
+    <persName><name type="voornaam">P.</name> <name type="geslachtsnaam">Moran</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-01-05">
-      <place>Hilvarenbeek</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

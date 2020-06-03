@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hasselt</name></persName>
-    <event type="birth" when="1751-08-27">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Adolph Herbert</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Mey van der Linden</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-12-16">
-      <place>Velp (Gld.)</place>
+    <event type="death" when="1806">
+      <place></place>
     </event>
   </person>
   <biography/>

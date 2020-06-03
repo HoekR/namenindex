@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/28646"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Henri Joseph</name> <name type="geslachtsnaam">Robinet de Villeval</name></persName>
+    <event type="birth" when="2012">
+      <place>Namen</place>
+    </event>
+    <event type="death" when="1829-11-30">
+      <place>Hilvarenbeek</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

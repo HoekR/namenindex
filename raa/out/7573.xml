@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Abrahamsz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Reus</name></persName>
-    <event type="birth" when="1598">
+    <persName><name type="voornaam">Louis Henry</name> <name type="geslachtsnaam">Vis&#233;e</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1685-07-01">
+    <event type="death">
       <place></place>
     </event>
   </person>

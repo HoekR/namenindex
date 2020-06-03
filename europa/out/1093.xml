@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1093"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr. baron</name> <name type="voornaam">nan</name> <name type="intrapositie">Doetinchem van</name> <name type="geslachtsnaam">Lynden</name></persName>
+    <event type="birth">
+      <date>11-08-1912</date>
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death">
+      <date>16-06-1994</date>
+      <place>Doetinchem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

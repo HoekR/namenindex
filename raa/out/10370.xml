@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Koenraad</name> <name type="geslachtsnaam">Hovens</name></persName>
-    <event type="birth" when="1736">
+    <persName><name type="voornaam">Antonius Josephus Johannes Henricus</name> <name type="geslachtsnaam">Verheyen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1817">
+    <event type="death" when="1833">
       <place></place>
     </event>
   </person>

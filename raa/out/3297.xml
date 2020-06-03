@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hermanus Adrianus</name> <name type="intrapositie">Verniers van der</name> <name type="geslachtsnaam">Loeff</name></persName>
-    <event type="birth" when="1797-04-27">
-      <place>Veere</place>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Jacobus Johansz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Erkelens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1886-03-03">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1705-06-12">
+      <place></place>
     </event>
   </person>
   <biography/>

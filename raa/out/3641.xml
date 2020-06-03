@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans</name> <name type="geslachtsnaam">Coebel</name></persName>
-    <persName>Frans Coebel van der Loo</persName>
-    <event type="birth" when="1470">
+    <persName><name type="voornaam">Aart Dirksz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Clevesteyn</name></persName>
+    <persName>Adriaan van Clevesteijn</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1532">
+    <event type="death" when="1655">
       <place></place>
     </event>
   </person>

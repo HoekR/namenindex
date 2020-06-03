@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Marie Charles Ferdinand Balthazar</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Macar</name></persName>
-    <event type="birth" when="1785-09-05">
-      <place>Waremme</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Epe</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <persName>Epo van Aylva</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-03-24">
-      <place>Luik</place>
+    <event type="death" when="1720-06-09">
+      <place></place>
     </event>
   </person>
   <biography/>

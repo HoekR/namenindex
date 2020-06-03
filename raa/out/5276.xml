@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Rippertsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Groenendijk</name></persName>
-    <event type="birth" when="1581">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Joostensz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Henikersloot</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1650-01-26">
+    <event type="death">
       <place></place>
     </event>
   </person>

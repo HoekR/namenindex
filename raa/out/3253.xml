@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Fran&#231;ois Emanuel Matthieu</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Alphen</name></persName>
-    <event type="birth" when="1822-12-05">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Dam</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1899-01-14">
-      <place>Brummen</place>
+    <event type="death" when="1691">
+      <place></place>
     </event>
   </person>
   <biography/>

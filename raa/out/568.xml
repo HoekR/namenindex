@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Andreas Josephus Henricus</name> <name type="intrapositie">le</name> <name type="geslachtsnaam">Heu</name></persName>
-    <event type="birth" when="1772-03-07">
-      <place>Waspik</place>
+    <persName><name type="voornaam">Antoine Fran&#231;ois</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Nantes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-01-12">
-      <place>Breda</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

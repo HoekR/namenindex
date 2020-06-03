@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Filibert</name> <name type="intrapositie">de la</name> <name type="geslachtsnaam">Ferte</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Loopuyt</name></persName>
+    <event type="birth" when="2007">
+      <place>Schiedam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1872-05-06">
+      <place>Schiedam</place>
     </event>
   </person>
   <biography/>

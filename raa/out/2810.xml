@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Andries Jan Josef Theodoor</name> <name type="geslachtsnaam">Godding</name></persName>
+    <persName><name type="voornaam">Willem Pieter</name> <name type="geslachtsnaam">Hubert</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1820">
       <place></place>
     </event>
   </person>

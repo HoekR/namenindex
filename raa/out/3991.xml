@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Derk Ludolf</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Keppel tot Campherbeeck</name></persName>
-    <event type="birth" when="1644">
+    <persName><name type="voornaam">Pieter Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pols</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1686-02-18">
+    <event type="death" when="1647-10-26">
       <place></place>
     </event>
   </person>

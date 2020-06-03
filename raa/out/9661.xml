@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philip Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Echten tot Plattenburg</name></persName>
-    <persName>Philip Gerrit van Echten tot Oldruitenborgh</persName>
-    <event type="birth" when="1701">
+    <persName><name type="voornaam">Rutger</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Haersolte tot Kranenburg</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1755-03-26">
+    <event type="death" when="1673">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dam</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jan Hendrik Rombout</name> <name type="intrapositie">Damisse de</name> <name type="geslachtsnaam">Roos</name></persName>
+    <event type="birth" when="2001">
+      <place>Etten</place>
     </event>
-    <event type="death" when="1691">
-      <place></place>
+    <event type="death" when="1820-06-20">
+      <place>Terheyden</place>
     </event>
   </person>
   <biography/>

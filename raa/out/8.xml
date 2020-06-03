@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philippus Johannes Michael</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Arschot Schoonhoven</name></persName>
-    <persName>Van Aerschot van Schoonhoven</persName>
-    <event type="birth" when="1771-12-24">
-      <place>Voort</place>
+    <persName><name type="voornaam">Jan Pieter</name> <name type="intrapositie">van Wickevoort</name> <name type="geslachtsnaam">Crommelin</name></persName>
+    <persName>Van Wickevoort Crommelin van Berkenrode</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-06-14">
-      <place>Brussel</place>
+    <event type="death" when="1837">
+      <place></place>
     </event>
   </person>
   <biography/>

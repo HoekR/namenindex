@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Florisz.</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Rutger Jan</name> <name type="geslachtsnaam">Schimmelpenninck</name></persName>
+    <event type="birth" when="2010">
+      <place>Deventer</place>
     </event>
-    <event type="death" when="1598">
-      <place></place>
+    <event type="death" when="1825-02-15">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

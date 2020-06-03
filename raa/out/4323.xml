@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Henrik</name> <name type="geslachtsnaam">Ribbius</name></persName>
-    <event type="birth" when="1769-12-05">
-      <place>Deventer</place>
+    <persName><name type="voornaam">Joannes Thias</name> <name type="geslachtsnaam">Janson</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-01-04">
-      <place>Deventer</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Maximilien Henri Ghislain</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Beeckman de Libersart</name></persName>
-    <event type="birth" when="1781-01-31">
-      <place>Leuven</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jelle</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Andringa</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-10-08">
-      <place>Aken</place>
+    <event type="death" when="1612-09-30">
+      <place></place>
     </event>
   </person>
   <biography/>

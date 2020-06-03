@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem</name> <name type="geslachtsnaam">Fabricius</name></persName>
-    <event type="birth" when="1642">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Johannes</name> <name type="geslachtsnaam">Piepers</name></persName>
+    <event type="birth" when="2006">
+      <place>Middelburg</place>
     </event>
-    <event type="death" when="1708">
-      <place></place>
+    <event type="death" when="1861-10-15">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Aarnoud Reinier</name> <name type="intrapositie">de Haze</name> <name type="geslachtsnaam">Bomme</name></persName>
-    <event type="birth" when="1803-09-25">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pesser</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-09-02">
-      <place>Kloetinge</place>
+    <event type="death" when="1678">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Age Tjepke Ruurd</name> <name type="intrapositie">baron Sixma van</name> <name type="geslachtsnaam">Heemstra</name></persName>
-    <event type="birth" when="1801-07-24">
-      <place>Oenkerk</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lambrecht</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gerritsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-05-20">
-      <place>Veenklooster</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

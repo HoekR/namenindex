@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/12"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">graaf</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Bernadotte</name></persName>
+    <event type="birth">
+      <date>02-01-1895</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>17-09-1948</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

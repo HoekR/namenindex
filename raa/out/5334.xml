@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Emmery</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Perponcher Sedlnitsky</name></persName>
-    <persName>De Perponcher Sedlnitsky van Wolphaartsdijk</persName>
-    <event type="birth" when="1741-04-16">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Born</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-06-25">
-      <place>Utrecht</place>
+    <event type="death" when="1670-08-01">
+      <place></place>
     </event>
   </person>
   <biography/>

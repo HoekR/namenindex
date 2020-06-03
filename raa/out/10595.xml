@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Antony Zwier</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Isselmuiden tot Paeslo</name></persName>
-    <event type="birth" when="1760">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Goes</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1810">
+    <event type="death" when="1502">
       <place></place>
     </event>
   </person>

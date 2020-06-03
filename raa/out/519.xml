@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Boudewijn</name> <name type="geslachtsnaam">Donker Curtius</name></persName>
-    <persName>Donker Curtius van Tienhoven</persName>
-    <event type="birth" when="1778-12-29">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">Cornelis Willemsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Spiering</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-04-16">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1745-04-29">
+      <place></place>
     </event>
   </person>
   <biography/>

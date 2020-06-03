@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">A.J.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Halm</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Petrus</name> <name type="geslachtsnaam">Hofstede</name></persName>
+    <persName>Pierre Hofstede</persName>
+    <event type="birth" when="2004">
+      <place>Doornik</place>
     </event>
-    <event type="death" when="1803">
-      <place></place>
+    <event type="death" when="1839-04-14">
+      <place>Groningen</place>
     </event>
   </person>
   <biography/>

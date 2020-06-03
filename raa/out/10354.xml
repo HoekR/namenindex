@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Everhard Adolf</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rechteren Limpurg tot Rechteren</name></persName>
-    <persName>Johan Everhard Adolf van Rechteren tot de Eze</persName>
-    <event type="birth" when="1714">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Steenbergen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1754-03-25">
+    <event type="death">
       <place></place>
     </event>
   </person>

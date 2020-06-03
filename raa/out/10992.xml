@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frans Julius Idzert Johan</name> <name type="intrapositie">Heringa van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <event type="birth" when="1755">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Heulen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1806-07-11">
+    <event type="death">
       <place></place>
     </event>
   </person>

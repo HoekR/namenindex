@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Idzert</name> <name type="geslachtsnaam">Eekma</name></persName>
-    <event type="birth" when="1785-09-04">
-      <place>Heerenveen</place>
+    <persName><name type="voornaam">Anthonij Adriaensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Weveringh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-03-12">
-      <place>Leeuwarden</place>
+    <event type="death" when="1720-08-31">
+      <place></place>
     </event>
   </person>
   <biography/>

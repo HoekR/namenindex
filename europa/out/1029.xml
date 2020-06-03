@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1029"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Drs.</name> <name type="voornaam">Louis</name> <name type="intrapositie">Amsterdam van</name> <name type="geslachtsnaam">Son</name></persName>
+    <event type="birth">
+      <date>22-05-1922</date>
+      <place>Tilburg</place>
+    </event>
+    <event type="death">
+      <date>27-01-1986</date>
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

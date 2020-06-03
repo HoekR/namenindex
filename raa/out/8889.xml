@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gijsbert</name> <name type="geslachtsnaam">Stam</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Daniel Gerard</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Burgh</name></persName>
+    <persName>Van der Burgh van Kroonenburgh</persName>
+    <event type="birth" when="2006">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1824-03-18">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

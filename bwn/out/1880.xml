@@ -1,0 +1,29 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Verhees [jr.], Hendrik (1744-1813)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn3/verhees"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">verhees</idno>
+    <persName><name type="geslachtsnaam">Verhees [jr.]</name>, Hendrik</persName>
+    <sex value="1"/>
+    <event type="birth" when="1744"/>
+    <event type="death" when="1813"/>
+  </person>
+  <biography>
+    <text>&lt;dtml-var standard_html_header&gt; 
+&lt;br&gt;&lt;br&gt;
+&lt;h1&gt;&lt;b&gt;Verhees [jr.], Hendrik&lt;/b&gt; (1744-1813)&lt;/h1&gt;
+&lt;p&gt;De levensbeschrijving van &lt;b&gt;Hendrik Verhees [jr.]&lt;/b&gt; (1744-1813) door J.N.S. Stokman uit 1989 is in augustus 2010 vervangen door een nieuwe levensbeschrijving van de hand van Hans Pel.&lt;/p&gt;
+
+&lt;p&gt;De levensbeschrijving van Verhees door J.N.S. Stokman is alleen nog in gedrukte vorm te raadplegen in: &lt;i&gt;Biografisch Woordenboek van Nederland&lt;/i&gt; III (&#146;s Gravenhage 1989) 617-619.&lt;/p&gt;
+
+&lt;p&gt;De levensbeschrijving van Verhees door Hans Pel uit 2010 is opgenomen in het deelproject &lt;a href=&amp;quot;http://www.inghist.nl/Onderzoek/Projecten/BWN_1780tot1830/lemmata/data/Verhees&amp;quot;&gt;&lt;i&gt;Biografisch Woordenboek van Nederland 1780-1830&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+</text>
+  </biography>
+</biodes>
+

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Anthony</name> <name type="geslachtsnaam">Gobius</name></persName>
+    <persName><name type="voornaam">Jacob George Hieronymus</name> <name type="geslachtsnaam">Hahn</name></persName>
+    <persName>Jacob George Jeronimo</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1822">
       <place></place>
     </event>
   </person>

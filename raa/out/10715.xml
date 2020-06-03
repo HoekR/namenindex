@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Sigmund</name> <name type="geslachtsnaam">Pflug</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Frederik Sigismund</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bylandt</name></persName>
+    <persName>Van Bylandt Halt</persName>
+    <event type="birth" when="2004">
+      <place>Wageningen</place>
     </event>
-    <event type="death" when="1510">
-      <place></place>
+    <event type="death" when="1828-02-02">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

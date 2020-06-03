@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-303663907"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Bratteli</name></persName>
+    <event type="birth">
+      <date>11-01-1910</date>
+      <place>N&#248;tter&#248;y</place>
+    </event>
+    <event type="death">
+      <date>20-11-1984</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

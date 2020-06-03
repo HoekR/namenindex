@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Josephus Christophorus Bernardus</name> <name type="geslachtsnaam">Bernard</name></persName>
-    <event type="birth" when="1774-04-25">
-      <place>Haarlem</place>
+    <persName><name type="voornaam">Arend</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Sandelijn</name></persName>
+    <persName>Adriaan Sandelijn</persName>
+    <event type="birth" when="1486">
+      <place></place>
     </event>
-    <event type="death" when="1852-06-16">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1535">
+      <place></place>
     </event>
   </person>
   <biography/>

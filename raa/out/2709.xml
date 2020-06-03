@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles Joseph Auguste</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Rosen</name></persName>
-    <event type="birth" when="1815-01-23">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Imilius Josinus</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Schepper</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1904-12-19">
-      <place>Beek (L.)</place>
+    <event type="death" when="1790-10-08">
+      <place></place>
     </event>
   </person>
   <biography/>

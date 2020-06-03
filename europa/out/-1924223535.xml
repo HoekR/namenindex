@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1924223535"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Julian</name> <name type="intrapositie">Oxford nan</name> <name type="geslachtsnaam">Bullard</name></persName>
+    <event type="birth">
+      <date>08-03-1928</date>
+      <place>Athene</place>
+    </event>
+    <event type="death">
+      <date>25-05-2006</date>
+      <place>Oxford</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Guilielmus Dominicus Josephus Ludovicus</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Crassier</name></persName>
-    <event type="birth" when="1752-08-04">
-      <place>Maastricht</place>
+    <persName><name type="voornaam">Nicolaes</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Opmeer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-11-30">
-      <place>Maastricht</place>
+    <event type="death" when="1696-02-20">
+      <place></place>
     </event>
   </person>
   <biography/>

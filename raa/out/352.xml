@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Isaac Jacobus</name> <name type="geslachtsnaam">Tegelberg</name></persName>
-    <event type="birth" when="1752-02-16">
-      <place>Hulst</place>
+    <persName><name type="voornaam">Fran&#231;ois Noel</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Villepoix</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-11-16">
-      <place>Antwerpen</place>
+    <event type="death" when="1813">
+      <place></place>
     </event>
   </person>
   <biography/>

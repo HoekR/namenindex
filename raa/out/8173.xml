@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pompejus Matthijsz.</name> <name type="geslachtsnaam">Berck</name></persName>
-    <event type="birth" when="1626">
-      <place></place>
+    <persName><name type="voornaam">Johan Sicco Tjalling Camstra</name> <name type="intrapositie">duc (Empire) thoe</name> <name type="geslachtsnaam">Schwartzenberg en Hohenlansberg</name></persName>
+    <event type="birth" when="2005">
+      <place>Rinsumageest</place>
     </event>
-    <event type="death" when="1691-08-25">
-      <place></place>
+    <event type="death" when="1829-07-03">
+      <place>Hichtum</place>
     </event>
   </person>
   <biography/>

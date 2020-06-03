@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Sippama</name>
-    </persName>
+    <persName><name type="voornaam">Cornelis Reijndersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Loen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1649-02-21">
       <place></place>
     </event>
   </person>

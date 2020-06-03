@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Clercq</name></persName>
-    <persName>De Clercq van Stavenisse</persName>
-    <event type="birth" when="1769-08-08">
-      <place>Stavenisse</place>
+    <persName><name type="voornaam">Marinus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Groeninx</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-09-10">
-      <place>Stavenisse</place>
+    <event type="death" when="1730">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Fredrik</name> <name type="intrapositie">Guillermet</name> <name type="geslachtsnaam">Welman</name></persName>
+    <persName><name type="voornaam">Siso</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Uterwyck tot Cannevelt</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1644">
       <place></place>
     </event>
   </person>

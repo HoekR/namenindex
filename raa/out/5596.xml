@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Jansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Steenhuysen</name></persName>
-    <event type="birth" when="1621">
+    <persName><name type="voornaam">Pieter Gerardsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Beelaerts</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1692-04-14">
+    <event type="death" when="1691-10-15">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Schiffer</name></persName>
-    <event type="birth" when="1793-02-23">
-      <place>Engelen</place>
+    <persName><name type="voornaam">Sebastiaan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Loosen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-10-14">
-      <place>Wassenaar</place>
+    <event type="death" when="1597">
+      <place></place>
     </event>
   </person>
   <biography/>

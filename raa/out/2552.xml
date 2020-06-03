@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Hanekuijk</name></persName>
-    <event type="birth" when="1811-09-13">
-      <place>Harlingen</place>
+    <persName><name type="voornaam">Adriaen IJsbrandsz.</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Bije</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1752-01-02">
       <place></place>
     </event>
   </person>

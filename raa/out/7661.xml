@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Alphen</name></persName>
-    <event type="birth" when="1608">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Nicolaas</name> <name type="geslachtsnaam">Warin</name></persName>
+    <event type="birth" when="2007">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1691-06-30">
-      <place></place>
+    <event type="death" when="1815-11-10">
+      <place>Gorinchem</place>
     </event>
   </person>
   <biography/>

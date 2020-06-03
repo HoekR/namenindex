@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Johansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Mewen</name></persName>
-    <persName>Jacob Johansz. van Meeuwen</persName>
-    <event type="birth" when="1643">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Philip Albert Leonard</name> <name type="geslachtsnaam">Ram</name></persName>
+    <event type="birth" when="2005">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1702-11-27">
-      <place></place>
+    <event type="death" when="1890-11-02">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

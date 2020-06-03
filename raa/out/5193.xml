@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Pieter Nicolaas</name> <name type="geslachtsnaam">Rendorp</name></persName>
-    <event type="birth" when="1785-07-31">
-      <place>Bloemendaal</place>
+    <persName><name type="voornaam">Andries Cornelisz.</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Witt</name></persName>
+    <persName>Andries Cornelisz. de Witte</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-03-02">
-      <place>Buitenzorg</place>
+    <event type="death" when="1637-11-26">
+      <place></place>
     </event>
   </person>
   <biography/>

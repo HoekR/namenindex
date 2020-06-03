@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Karel Johan Cornelis</name> <name type="intrapositie">Stakman</name> <name type="geslachtsnaam">Bosse</name></persName>
-    <event type="birth" when="1809-04-27">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Brawode</name></persName>
+    <persName>geheten van Engeland.</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1888-06-26">
-      <place>Den Helder</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

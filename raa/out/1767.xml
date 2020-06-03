@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joannes Henricus</name> <name type="geslachtsnaam">Sassen</name></persName>
-    <event type="birth" when="1785-05-27">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Brakel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1830-05-05">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1484">
+      <place></place>
     </event>
   </person>
   <biography/>

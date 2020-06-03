@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.dr.</name> <name type="voornaam">Fr&#233;d&#233;ric Auguste</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Leyden</name></persName>
-    <persName>Van Leyden van Westbarendrecht</persName>
-    <event type="birth" when="1768-02-18">
-      <place>Haarlem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Rombout Jansz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Dalem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1821-11-25">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

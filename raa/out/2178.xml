@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jogchem</name> <name type="geslachtsnaam">Blaauboer</name></persName>
-    <event type="birth" when="1799-11-15">
-      <place>Zijpe</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire) van de</name> <name type="geslachtsnaam">Velde</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-07-14">
-      <place>Bergen</place>
+    <event type="death" when="1773">
+      <place></place>
     </event>
   </person>
   <biography/>

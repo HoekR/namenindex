@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Croy</name></persName>
-    <persName>Roeulx</persName>
+    <persName><name type="voornaam">Thijmon Thijsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Peereboom</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1581">
+    <event type="death" when="1648">
       <place></place>
     </event>
   </person>

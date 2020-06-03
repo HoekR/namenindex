@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">Lycochthon</name> <name type="geslachtsnaam">Hooghcamer</name></persName>
-    <event type="birth" when="1697">
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Guiseling</name></persName>
+    <persName>Johan Ghyselingh</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1763-01-07">
+    <event type="death" when="1653-07-12">
       <place></place>
     </event>
   </person>

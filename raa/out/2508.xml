@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Willem</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Haren</name></persName>
-    <event type="birth" when="1774-12-15">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vis</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-07-12">
-      <place>Aken</place>
+    <event type="death" when="1720-04-23">
+      <place></place>
     </event>
   </person>
   <biography/>

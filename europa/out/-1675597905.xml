@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1675597905"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Badenweiler nan</name> <name type="geslachtsnaam">Blankenhorn</name></persName>
+    <event type="birth">
+      <date>15-12-1904</date>
+      <place>M&#252;hlhausen</place>
+    </event>
+    <event type="death">
+      <date>10-08-1991</date>
+      <place>Badenweiler</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Binnert Philip</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <event type="birth" when="1785-09-26">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jansz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-10-09">
-      <place>Beetsterzwaag</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

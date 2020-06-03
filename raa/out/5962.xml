@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Pilaer</name></persName>
-    <event type="birth" when="1770">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Alewijnsz.</name></persName>
+    <persName>Gerard van Leiden.</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1833">
+    <event type="death" when="1354">
       <place></place>
     </event>
   </person>

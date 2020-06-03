@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wilhelmus</name> <name type="geslachtsnaam">Bergsma</name></persName>
-    <event type="birth" when="1706">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Willemsz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Steenbergen</name></persName>
+    <persName>Jan van Steenbergen</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1774-06-22">
+    <event type="death">
       <place></place>
     </event>
   </person>

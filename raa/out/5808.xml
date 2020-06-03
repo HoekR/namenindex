@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Olphert Pietersz.</name> <name type="geslachtsnaam">Pet</name></persName>
-    <event type="birth" when="1687">
+    <persName><name type="voornaam">Gossardus</name> <name type="geslachtsnaam">Zandleven</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1766">
+    <event type="death" when="1834">
       <place></place>
     </event>
   </person>

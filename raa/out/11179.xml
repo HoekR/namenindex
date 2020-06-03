@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Marcus</name> <name type="intrapositie">du</name> <name type="geslachtsnaam">Tour de la Pomerade</name></persName>
-    <event type="birth" when="1623">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Appeldoorn</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1672-04-06">
+    <event type="death">
       <place></place>
     </event>
   </person>

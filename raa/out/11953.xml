@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Meeusz.</name></persName>
+    <persName><name type="voornaam">Steven Gerrit</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Rhemen tot Rhemenshuizen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1676-09-26">
       <place></place>
     </event>
   </person>

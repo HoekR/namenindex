@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/35650"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Nicolaas Johan</name> <name type="geslachtsnaam">Steengracht</name></persName>
+    <event type="birth" when="2001">
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death" when="1866-04-10">
+      <place>Kleef</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

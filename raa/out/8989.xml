@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christoffel Daniel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Coeverden tot Rande</name></persName>
-    <event type="birth" when="1695">
+    <persName><name type="voornaam">Boldewijn Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mulert tot de Leemcule</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1765-06-08">
+    <event type="death" when="1667-06-29">
       <place></place>
     </event>
   </person>

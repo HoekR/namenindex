@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Steven</name> <name type="geslachtsnaam">Verspijck</name></persName>
-    <event type="birth" when="1758-08-27">
-      <place>Culemborg</place>
+    <persName><name type="voornaam">Johannes</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Kempen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-04-06">
-      <place>Breda</place>
+    <event type="death" when="1814">
+      <place></place>
     </event>
   </person>
   <biography/>

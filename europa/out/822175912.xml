@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/822175912"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Prof.</name> <name type="voornaam">nan</name> <name type="intrapositie">Cambridge nan</name> <name type="geslachtsnaam">Meade</name></persName>
+    <event type="birth">
+      <date>23-06-1907</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>22-12-1995</date>
+      <place>Cambridge</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

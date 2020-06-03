@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/17215"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Frederik Wilhelm</name> <name type="intrapositie">duc (Empire) van der</name> <name type="geslachtsnaam">Borch</name></persName>
+    <persName>Van der Borch van den Ulenpas</persName>
+    <persName>Van der Borch tot Helbergen</persName>
+    <event type="birth" when="2005">
+      <place>Laren</place>
+    </event>
+    <event type="death" when="1866-02-01">
+      <place>Anrhem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

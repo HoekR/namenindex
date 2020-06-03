@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wouter Marinus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Haaften</name></persName>
-    <event type="birth" when="1818-01-13">
-      <place>Sliedrecht</place>
+    <persName><name type="voornaam">J.F.</name> <name type="geslachtsnaam">Toppel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1893-06-04">
-      <place>Sliedrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

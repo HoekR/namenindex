@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Philips</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Soete de Laecke van Haultain</name></persName>
+    <persName><name type="voornaam">Jacob Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Westerbaan</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1625-11-15">
+    <event type="death">
       <place></place>
     </event>
   </person>

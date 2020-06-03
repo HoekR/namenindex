@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Caspers</name></persName>
-    <event type="birth" when="1796-10-19">
-      <place>Dalen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Arent</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Haersma</name></persName>
+    <persName>Arnoldus van Haersma</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-02-13">
-      <place>Dalen</place>
+    <event type="death" when="1709-08-21">
+      <place></place>
     </event>
   </person>
   <biography/>

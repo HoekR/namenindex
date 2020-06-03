@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik Gerhard</name> <name type="geslachtsnaam">Cromhoff</name></persName>
-    <event type="birth" when="1799-10-24">
-      <place>Enschede</place>
+    <persName><name type="voornaam">Maurits Jacob</name> <name type="geslachtsnaam">Eijck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1853">
       <place></place>
     </event>
   </person>

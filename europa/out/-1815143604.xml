@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1815143604"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Daytona Beach, FL nan</name> <name type="geslachtsnaam">Jackling</name></persName>
+    <event type="birth">
+      <date>10-05-1913</date>
+      <place>Hythe (Kent)</place>
+    </event>
+    <event type="death">
+      <date>23-11-1986</date>
+      <place>Daytona Beach, FL</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

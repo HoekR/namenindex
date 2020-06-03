@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Marius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Goens</name></persName>
-    <event type="birth" when="1798-01-14">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Keympe</name> <name type="intrapositie">ridder (Harinxma) van</name> <name type="geslachtsnaam">Donia</name></persName>
+    <persName>Syds van Donia</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-05-01">
-      <place>Zutphen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

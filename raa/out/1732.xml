@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joannes Balduinus Josephus Henricus Otto Antonius</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Hugenpoth van Stockum</name></persName>
-    <persName>Van Hugenpoth tot den Beerenclaauw</persName>
-    <event type="birth" when="1776-12-02">
-      <place>Groessen</place>
+    <persName><name type="voornaam">Tielman</name> <name type="geslachtsnaam">Oem van Wijngaarden</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-05-23">
-      <place>Boxmeer</place>
+    <event type="death" when="1495">
+      <place></place>
     </event>
   </person>
   <biography/>

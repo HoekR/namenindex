@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dominicus</name> <name type="geslachtsnaam">Tetama</name></persName>
+    <persName><name type="voornaam">Evert Frederik</name> <name type="intrapositie">baron (Empire) van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
+    <persName>Van Heeckeren van Enghuizen</persName>
+    <persName>Van Heeckeren van Beverweerd</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1528-10-12">
+    <event type="death" when="1831">
       <place></place>
     </event>
   </person>

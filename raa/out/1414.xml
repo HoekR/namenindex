@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Christiaan Willem Johan</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Boetzelaer</name></persName>
-    <persName>Van Boetzelaer van Dubbeldam</persName>
-    <event type="birth" when="1806-05-08">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Frederick</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Vervou</name></persName>
+    <persName>Frederick van Vervou van Martenahuis</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-04-18">
-      <place>Utrecht</place>
+    <event type="death" when="1621">
+      <place></place>
     </event>
   </person>
   <biography/>

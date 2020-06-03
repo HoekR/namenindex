@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Schimmelpenninck</name></persName>
-    <persName>Schimmelpenninck van Nijenhuis</persName>
-    <event type="birth" when="1794-02-25">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Joachim</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Rendorp</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-10-04">
-      <place>Arnhem</place>
+    <event type="death" when="1792">
+      <place></place>
     </event>
   </person>
   <biography/>

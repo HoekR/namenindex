@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Franciscus Hendrikus Aloysius Philippus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Erckelens</name></persName>
-    <event type="birth" when="1764-03-03">
-      <place>Harderwijk</place>
+    <persName><name type="voornaam">Isaak</name> <name type="geslachtsnaam">Hazeveld</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-01-26">
-      <place>Harderwijk</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

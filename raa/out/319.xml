@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johannes</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jong van Beek en Donk</name></persName>
-    <event type="birth" when="1758-12-04">
-      <place>Erp</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mossel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-11-17">
-      <place>Beek</place>
+    <event type="death" when="1797">
+      <place></place>
     </event>
   </person>
   <biography/>

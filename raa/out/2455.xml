@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Galenus</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Sytzama</name></persName>
-    <event type="birth" when="1767-08-02">
-      <place>Driesum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Huge Vriese</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Mije</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-12-09">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Eewoud</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Huybert</name></persName>
-    <event type="birth" when="1575">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Joan Derk Fran&#231;ois</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Wyck</name></persName>
+    <event type="birth" when="2009">
+      <place>Zwolle</place>
     </event>
-    <event type="death" when="1624-06-30">
-      <place></place>
+    <event type="death" when="1839-03-08">
+      <place>Zwollerkerspel</place>
     </event>
   </person>
   <biography/>

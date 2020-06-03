@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="intrapositie">Crack van</name> <name type="geslachtsnaam">Bouricius</name></persName>
+    <persName><name type="voornaam">Peter</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Uterwyck tot Heemse</name></persName>
+    <persName>Peter van Uterwyck tot Alerdinck</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1700-03-27">
+    <event type="death" when="1683">
       <place></place>
     </event>
   </person>

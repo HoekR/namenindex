@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Boy</name></persName>
-    <persName>Cornelis Boyus Ictus</persName>
-    <persName>Cornelis Boey</persName>
-    <event type="birth" when="1612">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Pietersz.</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1665-02-02">
+    <event type="death">
       <place></place>
     </event>
   </person>

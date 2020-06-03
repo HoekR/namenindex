@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik Christiaan Peter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Mattemburgh</name></persName>
-    <event type="birth" when="1785-05-02">
-      <place>Bergen op Zoom</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Rootjes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-11-18">
-      <place>Ginneken</place>
+    <event type="death" when="1778">
+      <place></place>
     </event>
   </person>
   <biography/>

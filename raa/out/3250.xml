@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Willem</name> <name type="geslachtsnaam">Mees</name></persName>
-    <event type="birth" when="1819-02-14">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Aelbert Maartensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Houtman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-01-16">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1662-03-03">
+      <place></place>
     </event>
   </person>
   <biography/>

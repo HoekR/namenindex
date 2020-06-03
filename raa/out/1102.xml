@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Adriaan Willem</name> <name type="intrapositie">Snouck</name> <name type="geslachtsnaam">Hurgronje</name></persName>
-    <event type="birth" when="1817-02-26">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Willem Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Kloek</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1885-07-26">
-      <place>Middelburg</place>
+    <event type="death" when="1811-03-12">
+      <place></place>
     </event>
   </person>
   <biography/>

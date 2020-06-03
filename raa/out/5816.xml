@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dani&#235;l Michiel Gijsbert</name> <name type="geslachtsnaam">Heldewier</name></persName>
-    <event type="birth" when="1753-03-21">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Petrus Josephus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Berckel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-04-13">
-      <place>Leiden</place>
+    <event type="death" when="1817">
+      <place></place>
     </event>
   </person>
   <biography/>

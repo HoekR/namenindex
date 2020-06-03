@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jan</name> <name type="geslachtsnaam">Roosegaarde</name></persName>
-    <event type="birth" when="1798-10-09">
-      <place>Zutphen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Tijmen</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Aukes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-07-08">
-      <place>Zutphen</place>
+    <event type="death" when="1748">
+      <place></place>
     </event>
   </person>
   <biography/>

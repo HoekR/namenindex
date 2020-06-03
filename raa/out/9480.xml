@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joan</name> <name type="geslachtsnaam">Jordens</name></persName>
-    <event type="birth" when="1639">
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Steenwijk tot Bonkenhave</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1693">
+    <event type="death" when="1681-01-14">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">G.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Favereau</name></persName>
-    <event type="birth">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Verdugo</name></persName>
+    <persName>Wessel Gansfort (onzeker)</persName>
+    <event type="birth" when="1536">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1595">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Emmery</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Perponcher</name></persName>
-    <event type="birth" when="1664">
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hatting</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1713">
+    <event type="death">
       <place></place>
     </event>
   </person>

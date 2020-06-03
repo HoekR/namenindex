@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albert</name> <name type="geslachtsnaam">Huidekoper</name></persName>
-    <event type="birth" when="1807-06-09">
-      <place>Breukelen</place>
+    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Fronhoff</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-05-31">
-      <place>Breukelen</place>
+    <event type="death" when="1826">
+      <place></place>
     </event>
   </person>
   <biography/>

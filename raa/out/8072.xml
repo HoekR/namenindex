@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Pieter</name> <name type="geslachtsnaam">Fokker</name></persName>
-    <event type="birth" when="1755">
+    <persName><name type="voornaam">Marinus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Geene</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1831">
+    <event type="death" when="1806-03-26">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/30603"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jean Antoine</name> <name type="geslachtsnaam">Perot&#233;</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

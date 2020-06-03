@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Theodoor Willem</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Zuylen van Nievelt</name></persName>
-    <event type="birth" when="1813-01-03">
-      <place>Arnhem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf van den</name> <name type="geslachtsnaam">Berghe</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-07-03">
-      <place>Neuenahr (Dld.)</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

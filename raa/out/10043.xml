@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Paulus</name> <name type="geslachtsnaam">Graafman</name></persName>
-    <event type="birth" when="1733">
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Carel George</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Wassenaer Obdam</name></persName>
+    <persName>Carel Georg van Wassenaer Twickel</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1800">
       <place></place>
     </event>
   </person>

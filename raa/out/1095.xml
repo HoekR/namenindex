@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Jacobus</name> <name type="intrapositie">Berdenis van</name> <name type="geslachtsnaam">Berlekom</name></persName>
-    <event type="birth" when="1794-12-20">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Joan</name> <name type="geslachtsnaam">Bannier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-01-31">
-      <place>Middelburg</place>
+    <event type="death" when="1820">
+      <place></place>
     </event>
   </person>
   <biography/>

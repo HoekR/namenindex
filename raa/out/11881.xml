@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Unico Wilhelm</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Wassenaer-Obdam</name></persName>
-    <event type="birth" when="1692">
+    <persName><name type="voornaam">Anthony Swier</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Haersolte tot Bredenhorst</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1766-11-09">
+    <event type="death" when="1733-04-05">
       <place></place>
     </event>
   </person>

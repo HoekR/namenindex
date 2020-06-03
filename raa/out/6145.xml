@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Anthony</name> <name type="geslachtsnaam">Cromhout</name></persName>
-    <event type="birth" when="1749">
+    <persName><name type="voornaam">Cornelis Jacobsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Leeusveld</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1810-03-09">
+    <event type="death" when="1655-07-29">
       <place></place>
     </event>
   </person>

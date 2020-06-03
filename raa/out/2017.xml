@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bastiaan</name> <name type="geslachtsnaam">Bomme</name></persName>
-    <event type="birth" when="1802-11-12">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Feye</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Scheltema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-11-04">
-      <place>Middelburg</place>
+    <event type="death" when="1666-11-11">
+      <place></place>
     </event>
   </person>
   <biography/>

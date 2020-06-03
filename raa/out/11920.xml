@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Wilhelmus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rijswijk</name></persName>
-    <event type="birth" when="1733">
+    <persName><name type="voornaam">Lambert Joost</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Gansneb genaamd Tengnagel tot Bonkenhave</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1806">
+    <event type="death" when="1804-12-24">
       <place></place>
     </event>
   </person>

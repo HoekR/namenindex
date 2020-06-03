@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Lodewijk Doys</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Haersma</name></persName>
-    <event type="birth" when="1723">
+    <persName><name type="voornaam">Jan Cornelisz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Verhee</name></persName>
+    <persName>Jan Cornelisz. Verh&#233;</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1599-10-20">
       <place></place>
     </event>
   </person>

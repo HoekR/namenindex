@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Pieter</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Heerdt</name></persName>
-    <event type="birth" when="1791-09-20">
-      <place>Stad Vollenhove</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbrecht</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Pijn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-10-25">
-      <place>Zwolle</place>
+    <event type="death" when="1461">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Willem Reinhard</name> <name type="geslachtsnaam">Rechteren tot de Eze</name></persName>
-    <event type="birth" when="1696">
+    <persName><name type="voornaam">Abel Hillebrandsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Kempe</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1731-02-07">
+    <event type="death" when="1614">
       <place></place>
     </event>
   </person>

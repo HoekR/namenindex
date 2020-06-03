@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1679524673"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Prof.Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">'s-Gravenhage nan</name> <name type="geslachtsnaam">Fran&#231;ois</name></persName>
+    <event type="birth">
+      <date>05-07-1889</date>
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death">
+      <date>07-10-1978</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

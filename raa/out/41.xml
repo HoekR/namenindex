@@ -8,14 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Jacob Carel Jan</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
-    <persName>Van Heeckeren van de Beurze</persName>
-    <persName>Van Heeckeren van Enghuizen en Beverweerd</persName>
-    <event type="birth" when="1785-12-06">
-      <place>Zutphen</place>
+    <persName><name type="voornaam">Petrus</name> <name type="geslachtsnaam">Verhoysen</name></persName>
+    <persName>Verhousen</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-05-19">
-      <place>Arnhem</place>
+    <event type="death" when="1835">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1969232716"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Neil</name> <name type="intrapositie">North Devon nan</name> <name type="geslachtsnaam">Marten</name></persName>
+    <event type="birth">
+      <date>03-12-1916</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>22-12-1985</date>
+      <place>North Devon</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

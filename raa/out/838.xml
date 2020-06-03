@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Marius Bennudinus Helenus Wilhelmus</name> <name type="geslachtsnaam">Gevers</name></persName>
-    <persName>Gevers van Kethel en Spaland</persName>
-    <event type="birth" when="1789-05-13">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Tjaert</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-07-26">
-      <place>Rijswijk</place>
+    <event type="death" when="1715-03-23">
+      <place></place>
     </event>
   </person>
   <biography/>

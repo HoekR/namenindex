@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1596687860"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">&#193;lvaro</name> <name type="intrapositie">Lissabon nan</name> <name type="geslachtsnaam">Cunhal</name></persName>
+    <event type="birth">
+      <date>10-11-1913</date>
+      <place>Coimbra</place>
+    </event>
+    <event type="death">
+      <date>13-06-2005</date>
+      <place>Lissabon</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

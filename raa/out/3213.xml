@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adolph Johan Adriaan</name> <name type="geslachtsnaam">Vermeer</name></persName>
-    <event type="birth" when="1786">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Govert Aertsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hogenberch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-04-12">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1655">
+      <place></place>
     </event>
   </person>
   <biography/>

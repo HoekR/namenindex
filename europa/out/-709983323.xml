@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-709983323"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Ir.</name> <name type="voornaam">Henk</name> <name type="intrapositie">Huis ter Heide nan</name> <name type="geslachtsnaam">Vredeling</name></persName>
+    <event type="birth">
+      <date>20-11-1924</date>
+      <place>Amersfoort</place>
+    </event>
+    <event type="death">
+      <date>27-10-2007</date>
+      <place>Huis ter Heide</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

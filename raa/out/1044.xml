@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus</name> <name type="geslachtsnaam">Losecaat</name></persName>
-    <event type="birth" when="1774-04-18">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">ds.</name> <name type="voornaam">Johannes</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Cuylenburg</name></persName>
+    <persName>Johannes Culenburg</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-04-30">
-      <place>'s-Hertogenbosch</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

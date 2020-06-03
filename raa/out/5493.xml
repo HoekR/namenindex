@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Timen Fransz.</name> <name type="geslachtsnaam">Eysma</name></persName>
+    <persName><name type="voornaam">Adriaen</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pots</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1680-05-12">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Verheije</name></persName>
-    <event type="birth" when="1666">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Engelbrecht</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Voorschoten</name></persName>
+    <persName>Engelbrecht bastaard van Duvenvoorde</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1697-03-05">
+    <event type="death">
       <place></place>
     </event>
   </person>

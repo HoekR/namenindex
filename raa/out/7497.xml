@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrardt</name> <name type="geslachtsnaam">Mulock</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Bernard</name> <name type="geslachtsnaam">Martini</name></persName>
+    <event type="birth" when="2008">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1848-12-16">
+      <place>Vught</place>
     </event>
   </person>
   <biography/>

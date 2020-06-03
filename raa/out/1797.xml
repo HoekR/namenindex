@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.C. (Johannes)</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wijngaarden</name></persName>
-    <event type="birth" when="1787-05-02">
-      <place>IJsselstein</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Poppe</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Haimansz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-02-07">
-      <place>Willemstad</place>
+    <event type="death" when="1468">
+      <place></place>
     </event>
   </person>
   <biography/>

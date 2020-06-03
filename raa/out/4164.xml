@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Thymon</name> <name type="geslachtsnaam">Velius</name></persName>
-    <event type="birth" when="1644">
+    <persName><name type="voornaam">Cornelis Thomasz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Zeylemaker</name></persName>
+    <persName>Cornelis Thomasz. Sevenhuijsen</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1692-08-17">
+    <event type="death" when="1649">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Alexander</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Chalmot</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arjen</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Bergsma</name></persName>
+    <persName>Adrianus Bergsma</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1835">
+    <event type="death" when="1780-07-25">
       <place></place>
     </event>
   </person>

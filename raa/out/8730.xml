@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Velters</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Ferdinand</name> <name type="intrapositie">Mogge</name> <name type="geslachtsnaam">Muilman</name></persName>
+    <persName>Mogge Muilman van Haamstede</persName>
+    <event type="birth" when="2002">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1849-12-14">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

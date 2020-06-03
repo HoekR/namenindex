@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Carel</name> <name type="geslachtsnaam">Vosmaer</name></persName>
-    <event type="birth" when="1749">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Albert</name> <name type="geslachtsnaam">Tjeerds</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-10-22">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

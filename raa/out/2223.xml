@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Siemers</name></persName>
-    <event type="birth" when="1791-07-10">
-      <place>Zijpe</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Abraham</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Roorda</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-03-18">
-      <place>Zijpe</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

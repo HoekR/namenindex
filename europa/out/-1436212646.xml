@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1436212646"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Dresden nan</name> <name type="geslachtsnaam">Thiele</name></persName>
+    <event type="birth">
+      <date>23-05-1936</date>
+      <place>Berlijn</place>
+    </event>
+    <event type="death">
+      <date>28-09-1996</date>
+      <place>Dresden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

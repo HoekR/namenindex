@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-2095635105"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Nicosia, N-Cyprus nan</name> <name type="geslachtsnaam">Denktash</name></persName>
+    <event type="birth">
+      <date>24-01-1924</date>
+      <place>Paphos, Cyprus</place>
+    </event>
+    <event type="death">
+      <date>13-01-2012</date>
+      <place>Nicosia, N-Cyprus</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

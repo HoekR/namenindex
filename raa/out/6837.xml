@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Filips</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Sint Aldegonde</name></persName>
-    <persName>Noircarmes</persName>
-    <event type="birth" when="1520">
+    <persName><name type="voornaam">Pieter Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Wijnkoop</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1574">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/4799"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Frederick Henrick</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Randwijck</name></persName>
+    <event type="birth" when="1625"/>
+    <event type="death" when="1697"/>
+  </person>
+  <biography/>
+</biodes>

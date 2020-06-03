@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jan Willem Hendrik</name> <name type="intrapositie">Teding van</name> <name type="geslachtsnaam">Berkhout</name></persName>
-    <persName>Teding van Berkhout tot Hoenlo</persName>
-    <event type="birth" when="1797-07-14">
-      <place>Ambt-Vollenhove</place>
+    <persName><name type="voornaam">Arent</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Sanen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-12-02">
-      <place>Deventer</place>
+    <event type="death" when="1716">
+      <place></place>
     </event>
   </person>
   <biography/>

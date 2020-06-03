@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/84460155"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Amersfoort den</name> <name type="geslachtsnaam">Toom</name></persName>
+    <event type="birth">
+      <date>11-07-1911</date>
+      <place>Rotterdam</place>
+    </event>
+    <event type="death">
+      <date>13-12-1998</date>
+      <place>Amersfoort</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Libott&#233;</name></persName>
-    <event type="birth" when="1763-09-23">
-      <place>Winssen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Lambrechtsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-11-24">
-      <place>Winssen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

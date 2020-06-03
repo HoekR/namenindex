@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">E.B.</name> <name type="geslachtsnaam">Bindervoet</name></persName>
+    <persName><name type="voornaam">Johan Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Swellengrebel</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1842-12-26">
       <place></place>
     </event>
   </person>

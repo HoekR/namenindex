@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Felix Willem</name> <name type="geslachtsnaam">Milliard</name></persName>
+    <persName><name type="voornaam">Anthony Coenraad Willem</name> <name type="intrapositie">baron (Empire) van</name> <name type="geslachtsnaam">Haersolte</name></persName>
+    <persName>Van Haersolte tot den Doorn</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1820">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Frederik</name> <name type="geslachtsnaam">Cremer</name></persName>
-    <event type="birth" when="1775-10-14">
-      <place>Doetinchem</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire) Boreel de</name> <name type="geslachtsnaam">Mauregnault</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-02-21">
-      <place>Doetinchem</place>
+    <event type="death" when="1813-04-27">
+      <place></place>
     </event>
   </person>
   <biography/>

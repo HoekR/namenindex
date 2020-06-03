@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Veen</name></persName>
-    <event type="birth" when="1810-09-29">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Maarten</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Buiten</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1857-02-17">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Auke Tjommes</name> <name type="geslachtsnaam">Stam</name></persName>
-    <event type="birth" when="1807-04-17">
-      <place>Sneek</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sautijn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-07-26">
-      <place>Sneek</place>
+    <event type="death" when="1750">
+      <place></place>
     </event>
   </person>
   <biography/>

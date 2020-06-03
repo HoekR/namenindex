@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-993815816"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Neuenburg nan</name> <name type="geslachtsnaam">Petitpierre</name></persName>
+    <event type="birth">
+      <date>26-02-1899</date>
+      <place>Neuenburg</place>
+    </event>
+    <event type="death">
+      <date>25-03-1994</date>
+      <place>Neuenburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Otto Boudewijn</name> <name type="intrapositie">'t</name> <name type="geslachtsnaam">Hooft</name></persName>
-    <persName>'t Hooft van Benthuizen</persName>
-    <event type="birth" when="1802-11-15">
-      <place>Maasdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gregorius</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Bertolf</name></persName>
+    <persName>Gregorius van Aken</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-05-30">
-      <place>Dordrecht</place>
+    <event type="death" when="1528-02-27">
+      <place></place>
     </event>
   </person>
   <biography/>

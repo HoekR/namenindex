@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Lodewijk</name> <name type="geslachtsnaam">Quarles</name></persName>
-    <event type="birth" when="1719">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dani&#235;l Michiel Gijsbert</name> <name type="geslachtsnaam">Heldewier</name></persName>
+    <event type="birth" when="2003">
+      <place>Leiden</place>
     </event>
-    <event type="death" when="1781-03-19">
-      <place></place>
+    <event type="death" when="1822-04-13">
+      <place>Leiden</place>
     </event>
   </person>
   <biography/>

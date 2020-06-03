@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Hondius</name></persName>
-    <event type="birth" when="1756-01-10">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Joost</name> <name type="geslachtsnaam">Quevin</name></persName>
+    <persName>Josse Kevin</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-02-08">
-      <place>Amersfoort</place>
+    <event type="death" when="1523">
+      <place></place>
     </event>
   </person>
   <biography/>

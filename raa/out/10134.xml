@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Eisses</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kampen</name></persName>
-    <event type="birth" when="1745">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Haro Casper</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Inn- und Kniphausen</name></persName>
+    <persName>Van In- en Kniphuizen van de Nienoord</persName>
+    <event type="birth" when="2004">
+      <place>Ulrum</place>
     </event>
-    <event type="death" when="1806">
-      <place></place>
+    <event type="death" when="1842-03-01">
+      <place>Midwolde</place>
     </event>
   </person>
   <biography/>

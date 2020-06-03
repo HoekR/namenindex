@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk Willem</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Brugghen van Kermesteyn</name></persName>
-    <event type="birth" when="1768-06-07">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Reinier</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Brunt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-02-08">
-      <place>Lienden</place>
+    <event type="death" when="1539">
+      <place></place>
     </event>
   </person>
   <biography/>

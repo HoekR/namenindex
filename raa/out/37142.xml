@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/37142"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Reinier Otto Hendrik</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Manen</name></persName>
+    <event type="birth" when="2007">
+      <place>Elburg</place>
+    </event>
+    <event type="death" when="1855-07-09">
+      <place>Elburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

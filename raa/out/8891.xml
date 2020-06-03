@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirk Maartensz.</name> <name type="geslachtsnaam">Westerhout</name></persName>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Pieter Abraham</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Jonge</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1638-10-22">
+    <event type="death" when="1813-08-01">
       <place></place>
     </event>
   </person>

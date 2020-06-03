@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">David Mattheus</name> <name type="intrapositie">van Gelder de</name> <name type="geslachtsnaam">Neufville</name></persName>
-    <event type="birth" when="1751-11-10">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Evertsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Purtijk</name></persName>
+    <event type="birth" when="1515">
+      <place></place>
     </event>
-    <event type="death" when="1814-07-06">
-      <place>Heemstede</place>
+    <event type="death" when="1582">
+      <place></place>
     </event>
   </person>
   <biography/>

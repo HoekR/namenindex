@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Pieter</name> <name type="geslachtsnaam">Klinkhamer</name></persName>
+    <persName><name type="voornaam">Cornelis Jansz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Egmond van de Nijenburg</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1562">
       <place></place>
     </event>
   </person>

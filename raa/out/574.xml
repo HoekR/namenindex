@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jan Olphert</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jong van Beek en Donk</name></persName>
-    <event type="birth" when="1806-09-06">
-      <place>Veghel</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Arent Aulus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Haersma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1886-10-24">
-      <place>Beek (NB)</place>
+    <event type="death" when="1737-06-16">
+      <place></place>
     </event>
   </person>
   <biography/>

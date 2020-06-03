@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Julien Laurent Joseph</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">C&#233;cil</name></persName>
-    <event type="birth" when="1795-01-09">
-      <place>Hasselt</place>
+    <persName><name type="voornaam">Nicolaes Cornelisz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Witsen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1865-03-28">
-      <place>Wimmertinge</place>
+    <event type="death" when="1717">
+      <place></place>
     </event>
   </person>
   <biography/>

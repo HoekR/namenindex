@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philip Jacob</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Goes</name></persName>
-    <event type="birth" when="1728">
-      <place></place>
+    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Pieter Jacob</name> <name type="geslachtsnaam">Costerus</name></persName>
+    <event type="birth" when="2010">
+      <place>Edam</place>
     </event>
-    <event type="death" when="1789">
-      <place></place>
+    <event type="death" when="1862-03-16">
+      <place>Sneek</place>
     </event>
   </person>
   <biography/>

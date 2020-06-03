@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/83039731"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">generaal</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Carpentier</name></persName>
+    <event type="birth">
+      <date>14-07-1895</date>
+      <place>Marseille</place>
+    </event>
+    <event type="death">
+      <date>14-09-1977</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

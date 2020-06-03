@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jeronimo</name> <name type="intrapositie">de Bosch</name> <name type="geslachtsnaam">Kemper</name></persName>
-    <event type="birth" when="1808-03-23">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">George Marcus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Warry</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-10-20">
-      <place>Amsterdam</place>
+    <event type="death" when="1765">
+      <place></place>
     </event>
   </person>
   <biography/>

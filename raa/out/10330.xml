@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joost</name> <name type="geslachtsnaam">Fockinck</name></persName>
-    <persName>Jodocus Fockinck</persName>
+    <persName><name type="voornaam">Pieter Roelandsz.</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Carpentier</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1739-03-26">
+    <event type="death" when="1687-12-06">
       <place></place>
     </event>
   </person>

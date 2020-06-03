@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1911228599"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Freiherr</name> <name type="voornaam">nan</name> <name type="intrapositie">Bonn nan</name> <name type="geslachtsnaam">Braun</name></persName>
+    <event type="birth">
+      <date>15-04-1911</date>
+      <place>Zehlendorf (Berlijn)</place>
+    </event>
+    <event type="death">
+      <date>13-07-1988</date>
+      <place>Bonn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

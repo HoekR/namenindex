@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-658020278"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jhr</name> <name type="voornaam">nan</name> <name type="intrapositie">'s-Gravenhage van</name> <name type="geslachtsnaam">Lennep</name></persName>
+    <event type="birth">
+      <date>20-01-1915</date>
+      <place>Amsterdam</place>
+    </event>
+    <event type="death">
+      <date>02-10-1996</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

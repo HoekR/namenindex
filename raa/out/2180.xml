@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="intrapositie">Kaars</name> <name type="geslachtsnaam">Sijpesteyn</name></persName>
-    <event type="birth" when="1800-10-01">
-      <place>Krommenie</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Splintersz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reimerswaal</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-02-08">
-      <place>Krommenie</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

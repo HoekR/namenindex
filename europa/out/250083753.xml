@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/250083753"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Sir.</name> <name type="voornaam">nan</name> <name type="intrapositie">Donhead, Engeland nan</name> <name type="geslachtsnaam">Garran</name></persName>
+    <event type="birth">
+      <date>15-01-1910</date>
+      <place>Melbourne</place>
+    </event>
+    <event type="death">
+      <date>05-07-1991</date>
+      <place>Donhead, Engeland</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

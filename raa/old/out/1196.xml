@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/1196"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jan Pietersz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vaal</name></persName>
+    <event type="birth"/>
+    <event type="death" when="0000"/>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Bernardus</name> <name type="geslachtsnaam">Haitink</name></persName>
-    <event type="birth" when="1763">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Leonardus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Wendt</name></persName>
+    <event type="birth" when="2008">
+      <place>Leeuwarden</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1834-06-19">
+      <place>Leeuwarden</place>
     </event>
   </person>
   <biography/>

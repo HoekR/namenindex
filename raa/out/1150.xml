@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Paul Antoine Guillaume</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Milly</name></persName>
-    <event type="birth" when="1807-11-22">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Renesse van der Aa</name></persName>
+    <persName>Wulven</persName>
+    <event type="birth" when="1509">
+      <place></place>
     </event>
-    <event type="death" when="1890-02-05">
-      <place>Zuidlaren</place>
+    <event type="death" when="1568">
+      <place></place>
     </event>
   </person>
   <biography/>

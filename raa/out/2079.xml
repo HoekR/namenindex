@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">IJserman</name></persName>
-    <event type="birth" when="1781-01-17">
-      <place>Moordrecht</place>
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">comte (Empire) Abbekerk</name> <name type="geslachtsnaam">Crap</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855">
+    <event type="death" when="1778-08-15">
       <place></place>
     </event>
   </person>

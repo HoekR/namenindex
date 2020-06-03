@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">H.</name> <name type="geslachtsnaam">Aalfs</name></persName>
+    <persName><name type="voornaam">Cornelis Christoffel</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Akerlaken</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1769-03-28">
       <place></place>
     </event>
   </person>

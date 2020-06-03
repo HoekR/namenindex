@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Klaas Kiers</name> <name type="geslachtsnaam">Brouwer</name></persName>
+    <persName><name type="voornaam">Albert</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Veer</name></persName>
+    <persName>Ellert de Veer</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1620-08-02">
       <place></place>
     </event>
   </person>

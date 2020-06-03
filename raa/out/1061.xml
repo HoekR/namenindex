@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Franciscus Philippus Antonius</name> <name type="geslachtsnaam">Heerkens</name></persName>
-    <event type="birth" when="1780-01-20">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Paulsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1865-07-11">
-      <place>Zwolle</place>
+    <event type="death" when="1471">
+      <place></place>
     </event>
   </person>
   <biography/>

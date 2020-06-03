@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/3701"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joan Damian</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Duren</name></persName>
+    <event type="birth" when="1748"/>
+    <event type="death" when="1838"/>
+  </person>
+  <biography/>
+</biodes>

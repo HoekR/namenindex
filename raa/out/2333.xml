@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus Steur</name> <name type="intrapositie">van Vrijberghe de</name> <name type="geslachtsnaam">Coningh</name></persName>
-    <event type="birth" when="1814-06-13">
-      <place>Maasland</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gillis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Hendriksz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1898-02-10">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

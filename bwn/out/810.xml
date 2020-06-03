@@ -1,0 +1,102 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Huijbers, Henricus Franciscus Maria (1881-1929)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/huijbers"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">huijbers</idno>
+    <persName><name type="geslachtsnaam">Huijbers</name>, Henricus Franciscus Maria</persName>
+    <sex value="1"/>
+    <event type="birth" when="1881"/>
+    <event type="death" when="1929"/>
+    <state type="occupation">historicus</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Huijbers, Henricus Franciscus Maria&lt;/strong&gt;, historicus (Utrecht 26-12-1881 - Nijmegen 17-3-1929).
+
+Zoon van Johannes Henricus Huijbers, notaris te Utrecht, en Helena
+Margaretha Roosen. Gehuwd sinds 17-6-1913 met Maria Joanna Gerarda
+Baesjou. Het huwelijk bleef kinderloos.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Huijbers studeerde, na zijn eindexamen aan het Utrechts stedelijk
+gymnasium in 1901 behaald te hebben, Nederlandse letteren en
+geschiedenis aan de Universiteit van Utrecht (doctoraal 1907). Tijdens
+zijn studietijd was hij bestuurslid van de jonge katholieke
+studentenvereniging Veritas en redacteur van het 
+&lt;em&gt;Annuarium der R.K. Studenten in Nederland.&lt;/em&gt;
+
+In deze periode legde Huijbers de grondslag voor zijn dissertatie. Van
+1910 tot 1917 was hij als leraar werkzaam bij het middelbaar onderwijs
+te Goes en Wageningen (Rijkslandbouwschool) - hier behoorde Huijbers
+tot een der oprichters van de katholieke studentenvereniging St.
+Franciscus Xaverius - alsmede in Bergen op Zoom en Tiel. Tevens was hij
+sinds 1913 als buitengewoon en na 1917 als gewoon docent verbonden aan
+de R.K. Leergangen te Tilburg. Ondertussen had zijn promotie in 1913
+bij G.W. Kernkamp plaatsgevonden op 
+&lt;em&gt;Don Juan van Oostenrijk. Landvoogd der Nederlanden&lt;/em&gt;
+
+I (II kwam in 1914 uit). In dat laatste jaar verscheen tevens een
+biografie van 
+&lt;em&gt;Jan Pieterszoon Coen.&lt;/em&gt;
+
+Huijbers die in deze tijd al een sterk voorstander was van het doen
+horen van het katholieke geluid in zijn vakgebied richtte samen met Th.
+Goossens en J. Witlox in 1913 het 
+&lt;em&gt;Historisch Tijdschrift&lt;/em&gt;
+
+op waarvan hij tot zijn dood redactielid zou blijven. Andere
+bemoeienissen ten behoeve van een specifiek katholieke
+geschiedbeoefening vooral op het gebied van nationale en internationale
+samenwerking bleven evenwel zonder gevolg. Bij de oprichting van de
+R.K. Universiteit te Nijmegen in 1923 werd de eerste leerstoel in de
+algemene en vaderlandse geschiedenis der nieuwere tijden door hem
+bezet.&lt;/p&gt;
+&lt;p&gt;Hoewel zijn gezondheid al ondermijnd was - hij zou in 1929 aan een
+nierkwaal sterven - onttrok hij zich niet aan maatschappelijke
+verplichtingen. Zo was hij o.a. bestuurlijk en propagandistisch actief
+in de katholieke drankbestrijdingsorganisatie en werkte mee aan vele
+katholieke periodieken.&lt;/p&gt;
+&lt;p&gt;Huijbers behoorde tot een nieuwe generatie van zelfbewuste
+katholieke intellectuelen die voor hun geloof en wereldbeschouwing een
+eigen plaats opeisten. Zijn betekenis ligt niet zo zeer in het zuiver
+wetenschappelijke vlak, maar eerder in de invloed die hij door de veel
+gebruikte geschiedenisleerboeken - geschreven met J. Kleijntjens S.J. -
+op het middelbaar onderwijs uitoefende. Generaties katholieke
+scholieren kregen les aan de hand van deze boeken waarvan er sommige
+meer dan twintig drukken beleefden.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='agedeelte'&gt;A: &lt;/a&gt;Een collectie-Huijbers bevindt zich in de archieven van het
+Katholiek Documentatie Centrum te Nijmegen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve de reeds genoemde werken: Corn. J.F. Slootmans, 'Lijst
+van geschriften van prof.dr. H.F.M. Huijbers', in 
+&lt;em&gt;Jaarboek van de Studenten aan de R.K. Leergangen 1924,&lt;/em&gt;
+
+54-60 en 'Lijst van opstellen en artikelen van dr. Huijbers'
+achter hieronder genoemd levensbericht van J. Kleijntjens.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;J. Kleijntjens, in 
+&lt;em&gt;Handelingen van de Maatschappij der Nederlandsche Letterkunde te
+Leiden 1928-1929. Levensberichten&lt;/em&gt;
+
+38-43; J.H.E.J. Hoogveld in 
+&lt;em&gt;Jaarboek der Sint Radboud-Stichting 1929,&lt;/em&gt;
+
+85-89; Th. Goossens in 
+&lt;em&gt;Historisch Tijdschrift&lt;/em&gt;
+
+8 (1929) I-IV.&lt;/p&gt;
+&lt;p&gt;J.P. de Valk&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Hendrik</name> <name type="geslachtsnaam">Kelderman</name></persName>
-    <event type="birth" when="1757">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Karel Adriaan</name> <name type="geslachtsnaam">Meeussen</name></persName>
+    <event type="birth" when="2003">
+      <place>Bergen op Zoom</place>
     </event>
-    <event type="death" when="1814">
-      <place></place>
+    <event type="death" when="1884-01-24">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

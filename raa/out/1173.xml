@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Boelken</name></persName>
-    <event type="birth" when="1791-08-13">
-      <place>Sleen</place>
+    <persName><name type="voornaam">Jacob Arnold</name> <name type="geslachtsnaam">Clignett</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-09-18">
-      <place>Diphoorn</place>
+    <event type="death" when="1827">
+      <place></place>
     </event>
   </person>
   <biography/>

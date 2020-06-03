@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-469424939"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Lamain nan</name> <name type="geslachtsnaam">Lef&#232;bvre</name></persName>
+    <event type="birth">
+      <date>08-08-1893</date>
+      <place>Doornik</place>
+    </event>
+    <event type="death">
+      <date>26-03-1976</date>
+      <place>Lamain</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

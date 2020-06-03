@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Ewijk</name></persName>
-    <event type="birth" when="1772-01-16">
-      <place>Delft</place>
+    <persName><name type="voornaam">Jan Hendriks</name> <name type="geslachtsnaam">Steenbergen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-02-05">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1826">
+      <place></place>
     </event>
   </person>
   <biography/>

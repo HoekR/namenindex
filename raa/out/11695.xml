@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Coenraad Willem</name> <name type="geslachtsnaam">Bentinck tot Werkeren</name></persName>
-    <event type="birth" when="1737">
-      <place></place>
+    <persName><name type="voornaam">Johan Jacob Anton</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wijlick</name></persName>
+    <event type="birth" when="2003">
+      <place>Kessel (L.)</place>
     </event>
-    <event type="death" when="1800-12-10">
-      <place></place>
+    <event type="death" when="1879-06-26">
+      <place>Kessel (L.)</place>
     </event>
   </person>
   <biography/>

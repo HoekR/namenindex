@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/503136096"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Baron</name> <name type="voornaam">nan</name> <name type="intrapositie">Ewell (Surrey) nan</name> <name type="geslachtsnaam">Chuter Ede</name></persName>
+    <event type="birth">
+      <date>11-09-1882</date>
+      <place>Epsom (Surrey)</place>
+    </event>
+    <event type="death">
+      <date>11-11-1965</date>
+      <place>Ewell (Surrey)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

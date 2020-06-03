@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arent Hendrik</name> <name type="geslachtsnaam">Vierkant</name></persName>
+    <persName><name type="voornaam">Reinier</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Gansneb genaamd Tengnagel</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1632">
       <place></place>
     </event>
   </person>

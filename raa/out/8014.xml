@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Isa&#228;cus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Fremery</name></persName>
-    <event type="birth" when="1776-09-06">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Johan Willem</name> <name type="geslachtsnaam">Schorer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-11-25">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1812">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Egbert Hindriks</name> <name type="geslachtsnaam">Waalkens</name></persName>
-    <event type="birth" when="1780-08-30">
-      <place>Hamdijk</place>
+    <persName><name type="voornaam">Jan Frederik</name> <name type="intrapositie">van Beeck</name> <name type="geslachtsnaam">Calkoen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-09-27">
-      <place>Bellingwolde</place>
+    <event type="death" when="1811">
+      <place></place>
     </event>
   </person>
   <biography/>

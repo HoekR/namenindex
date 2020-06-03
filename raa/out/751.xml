@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Hendrik Boudewijn</name> <name type="geslachtsnaam">Boot</name></persName>
-    <event type="birth" when="1813-09-15">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Franco Evertsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bleyswijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1892-11-05">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1723-12-03">
+      <place></place>
     </event>
   </person>
   <biography/>

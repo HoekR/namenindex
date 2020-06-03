@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Petrus Jacobus</name> <name type="geslachtsnaam">Groen van Prinsterer</name></persName>
-    <event type="birth" when="1764-05-05">
-      <place>Heeze</place>
+    <persName><name type="voornaam">Harmen</name> <name type="geslachtsnaam">Bakker</name></persName>
+    <event type="birth" when="2010">
+      <place>Broek in Waterland</place>
     </event>
-    <event type="death" when="1837-03-02">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1821-12-06">
+      <place>Broek in Waterland</place>
     </event>
   </person>
   <biography/>

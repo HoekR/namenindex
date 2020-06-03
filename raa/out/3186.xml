@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Hendrik</name> <name type="intrapositie">Onderdenwijngaart</name> <name type="geslachtsnaam">Canzius</name></persName>
-    <event type="birth" when="1771-01-13">
+    <persName><name type="voornaam">Pieter Woutersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Crabeth</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1838-07-10">
+    <event type="death" when="1638">
       <place></place>
     </event>
   </person>

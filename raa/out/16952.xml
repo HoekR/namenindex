@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/16952"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Pierre L&#233;onard Louis Marie</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Schiervel</name></persName>
+    <persName>Schiervel d'Altembrouck</persName>
+    <event type="birth" when="2002">
+      <place>s-Gravenvoeren</place>
+    </event>
+    <event type="death" when="1866-04-11">
+      <place>Rothem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

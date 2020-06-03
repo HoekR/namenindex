@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Sophius Conraad Hinderik</name> <name type="geslachtsnaam">Piccardt</name></persName>
-    <event type="birth" when="1787-02-25">
-      <place>Vlagtwedde</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sjuck</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Humalda</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-04-12">
-      <place>Oude Pekela</place>
+    <event type="death" when="1585">
+      <place></place>
     </event>
   </person>
   <biography/>

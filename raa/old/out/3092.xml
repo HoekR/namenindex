@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/3092"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerard</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Nisse</name></persName>
+    <event type="birth" when="1602"/>
+    <event type="death" when="1669"/>
+  </person>
+  <biography/>
+</biodes>

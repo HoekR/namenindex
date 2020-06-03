@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles-Joseph</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Ursel</name></persName>
-    <event type="birth" when="1777-08-09">
-      <place>Brussel</place>
+    <persName><name type="voornaam">Dani&#235;l Cornelis</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Leeuw</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-09-27">
-      <place>Hingene</place>
+    <event type="death" when="1834">
+      <place></place>
     </event>
   </person>
   <biography/>

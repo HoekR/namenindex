@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Eug&#232;ne Augustin</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Waha de Baillonville</name></persName>
-    <event type="birth" when="1769-06-14">
-      <place>Anthisnes</place>
+    <persName><name type="voornaam">Coenraad Alexander</name> <name type="geslachtsnaam">Jordens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1821-03-10">
-      <place>Sint Truiden</place>
+    <event type="death" when="1807">
+      <place></place>
     </event>
   </person>
   <biography/>

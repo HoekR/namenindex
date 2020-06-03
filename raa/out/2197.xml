@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="intrapositie">Brouwer</name> <name type="geslachtsnaam">Ancher</name></persName>
-    <event type="birth" when="1803-02-23">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Reepmaker</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-10-05">
-      <place>Amsterdam</place>
+    <event type="death" when="1780">
+      <place></place>
     </event>
   </person>
   <biography/>

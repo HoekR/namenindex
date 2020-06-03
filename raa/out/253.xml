@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Salomon Reynders</name> <name type="geslachtsnaam">Bisdom</name></persName>
-    <persName>Bisdom van Vliet</persName>
-    <event type="birth" when="1775-05-23">
-      <place>Gouda</place>
+    <persName><name type="voornaam">Joseph-Alexandre</name> <name type="geslachtsnaam">Bergon</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-10-30">
-      <place>Haastrecht</place>
+    <event type="death" when="1824">
+      <place></place>
     </event>
   </person>
   <biography/>

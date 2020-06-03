@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ruytenburgh</name></persName>
-    <event type="birth" when="1635">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Hendrik</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Sytzama</name></persName>
+    <event type="birth" when="2002">
+      <place>Driesum</place>
     </event>
-    <event type="death" when="1719-02-22">
-      <place></place>
+    <event type="death" when="1842-05-04">
+      <place>Kollum</place>
     </event>
   </person>
   <biography/>

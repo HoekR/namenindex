@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Camping</name> <name type="geslachtsnaam">Scheltens</name></persName>
-    <event type="birth" when="1803-07-10">
-      <place>Oosterhesselen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Maas</name></persName>
+    <persName>Dismas van Bergen</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1889-01-04">
-      <place>Hoogeveen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

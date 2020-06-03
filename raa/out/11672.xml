@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirck Jansz.</name> <name type="geslachtsnaam">Steenwijck</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Eduardus Josephus Hubertus</name> <name type="geslachtsnaam">Borret</name></persName>
+    <event type="birth" when="2008">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death" when="1633-11-30">
-      <place></place>
+    <event type="death" when="1867-10-11">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

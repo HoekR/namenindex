@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1201510295"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Lord</name> <name type="voornaam">nan</name> <name type="intrapositie">Firle nan</name> <name type="geslachtsnaam">Keynes</name></persName>
+    <event type="birth">
+      <date>05-06-1883</date>
+      <place>Cambridge</place>
+    </event>
+    <event type="death">
+      <date>21-04-1946</date>
+      <place>Firle</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

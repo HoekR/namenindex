@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christoffel Aemilius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Voorst tot Bergentheim</name></persName>
-    <persName>Christoffel Aemilius van Voorst tot Hagenvoorde</persName>
-    <event type="birth" when="1690">
+    <persName><name type="voornaam">Simon Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Rengers</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1774-08-11">
+    <event type="death">
       <place></place>
     </event>
   </person>

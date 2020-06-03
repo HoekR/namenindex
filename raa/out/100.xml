@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wijncko Johannes</name> <name type="geslachtsnaam">Tonckens</name></persName>
-    <event type="birth" when="1804-08-23">
-      <place>De Wijk</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Honert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-01-17">
-      <place>Meppel</place>
+    <event type="death" when="1762-01-04">
+      <place></place>
     </event>
   </person>
   <biography/>

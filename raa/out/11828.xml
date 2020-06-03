@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ratingen</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Jacob</name> <name type="geslachtsnaam">Beaujon</name></persName>
+    <event type="birth" when="2005">
+      <place>Cura&#231;ao</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1889-07-31">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Engelbert George</name> <name type="geslachtsnaam">Ardesch</name></persName>
-    <event type="birth" when="1769">
-      <place>Harderwijk</place>
+    <persName><name type="voornaam">Pieter Hendrik</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Genderen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-04-18">
-      <place>Nijkerk</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

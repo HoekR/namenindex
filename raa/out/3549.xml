@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Watze</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Cammingha</name></persName>
-    <persName>Valerius Camminga</persName>
+    <persName><name type="voornaam">Filips</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Nanterre</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1448">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jonas Cornelisz.</name> <name type="geslachtsnaam">Witsen</name></persName>
-    <event type="birth" when="1566">
-      <place></place>
+    <persName><name type="voornaam">Barthold Arnold</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Verschuer</name></persName>
+    <event type="birth" when="2007">
+      <place>Bergharen</place>
     </event>
-    <event type="death" when="1626-10-13">
-      <place></place>
+    <event type="death" when="1901-03-01">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

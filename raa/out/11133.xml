@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jans</name> <name type="geslachtsnaam">Knol</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Joost Gerard Godard</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Taets van Amerongen</name></persName>
+    <persName>Taets van Amerongen van Renswoude en Emmikhuizen</persName>
+    <event type="birth" when="2007">
+      <place>Renswoude</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1850-10-21">
+      <place>Renswoude</place>
     </event>
   </person>
   <biography/>

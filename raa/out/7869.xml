@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Louis</name> <name type="geslachtsnaam">Porry</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Evert</name> <name type="intrapositie">du Marchie van</name> <name type="geslachtsnaam">Voorthuysen</name></persName>
+    <event type="birth" when="2005">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1578">
-      <place></place>
+    <event type="death" when="1894-02-23">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

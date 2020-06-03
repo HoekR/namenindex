@@ -1,0 +1,82 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Okma, Nicolaas (1904-1955)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/okma"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">okma</idno>
+    <persName><name type="geslachtsnaam">Okma</name>, Nicolaas</persName>
+    <sex value="1"/>
+    <event type="birth" when="1904"/>
+    <event type="death" when="1955"/>
+    <state type="occupation">jurist</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Okma, Nicolaas&lt;/strong&gt;, advocaat en hoogleraar (Sneek 24-12-1904 - Amsterdam 14-7-1955)
+
+zoon van Hendrik Okma, advocaat te Sneek en lid der Tweede Kamer, en
+Catharina Oberman. Gehuwd met Paulina Geertruida Rutgers op 10-8-1936.
+Uit dit huwelijk werden 1 zoon en 5 dochters geboren. 
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Nicolaas Okma studeerde vanaf 1923 aan de Vrije Universiteit eerst
+theologie, toen klassieke letteren, om in 1929 aan dezelfde
+universiteit de titel van mr. in de rechten te verwerven. In 1929
+vestigde hij zich met zijn latere zwager J.A.H.J.S. Bruins Slot als
+advocaat te Amsterdam. In de bezettingsjaren redigeerde hij eerst het
+spoedig verboden antirevolutionaire blaadje 
+&lt;em&gt;Hou en Trou,&lt;/em&gt;
+
+waarna hij meewerkte aan het illegale 
+&lt;em&gt;Vrij Nederland.&lt;/em&gt;
+
+In 1941 gearresteerd werd hij 9 maanden in Scheveningen preventief
+gevangen gehouden. In 1943 werd hij in gijzeling naar Sint
+Michielsgestel gevoerd, waar hij aan zijn dissertatie werkte. Daarna
+moest hij de intussen opgelegde straf in een gevangenis in Duitsland
+ondergaan, tot hij in augustus 1944 werd vrijgelaten.&lt;/p&gt;
+&lt;p&gt;Intussen trok hem de wetenschappelijke kant. Zijn meesterlijk
+proefschrift over 
+&lt;em&gt;Misbruik van Recht&lt;/em&gt;
+
+(Wageningen, 1945) toonde zijn principi&amp;euml;le en filosofische inslag
+en was de voorbereiding voor zijn benoeming tot hoogleraar in het
+burgerlijk recht aan de Vrije Universiteit in 1946. Zijn inaugurele
+rede over 
+&lt;em&gt;Werkelijkheid en beginsel in het Vereenigingsrecht. (Onderneming en
+rechtsvorm)&lt;/em&gt;
+
+(Wageningen, 1946) typeerde de spanning tussen beginsel en
+werkelijkheid, die hij in het rechtsleven en de rechtsbeoefening steeds
+aanwezig wist. Hij was voorzitter van een CNV-commissie over de
+hervorming van de onderneming die in 1952 rapporteerde.&lt;/p&gt;
+&lt;p&gt;Okma werd gekenmerkt door zijn integriteit. Hij hield er niet van op
+de voorgrond te treden, maar stond voor wat hij rechtvaardig wist. Met
+zijn bezonken oordeel, dat hij geestig en onverbloemd kon geven, en
+zijn menselijke benadering heeft hij in de brede kring van juristen en
+in de engere kring van zijn antirevolutionaire geestverwanten grote
+invloed gehad. Mede als gevolg van de in gevangenschap doorstane
+ontberingen overleed hij reeds op 49-jarige leeftijd.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;
+  Zie voor publikaties hieronder genoemd artikel.
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;P.J. Verdam, in 
+&lt;em&gt;Almanak Studenten Corps en Vereniging van Vrouwelijke Studenten aan
+de Vrije Universiteit&lt;/em&gt;
+
+56 (1956) 34-42.&lt;/p&gt;
+&lt;p&gt;P.J. Verdam&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

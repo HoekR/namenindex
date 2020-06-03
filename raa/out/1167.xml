@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Tijmen</name> <name type="geslachtsnaam">Kymmell</name></persName>
-    <event type="birth" when="1749-01-09">
-      <place>Havelte</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Seerp</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Galama</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1826-08-09">
-      <place>Dalen</place>
+    <event type="death" when="1581-01-22">
+      <place></place>
     </event>
   </person>
   <biography/>

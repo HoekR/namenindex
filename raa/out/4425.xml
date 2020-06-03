@@ -8,11 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Janse</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Toorn</name></persName>
-    <event type="birth" when="1756">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Huge</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gerritsz.</name></persName>
+    <persName>Willem de Bijtse</persName>
+    <persName>Guillaume de Bisches</persName>
+    <persName>Guillaume Biche</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1826">
+    <event type="death">
       <place></place>
     </event>
   </person>

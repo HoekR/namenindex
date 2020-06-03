@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Rudolph Johannes Nepomucenus</name> <name type="geslachtsnaam">Walter</name></persName>
-    <event type="birth" when="1796-11-07">
-      <place>Grave</place>
+    <persName><name type="voornaam">Eduard Marius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Beyma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-04-17">
-      <place>Grave</place>
+    <event type="death" when="1825">
+      <place></place>
     </event>
   </person>
   <biography/>

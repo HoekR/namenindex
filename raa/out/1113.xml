@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Cornelis</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Virieu</name></persName>
-    <event type="birth" when="1762-04-15">
-      <place>Zaltbommel</place>
+    <persName><name type="voornaam">Jan David</name> <name type="geslachtsnaam">Pasteur</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-09-04">
-      <place>Wageningen</place>
+    <event type="death" when="1804">
+      <place></place>
     </event>
   </person>
   <biography/>

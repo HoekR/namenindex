@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Hylkes</name> <name type="geslachtsnaam">Tromp</name></persName>
-    <event type="birth" when="1783-03-01">
-      <place>Tjerkgaast</place>
+    <persName><name type="voornaam">Nicolaes Thomasz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Marck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-01-16">
-      <place>Tjerkgaast</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

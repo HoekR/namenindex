@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1124980162"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Bert</name> <name type="intrapositie">Groningen nan</name> <name type="geslachtsnaam">R&#246;ling</name></persName>
+    <event type="birth">
+      <date>26-12-1906</date>
+      <place>'s-Hertogenbosch</place>
+    </event>
+    <event type="death">
+      <date>16-03-1985</date>
+      <place>Groningen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

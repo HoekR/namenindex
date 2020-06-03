@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-981051816"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Sir</name> <name type="voornaam">nan</name> <name type="intrapositie">Coldstream, Berwickshire nan</name> <name type="geslachtsnaam">Home</name></persName>
+    <event type="birth">
+      <date>02-07-1903</date>
+      <place>Mayfair</place>
+    </event>
+    <event type="death">
+      <date>09-10-1995</date>
+      <place>Coldstream, Berwickshire</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

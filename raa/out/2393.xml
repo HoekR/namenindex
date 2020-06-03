@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Antoine</name> <name type="geslachtsnaam">Vern&#232;de</name></persName>
-    <event type="birth" when="1809-05-19">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Jacob Assueer</name> <name type="geslachtsnaam">Schimmelpenninck van der Oye tot Watergoor</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-02-06">
-      <place>Schiedam</place>
+    <event type="death" when="1810">
+      <place></place>
     </event>
   </person>
   <biography/>

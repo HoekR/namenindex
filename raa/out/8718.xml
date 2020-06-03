@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Jansz.</name> <name type="geslachtsnaam">Baen (de jonge)</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Adriaan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
+    <persName>De Jonge van Campensnieuwland</persName>
+    <event type="birth" when="2001">
+      <place>Zierikzee</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1835-10-28">
+      <place>Zierikzee</place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">J.L.A.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Grave</name></persName>
+    <persName><name type="voornaam">Pieter Jansz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Steenhuysen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1692-04-14">
       <place></place>
     </event>
   </person>

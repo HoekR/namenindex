@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/609"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jhr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Haarlem nan</name> <name type="geslachtsnaam">Loudon  </name></persName>
+    <event type="birth">
+      <date>27-06-1905</date>
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death">
+      <date>04-02-1996</date>
+      <place>Haarlem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

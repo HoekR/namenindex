@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Thomas Joannes</name> <name type="geslachtsnaam">Pigeaud</name></persName>
-    <event type="birth" when="1744">
+    <persName><name type="voornaam">Dirck Thomasz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Puyner</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1807-09-26">
+    <event type="death" when="1658">
       <place></place>
     </event>
   </person>

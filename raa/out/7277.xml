@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vrijberghe</name></persName>
-    <event type="birth" when="1663">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Maarten</name> <name type="geslachtsnaam">Bowier</name></persName>
+    <event type="birth" when="2012">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1830-02-27">
+      <place>'s-Hertogenbosch</place>
     </event>
   </person>
   <biography/>

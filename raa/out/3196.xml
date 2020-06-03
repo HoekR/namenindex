@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adrianus Helenus</name> <name type="geslachtsnaam">Hartevelt</name></persName>
-    <event type="birth" when="1794-04-28">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Jacob Anthony</name> <name type="geslachtsnaam">Twent van Kortenbosch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-03-26">
-      <place>Zutphen</place>
+    <event type="death" when="1815">
+      <place></place>
     </event>
   </person>
   <biography/>

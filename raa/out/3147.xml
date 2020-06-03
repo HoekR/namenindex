@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham Jacob</name> <name type="geslachtsnaam">Krudop</name></persName>
-    <event type="birth" when="1796-09-15">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Lycklama</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1886-10-28">
-      <place>Elburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

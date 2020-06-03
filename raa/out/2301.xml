@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Aken</name></persName>
-    <event type="birth" when="1798-09-03">
-      <place>Gorinchem</place>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">baron (Empire)</name> <name type="geslachtsnaam">Collot d'Escury</name></persName>
+    <persName>Collot d'Escury van Heinenoord</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-02-04">
-      <place>Gorinchem</place>
+    <event type="death" when="1845">
+      <place></place>
     </event>
   </person>
   <biography/>

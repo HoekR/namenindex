@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Heemskerk Bzn.</name></persName>
-    <event type="birth" when="1811-02-16">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anthonis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Geniets</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1880-12-17">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1587">
+      <place></place>
     </event>
   </person>
   <biography/>

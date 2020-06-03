@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">G.</name> <name type="geslachtsnaam">Raupp</name></persName>
+    <persName><name type="voornaam">Reinirus Johannes Canisius</name> <name type="geslachtsnaam">Bueckevoort</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1823">
       <place></place>
     </event>
   </person>

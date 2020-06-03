@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Johannes Josephus Wigbold</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Coeverden</name></persName>
-    <persName>Van Coeverden van Kampferbeek</persName>
-    <event type="birth" when="1741-09-10">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Olycan</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-07-02">
-      <place>Vollenhove</place>
+    <event type="death" when="1658">
+      <place></place>
     </event>
   </person>
   <biography/>

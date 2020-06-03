@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wilt Gerrit Jan</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Rhemen</name></persName>
-    <persName>Van Rhemen van Rhemenshuizen en de Geldersche Toren</persName>
-    <persName>Van Rhemen van Rhemenshuizen</persName>
-    <event type="birth" when="1757-02-28">
-      <place>Rhemenshuizen</place>
+    <persName><name type="voornaam">Ewout</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Blanckert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-04-07">
-      <place>Zutphen</place>
+    <event type="death" when="1685-06-11">
+      <place></place>
     </event>
   </person>
   <biography/>

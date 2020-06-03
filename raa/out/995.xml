@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bonaventure Adrien Corneille</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lange</name></persName>
-    <persName>De Lange van Wijngaarden</persName>
-    <event type="birth" when="1782-12-26">
-      <place>Gouda</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lambrecht</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Brumaardsz.</name></persName>
+    <persName>Arenberg</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-02-03">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

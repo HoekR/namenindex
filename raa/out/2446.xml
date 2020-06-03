@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Eelco</name> <name type="geslachtsnaam">Fockema</name></persName>
-    <event type="birth" when="1774-02-03">
-      <place>Dokkum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joost</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Dirksz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-01-19">
-      <place>Dokkum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

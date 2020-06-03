@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bartold</name> <name type="geslachtsnaam">Ernst</name></persName>
-    <persName>Bartold van Bassen genaamd Ernst</persName>
+    <persName><name type="voornaam">Jacob Nicolaasz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hoorn</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1583">
+    <event type="death" when="1709-09-18">
       <place></place>
     </event>
   </person>

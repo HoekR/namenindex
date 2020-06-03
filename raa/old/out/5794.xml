@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/5794"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jasper Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lynden tot Ressen</name></persName>
+    <event type="birth" when="1696"/>
+    <event type="death" when="1759"/>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Tinco</name> <name type="geslachtsnaam">Lycklama &#224; Nijeholt</name></persName>
-    <event type="birth" when="1696">
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Benningbroek</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1762-03-22">
+    <event type="death" when="1701">
       <place></place>
     </event>
   </person>

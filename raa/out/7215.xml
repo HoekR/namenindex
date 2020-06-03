@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Bocco</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Burmania</name></persName>
-    <event type="birth" when="1580">
+    <persName><name type="voornaam">Daniel Paulusz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Eelbo</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1628">
+    <event type="death" when="1729-08-11">
       <place></place>
     </event>
   </person>

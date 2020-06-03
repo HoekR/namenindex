@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1081056250"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Prof. mr.</name> <name type="voornaam">Carel</name> <name type="intrapositie">Oegstgeest nan</name> <name type="geslachtsnaam">Polak</name></persName>
+    <event type="birth">
+      <date>02-09-1909</date>
+      <place>Rotterdam</place>
+    </event>
+    <event type="death">
+      <date>28-02-1981</date>
+      <place>Oegstgeest</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Phoenix</name> <name type="geslachtsnaam">Vis</name></persName>
-    <event type="birth" when="1818-12-12">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Tork</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-04-28">
-      <place>Zeist</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

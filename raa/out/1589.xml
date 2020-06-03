@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Honnor&#233; Antoon Dorus Idzerd</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Haersolte</name></persName>
-    <event type="birth" when="1811-09-20">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Samuel Iperusz.</name> <name type="geslachtsnaam">Wiselius</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1887-06-29">
-      <place>Zwolle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

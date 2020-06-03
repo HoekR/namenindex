@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Leendert</name> <name type="geslachtsnaam">Grendel</name></persName>
+    <persName><name type="voornaam">Johan Ludolf</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mulert tot Baeckenhagen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1705-12-14">
       <place></place>
     </event>
   </person>

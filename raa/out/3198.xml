@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Benny</name> <name type="geslachtsnaam">Wolfson</name></persName>
-    <event type="birth" when="1788-10-13">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Gijsbert Hendriksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Antwerpen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1635">
       <place></place>
     </event>
   </person>

@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Collard</name> <name type="intrapositie">ridder van der</name> <name type="geslachtsnaam">Clite</name></persName>
-    <persName>Colaert van Comene</persName>
-    <persName>Komen</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik III</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Montfoort</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1402">
       <place></place>
     </event>
   </person>

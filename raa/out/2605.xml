@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Egidius Daniel</name> <name type="geslachtsnaam">Beyma</name></persName>
-    <event type="birth" when="1811-04-12">
-      <place>Zweins</place>
+    <persName><name type="voornaam">Coenraet</name> <name type="intrapositie">graaf de</name> <name type="geslachtsnaam">Rechtere</name></persName>
+    <event type="birth" when="1538">
+      <place></place>
     </event>
-    <event type="death" when="1894-12-01">
-      <place>Weidum</place>
+    <event type="death" when="1601">
+      <place></place>
     </event>
   </person>
   <biography/>

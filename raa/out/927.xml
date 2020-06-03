@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Nicolaas</name> <name type="geslachtsnaam">Arntzenius</name></persName>
-    <event type="birth" when="1802-07-10">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Johannes</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Noortberg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-06-20">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1792-10-16">
+      <place></place>
     </event>
   </person>
   <biography/>

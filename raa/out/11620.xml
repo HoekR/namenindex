@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Stalpaart</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Coenraad Willem</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Sloet tot Tweenyenhuizen</name></persName>
+    <persName>Sloet van Tweenyenhuizen en Bredenhorst</persName>
+    <event type="birth" when="2009">
+      <place>Vollenhove</place>
     </event>
-    <event type="death" when="1510">
-      <place></place>
+    <event type="death" when="1849-11-23">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

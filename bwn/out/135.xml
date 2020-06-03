@@ -1,0 +1,94 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Besier, Louis Christiaan (1868-1938)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/besier"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">besier</idno>
+    <persName><name type="geslachtsnaam">Besier</name>, Louis Christiaan</persName>
+    <sex value="1"/>
+    <event type="birth" when="1868"/>
+    <event type="death" when="1938"/>
+    <state type="occupation">jurist</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Besier, Louis Christiaan&lt;/strong&gt;, jurist (Utrecht 10-3-1868 - 's-Gravenhage 4-11-1938).
+
+Zoon van Louis Willem Alexander, voorzitter van het muntcollege, en
+Elisabeth Christina van Hall. Gehuwd met Geertruid Agnes barones Van
+Isselmuden op 7-7-1904. Uit dit huwelijk werden 2 zoons en 2 dochters
+geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Na zijn gymnasiumopleiding studeerde L.Ch. Besier rechten in
+Utrecht, waar hij in 1891 promoveerde op een dissertatie over 
+&lt;em&gt;De Stichtingen en het ontwerp tot herziening van het Burgerlijk
+Wetboek&lt;/em&gt;
+
+(Utrecht, 1891). Na enige jaren in Utrecht advocaat te zijn geweest,
+volgde zijn benoeming in 1896 tot ambtenaar van het Openbaar Ministerie
+in Middelburg. Nadien vervulde hij eenzelfde functie in Utrecht, om
+daarna m.i.v. 1 januari 1904 substituut-officier van justitie ca. tien
+jaar bij de rechtbank in Amsterdam werkzaam te zijn. In 1913 wordt hij
+advocaat-generaal bij de Hoge Raad, in 1934 procureur-generaal. In 1938
+neemt hij afscheid van het Openbaar Ministerie bij de Hoge Raad, waar
+hij 25 jaar had gewerkt.&lt;/p&gt;
+&lt;p&gt;Niet alleen op juridisch terrein - hij was voorzitter van de
+Nederlandse juristenvereniging en lid van de commissie voor de
+criminele statistiek -, maar ook op maatschappelijk gebied is Besier
+actief geweest. Zo was hij o.a. jarenlang voorzitter van Pro Juventute
+en de Remonstrants Gereformeerde Gemeente.&lt;/p&gt;
+&lt;p&gt;Besier was voor alles een pragmatisch ingesteld jurist. Dit blijkt
+reeds uit enkele publikaties van zijn hand in het 
+&lt;em&gt;Tijdschrift voor Strafrecht&lt;/em&gt;
+
+van 1907 en 1913. Een zelfde instelling valt af te leiden uit het grote
+aantal conclusies dat hij als advocaat-generaal en later als
+procureur-generaal voor de arresten van de Hoge Raad schreef. Deze
+conclusies vallen op door hun logisch en glasheldere visie. Zijn
+grootste bekendheid heeft Besier evenwel gekregen toen hij in
+samenwerking met de Leidse hoogleraar in het strafrecht A.J. Blok een
+artikelsgewijs commentaar schreef op het nieuwe Wetboek van
+Strafvordering dat op 1 januari 1926 in werking trad. In dit werk,
+worden zowel de uitgangspunten die aan de opbouw van ons strafproces
+ten grondslag liggen, als een gedetailleerde uitleg gegeven van de
+betekenis en de toepassing van de verschillende wetsbepalingen. De vele
+tientallen jaren waarin dit werk het meest gezaghebbend commentaar op
+genoemd wetboek was, is het teken van het grote gewicht dat aan de
+opvattingen van L.Ch. Besier over de praktijk van het strafrecht is
+toegekend.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve vele adviezen en artikelen van strafrechtelijke aard in
+juridische tijdschriften, zoals 'De Berechting van strafzaken tegen
+kinderen', in het 
+&lt;em&gt;Tijdschrift voor Strafrecht&lt;/em&gt;
+
+18 (1907) 188-203 en 'Middellijk daderschap en de persoonlijke
+omstandigheden, die de strafbaarheid bepalen', 
+&lt;em&gt;ibidem&lt;/em&gt;
+
+24 (1913) 119-134; A.J. Blok en L.Ch. Besier, 
+&lt;em&gt;Het Nederlandsche Strafproces&lt;/em&gt;
+
+(Haarlem, 1925-1926. 3 dln.).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;Nederlands Juristenblad&lt;/em&gt;
+
+13 (1938) 308-309, 897-898; J. Wijnveldt, in 
+&lt;em&gt;NRC&lt;/em&gt;
+
+van 4 en 5 november 1938.&lt;/p&gt;
+&lt;p&gt;S.A.M. Stolwijk&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

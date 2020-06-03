@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/397102786"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Menachem</name> <name type="intrapositie">Tel Aviv nan</name> <name type="geslachtsnaam">Begin</name></persName>
+    <event type="birth">
+      <date>16-08-1913</date>
+      <place>Brest</place>
+    </event>
+    <event type="death">
+      <date>09-03-1992</date>
+      <place>Tel Aviv</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

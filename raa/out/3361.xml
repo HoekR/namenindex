@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Jacobsz.</name> <name type="geslachtsnaam">Pols</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Dirksz.</name> <name type="intrapositie">graaf den</name> <name type="geslachtsnaam">Harst</name></persName>
+    <persName>Philippe le Febre</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1647-10-26">
+    <event type="death">
       <place></place>
     </event>
   </person>

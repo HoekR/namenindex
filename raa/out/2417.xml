@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Adriaan</name> <name type="geslachtsnaam">Viruly Verbrugge</name></persName>
-    <event type="birth" when="1830-01-04">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Hieronimus</name> <name type="geslachtsnaam">Slicher</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1908-12-10">
-      <place>Rotterdam</place>
+    <event type="death" when="1845">
+      <place></place>
     </event>
   </person>
   <biography/>

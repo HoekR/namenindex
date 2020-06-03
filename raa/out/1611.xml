@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Maurits Ernest</name> <name type="geslachtsnaam">Houck</name></persName>
-    <event type="birth" when="1790-08-01">
-      <place>Arnhem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Ulbo</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Rengers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-09-04">
-      <place>Deventer</place>
+    <event type="death" when="1810-05-22">
+      <place></place>
     </event>
   </person>
   <biography/>

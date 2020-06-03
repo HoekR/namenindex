@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bouwen</name> <name type="geslachtsnaam">Geel</name></persName>
-    <event type="birth" when="1792-01-29">
-      <place>De Rijp</place>
+    <persName><name type="voornaam">Abraham Adriaensz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Schuylenburch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-12-02">
-      <place>De Rijp</place>
+    <event type="death" when="1814">
+      <place></place>
     </event>
   </person>
   <biography/>

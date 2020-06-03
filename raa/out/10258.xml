@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Gerritsz.</name> <name type="geslachtsnaam">Buijes</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">burggraaf</name> <name type="geslachtsnaam">Schimmelpenninck</name></persName>
+    <persName>Schimmelpenninck van Nijenhuis</persName>
+    <event type="birth" when="2002">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1667-08-31">
-      <place></place>
+    <event type="death" when="1863-04-10">
+      <place>Arnhem</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Eduard Constans</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Baerle</name></persName>
-    <event type="birth" when="1801-11-08">
-      <place>Kampen</place>
+    <persName><name type="voornaam">Bartholomeus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Kreke</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-07-10">
-      <place>Utrecht</place>
+    <event type="death" when="1814">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">F.M.W.</name> <name type="geslachtsnaam">Schenck van Nijdeggen</name></persName>
+    <persName><name type="voornaam">Clement</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Baersdorp</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1655">
       <place></place>
     </event>
   </person>

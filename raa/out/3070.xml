@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Henricus Antonius</name> <name type="intrapositie">ridder van der</name> <name type="geslachtsnaam">Renne</name></persName>
-    <event type="birth" when="1767-01-20">
-      <place>Roermond</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Keympe</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Tadema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-04-01">
-      <place>Elten</place>
+    <event type="death" when="1622-03-28">
+      <place></place>
     </event>
   </person>
   <biography/>

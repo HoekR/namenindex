@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Lodewijk Willem</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Geer</name></persName>
-    <persName>De Geer van Jutphaas</persName>
-    <event type="birth" when="1784-11-14">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Sjoert</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Boelens</name></persName>
+    <persName>Suffridus van Boelens</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-11-03">
-      <place>Utrecht</place>
+    <event type="death" when="1692">
+      <place></place>
     </event>
   </person>
   <biography/>

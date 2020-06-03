@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joachim</name> <name type="geslachtsnaam">Geertsz.</name></persName>
-    <persName>Joachim Gerardi</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jan NicoIaas</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eys</name></persName>
+    <event type="birth" when="2005">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1818-05-16">
+      <place>Vogelenzang</place>
     </event>
   </person>
   <biography/>

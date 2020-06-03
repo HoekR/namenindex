@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">P.J.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Beugen</name></persName>
-    <event type="birth">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik II (Wolfertsz.)</name> <name type="intrapositie">knaap van</name> <name type="geslachtsnaam">Borselen</name></persName>
+    <persName>Grandpr&#233;</persName>
+    <event type="birth" when="1404">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1474">
       <place></place>
     </event>
   </person>

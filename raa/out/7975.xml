@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frank (II)</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Borselen</name></persName>
-    <persName>Oostervant</persName>
-    <event type="birth" when="1395">
-      <place></place>
+    <persName><name type="voornaam">Jeronimus</name> <name type="geslachtsnaam">Bricheau</name></persName>
+    <event type="birth" when="2001">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1470">
-      <place></place>
+    <event type="death" when="1831-06-19">
+      <place>Hattem</place>
     </event>
   </person>
   <biography/>

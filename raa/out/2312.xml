@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Mees</name></persName>
-    <event type="birth" when="1790-11-01">
-      <place>Rotterdam</place>
+    <persName>
+      <name type="geslachtsnaam">Schaep</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-10-28">
-      <place>Rotterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

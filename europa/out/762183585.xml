@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/762183585"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Manfred</name> <name type="intrapositie">Stuttgart nan</name> <name type="geslachtsnaam">Klaiber</name></persName>
+    <event type="birth">
+      <date>08-06-1903</date>
+      <place>Grafenberg</place>
+    </event>
+    <event type="death">
+      <date>16-07-1981</date>
+      <place>Stuttgart</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

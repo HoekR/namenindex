@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Samuel</name> <name type="geslachtsnaam">Snoeck</name></persName>
-    <persName>Snouck van Loosen</persName>
-    <event type="birth" when="1766-01-29">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Maerten Pietersz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hoogenhouck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-05-27">
-      <place>Leiden</place>
+    <event type="death" when="1720-12-27">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Fran&#231;ois</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hogendorp</name></persName>
-    <event type="birth" when="1700">
+    <persName><name type="voornaam">Dionisius</name> <name type="geslachtsnaam">Warner</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1779-01-14">
+    <event type="death">
       <place></place>
     </event>
   </person>

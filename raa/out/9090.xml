@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ernst</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Kuerbeecke</name></persName>
-    <persName>Ernst van der Ceurbeecke</persName>
-    <event type="birth" when="1581">
-      <place></place>
+    <persName><name type="voornaam">Engel</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Stadt</name></persName>
+    <event type="birth" when="2008">
+      <place>Zaandam</place>
     </event>
-    <event type="death" when="1658">
-      <place></place>
+    <event type="death" when="1819-07-23">
+      <place>Zaandam</place>
     </event>
   </person>
   <biography/>

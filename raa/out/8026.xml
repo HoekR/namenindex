@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adriaen</name> <name type="geslachtsnaam">Paets</name></persName>
-    <event type="birth" when="1657">
-      <place></place>
+    <persName><name type="voornaam">Arnoldus Joannes Anthonius</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">H&#246;vell tot Westerflier</name></persName>
+    <persName>Van H&#246;vell tot Westerflier en Wezeveld</persName>
+    <event type="birth" when="2002">
+      <place>Twello</place>
     </event>
-    <event type="death" when="1712-09-30">
-      <place></place>
+    <event type="death" when="1862-06-17">
+      <place>Donsbr&#252;ggen</place>
     </event>
   </person>
   <biography/>

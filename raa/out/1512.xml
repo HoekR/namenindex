@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Theodorus Everardus Joannes</name> <name type="geslachtsnaam">Schaepman</name></persName>
-    <event type="birth" when="1810-01-26">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Jacob Pietersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sluijs</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-06-05">
-      <place>Arnhem</place>
+    <event type="death" when="1691">
+      <place></place>
     </event>
   </person>
   <biography/>

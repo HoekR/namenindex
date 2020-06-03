@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jans</name> <name type="geslachtsnaam">Santing</name></persName>
-    <event type="birth" when="1741">
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Versluys</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1806">
+    <event type="death" when="1746-07-12">
       <place></place>
     </event>
   </person>

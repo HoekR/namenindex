@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Hoek</name>
-    </persName>
+    <persName><name type="voornaam">Jan IJsbrantsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Neck</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1590">
       <place></place>
     </event>
   </person>

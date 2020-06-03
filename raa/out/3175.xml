@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Antoine Jacques</name> <name type="geslachtsnaam">Clant van der Mijll</name></persName>
-    <event type="birth" when="1827-04-02">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Frans Hendricksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Herberts</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1909-12-20">
-      <place>Veur</place>
+    <event type="death" when="1661">
+      <place></place>
     </event>
   </person>
   <biography/>

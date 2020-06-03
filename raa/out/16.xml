@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Maarten</name> <name type="geslachtsnaam">Bowier</name></persName>
-    <event type="birth" when="1750-12-11">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Tako</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Obbema</name></persName>
+    <persName>Tako Heemstra</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1830-02-27">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1515">
+      <place></place>
     </event>
   </person>
   <biography/>

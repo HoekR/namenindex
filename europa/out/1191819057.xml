@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1191819057"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Lt.Kol.</name> <name type="voornaam">nan</name> <name type="intrapositie">Breda nan</name> <name type="geslachtsnaam">Fens</name></persName>
+    <event type="birth">
+      <date>04-12-1900</date>
+      <place>Breda</place>
+    </event>
+    <event type="death">
+      <date>30-11-1968</date>
+      <place>Breda</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

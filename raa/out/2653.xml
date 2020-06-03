@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Ulbo Jetze</name> <name type="intrapositie">Heerma van</name> <name type="geslachtsnaam">Beyma thoe Kingma</name></persName>
-    <event type="birth" when="1821-12-14">
-      <place>Workum</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Roos</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-03-31">
-      <place>Franeker</place>
+    <event type="death" when="1767">
+      <place></place>
     </event>
   </person>
   <biography/>

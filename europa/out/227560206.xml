@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/227560206"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Parijs nan</name> <name type="geslachtsnaam">Negr&#237;n y L&#243;pez</name></persName>
+    <event type="birth">
+      <date>03-02-1892</date>
+      <place>Las Palmas, Gran Canaria</place>
+    </event>
+    <event type="death">
+      <date>12-11-1956</date>
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Egidius Antonius</name> <name type="geslachtsnaam">Janssens</name></persName>
-    <event type="birth" when="1821-08-06">
-      <place>Roosendaal</place>
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Bochus</name> <name type="geslachtsnaam">Slothouwer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-01-15">
-      <place>Roosendaal</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

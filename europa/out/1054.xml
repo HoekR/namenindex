@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1054"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">baron</name> <name type="voornaam">nan</name> <name type="intrapositie">Koudekerke van</name> <name type="geslachtsnaam">Lynden</name></persName>
+    <event type="birth">
+      <date>23-08-1915</date>
+      <place>Amsterdam</place>
+    </event>
+    <event type="death">
+      <date>10-10-1998</date>
+      <place>Koudekerke</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-851137712"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Jan</name> <name type="intrapositie">Cruquius van</name> <name type="geslachtsnaam">Houwelingen</name></persName>
+    <event type="birth">
+      <date>08-12-1939</date>
+      <place>Leerdam</place>
+    </event>
+    <event type="death">
+      <date>17-03-2013</date>
+      <place>Cruquius</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

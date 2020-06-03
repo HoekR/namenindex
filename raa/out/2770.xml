@@ -8,9 +8,9 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Martinus</name> <name type="geslachtsnaam">Rutten</name></persName>
-    <event type="birth" when="1786-02-07">
-      <place>Ophoven (Belgie)</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Douwe</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Sixma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
     <event type="death">
       <place></place>

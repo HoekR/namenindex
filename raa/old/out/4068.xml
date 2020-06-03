@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/4068"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Nicolaas Jansz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Huybert</name></persName>
+    <event type="birth" when="1543"/>
+    <event type="death" when="1611"/>
+  </person>
+  <biography/>
+</biodes>

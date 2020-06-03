@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirk Jacobsz.</name> <name type="geslachtsnaam">Schoonhoven</name></persName>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Heyndricksz. (de Jonge)</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1640">
+    <event type="death">
       <place></place>
     </event>
   </person>

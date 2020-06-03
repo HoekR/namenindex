@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Justinus Jacob Leonard</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Brugghen</name></persName>
-    <event type="birth" when="1804-08-06">
-      <place>Nijmegen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Pleunisz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Ammers</name></persName>
+    <persName>Aarschot</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-10-02">
-      <place>Ubbergen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

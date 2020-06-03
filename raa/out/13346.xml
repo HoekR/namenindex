@@ -1,0 +1,23 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/13346"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Meynart</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Heussen</name></persName>
+    <persName>Meynart van Hensz.</persName>
+    <persName>Meynart van Huessen</persName>
+    <persName>Meynart van Huissen</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

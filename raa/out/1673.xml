@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Rudolph Albertus</name> <name type="geslachtsnaam">Kerkhoven</name></persName>
-    <event type="birth" when="1820-07-09">
-      <place>Twello</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jan</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Sirtema van Grovestins</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1890-01-04">
-      <place>Nieuwer-Amstel</place>
+    <event type="death" when="1795-07-21">
+      <place></place>
     </event>
   </person>
   <biography/>

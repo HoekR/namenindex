@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik Bernard</name> <name type="intrapositie">s'</name> <name type="geslachtsnaam">Jacob</name></persName>
-    <event type="birth" when="1776-03-15">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Martinus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Scheltinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-04-02">
-      <place>Amsterdam</place>
+    <event type="death" when="1726-01-21">
+      <place></place>
     </event>
   </person>
   <biography/>

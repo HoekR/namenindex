@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Justus Datho</name> <name type="intrapositie">Lewe</name> <name type="geslachtsnaam">Quintus</name></persName>
-    <event type="birth" when="1811-01-23">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hermannus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Huber</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1889-01-13">
-      <place>Groningen</place>
+    <event type="death" when="1730-11-21">
+      <place></place>
     </event>
   </person>
   <biography/>

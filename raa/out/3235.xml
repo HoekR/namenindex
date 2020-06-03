@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Burchard Joan</name> <name type="geslachtsnaam">Elias</name></persName>
-    <event type="birth" when="1799-07-12">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Albert Sijbrant</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Eminga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-05-01">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1662">
+      <place></place>
     </event>
   </person>
   <biography/>

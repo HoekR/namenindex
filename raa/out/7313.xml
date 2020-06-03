@@ -8,15 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Fran&#231;ois Fran&#231;oisz.&#13;
-&#13;
-&#13;
-Fran&#231;ois</name> <name type="geslachtsnaam">Boogert</name></persName>
-    <event type="birth" when="1733">
-      <place></place>
+    <persName><name type="voornaam">Jean Charles</name> <name type="intrapositie">burggraaf de</name> <name type="geslachtsnaam">Carnin de Staden</name></persName>
+    <event type="birth" when="2001">
+      <place>Ieper</place>
     </event>
-    <event type="death" when="1797">
-      <place></place>
+    <event type="death" when="1826-02-05">
+      <place>Brugge</place>
     </event>
   </person>
   <biography/>

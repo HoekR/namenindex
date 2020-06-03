@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Goes</name></persName>
-    <persName>Van der Goes van Naters</persName>
-    <event type="birth" when="1808-04-13">
-      <place>Delft</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Paul heren Tielmansz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Strijen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1885-05-10">
-      <place>Delft</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

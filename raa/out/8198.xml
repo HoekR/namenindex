@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaen Cornelisz.</name> <name type="geslachtsnaam">Brouwer</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Frederik</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">With</name></persName>
+    <event type="birth" when="2006">
+      <place>Dokkum</place>
     </event>
-    <event type="death" when="1657">
-      <place></place>
+    <event type="death" when="1837-02-04">
+      <place>Rinsumageest</place>
     </event>
   </person>
   <biography/>

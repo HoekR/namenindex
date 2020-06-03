@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Rudolph Anne Julius</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Ittersum</name></persName>
-    <event type="birth" when="1806-06-15">
-      <place>Kampen</place>
+    <persName><name type="voornaam">Dirk Cornelis</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Meulen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-12-05">
-      <place>Brummen</place>
+    <event type="death" when="1829">
+      <place></place>
     </event>
   </person>
   <biography/>

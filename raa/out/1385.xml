@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Constantinus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Heyden</name></persName>
+    <persName><name type="voornaam">Gillis Johannis</name> <name type="intrapositie">Le</name> <name type="geslachtsnaam">F&#232;vre de Montigny</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1821">
       <place></place>
     </event>
   </person>

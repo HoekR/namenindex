@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Gerhardus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Overstraten</name></persName>
-    <event type="birth" when="1755">
+    <persName><name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Fagel</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1801">
+    <event type="death" when="1644-02-03">
       <place></place>
     </event>
   </person>

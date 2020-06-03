@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">A.</name> <name type="geslachtsnaam">Beckeringh</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Doecke</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Hemmema</name></persName>
+    <persName>Duco van Hemmema</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1698-07-15">
       <place></place>
     </event>
   </person>

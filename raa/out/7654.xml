@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Jacob</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Doorn</name></persName>
-    <persName>Van Doorn van Westkapelle</persName>
-    <event type="birth" when="1786-08-23">
-      <place>Vlissingen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lodewijk</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Andriesz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-01-18">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

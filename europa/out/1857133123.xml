@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1857133123"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Rome nan</name> <name type="geslachtsnaam">Gaja</name></persName>
+    <event type="birth">
+      <date>27-05-1912</date>
+      <place>Turijn</place>
+    </event>
+    <event type="death">
+      <date>31-05-1992</date>
+      <place>Rome</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

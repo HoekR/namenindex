@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Georg Frederik</name> <name type="intrapositie">baron thoe</name> <name type="geslachtsnaam">Schwartzenberg en Hohenlansberg</name></persName>
-    <event type="birth" when="1791-10-02">
-      <place>Beetgum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jansz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-12-17">
-      <place>Beetgum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

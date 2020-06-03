@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Pieter Marius</name> <name type="intrapositie">Tutein</name> <name type="geslachtsnaam">Nolthenius</name></persName>
-    <event type="birth" when="1814-07-16">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mol</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1896-08-31">
-      <place>Zutphen</place>
+    <event type="death" when="1750-02-04">
+      <place></place>
     </event>
   </person>
   <biography/>

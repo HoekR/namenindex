@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Henri Hubert</name> <name type="geslachtsnaam">Geradts</name></persName>
-    <event type="birth" when="1798-12-15">
-      <place>Roermond</place>
+    <persName><name type="voornaam">Jean</name> <name type="geslachtsnaam">B&#233;renger</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1886-07-22">
-      <place>Sint Odili&#235;nberg</place>
+    <event type="death" when="1850">
+      <place></place>
     </event>
   </person>
   <biography/>

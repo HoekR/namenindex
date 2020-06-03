@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Buyskes</name></persName>
-    <event type="birth" when="1794-10-31">
-      <place>Den Helder</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Gerritsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Hey</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-12-14">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

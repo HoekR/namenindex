@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1149516724"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Leiden nan</name> <name type="geslachtsnaam">Kappeyne van de Coppello</name></persName>
+    <event type="birth">
+      <date>24-10-1936</date>
+      <place>Oud-Over (Loosdrecht)</place>
+    </event>
+    <event type="death">
+      <date>23-02-1990</date>
+      <place>Leiden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Fran&#231;ois</name> <name type="geslachtsnaam">Ermerins</name></persName>
-    <event type="birth" when="1753-09-13">
-      <place>Sluis</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arend</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Booth</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-03-19">
-      <place>Middelburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Schimmelpenninck</name></persName>
-    <event type="birth" when="1804-04-25">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Reinoud (III)</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Brederode</name></persName>
+    <event type="birth" when="1490">
+      <place></place>
     </event>
-    <event type="death" when="1881-04-09">
-      <place>Amsterdam</place>
+    <event type="death" when="1556">
+      <place></place>
     </event>
   </person>
   <biography/>

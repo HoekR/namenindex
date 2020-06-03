@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Egbert</name> <name type="geslachtsnaam">Lewe van Middelstum</name></persName>
-    <event type="birth" when="1743-05-05">
-      <place>Middelstum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Floris</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Dussen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-03-08">
-      <place>Groningen</place>
+    <event type="death" when="1458">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">C.J.R.</name> <name type="geslachtsnaam">Nobel</name></persName>
+    <persName><name type="voornaam">Johan Frederik Willem</name> <name type="intrapositie">baron (Empire) van</name> <name type="geslachtsnaam">Spaen</name></persName>
+    <persName>Van Spaen van Biljoen</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1827">
       <place></place>
     </event>
   </person>

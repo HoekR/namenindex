@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles</name> <name type="intrapositie">ridder du</name> <name type="geslachtsnaam">Mont Saint-Eloy</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Pancrasz.</name></persName>
+    <persName>Mogelijk dezelfde als Adriaan Pietersz.</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1590">
+    <event type="death">
       <place></place>
     </event>
   </person>

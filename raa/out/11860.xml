@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fran&#231;ois-Louis-Auguste</name> <name type="geslachtsnaam">Ferrier</name></persName>
-    <event type="birth" when="1777">
+    <persName><name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Ingen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1861">
+    <event type="death" when="1688">
       <place></place>
     </event>
   </person>

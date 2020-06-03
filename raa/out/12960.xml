@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/12960"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Pieter Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vael in Lioren</name></persName>
+    <persName>Pieter Jansz. Liorne</persName>
+    <persName>Pieter Jansz. Livorne</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1620">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,83 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Brunt, Lodewijk (1903-1966)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/brunt"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">brunt</idno>
+    <persName><name type="geslachtsnaam">Brunt</name>, Lodewijk</persName>
+    <sex value="1"/>
+    <event type="birth" when="1903"/>
+    <event type="death" when="1966"/>
+    <state type="occupation">sportbestuurder</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/BRUNT.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Brunt, Lodewijk&lt;/strong&gt;, secretaris-penningmeester van de Koninklijke Nederlandse Voetbal Bond (Haarlem 16-4-1903 - Leiden 13-11-1966).
+
+Zoon van Jacob Brunt, rechercheur van politie, en Jeanette Koster.
+Gehuwd sinds 23-9-1926 met Martha Cornelia de Bruin. Na haar overlijden
+op 6-4-1931 hertrouwd met Anna Catharina Paape op 8-6-1934. Uit het
+tweede huwelijk werden 1 zoon en 2 dochters geboren.
+
+&lt;img src=&amp;quot;images/BRUNT.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Brunt, Lodewijk&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Brunt doorliep de lagere en middelbare school in Haarlem, genoot
+vervolgens een handelsopleiding te Amsterdam en werkte daar bij een
+handelmaatschappij. In zijn jeugd speelde hij voetbal in Kennemerland,
+waterpolo in het eerste zevental van HVGB (Heerlijk Verkoeld Gezonde
+Beweging) en was eerste graads turner in Turnlust, alle te Haarlem. Na
+zijn actieve tijd van sportbeoefening vervulde hij tal van functies op
+organisatorisch gebied: secretaris en later voorzitter van HVGB en
+president van de kring Haarlem van de Koninklijke Nederlandse Zwem
+Bond.&lt;/p&gt;
+&lt;p&gt;In 1948 nam de KNVB hem aan in vaste dienst als chef de bureau. Op l
+juni 1949 werd hij benoemd tot secretaris-penningmeester, als opvolger
+van A.J. Staal. Bij de grootste sportorganisatie van Nederland ontpopte
+Brunt zich als een uitstekend leider. Hij bekleedde een groot aantal
+functies in zowel de nationale als de internationale voetbalwereld.&lt;/p&gt;
+&lt;p&gt;Lodewijk Brunt - door zijn vrienden altijd Lo genaamd - gold als de
+grote ambassadeur van de voetbalbond, die in de jaren dat hij
+secretaris-penningmeester was van 291.000 naar 600.000 leden groeide.
+Hij stond bekend om zijn geweldige werklust en het vermogen in korte
+tijd geschillen op te lossen. Brunt heeft een belangrijke bemiddelende
+rol gespeeld toen in het begin van de jaren vijftig in de nationale
+voetbalwereld grote verdeeldheid bestond tussen het amateur- en het
+betaalde voetbal. Hij bereisde voor de voetbalsport de hele wereld en
+had door zijn vele internationale contacten ook buiten Nederland grote
+invloed. Hoewel Brunt vrijwel steeds overbelast was, roemde iedereen
+zijn opgeruimd karakter. Zo was hij bestuurslid van de Europese Voetbal
+Unie (UEFA) en voorzitter van de financi&amp;euml;le en de jeugdcommissie
+van deze organisatie. Verscheidene onderscheidingen in binnen-en
+buitenland vielen hem ten deel.&lt;/p&gt;
+&lt;p&gt;Hoewel hij in 1959, na een hartinfarct, van zijn artsen het advies
+kreeg het kalmer aan te doen, bleef hij de spil om wie alles in de KNVB
+draaide. Een nieuwe hartaanval, op 13 november 1966, toen hij per auto
+onderweg was van Amsterdam naar zijn woonplaats Wassenaar, maakte een
+einde aan zijn leven.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;Handboek KNVB 1964&lt;/em&gt;
+
+('s-Gravenhage, 1964) 20; Rien Bal, in 
+&lt;em&gt;Het Parool&lt;/em&gt;
+
+van 14-11-1966.&lt;/p&gt;
+
+
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;Beeldbank van het Nationaal Archief in Den Haag [Foto: Wim van Rossem; Collectie ANEFO; Brunt in december 1960].&lt;/p&gt;
+
+
+&lt;p&gt;G.W. Overdijkink&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

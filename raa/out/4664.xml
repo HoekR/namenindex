@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Rikkers</name></persName>
-    <event type="birth" when="1757">
+    <persName><name type="voornaam">Barthold Theodorus  Wilhelmus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hasselt</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1819">
+    <event type="death" when="1840">
       <place></place>
     </event>
   </person>

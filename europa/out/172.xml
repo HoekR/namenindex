@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/172"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">ir.</name> <name type="voornaam">nan</name> <name type="intrapositie">Wenen nan</name> <name type="geslachtsnaam">Boerma</name></persName>
+    <event type="birth">
+      <date>03-04-1912</date>
+      <place>Annerveenschekanaal</place>
+    </event>
+    <event type="death">
+      <date>08-05-1992</date>
+      <place>Wenen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/2125233608"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jhr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Ede nan</name> <name type="geslachtsnaam">Bosch, Ridder van Rosenthal</name></persName>
+    <event type="birth">
+      <date>21-01-1914</date>
+      <place>Zutphen</place>
+    </event>
+    <event type="death">
+      <date>13-11-2004</date>
+      <place>Ede</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

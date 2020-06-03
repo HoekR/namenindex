@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/2145261273"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">baron</name> <name type="voornaam">nan</name> <name type="intrapositie">Gent van</name> <name type="geslachtsnaam">Houtte</name></persName>
+    <event type="birth">
+      <date>17-03-1907</date>
+      <place>Gent</place>
+    </event>
+    <event type="death">
+      <date>23-03-1991</date>
+      <place>Gent</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

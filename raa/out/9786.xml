@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem</name> <name type="geslachtsnaam">Backer</name></persName>
-    <event type="birth" when="1608">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Frederik</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Reede van Oudtshoorn</name></persName>
+    <event type="birth" when="2012">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1686">
-      <place></place>
+    <event type="death" when="1860-03-28">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

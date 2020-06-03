@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Arnold</name> <name type="geslachtsnaam">Hummelink</name></persName>
-    <event type="birth" when="1766">
+    <persName><name type="voornaam">Pieter Bernard</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Beaufort</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1850">
+    <event type="death" when="1762-10-24">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-256813853"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Bonn nan</name> <name type="geslachtsnaam">Schalfejew</name></persName>
+    <event type="birth">
+      <date>15-10-1888</date>
+      <place>Libau/Kurland</place>
+    </event>
+    <event type="death">
+      <date>04-12-1962</date>
+      <place>Bonn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

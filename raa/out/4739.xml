@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Vos</name></persName>
-    <event type="birth" when="1757-03-08">
-      <place>Nijeveen</place>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Butenius</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1838-01-08">
-      <place>Nijeveen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

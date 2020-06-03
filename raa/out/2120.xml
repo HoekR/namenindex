@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joan</name> <name type="geslachtsnaam">Hodshon</name></persName>
-    <event type="birth" when="1789-12-09">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Gerard</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Huysman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-12-29">
-      <place>Amsterdam</place>
+    <event type="death" when="1727">
+      <place></place>
     </event>
   </person>
   <biography/>

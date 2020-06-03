@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frans Thomas</name> <name type="geslachtsnaam">Engelenburg</name></persName>
-    <event type="birth" when="1777-07-15">
-      <place>Vollenhove</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Frederik</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Schurmans</name></persName>
+    <persName>Frederik Schuirmans</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-05-28">
-      <place>Oldebroek</place>
+    <event type="death" when="1721">
+      <place></place>
     </event>
   </person>
   <biography/>

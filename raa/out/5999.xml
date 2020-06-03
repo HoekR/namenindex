@@ -8,11 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Fran&#231;ois Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rosevelt Cateau</name></persName>
-    <event type="birth" when="1756">
+    <persName><name type="voornaam">Wouter Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Scherp</name></persName>
+    <persName>Wouter Jacobsz. Scherf</persName>
+    <persName>Wouter Jacobsz. Schaep</persName>
+    <persName>Wouter Jacobsz. Scharp</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1820">
+    <event type="death" when="1618-10-06">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Nicolaas</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Bije</name></persName>
-    <event type="birth" when="1695">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Andries Cornelis Willem</name> <name type="geslachtsnaam">Munter</name></persName>
+    <event type="birth" when="2001">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1763-03-02">
-      <place></place>
+    <event type="death" when="1861-03-27">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Lolckes</name> <name type="geslachtsnaam">Suiderbaen</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lennep</name></persName>
+    <event type="birth" when="2003">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1680">
-      <place></place>
+    <event type="death" when="1868-08-25">
+      <place>Oosterbeek</place>
     </event>
   </person>
   <biography/>

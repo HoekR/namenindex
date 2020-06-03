@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Georg Conrad</name> <name type="geslachtsnaam">Bernhard</name></persName>
-    <event type="birth" when="1773">
-      <place></place>
+    <persName><name type="voornaam">Otto</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Randwijck</name></persName>
+    <event type="birth" when="2003">
+      <place>Arnhem</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1833-09-25">
+      <place>Nijmegen</place>
     </event>
   </person>
   <biography/>

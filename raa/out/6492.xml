@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Paulus</name> <name type="geslachtsnaam">Vreede</name></persName>
-    <event type="birth" when="1779">
+    <persName><name type="voornaam">Hieronymus</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Dussen van Beverningh</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1842">
+    <event type="death" when="1730-05-13">
       <place></place>
     </event>
   </person>

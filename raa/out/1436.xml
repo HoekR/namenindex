@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Samuel Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Musschenbroek</name></persName>
-    <event type="birth" when="1766-06-04">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Esaias</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Lycklama</name></persName>
+    <persName>Eyse Lycklama</persName>
+    <persName>Eiso van Lycklama</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-09-21">
-      <place>Utrecht</place>
+    <event type="death" when="1639">
+      <place></place>
     </event>
   </person>
   <biography/>

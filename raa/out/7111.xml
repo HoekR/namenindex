@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolaas Lodewijk Ernst</name> <name type="geslachtsnaam">Slicher</name></persName>
-    <event type="birth" when="1775">
+    <persName><name type="voornaam">Johan Fran&#231;ois</name> <name type="intrapositie">heer van</name> <name type="geslachtsnaam">Hogendorp</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1819">
+    <event type="death" when="1831-10-18">
       <place></place>
     </event>
   </person>

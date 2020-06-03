@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Claas Claasz.</name> <name type="geslachtsnaam">Velaar</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Willem Lodewijk</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Wassenaer</name></persName>
+    <persName>Van Wassenaer van Starrenburg</persName>
+    <event type="birth" when="2009">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1597">
-      <place></place>
+    <event type="death" when="1833-03-25">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

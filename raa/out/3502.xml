@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Franchois</name> <name type="geslachtsnaam">Criep</name></persName>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Niesen</name></persName>
+    <persName>Cornelis Mesen</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1639">
+    <event type="death" when="1700-12-24">
       <place></place>
     </event>
   </person>

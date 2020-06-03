@@ -1,0 +1,88 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Vorm, William Nicolaas Henry van der (1897-1963)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/vormwnh"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">vormwnh</idno>
+    <persName><name type="geslachtsnaam">Vorm</name>, William Nicolaas Henry van der</persName>
+    <sex value="1"/>
+    <event type="birth" when="1897"/>
+    <event type="death" when="1963"/>
+    <state type="occupation">ondernemer</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Vorm, William Nicolaas Henry van der&lt;/strong&gt;, reder en koopman (Rotterdam 3-3-1897 - Rotterdam 15-2-1963).
+
+Zoon van Klaas van der Vorm, reder en cargadoor, en Mabel Alpha Rose
+Constance Hilda Hardij. Gehuwd sinds 14-12-1923 met Klazina van der
+Vorm. Uit dit huwelijk werden 2 zoons en 2 dochters geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Willy van der Vorm, zoals hij in zijn geboortestad algemeen bekend
+stond, studeerde na zijn middelbare opleiding aan de Handelshogeschool
+te Rotterdam en behaalde daar het toenmaals de studie afsluitende
+diploma Handelseconomie. In 1919 begonnen de werkzaamheden in de zaak
+van zijn oom Willem, de Scheepvaart- en Steenkolenmaatschappij. Na
+leerjaren in Londen, Glasgow, Montreal en New York volgde nog een
+uitgebreide zakenreis door Zuid-Amerika. In 1922 kwam de benoeming tot
+procuratiehouder van de onderneming en in 1931 tot directeur. In 1950
+werd Van der Vorm directeur van de Holland-Amerika Lijn, waar hij eerst
+sedert 1947 commissaris was geweest. Daarna volgden de functies van
+hoofddirecteur, president-directeur en sedert 1961 van
+president-commissaris. Naast enkele commissariaten van verwante
+ondernemingen was hij sedert 1942 commissaris en president-commissaris
+van de Rotterdamsche Bank N.V., commissaris van de Scheepshypotheekbank
+sedert 1956 en van de Maatschappij van Berkel's Patent N.V. sedert
+1959.&lt;/p&gt;
+&lt;p&gt;Van der Vorm was een weloverwogen, werkzaam, rechtschapen en
+invloedrijk zakenman van groot formaat, die duidelijk oog had voor
+sociale aspecten. Dienovereenkomstig maakte hij geruime tijd deel uit
+van het dagelijks bestuur van de Scheepvaart Vereeniging Zuid en van
+het bestuur van het Centraal Sociaal Werkgeversverbond. Hij was ook
+bestuurslid van de Nederlandse Redersvereniging, voorzitter van de Raad
+van Bestuur voor de Zeevaart en vice-president van de General Council
+of the International Shipping Federation en trad tevens op als honorair
+consul-generaal van Denemarken.&lt;/p&gt;
+&lt;p&gt;Van der Vorm, in zijn jeugd een hartstochtelijk zeezeiler, werd ook
+later de sport niet ontrouw en was jarenlang commissaris van de
+Koninklijke Roei- en Zeilvereeniging 'De Maas' en vanaf
+oprichting van N.V. Sportfondsenbad Rotterdam-Zuid. Ook het
+wetenschappelijk werk had zijn grote belangstelling. Als curator van de
+Economische Hogeschool gaf hij zich veel moeite voor het nieuwe gebouw
+in Kralingen. Tevens werd jarenlang het voorzitterschap van het
+stedelijk Oogziekenhuis door hem bekleed en was hij curator van het
+Klinisch Hoger Onderwijs. Van der Vorm zette de activiteit van zijn oom
+Willem voor de verzameling van kunstwerken voort en had derhalve
+zitting in de gemengde gemeentelijke commissie voor het Museum
+Boymans-Van Beuningen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;Stand van zaken... Gedenkboek bij het vijftigjarig bestaan der
+Scheepvaart Vereeniging Zuid...&lt;/em&gt;
+
+(Rotterdam, 1957); K.P. van der Mandele, in 
+&lt;em&gt;Rotterdams Jaarboekje&lt;/em&gt;
+
+7e reeks 2 (1964) 233-234; J.J. Fokma, 'W.N.H. van der
+Vorm...', in 
+&lt;em&gt;Economisch-Historisch Jaarboek&lt;/em&gt;
+
+30 (1963-1964) 342-344; A.D. Wentholt, 
+&lt;em&gt;Brug over den Oceaan. Een eeuw geschiedenis van de Holland-Amerika
+Lijn.&lt;/em&gt;
+
+Met medew. van C. Borstlap (Rotterdam [enz.], 1973).&lt;/p&gt;
+&lt;p&gt;W.F. Lichtenauer&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

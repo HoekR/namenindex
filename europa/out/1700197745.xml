@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1700197745"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Ophain-Bois-Seigneur-Isaac nan</name> <name type="geslachtsnaam">Snoy et d'Oppuers</name></persName>
+    <event type="birth">
+      <date>02-07-1907</date>
+      <place>Bois-Seigneur-Isaac</place>
+    </event>
+    <event type="death">
+      <date>17-05-1991</date>
+      <place>Ophain-Bois-Seigneur-Isaac</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

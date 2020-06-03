@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/33974"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jacobus Johannes</name> <name type="geslachtsnaam">Tonckens</name></persName>
+    <event type="birth" when="2003">
+      <place>Eelde</place>
+    </event>
+    <event type="death" when="1894-01-16">
+      <place>Den Ham (Aduard)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

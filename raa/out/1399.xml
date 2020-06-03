@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Frederic Olivier Joseph</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hacfort tot den Ham</name></persName>
-    <event type="birth" when="1777-08-15">
-      <place>Den Ham</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Jong</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-11-04">
-      <place>Groenlo</place>
+    <event type="death" when="1767">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-243046042"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Freiherr</name> <name type="voornaam">Karl</name> <name type="intrapositie">Stadtsteinach von und zu</name> <name type="geslachtsnaam">Guttenberg</name></persName>
+    <event type="birth">
+      <date>23-05-1921</date>
+      <place> H&#246;chstadt an der Aisch</place>
+    </event>
+    <event type="death">
+      <date>04-10-1972</date>
+      <place>Stadtsteinach</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

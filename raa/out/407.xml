@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albertus</name> <name type="geslachtsnaam">Hodshon</name></persName>
-    <event type="birth" when="1766-01-07">
-      <place>Haarlem</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Sandelijn</name></persName>
+    <event type="birth" when="1506">
+      <place></place>
     </event>
-    <event type="death" when="1825-09-21">
-      <place>Overveen</place>
+    <event type="death" when="1558">
+      <place></place>
     </event>
   </person>
   <biography/>

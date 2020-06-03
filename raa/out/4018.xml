@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">ter</name> <name type="geslachtsnaam">Kuilen</name></persName>
-    <persName>Hendrik ter Coelen</persName>
+    <persName><name type="voornaam">Anne Jansz.</name> <name type="geslachtsnaam">Huidekoper</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1650">
+    <event type="death" when="1799">
       <place></place>
     </event>
   </person>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Antonie</name> <name type="geslachtsnaam">Warin</name></persName>
-    <persName>Warin van Schonauwen</persName>
-    <event type="birth" when="1772">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Jacob Dirksz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Potter van der Loo</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-11-23">
-      <place>Amsterdam</place>
+    <event type="death" when="1453">
+      <place></place>
     </event>
   </person>
   <biography/>

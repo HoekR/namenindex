@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Claude Ambroise</name> <name type="geslachtsnaam">R&#233;gnier</name></persName>
-    <persName>R&#233;gnier, Duc de Massa</persName>
-    <event type="birth" when="1746">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Aloysius Franciscus Xaverius</name> <name type="geslachtsnaam">Luyben</name></persName>
+    <event type="birth" when="2001">
+      <place>Waalwijk</place>
     </event>
-    <event type="death" when="1815">
-      <place></place>
+    <event type="death" when="1902-09-06">
+      <place>'s-Hertogenbosch</place>
     </event>
   </person>
   <biography/>

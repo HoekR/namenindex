@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerhard Gijsbert Joan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Suchtelen</name></persName>
-    <persName>Gerhard Joan van Suchtelen</persName>
-    <event type="birth" when="1722">
+    <persName><name type="voornaam">J.H.</name> <name type="geslachtsnaam">Noordbeek</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1788-05-29">
+    <event type="death">
       <place></place>
     </event>
   </person>

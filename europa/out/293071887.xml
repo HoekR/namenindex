@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/293071887"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs.</name> <name type="voornaam">Rie</name> <name type="intrapositie">Amsterdam 't</name> <name type="geslachtsnaam">Hooft-Welvaars</name></persName>
+    <event type="birth">
+      <date>29-08-1919</date>
+      <place>Alphen aan de Rijn</place>
+    </event>
+    <event type="death">
+      <date>18-05-2010</date>
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

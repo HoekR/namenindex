@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joannes Wilhelmus Henricus</name> <name type="geslachtsnaam">Bosch</name></persName>
-    <event type="birth" when="1799-07-23">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Margadant</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-07-05">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/15258"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Alexander Jeronimus Wolrad Hendrik</name> <name type="intrapositie">duc (Empire) von</name> <name type="geslachtsnaam">Dopff</name></persName>
+    <event type="birth" when="2004">
+      <place>Breda</place>
+    </event>
+    <event type="death" when="1827-04-01">
+      <place>Zierikzee</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

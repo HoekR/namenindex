@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hubertus</name> <name type="geslachtsnaam">Sassen</name></persName>
-    <event type="birth" when="1817-12-21">
-      <place>Hedel</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Koel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1902-03-23">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1787">
+      <place></place>
     </event>
   </person>
   <biography/>

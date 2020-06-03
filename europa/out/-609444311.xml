@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-609444311"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Horton, Gloucestershire (UK) nan</name> <name type="geslachtsnaam">Fack</name></persName>
+    <event type="birth">
+      <date>01-01-1917</date>
+      <place>Amsterdam</place>
+    </event>
+    <event type="death">
+      <date>17-06-2010</date>
+      <place>Horton, Gloucestershire (UK)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

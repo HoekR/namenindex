@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Dussen</name></persName>
-    <event type="birth" when="1763-12-12">
-      <place>Baarn</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
+    <event type="birth" when="1512">
+      <place></place>
     </event>
-    <event type="death" when="1820-12-24">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1578">
+      <place></place>
     </event>
   </person>
   <biography/>

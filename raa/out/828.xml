@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Juste Joseph</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Posson</name></persName>
-    <event type="birth" when="1751-03-03">
-      <place>Namen</place>
+    <persName><name type="voornaam">Claude Fran&#231;ois Joseph Catherin</name> <name type="geslachtsnaam">Jacquinot</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-04-20">
-      <place>Brussel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerard Johan</name> <name type="geslachtsnaam">Ver Loren van Themaat</name></persName>
-    <event type="birth" when="1809-02-12">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Minne</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1890-11-22">
-      <place>Utrecht</place>
+    <event type="death" when="1764-10-21">
+      <place></place>
     </event>
   </person>
   <biography/>

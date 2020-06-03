@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Hendrik</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Neukirchen genaamd Nyvenheim</name></persName>
-    <event type="birth" when="1775-05-14">
-      <place>Nijmegen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Hugenz.</name></persName>
+    <event type="birth" when="1452">
+      <place></place>
     </event>
-    <event type="death" when="1827-10-07">
-      <place>Nijmegen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

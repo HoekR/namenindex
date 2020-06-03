@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Frederik</name> <name type="geslachtsnaam">Lantsheer</name></persName>
-    <event type="birth" when="1791-05-27">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Rinnert  Fransz.</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Rollema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1838-08-30">
-      <place>Middelburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

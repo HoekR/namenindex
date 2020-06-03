@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Jansz.</name> <name type="geslachtsnaam">Fockendijk</name></persName>
+    <persName><name type="voornaam">Carolus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Gallus</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1694">
+    <event type="death" when="1635-08-14">
       <place></place>
     </event>
   </person>

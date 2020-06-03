@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Dam</name></persName>
-    <event type="birth" when="1824-10-08">
-      <place>Zutphen</place>
+    <persName><name type="voornaam">Karel</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Crucius</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-06-29">
-      <place>Neuenahr</place>
+    <event type="death" when="1728">
+      <place></place>
     </event>
   </person>
   <biography/>

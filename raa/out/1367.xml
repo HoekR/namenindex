@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wouter Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nellesteyn</name></persName>
-    <persName>Van Nellesteyn van Broekhuizen en Darthuizen</persName>
-    <event type="birth" when="1788-09-30">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Gerritsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Brederode</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1864-05-09">
-      <place>Broekhuizen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

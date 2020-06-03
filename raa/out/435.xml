@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Pont</name></persName>
-    <event type="birth" when="1781-04-20">
-      <place>Medemblik</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Epo</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-06-18">
-      <place>Medemblik</place>
+    <event type="death" when="1645-06-24">
+      <place></place>
     </event>
   </person>
   <biography/>

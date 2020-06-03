@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/63"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">ir.</name> <name type="voornaam">nan</name> <name type="intrapositie">Eindhoven nan</name> <name type="geslachtsnaam">Witte</name></persName>
+    <event type="birth">
+      <date>18-08-1909</date>
+      <place>Harlingen</place>
+    </event>
+    <event type="death">
+      <date>30-05-1973</date>
+      <place>Eindhoven</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

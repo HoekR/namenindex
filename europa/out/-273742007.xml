@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-273742007"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr. dr.</name> <name type="voornaam">Hein</name> <name type="intrapositie">Utrecht nan</name> <name type="geslachtsnaam">Roethof</name></persName>
+    <event type="birth">
+      <date>23-11-1921</date>
+      <place>Utrecht</place>
+    </event>
+    <event type="death">
+      <date>15-01-1966</date>
+      <place>Utrecht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

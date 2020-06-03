@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ludovicus</name> <name type="geslachtsnaam">Kluit</name></persName>
-    <event type="birth" when="1786-07-11">
-      <place>Mijnheerenland</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Douwe</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Walta</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-03-11">
-      <place>Mijnheerenland</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

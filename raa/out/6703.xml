@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Claes Cornelisz.</name> <name type="geslachtsnaam">Hoogtwoud</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Protwitz</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Zadelboger</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1652-10-05">
+    <event type="death" when="1410">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Nicolaas Joannes Lette</name> <name type="geslachtsnaam">Anemaet</name></persName>
-    <event type="birth" when="1809-07-16">
-      <place>Nieuwe Tonge</place>
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Homan</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1705">
       <place></place>
     </event>
   </person>

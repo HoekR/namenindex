@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Maertsz.</name> <name type="geslachtsnaam">Visscher</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Carel Marius</name> <name type="geslachtsnaam">Storm van 's Gravesande</name></persName>
+    <event type="birth" when="2005">
+      <place>Rotterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1880-08-07">
+      <place>Deventer</place>
     </event>
   </person>
   <biography/>

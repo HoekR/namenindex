@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Frederik Lodewijk Christiaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rechteren Limpurg</name></persName>
-    <persName>Van Rechteren Limpurg van Rechteren</persName>
-    <event type="birth" when="1748-02-29">
-      <place>W&#252;rzburg (Beieren)</place>
+    <persName><name type="voornaam">Lambertus Huibertsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Meerten</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1814-09-20">
-      <place>Oh&#233; en Laak</place>
+    <event type="death" when="1798">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Franciscus Johannes</name> <name type="geslachtsnaam">Jespers</name></persName>
-    <event type="birth" when="1790-02-02">
-      <place>Breda</place>
+    <persName><name type="voornaam">Jeronimus Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Karsseboom</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-02-08">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1771-11-22">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Marinus Jan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
-    <event type="birth" when="1757-08-10">
-      <place>Zierikzee</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Foreest</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-02-06">
-      <place>Middelburg</place>
+    <event type="death" when="1580-05-25">
+      <place></place>
     </event>
   </person>
   <biography/>

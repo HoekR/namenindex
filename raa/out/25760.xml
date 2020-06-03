@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/25760"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Johan Hendrik</name> <name type="geslachtsnaam">Schedet</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1813">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

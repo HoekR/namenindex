@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Sprang</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Hendricus Petrus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Heyden</name></persName>
+    <event type="birth" when="2012">
+      <place>Eindhoven</place>
     </event>
-    <event type="death" when="1714-12-15">
-      <place></place>
+    <event type="death" when="1813-05-08">
+      <place>Eindhoven</place>
     </event>
   </person>
   <biography/>

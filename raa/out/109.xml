@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Edmond Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dam van Isselt</name></persName>
-    <event type="birth" when="1796-02-20">
-      <place>Breda</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lodewijk</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Binkhorst</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-02-09">
-      <place>Geldermalsen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

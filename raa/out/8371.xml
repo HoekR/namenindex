@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Compostel</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Fagel</name></persName>
+    <event type="birth" when="2011">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1835-04-24">
+      <place>Gen&#232;ve</place>
     </event>
   </person>
   <biography/>

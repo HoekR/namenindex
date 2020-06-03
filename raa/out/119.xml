@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerardus Johannes</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Rijk</name></persName>
-    <event type="birth" when="1795-04-11">
-      <place>Duisburg</place>
+    <persName><name type="voornaam">Joan Andreas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Cunaeus</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-05-02">
-      <place>Steil</place>
+    <event type="death" when="1797">
+      <place></place>
     </event>
   </person>
   <biography/>

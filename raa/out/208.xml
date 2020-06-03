@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik Adolf</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Spaen</name></persName>
-    <persName>Van Spaen van Hulshorst</persName>
-    <persName>Van Spaen van Schouwenburg</persName>
-    <event type="birth" when="1781-10-08">
-      <place>Breda</place>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Carolus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Carnier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-12-05">
-      <place>Oldebroek</place>
+    <event type="death" when="1817">
+      <place></place>
     </event>
   </person>
   <biography/>

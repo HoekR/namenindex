@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Schelto Hessel</name> <name type="intrapositie">Roorda van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <event type="birth" when="1722">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Floris Florisz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Tol</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1790-07-08">
+    <event type="death">
       <place></place>
     </event>
   </person>

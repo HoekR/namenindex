@@ -1,0 +1,80 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Wijnveldt, Jan (1884-1949)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/wijnveldt"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">wijnveldt</idno>
+    <persName><name type="geslachtsnaam">Wijnveldt</name>, Jan</persName>
+    <sex value="1"/>
+    <event type="birth" when="1884"/>
+    <event type="death" when="1949"/>
+    <state type="occupation">jurist</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/WIJNVELDT.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Wijnveldt, Jan&lt;/strong&gt;, jurist ('s-Gravenhage 31-5-1884 - 's-Gravenhage 14-6-1949).
+
+Zoon van Johannes Antonie Wijnveldt, onderwijzer, en Margaretha de
+Kroes. Hij was gehuwd met Anna Maria Elisabeth Bruijn op 22-6-1911. Uit
+dit huwelijk werden geen kinderen geboren.
+
+&lt;img src=&amp;quot;images/WIJNVELDT.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Wijnveldt, Jan&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Na het gymnasium in zijn geboorteplaats doorlopen te hebben, ging
+hij rechtswetenschap in Leiden studeren, alwaar hij in 1908 op
+stellingen promoveerde en in 1917 in Utrecht op het proefschrift 
+&lt;em&gt;Neutraliteitsrecht te land&lt;/em&gt;
+
+('s-Gravenhage, 1917). Ondertussen is hij korte tijd advocaat
+geweest waarna hij reeds op 22 november 1909 benoemd werd tot ambtenaar
+van het openbaar ministerie bij de kantongerechten ter standplaats
+Rotterdam. In 1918 werd hij substituut-officier van justitie bij de
+rechtbank aldaar en in 1923 rechter in die rechtbank. Op 31 juli 1930
+werd hij benoemd tot advocaat-generaal bij de Hoge Raad der
+Nederlanden, welk ambt hij bij zijn dood nog bekleedde.&lt;/p&gt;
+&lt;p&gt;Wijnveldt is zowel als schrijver over juridische onderwerpen als in
+het verenigingsleven met name in de Vereniging voor Strafrechtspraak,
+later Nederlandse Vereniging voor Rechtspraak geheten actief geweest.
+In de sfeer van de Nederlandse rechterlijke macht genoot hij groot
+gezag. Toen tijdens de bezetting in 1943 de p.g. mr. W.J. Berger door
+de bezetter werd ontslagen, belastte hij zich met het genoemde ambt om
+bij de bevrijding weder in het te voren door hem beklede terug te
+treden. Hij was een markante persoonlijkheid; aan zijn kijk op mensen
+en dingen placht hij oorspronkelijk, illusieloos, soms bijna cynisch
+uiting te geven, terwijl hij in werkelijkheid een praktisch idealist
+was als weinigen, die steeds weer bereid was taken op zich te nemen die
+hij van maatschappelijk belang achtte en zich daaraan gaf met een
+toewijding, waardoor hij waarschijnlijk teveel van zijn krachten vergde
+en soms door zijn beperking tot het praktisch noodzakelijke weinig
+waardering oogstte van meer theoretisch ge&amp;iuml;nteresseerden.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve het bovengenoemde werk 
+&lt;em&gt;Het wegbrengen van schepen. Een na-oorlogsverschijnsel&lt;/em&gt;
+
+('s-Gravenhage, 1925); preadviezen voor de Nederlandsche
+Vereeniging voor Armenzorg en Weldadigheid in 1925 en voor de
+Nederlandsche Juristenvereeniging in 1930.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;J.M. van Bemmelen, in 
+&lt;em&gt;Nederlands Juristenblad&lt;/em&gt;
+
+24 (1949) 506-507.&lt;/p&gt;
+
+
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;&lt;i&gt;Persoonlijkheden in het Koninkrijk der Nederlanden in woord en beeld&lt;/i&gt;. Onder hoofdred. van H.P. van den Aardweg (Amsterdam 1938) 1669.
+&lt;/p&gt;
+
+&lt;p&gt;G.E. Langemeijer&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

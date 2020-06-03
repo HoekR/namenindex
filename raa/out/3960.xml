@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Schelto</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heemstra</name></persName>
-    <persName>Schelto van Hiemstra</persName>
-    <event type="birth" when="1665">
+    <persName><name type="voornaam">Jacob Eduard</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Mey</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1733-01-15">
+    <event type="death" when="1849">
       <place></place>
     </event>
   </person>

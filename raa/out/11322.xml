@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.J.</name> <name type="geslachtsnaam">Bose</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jan Pieter Christiaan</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Reede van ter Aa</name></persName>
+    <event type="birth" when="2002">
+      <place>Ruwiel</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1871-04-27">
+      <place>Nieuwersluis</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lodensteijn</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jacob Nanning Arend</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Wassenaer</name></persName>
+    <persName>Van Wassenaer van Sint Pancras</persName>
+    <event type="birth" when="2006">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1684-03-31">
-      <place></place>
+    <event type="death" when="1834-04-09">
+      <place>Nijmegen</place>
     </event>
   </person>
   <biography/>

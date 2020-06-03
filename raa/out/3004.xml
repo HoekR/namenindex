@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Benjamin</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Salve de Bruneton</name></persName>
-    <event type="birth" when="1768-08-15">
-      <place>Maastricht</place>
+    <persName><name type="voornaam">Jan Franciscus</name> <name type="geslachtsnaam">Pannebakker</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-06-04">
-      <place>Nijmegen</place>
+    <event type="death" when="1812">
+      <place></place>
     </event>
   </person>
   <biography/>

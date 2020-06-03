@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Abraham</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Schuurman</name></persName>
-    <persName>Johan Abraham Schuirmans</persName>
-    <event type="birth" when="1655">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Josias</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Olmius</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1731-06-03">
+    <event type="death">
       <place></place>
     </event>
   </person>

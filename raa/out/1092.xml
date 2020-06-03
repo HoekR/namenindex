@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Samuel</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Wind</name></persName>
-    <event type="birth" when="1793-01-26">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joost</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Borselen</name></persName>
+    <event type="birth" when="1465">
+      <place></place>
     </event>
-    <event type="death" when="1859-08-19">
-      <place>Middelburg</place>
+    <event type="death" when="1524">
+      <place></place>
     </event>
   </person>
   <biography/>

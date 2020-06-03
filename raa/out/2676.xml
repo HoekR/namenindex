@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jacob Hendrik</name> <name type="geslachtsnaam">Schorer</name></persName>
-    <event type="birth" when="1760-07-05">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Roelof</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Blok</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-01-19">
-      <place>Middelburg</place>
+    <event type="death" when="1776">
+      <place></place>
     </event>
   </person>
   <biography/>

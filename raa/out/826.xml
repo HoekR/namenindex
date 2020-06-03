@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Hendrik Maurits</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Poll</name></persName>
-    <event type="birth" when="1796-10-28">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Ernst Sicco</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <persName>Sicco van Aylva</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-10-20">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

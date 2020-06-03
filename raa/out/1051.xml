@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Carel Ferdinand</name> <name type="intrapositie">baron d'</name> <name type="geslachtsnaam">Aulnis de Bourouill</name></persName>
-    <event type="birth" when="1811-07-29">
-      <place>Faan (Oldekerk)</place>
+    <persName><name type="voornaam">Johan Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Baert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1883-09-09">
-      <place>Velp</place>
+    <event type="death" when="1721">
+      <place></place>
     </event>
   </person>
   <biography/>

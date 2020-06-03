@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/729670813"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Hinterzarten nan</name> <name type="geslachtsnaam">Picht</name></persName>
+    <event type="birth">
+      <date>27-09-1937</date>
+      <place>Berlijn</place>
+    </event>
+    <event type="death">
+      <date>24-09-2008</date>
+      <place>Hinterzarten</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Tjalling Oenes</name> <name type="geslachtsnaam">Bangma</name></persName>
+    <persName><name type="voornaam">Abraham Quevellerius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Swinderen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1808">
       <place></place>
     </event>
   </person>

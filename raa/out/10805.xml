@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolaas Claudius</name> <name type="geslachtsnaam">Gey</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Martinus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Toulon</name></persName>
+    <event type="birth" when="2002">
+      <place>Gorinchem</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1818-03-25">
+      <place>Gouda</place>
     </event>
   </person>
   <biography/>

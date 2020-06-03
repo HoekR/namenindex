@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Busleyden</name></persName>
-    <event type="birth" when="1450">
-      <place></place>
+    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Hartsen</name></persName>
+    <event type="birth" when="2001">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1502">
-      <place></place>
+    <event type="death" when="1895-11-10">
+      <place>Hilversum</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heukelom</name></persName>
-    <event type="birth" when="1822-03-29">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">S&#233;bastien-Louis-Joseph</name> <name type="geslachtsnaam">Jannesson</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1880-07-11">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1864">
+      <place></place>
     </event>
   </person>
   <biography/>

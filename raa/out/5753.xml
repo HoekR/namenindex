@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">W.A.</name> <name type="geslachtsnaam">Maclaine</name></persName>
+    <persName><name type="voornaam">Jacob Nicolaesz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Dussen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1728-01-11">
       <place></place>
     </event>
   </person>

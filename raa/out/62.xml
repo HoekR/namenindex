@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles Aim&#233; Emmanuel</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Meere van Cruyshautem</name></persName>
-    <event type="birth" when="1766-05-31">
-      <place>Oudenaarde</place>
+    <persName><name type="voornaam">Coenraad Hendriksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Josselet</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-03-07">
-      <place>Brussel</place>
+    <event type="death" when="1783-09-17">
+      <place></place>
     </event>
   </person>
   <biography/>

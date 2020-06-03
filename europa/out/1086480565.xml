@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1086480565"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Max</name> <name type="intrapositie">Amsterdam nan</name> <name type="geslachtsnaam">Rood</name></persName>
+    <event type="birth">
+      <date>21-08-1929</date>
+      <place>Enschede</place>
+    </event>
+    <event type="death">
+      <date>02-12-2001</date>
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

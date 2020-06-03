@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/2087201086"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Sinninghe Damst&#233;</name></persName>
+    <event type="birth">
+      <date>10-05-1931</date>
+      <place>Soerabaja</place>
+    </event>
+    <event type="death">
+      <date>2008</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

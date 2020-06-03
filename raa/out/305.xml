@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Hugo</name> <name type="geslachtsnaam">Bowier</name></persName>
-    <event type="birth" when="1758-03-06">
-      <place>'s-Hertogenbosch</place>
+    <persName>
+      <name type="geslachtsnaam">Hortensia Eugenia (Hortense) de Beauharnais</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-06-11">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1837">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Foecke Piers</name> <name type="geslachtsnaam">Heemstra</name></persName>
+    <persName><name type="voornaam">Lambert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Reynst</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1679-08-12">
       <place></place>
     </event>
   </person>

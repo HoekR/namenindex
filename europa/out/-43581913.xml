@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-43581913"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Auckland nan</name> <name type="geslachtsnaam">Muldoon</name></persName>
+    <event type="birth">
+      <date>25-09-1921</date>
+      <place>Auckland</place>
+    </event>
+    <event type="death">
+      <date>05-08-1992</date>
+      <place>Auckland</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">E.M.</name> <name type="geslachtsnaam">Queysen</name></persName>
+    <persName><name type="voornaam">Samuel Samuelsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Everwijn</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1694-01-03">
       <place></place>
     </event>
   </person>

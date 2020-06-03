@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fredericus Ferdinandus Henricus Josephus</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Negri</name></persName>
-    <event type="birth" when="1768-12-14">
-      <place>Brunssum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Klaasz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-03-15">
-      <place>Brunssum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

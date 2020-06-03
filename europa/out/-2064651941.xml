@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-2064651941"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof. dr.</name> <name type="voornaam">Peter</name> <name type="intrapositie">Wassenaar nan</name> <name type="geslachtsnaam">Kooijmans</name></persName>
+    <event type="birth">
+      <date>06-07-1933</date>
+      <place>Heemstede</place>
+    </event>
+    <event type="death">
+      <date>13-02-2013</date>
+      <place>Wassenaar</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

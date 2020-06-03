@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Dani&#235;l Cornelis Carel Willem</name> <name type="intrapositie">baron d'</name> <name type="geslachtsnaam">Ablaing van Giessenburg</name></persName>
-    <event type="birth" when="1779-06-06">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sijtze</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <persName>Sytthie Aylva</persName>
+    <persName>Zidzie van Aylva</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-06-27">
-      <place>Doorn</place>
+    <event type="death" when="1548-07-09">
+      <place></place>
     </event>
   </person>
   <biography/>

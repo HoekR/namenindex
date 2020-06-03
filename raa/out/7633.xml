@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hercules</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vries</name></persName>
-    <event type="birth" when="1667">
-      <place></place>
+    <persName><name type="voornaam">Hendrik Rudolph</name> <name type="geslachtsnaam">Trip</name></persName>
+    <event type="birth" when="2004">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death" when="1717-05-03">
-      <place></place>
+    <event type="death" when="1865-07-01">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

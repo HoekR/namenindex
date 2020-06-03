@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-723142904"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Salas</name></persName>
+    <event type="birth">
+      <date>07-08-1928</date>
+      <place>Bago, Negros Occidental</place>
+    </event>
+    <event type="death">
+      <date>04-03-1987</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

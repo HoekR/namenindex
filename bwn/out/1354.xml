@@ -1,0 +1,192 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Ornstein, Leonard Salomon (1880-1941)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn2/ornstein"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">ornstein</idno>
+    <persName><name type="geslachtsnaam">Ornstein</name>, Leonard Salomon</persName>
+    <sex value="1"/>
+    <event type="birth" when="1880"/>
+    <event type="death" when="1941"/>
+    <state type="occupation">natuurkundige</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn2/images/images/ORNSTEIN.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Ornstein, Leonard Salomon&lt;/strong&gt;, fysicus (Nijmegen 12-11-1880 - Utrecht 20-5-1941).
+
+Zoon van Nathan Leonard Ornstein, koopman, en Sophia Maria Manson.
+Gehuwd op 29-6-1911 met Jeanette Hoofi&amp;euml;n. Uit dit huwelijk werden
+2 dochters geboren. Na echtscheiding (24-3-1927) gehuwd op 8-3-1929 met
+Sophia Estella Meijer. Uit dit huwelijk werden 2 zoons geboren.
+
+&lt;img src=&amp;quot;images/ORNSTEIN.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Ornstein, Leonard Salomon&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Na de HBS in Nijmegen en 's-Gravenhage te hebben doorlopen en
+staatsexamen B te hebben gedaan, studeerde Ornstein van 1898 tot 1908
+theoretische natuurkunde aan de Universiteit van Leiden. Hij
+promoveerde bij H.A. Lorentz op 26 maart 1908 op een dissertatie: 
+&lt;em&gt;Toepassing der statistische mechanica van Gibbs op
+molekulair-theoretische vraagstukken.&lt;/em&gt;
+
+Hij was assistent van Lorentz en werd in 1909 benoemd tot lector in de
+wiskundige natuurkunde aan de Universiteit van Groningen. Op 29 april
+1909 hield hij zijn openbare les over 
+&lt;em&gt;De rol der wiskunde in de mathematische physica.&lt;/em&gt;
+
+In 1914 volgde zijn benoeming tot gewoon hoogleraar in de theoretische
+fysica aan de Utrechtse Universiteit als opvolger van P. Debye. Hij
+aanvaardde dit ambt op 25 januari 1915 met een oratie over 
+&lt;em&gt;Problemen der kinetische theorie van de stof.&lt;/em&gt;
+
+In 1920 werd hij wegens ziekte van W.H. Julius tijdelijk directeur van
+het natuurkundig instituut te Utrecht en, na de dood van Julius in
+1925, directeur. Vanaf 1921 hield hij zich bezig met de uitbreiding van
+het natuurkundig laboratorium, waarvan de offici&amp;euml;le opening op 9
+februari 1926 plaatsvond.&lt;/p&gt;
+&lt;p&gt;Omsteins bijdrage tot de theoretische natuurkunde was aanvankelijk
+de toepassing van de statistische methode van J.W. Gibbs (1902) op
+moleculair-theoretische vraagstukken, waaronder de bepaling van de
+toestandsvergelijking van een niet-ideaal gas. In zijn dissertatie
+bepaalde hij de waarschijnlijkheid dat in een homogeen systeem een
+gegeven ruimtelijke dichtheidsverdeling optreedt. Dit was de basis van
+praktisch al het theoretisch werk dat Ornstein uitsluitend in zijn
+Groninger jaren verrichtte. Uit de titel van zijn openbare les blijkt
+vooral zijn belangstelling voor de wiskundige kant van natuurkundige
+problemen. In Groningen en Utrecht werd het werk over
+statistisch-mechanische problemen voortgezet, maar vonden ook samen met
+F. Zernike onderzoekingen plaats over de zwerm vorming van moleculen
+(1914-1920).&lt;/p&gt;
+&lt;p&gt;Voorts publiceerde hij over de theorie van de Brownse beweging
+(vanaf 1917) en de lichtquanta (vanaf 1919). In Utrecht kwamen hier nog
+de onderzoekingen bij over de zwermvorming van moleculen, de kinetische
+theorie van de vaste stof en de theorie van het magnetisme. In deze
+tijd werd Ornstein van zuiver theoreticus experimentator, vooral door
+het contact en de samenwerking met W.J.H. Moll. Ze deden proeven over
+vloeibare kristallen (1916-1918), die Ornstein beschouwde als een
+voorbeeld van zijn theorie van de moleculaire zwermvorming. Ornstein
+zag in dat de vooruitgang in de atoomfysica niet alleen de zeer
+nauwkeurige metingen vereist van spectrale frequenties, maar
+daarenboven van de kwantitatieve intensiteitsmetingen van
+emissielijnen. Vanaf 1920 deed hij systematisch kwantitatieve
+objectieve metingen van lichtintensiteiten, speciaal van
+spectraallijnen met behulp van zwartheidsmetingen aan fotografische
+platen. De resultaten van dit pionierswerk brachten hem en het Utrechts
+laboratorium grote wetenschappelijke roem. Voor de ontwikkeling van de
+atoomtheorie zijn de Utrechtse intensiteitsmetingen van veel belang
+geweest. Een samenvatting ervan verscheen in 1932 in boekvorm: 
+&lt;em&gt;Objektive Spektralphotometrie&lt;/em&gt;
+
+(met Moll en H.C. Burger). Een volledig overzicht van Omsteins werk is
+te vinden in het boek 
+&lt;em&gt;Ornstein. A survey of his work...,&lt;/em&gt;
+
+dat hem in 1933 bij gelegenheid van zijn 25-jarig doctoraat door
+medewerkers en leerlingen werd aangeboden. Zijn later Utrechtse werk
+handelt over de metingen aan bandenspectra, het Raman-effect,
+mengverhoudingen van isotopen en fijnstructuren en metingen over
+boogontladingen. Omsteins theoretisch werk draagt sterk het stempel van
+zijn leermeester Lorentz. Steeds wordt uitgegaan van een helder en
+ondubbelzinnig model van het te bestuderen verschijnsel, en de
+wiskundige consequenties ervan worden zo nauwkeurig mogelijk
+uitgewerkt. Het bijzonder karakter van de quantummechanica vond
+Ornstein onbevredigend. Hij voelde niets voor de door Heisenberg en
+Bohr aangenomen ongedetermineerdheid van het natuurgebeuren.&lt;/p&gt;
+&lt;p&gt;Vanaf ongeveer 1926 werkten Ornstein en zijn leerlingen intensief
+samen met verschillende technische instanties. Hij stelde de technici
+plaatsruimte, hulpmiddelen en onderzoekers ter beschikking om hun
+problemen onder gezamenlijke leiding te bestuderen. Zo werd in het
+nieuwe Gemeentemuseum in Den Haag de verlichting, zowel voor daglicht
+als voor kunstlicht, geheel ingericht volgens de aanwijzingen van
+Ornstein en zijn medewerkers. In 1927 schreef hij een artikel over de
+'Daadwerkelijke Samenwerking tusschen de Universiteit, de
+Technische Hoogeschool en de Industrie' 
+&lt;em&gt;(Electrotechniek&lt;/em&gt;
+
+5 (1927) 79) en in 1932 hield hij een voordracht over 
+&lt;em&gt;De beteekenis der natuurkunde voor cultuur en maatschappij.&lt;/em&gt;
+
+In 1935 begon zijn samenwerking met de Delftse microbioloog A.J.
+Kluyver. Ornstein had van de Rockefeller Foundation een beurs gekregen
+voor het bijeenbrengen van een groep onderzoekers die zich zouden
+bezighouden met onderzoekingen op het gebied van de biofysica. Onder de
+gezamenlijke leiding van Ornstein en Kluyver ontstond de
+'Biophysical Group Utrecht-Delft'. Ze was gehuisvest in het
+fysisch laboratorium te Utrecht. Onderwerpen van onderzoek waren de
+fotosynthese in eencellige groene wieren en purperbacteri&amp;euml;n en de
+bioluminescentie van lichtgevende bacteri&amp;euml;n.&lt;/p&gt;
+&lt;p&gt;Ornstein was niet alleen een begaafd theoreticus. Als directeur van
+het Physisch Laboratorium oefende hij een uitermate bezielende invloed
+op zijn medewerkers en leerlingen uit. Hij had belangstelling voor hun
+nieuwe idee&amp;euml;n en zette zich in om hen in staat te stellen deze te
+verwezenlijken. Waar nodig vocht hij als een leeuw voor de belangen van
+zijn laboratorium en allen die daarin werkzaam waren. Naast zijn
+wetenschappelijk werk deed Omstein veel voor het zionisme. Hij was van
+1918 tot 1922 voorzitter van de Nederlandsche Zionistenbond. Voorts was
+hij sterk ge&amp;iuml;nteresseerd in het Montessori-onderwijs en was hij in
+1939 en 1940 voorzitter van de Nederlandse Natuurkundige
+Vereniging.&lt;/p&gt;
+&lt;p&gt;Nog korte tijd voor zijn overlijden moest Ornstein de gevolgen van
+de Duitse bezetting ondergaan: wegens zijn joodse afkomst werd hij als
+hoogleraar in november 1940 ontslagen en werd hem verboden zijn
+laboratorium te betreden.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='agedeelte'&gt;A: &lt;/a&gt;In 
+&lt;em&gt;Sources for history of quantum physics...&lt;/em&gt;
+
+[By] Th.S. K&amp;uuml;hn, J.L. Heilbron, P. Forman et al. (Philadelphia,
+1967) 72, waarin een overzicht van archiefbewaarplaatsen van
+ongepubliceerd materiaal etc.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Bibliografie tot 1933 in onder L genoemd 
+&lt;em&gt;A survey of his work...,&lt;/em&gt;
+
+87-121. De publikaties van de 'Biophysical Group Utrecht-Delft'
+staan in 
+&lt;em&gt;Alben Jan Kluyver. His life and work.&lt;/em&gt;
+
+[Ed. by A.F. Kamp, J.W.M. La Rivi&amp;egrave;re en W. Verhoeven]. (Amsterdam,
+1959) 548-553.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;L.S. Ornstein. 
+&lt;em&gt;A survey ofhis workfrom 1908 to 1933. Dedicated to him by his
+fellow-workers and pupils&lt;/em&gt;
+
+(Utrecht, 1933); H.A. Kramers, 'Levensbericht van L.S.
+Ornstein...', in 
+&lt;em&gt;Jaarboek der Nederlandsche Akademie van Wetenschappen 1940-1941,&lt;/em&gt;
+
+225-231; F. Zernike, 'Ornsteins levenswerk', in 
+&lt;em&gt;Nederlandsch Tijdschrift voor Natuurkunde&lt;/em&gt;
+
+8 (1941) 253-265; W. Cool, in 
+&lt;em&gt;De Ingenieur&lt;/em&gt;
+
+56 (1941) A 210-211; W.J.H. Moll, in 
+&lt;em&gt;Electrotechniek&lt;/em&gt;
+
+62 (1941) 11 (30 mei) 95-97; R.C. Mason, 'Leonard Salomon
+Ornstein', in 
+&lt;em&gt;Science&lt;/em&gt;
+
+102 (1945) 638-639; L.A.M. Giebels, 
+&lt;em&gt;De Zionistische beweging in Nederland 1899-1941&lt;/em&gt;
+
+(Assen, 1975).&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;&lt;i&gt;Persoonlijkheden in het Koninkrijk der Nederlanden in woord en beeld&lt;/i&gt;. Onder hoofdred. van H.P. van den Aardweg (Amsterdam 1938) 1111.
+&lt;/p&gt;
+
+&lt;p&gt;H.A.M. Snelders&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

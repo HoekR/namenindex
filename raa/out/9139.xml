@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Laas</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Jongema</name></persName>
-    <persName>Agge van Walta</persName>
-    <event type="birth" when="1550">
+    <persName><name type="voornaam">Christiaan Adriaansz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Goes</name></persName>
+    <event type="birth" when="1540">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1600">
       <place></place>
     </event>
   </person>

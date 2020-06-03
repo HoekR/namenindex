@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Alardus</name> <name type="geslachtsnaam">Schouten</name></persName>
-    <persName>Aaldert Schouten</persName>
-    <event type="birth" when="1754-08-15">
-      <place>Puiflijk</place>
+    <persName><name type="voornaam">Derk Aljes</name> <name type="geslachtsnaam">Bonthuis</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-09-09">
-      <place>Druten</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

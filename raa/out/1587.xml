@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joan Philip</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Sloet tot Tweenyenhuizen</name></persName>
-    <event type="birth" when="1794-08-09">
-      <place>Vollenhove</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Augustinus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Lycklama &#224; Nijeholt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-04-17">
-      <place>Zwolle</place>
+    <event type="death" when="1789-10-30">
+      <place></place>
     </event>
   </person>
   <biography/>

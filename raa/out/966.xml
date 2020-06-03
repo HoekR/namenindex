@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Theodorus Marcellus Ignatius Aloysius</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Lamsweerde</name></persName>
-    <event type="birth" when="1791-10-14">
-      <place>Zutphen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Hobbo</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Burmania</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-03-31">
-      <place>Huissen</place>
+    <event type="death" when="1765-12-02">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1562896671"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">baron</name> <name type="voornaam">nan</name> <name type="intrapositie">nan Petit de</name> <name type="geslachtsnaam">Beauverger</name></persName>
+    <event type="birth">
+      <date>26-04-1899</date>
+      <place>Parijs</place>
+    </event>
+    <event type="death">
+      <date>1993</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

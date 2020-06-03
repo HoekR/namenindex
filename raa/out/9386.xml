@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Heermans</name></persName>
+    <persName><name type="voornaam">Floris Willem</name> <name type="intrapositie">hertog</name> <name type="geslachtsnaam">Sloet</name></persName>
+    <persName>Sloet van Warmelo</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1838-01-30">
       <place></place>
     </event>
   </person>

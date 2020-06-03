@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Wiardus</name> <name type="intrapositie">Hora</name> <name type="geslachtsnaam">Siccama</name></persName>
-    <persName>Hora Siccama van Slochteren</persName>
-    <event type="birth" when="1791-04-27">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Meijndert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Merens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-06-25">
-      <place>Utrecht</place>
+    <event type="death" when="1681-10-01">
+      <place></place>
     </event>
   </person>
   <biography/>

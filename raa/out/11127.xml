@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Simon</name> <name type="geslachtsnaam">Polman</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Reynoud Diederik Jacob</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Reede</name></persName>
+    <persName>Van Reede van Athlone</persName>
+    <event type="birth" when="2007">
+      <place>Utrecht</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1823-10-31">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

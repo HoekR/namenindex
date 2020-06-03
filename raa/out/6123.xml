@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Reinhard Burchard Rutger</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rechteren tot Gramsbergen</name></persName>
-    <event type="birth" when="1702">
+    <persName><name type="voornaam">Adrianus</name> <name type="geslachtsnaam">Bredero</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1780-01-23">
+    <event type="death">
       <place></place>
     </event>
   </person>

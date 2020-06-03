@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Barthold Arnold</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Verschuer</name></persName>
-    <event type="birth" when="1809-07-05">
-      <place>Bergharen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Waele</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1901-01-03">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1538">
+      <place></place>
     </event>
   </person>
   <biography/>

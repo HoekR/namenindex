@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Mattheus Eduardus</name> <name type="geslachtsnaam">Smits</name></persName>
-    <event type="birth" when="1789-03-19">
-      <place>Brussel</place>
+    <persName><name type="voornaam">Dirk</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Egmond van de Nijenburg</name></persName>
+    <event type="birth" when="1537">
+      <place></place>
     </event>
-    <event type="death" when="1852-01-22">
-      <place>Elsene (Brussel)</place>
+    <event type="death" when="1596">
+      <place></place>
     </event>
   </person>
   <biography/>

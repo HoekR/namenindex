@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1284686752"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Viareggio nan</name> <name type="geslachtsnaam">No&#235;l</name></persName>
+    <event type="birth">
+      <date>17-11-1922</date>
+      <place>Istanbul</place>
+    </event>
+    <event type="death">
+      <date>24-08-1996</date>
+      <place>Viareggio</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

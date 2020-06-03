@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Maximiliaan</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Berg</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Antonius Josephus Johannes Henricus</name> <name type="geslachtsnaam">Verheijen</name></persName>
+    <event type="birth" when="2007">
+      <place>Boxmeer</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1833-03-12">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Cleyningh</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Joannes</name> <name type="intrapositie">Junius van</name> <name type="geslachtsnaam">Hemert</name></persName>
+    <event type="birth" when="2002">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1601">
-      <place></place>
+    <event type="death" when="1858-01-08">
+      <place>De Bilt</place>
     </event>
   </person>
   <biography/>

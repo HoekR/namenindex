@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Edouard Adolphe Bernard Joseph</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Brouck&#232;re</name></persName>
-    <event type="birth" when="1802-08-15">
-      <place>Brussel</place>
+    <persName><name type="voornaam">Isebrandus Johannes</name> <name type="intrapositie">comte (Empire) Faber van</name> <name type="geslachtsnaam">Riemsdijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-10-13">
-      <place>Chalon-sur-Sa&#244;ne</place>
+    <event type="death" when="1819">
+      <place></place>
     </event>
   </person>
   <biography/>

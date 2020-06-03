@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Albert</name> <name type="geslachtsnaam">Coninck</name></persName>
-    <event type="birth" when="1684">
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Groenendijck</name></persName>
+    <persName>Cornelis van Groendijk</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1735-03-05">
+    <event type="death" when="1675">
       <place></place>
     </event>
   </person>

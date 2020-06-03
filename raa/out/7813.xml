@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jansz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Drept</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Albrecht Fredrik</name> <name type="geslachtsnaam">Insinger</name></persName>
+    <event type="birth" when="2008">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1872-12-03">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

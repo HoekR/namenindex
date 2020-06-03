@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Frans</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Limborch</name></persName>
-    <event type="birth" when="1679">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Arnoldus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gennep</name></persName>
+    <persName>Van Gennip</persName>
+    <event type="birth" when="2001">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1765-09-21">
-      <place></place>
+    <event type="death" when="1846-05-07">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

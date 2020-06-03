@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">David Isaak</name> <name type="geslachtsnaam">Schorer</name></persName>
-    <event type="birth" when="1764-03-24">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Pier Johannes</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Visser</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-03-19">
-      <place>Middelburg</place>
+    <event type="death" when="1848">
+      <place></place>
     </event>
   </person>
   <biography/>

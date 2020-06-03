@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/342454502"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Muret (Haute Garonne) nan</name> <name type="geslachtsnaam">Auriol</name></persName>
+    <event type="birth">
+      <date>27-08-1884</date>
+      <place>Revel (Haute Garonne)</place>
+    </event>
+    <event type="death">
+      <date>01-01-1996</date>
+      <place>Muret (Haute Garonne)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

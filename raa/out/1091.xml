@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Antony Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Doorn</name></persName>
-    <persName>Van Doorn van Koudekerke</persName>
-    <event type="birth" when="1791-03-11">
-      <place>Vlissingen</place>
+    <persName><name type="voornaam">Diderik</name> <name type="intrapositie">Van</name> <name type="geslachtsnaam">Horbag</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-05-11">
-      <place>Middelburg</place>
+    <event type="death" when="1825">
+      <place></place>
     </event>
   </person>
   <biography/>

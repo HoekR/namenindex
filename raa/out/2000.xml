@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philippus Petrus Thomas</name> <name type="geslachtsnaam">Pierssens</name></persName>
+    <persName><name type="voornaam">Jacobus Egmondt</name> <name type="geslachtsnaam">Austen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1804">
       <place></place>
     </event>
   </person>

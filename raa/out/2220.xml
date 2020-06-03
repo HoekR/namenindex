@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fredrik</name> <name type="geslachtsnaam">Dam</name></persName>
-    <event type="birth" when="1799-08-03">
-      <place>Oostzaandam</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boreel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-09-24">
-      <place>Zaandam</place>
+    <event type="death" when="1796">
+      <place></place>
     </event>
   </person>
   <biography/>

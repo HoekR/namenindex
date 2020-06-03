@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Franz Harms</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Lindern</name></persName>
-    <event type="birth" when="1804-09-17">
-      <place>Schaar (Oldenburg)</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf broeder</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-05-17">
-      <place>Alblasserdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

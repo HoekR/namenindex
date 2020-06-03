@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/5002"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">August Robbert</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
+    <event type="birth" when="1743"/>
+    <event type="death" when="1811"/>
+  </person>
+  <biography/>
+</biodes>

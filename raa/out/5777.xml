@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Aart Jan</name> <name type="geslachtsnaam">Dijksen</name></persName>
+    <persName><name type="voornaam">Frans</name> <name type="intrapositie">comte (Empire) Croes</name> <name type="geslachtsnaam">Lycochthon</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1757-10-01">
       <place></place>
     </event>
   </person>

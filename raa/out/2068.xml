@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vredenburch</name></persName>
-    <event type="birth" when="1782-08-06">
-      <place>Delft</place>
+    <persName><name type="voornaam">Hermanus</name> <name type="geslachtsnaam">Borgrink</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-12-14">
-      <place>Rijswijk (ZH)</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

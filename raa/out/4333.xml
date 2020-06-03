@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Beeck</name></persName>
-    <persName>Johan ter Beeck</persName>
+    <persName><name type="voornaam">Jacob Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Fockendijk</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1610-02-10">
+    <event type="death" when="1694">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Meister</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jean Patrice</name> <name type="geslachtsnaam">O'Sullivan de Grass</name></persName>
+    <event type="birth" when="2001">
+      <place>Brussel</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1846-12-19">
+      <place>Brussel</place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1099660253"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Santa Cruz nan</name> <name type="geslachtsnaam">Dasmann</name></persName>
+    <event type="birth">
+      <date>1919</date>
+      <place>San Francisco</place>
+    </event>
+    <event type="death">
+      <date>05-11-2002</date>
+      <place>Santa Cruz</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

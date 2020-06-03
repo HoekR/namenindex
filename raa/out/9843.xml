@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Verwer (Hooghlant)</name></persName>
-    <persName>Cornelis de Jonge</persName>
-    <event type="birth" when="1656">
+    <persName><name type="voornaam">Reinder Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hemert</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1702">
+    <event type="death" when="1779-11-09">
       <place></place>
     </event>
   </person>

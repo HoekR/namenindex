@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Jan Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hasselt</name></persName>
-    <event type="birth" when="1795-01-09">
-      <place>Amsterdam</place>
+    <persName>
+      <name type="geslachtsnaam">Duclerc</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1864-03-02">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

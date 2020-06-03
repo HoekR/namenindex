@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1816695700"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Swinford nan</name> <name type="geslachtsnaam">Kenny</name></persName>
+    <event type="birth">
+      <date>07-09-1913</date>
+      <place>Castlebar</place>
+    </event>
+    <event type="death">
+      <date>25-09-1975</date>
+      <place>Swinford</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

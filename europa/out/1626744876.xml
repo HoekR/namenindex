@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1626744876"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Finet</name></persName>
+    <event type="birth">
+      <date>04-11-1897</date>
+      <place>Montignies-sur-Sambre</place>
+    </event>
+    <event type="death">
+      <date>18-05-1965</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

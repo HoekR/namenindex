@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Edzens Hagenouw</name> <name type="geslachtsnaam">Brongers</name></persName>
-    <event type="birth" when="1781-05-20">
-      <place>Garrelsweer</place>
+    <persName><name type="voornaam">Maerten Engelbertsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pauw</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-07-30">
-      <place>Leens</place>
+    <event type="death" when="1680">
+      <place></place>
     </event>
   </person>
   <biography/>

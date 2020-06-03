@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Everhard</name> <name type="geslachtsnaam">Both van der Eem</name></persName>
-    <persName>Evert Both van der Eem</persName>
+    <persName><name type="voornaam">Adriaen Hendriksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vink</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1634-02-01">
+    <event type="death" when="1653-08-13">
       <place></place>
     </event>
   </person>

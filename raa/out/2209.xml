@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelius Johannes</name> <name type="intrapositie">de Bruyn</name> <name type="geslachtsnaam">Kops</name></persName>
-    <event type="birth" when="1791-03-06">
-      <place>Haarlem</place>
+    <persName><name type="voornaam">Michiel</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Bruyningh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-04-17">
-      <place>Haarlem</place>
+    <event type="death" when="1773">
+      <place></place>
     </event>
   </person>
   <biography/>

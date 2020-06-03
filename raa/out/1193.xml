@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Alberts</name> <name type="geslachtsnaam">Meursinge</name></persName>
-    <event type="birth" when="1795-01-26">
-      <place>Anloo</place>
+    <persName><name type="voornaam">J.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Burgh(t)</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-01-03">
-      <place>Anloo</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

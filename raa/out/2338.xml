@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Philippus Lodewijk</name> <name type="geslachtsnaam">Begram van Jaarsveld</name></persName>
-    <event type="birth" when="1790-12-18">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Johannes Henricus Petrus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-07-24">
-      <place>Gorinchem</place>
+    <event type="death" when="1823">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Daniel</name> <name type="geslachtsnaam">Cramer</name></persName>
-    <event type="birth" when="1788-09-02">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik (III)</name> <name type="intrapositie">knaap van</name> <name type="geslachtsnaam">Nassau</name></persName>
+    <event type="birth" when="1483">
+      <place></place>
     </event>
-    <event type="death" when="1856-12-21">
-      <place>Amsterdam</place>
+    <event type="death" when="1538">
+      <place></place>
     </event>
   </person>
   <biography/>

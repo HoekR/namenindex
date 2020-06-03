@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus Christianus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Mierlo</name></persName>
-    <event type="birth" when="1788-03-17">
-      <place>Breda</place>
+    <persName><name type="voornaam">Johan</name> <name type="geslachtsnaam">Meerman van Dalem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1865-04-14">
-      <place>Breda</place>
+    <event type="death" when="1815">
+      <place></place>
     </event>
   </person>
   <biography/>

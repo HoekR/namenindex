@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1886790942"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Prof. dr.</name> <name type="voornaam">Wim</name> <name type="intrapositie">Faucon (Frankrijk) nan</name> <name type="geslachtsnaam">Duisenberg</name></persName>
+    <event type="birth">
+      <date>09-07-1935</date>
+      <place>Heerenveen</place>
+    </event>
+    <event type="death">
+      <date>31-07-2005</date>
+      <place>Faucon (Frankrijk)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

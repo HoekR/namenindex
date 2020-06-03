@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Arijensz.</name> <name type="geslachtsnaam">Beijs</name></persName>
-    <persName>Pieter Arijensz. Bois</persName>
-    <persName>Pieter Arijensz. Boys</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Gijsbert Carel Rutger Reinier</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Brienen van Ramerus</name></persName>
+    <event type="birth" when="2010">
+      <place>Amersfoort</place>
     </event>
-    <event type="death" when="1680">
-      <place></place>
+    <event type="death" when="1821-09-18">
+      <place>Grebbe</place>
     </event>
   </person>
   <biography/>

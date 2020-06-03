@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerhard</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Mauregnault</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Tobias Gutberleth</name> <name type="geslachtsnaam">Plegher</name></persName>
+    <event type="birth" when="2008">
+      <place>Zutphen</place>
     </event>
-    <event type="death" when="1727">
-      <place></place>
+    <event type="death" when="1817-08-04">
+      <place>Zutphen</place>
     </event>
   </person>
   <biography/>

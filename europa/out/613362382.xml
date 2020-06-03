@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/613362382"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr. Ing.</name> <name type="voornaam">nan</name> <name type="intrapositie">D&#252;sseldorf nan</name> <name type="geslachtsnaam">Sohl</name></persName>
+    <event type="birth">
+      <date>02-05-1906</date>
+      <place>Danzig (Gdansk)</place>
+    </event>
+    <event type="death">
+      <date>13-11-1989</date>
+      <place>D&#252;sseldorf</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

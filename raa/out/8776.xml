@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Mieusz.</name> <name type="geslachtsnaam">Gracht</name></persName>
+    <persName><name type="voornaam">Cornelis Joansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Steengracht</name></persName>
+    <persName>Cornelis Joansz. Steengracht de Wehl</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1781-12-10">
       <place></place>
     </event>
   </person>

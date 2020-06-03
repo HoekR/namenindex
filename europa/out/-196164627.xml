@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-196164627"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Borgo Valsugana de</name> <name type="geslachtsnaam">Gasperi</name></persName>
+    <event type="birth">
+      <date>03-04-1881</date>
+      <place>Pieve Tesino</place>
+    </event>
+    <event type="death">
+      <date>19-08-1954</date>
+      <place>Borgo Valsugana</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

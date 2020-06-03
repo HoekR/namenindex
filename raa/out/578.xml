@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Arnold Jan Bernard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Suchtelen</name></persName>
-    <persName>Van Suchtelen van de Haare</persName>
-    <event type="birth" when="1770-10-30">
-      <place>Olst</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bernhardus Hermannus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Knock</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-01-21">
-      <place>Zwolle</place>
+    <event type="death" when="1780-09-01">
+      <place></place>
     </event>
   </person>
   <biography/>

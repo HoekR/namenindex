@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Marinus</name> <name type="geslachtsnaam">Verbrugge</name></persName>
-    <event type="birth" when="1802-05-04">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Binkhorst</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1888-12-29">
-      <place>Middelburg</place>
+    <event type="death" when="1810">
+      <place></place>
     </event>
   </person>
   <biography/>

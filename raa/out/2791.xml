@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Frederic Godefroid Gaspar</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Cox van Hommelen</name></persName>
-    <event type="birth" when="1753-02-19">
-      <place>Hasselt</place>
+    <persName><name type="voornaam">Isaac</name> <name type="geslachtsnaam">Hooft</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-01-02">
-      <place>Runxt</place>
+    <event type="death" when="1823">
+      <place></place>
     </event>
   </person>
   <biography/>

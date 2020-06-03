@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/79"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Laren NH baron van</name> <name type="geslachtsnaam">Ittersum</name></persName>
+    <event type="birth">
+      <date>18-04-1905</date>
+      <place>Middelburg</place>
+    </event>
+    <event type="death">
+      <date>01-05-1988</date>
+      <place>Laren NH</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

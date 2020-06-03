@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Eugenius Josephus</name> <name type="geslachtsnaam">Pr&#233;vinaire</name></persName>
+    <persName><name type="voornaam">Anthonie</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vossenburch</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1661">
       <place></place>
     </event>
   </person>

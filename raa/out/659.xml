@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Eko Theodorus</name> <name type="intrapositie">Scheltinga</name> <name type="geslachtsnaam">Winterberg</name></persName>
-    <event type="birth" when="1796-03-14">
-      <place>Medemblik</place>
+    <persName><name type="voornaam">Iman Maartensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pauw</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-02-28">
-      <place>Nieuwe Niedorp</place>
+    <event type="death" when="1779-01-08">
+      <place></place>
     </event>
   </person>
   <biography/>

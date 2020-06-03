@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Essche</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Constantijn</name> <name type="geslachtsnaam">Martens</name></persName>
+    <persName>Martens van Sevenhoven</persName>
+    <event type="birth" when="2008">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1505">
-      <place></place>
+    <event type="death" when="1861-02-16">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

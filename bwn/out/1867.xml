@@ -1,0 +1,94 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Veenhuizen, Geert (1857-1930)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/veenhuizen"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">veenhuizen</idno>
+    <persName><name type="geslachtsnaam">Veenhuizen</name>, Geert</persName>
+    <sex value="1"/>
+    <event type="birth" when="1857"/>
+    <event type="death" when="1930"/>
+    <state type="occupation">ondernemer</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Veenhuizen, Geert&lt;/strong&gt;, aardappelkweker, (Noordbroek in Groningen 18-11-1857 - Sappemeer 30-1-1930).
+
+Zoon van Berend Ebels Veenhuizen, stuurman op de grote vaart, en Jantje
+Geerts Moesker. Gehuwd op 19-10-1882 met Jantje van der Wijk. Er werden
+3 zoons en 3 dochters geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Geert bezocht de lagere school in zijn geboorteplaats en kreeg,
+zoals destijds bij meer begaafde leerlingen gebruikelijk was,
+priv&amp;eacute;lessen van het hoofd van deze school ter aanvulling van zijn
+basiskennis. Op dertienjarige leeftijd verliet hij de school en werd in
+de leer gedaan bij een boomkweker te Noordbroek. Veenhuizen bleef daar,
+met een jaar onderbreking wegens vervulling van de militaire
+dienstplicht, tot zijn drie&amp;euml;ntwintigste jaar. Gedurende deze tien
+jaren onderwees de doopsgezinde predikant ds. B. ten Bruggencate hem in
+de plantkunde en de Latijnse nomenclatuur. Daarna trad hij enige tijd
+in dienst bij een kweker in Gouda en vervolgens te Boskoop, waar hij de
+intensieve tuinbouw leerde kennen. In 1882 trad Veenhuizen in het
+huwelijk met een kwekersdochter te Sappemeer en volgde tegelijkertijd
+zijn schoonvader op als eigenaar van een bloem- en boomkwekerij aldaar.
+In korte tijd moderniseerde hij dit bedrijf. Nieuwe vaste planten en
+sierheesters werden ingevoerd, de hoeveelheid plat gras werd
+uitgebreid, terwijl tevens een nieuwe kas werd gebouwd. Ook maakte hij
+weldra naam als tuinarchitect, die zich specialiseerde op het aanleggen
+van tuinen bij boerderijen.&lt;/p&gt;
+&lt;p&gt;Alle voorwaarden waren dus aanwezig om te verwachten, dat Veenhuizen
+een goede carri&amp;egrave;re als boom- en bloemkweker tegemoet zou gaan.
+Tijdens de vergaderingen van de landbouwvereniging 'Borger en
+Tripscompagnie en Kleinemeer' werd echter zijn interesse gewekt
+voor het kweken van meer produktieve aardappelrassen. In 1889 besloot
+deze landbouwvereniging een vari&amp;euml;teitenproefveld aan te leggen,
+waarvan de leiding aan Veenhuizen werd opgedragen. Sedert 1903 was hij
+cultuurchef van het Centraal Proefveld te Sappemeer, dat o.m. met steun
+van het Rijk werd aangelegd. Als eerste in Nederland werd door hem
+aardappelen uit zaad gekweekt, dat verkregen was door kunstmatige
+kruising. Tijdens zijn veertigjarig kwekerschap heeft hij duizenden
+nieuwe rassen gekweekt. Het overgrote deel daarvan werd, na enige jaren
+op opbrengst en kwaliteit te zijn onderzocht, weggedaan. Niet minder
+dan 94 rassen bleken geschikt voor de praktijk en werden in de handel
+gebracht. Zijn rassen Eigenheimer, Thorbecke, Rode Star, Bravo en Paul
+Kr&amp;uuml;ger maakten zo'n opgang, dat in de jaren '20 en '30
+dikwijls meer dan de helft van het aardappelareaal in Nederland uit
+kweekprodukten van Veenhuizen bestond. Bovendien werd zijn pootgoed
+naar tal van andere landen uitgevoerd. Eerst na de Tweede Wereldoorlog
+werden zijn produkten door andere rassen verdrongen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;
+  &lt;em&gt;Beschrijving van de voornaamste soorten aardappelen&lt;/em&gt;
+
+(Veendam, 1899).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;J. Kok, 'G. Veenhuizen', in 
+&lt;em&gt;Groningsche Volksalmanak voor het jaar 1931,&lt;/em&gt;
+
+198-203 ; C. Broekema, 'Veenhuizen's werk', in 
+&lt;em&gt;Landbouwkundig Tijdschrift&lt;/em&gt;
+
+42 (1930) 209-214; 
+&lt;em&gt;Geert Veenhuizen, 18 november 1857 - 30 januari 1930. Gedenkschrift
+uitgegeven ter gelegenheid van de honderdste geboortedag van Geert
+Veenhuizen, pionier der aardappelkwekers&lt;/em&gt;
+
+[Wageningen, 1957]; H. de Haan, 'Geert Veenhuizen (1857-1930). The
+pioneer of potato breeding in the Netherlands', in 
+&lt;em&gt;Euphitica&lt;/em&gt;
+
+7 (1958) 31-37.&lt;/p&gt;
+&lt;p&gt;J.M.G. van der Poel&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

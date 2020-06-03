@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Francois Charles</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Casembroot</name></persName>
-    <event type="birth" when="1818-05-09">
-      <place>Tholen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Abraham</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Schepper</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1880-02-28">
-      <place>Tholen</place>
+    <event type="death" when="1684-11-12">
+      <place></place>
     </event>
   </person>
   <biography/>

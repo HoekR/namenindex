@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Henricus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Fenema</name></persName>
-    <event type="birth" when="1778-03-14">
-      <place>Lith</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Augustinus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Lycklama &#224; Nijeholt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-09-24">
-      <place>Dreumel</place>
+    <event type="death" when="1670-01-08">
+      <place></place>
     </event>
   </person>
   <biography/>

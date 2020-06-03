@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1263218784"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Parijs nan</name> <name type="geslachtsnaam">Guichard</name></persName>
+    <event type="birth">
+      <date>27-07-1920</date>
+      <place>N&#233;ac (Gironde)</place>
+    </event>
+    <event type="death">
+      <date>20-01-2004</date>
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

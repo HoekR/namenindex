@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Ittersum</name></persName>
-    <persName>Van Ittersum van Plattenburg</persName>
-    <persName>Van Ittersum tot den Oosterhof</persName>
-    <event type="birth" when="1776-05-26">
-      <place>Raalte</place>
+    <persName><name type="voornaam">Mattheus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Snels</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-01-09">
-      <place>Zwolle</place>
+    <event type="death" when="1672-07-30">
+      <place></place>
     </event>
   </person>
   <biography/>

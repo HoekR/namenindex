@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Nicolaas Johannes Cornelis</name> <name type="geslachtsnaam">Lette</name></persName>
-    <persName>Lette van Oostvoorne</persName>
-    <event type="birth" when="1787-12-02">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">Haak</name> <name type="geslachtsnaam">Oosting</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-02-03">
-      <place>Hellevoetsluis</place>
+    <event type="death" when="1828">
+      <place></place>
     </event>
   </person>
   <biography/>

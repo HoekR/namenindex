@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Willem Hendrik</name> <name type="intrapositie">van Thije</name> <name type="geslachtsnaam">Hannes</name></persName>
-    <event type="birth" when="1774-01-17">
-      <place>Gorinchem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Eysinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-08-19">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1603-05-16">
+      <place></place>
     </event>
   </person>
   <biography/>

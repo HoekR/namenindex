@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Moor</name></persName>
+    <persName><name type="voornaam">Steven Cornelisz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Tenys</name></persName>
+    <persName>Steven Cornelisz. Nijs</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1630">
       <place></place>
     </event>
   </person>

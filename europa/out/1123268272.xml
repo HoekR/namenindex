@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1123268272"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Graf</name> <name type="voornaam">nan</name> <name type="intrapositie">Rottach-Egern von</name> <name type="geslachtsnaam">Schwerin</name></persName>
+    <event type="birth">
+      <date>23-06-1899</date>
+      <place>Hannover</place>
+    </event>
+    <event type="death">
+      <date>29-10-1980</date>
+      <place>Rottach-Egern</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

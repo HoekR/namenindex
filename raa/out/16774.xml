@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/16774"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Wilhelmus Jacobus Antonius Josephus Michael</name> <name type="intrapositie">duc (Empire) d'</name> <name type="geslachtsnaam">Olne</name></persName>
+    <event type="birth" when="2009">
+      <place>Baarlo</place>
+    </event>
+    <event type="death" when="1869-11-28">
+      <place>Baarlo</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

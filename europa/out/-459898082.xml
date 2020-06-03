@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-459898082"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Yitzhak</name> <name type="intrapositie">Tel Aviv nan</name> <name type="geslachtsnaam">Shamir</name></persName>
+    <event type="birth">
+      <date>15-10-1915</date>
+      <place>Ruzinoy</place>
+    </event>
+    <event type="death">
+      <date>30-06-2012</date>
+      <place>Tel Aviv</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

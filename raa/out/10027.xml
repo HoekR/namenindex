@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jacob Charles</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kretschmar</name></persName>
-    <persName>Van Kretschmar van Veen</persName>
-    <event type="birth" when="1764-06-27">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Douwe Jan Andries</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Sytzama</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-01-18">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1807-03-15">
+      <place></place>
     </event>
   </person>
   <biography/>

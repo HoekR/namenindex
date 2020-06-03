@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Onno Adolf Marck Willem</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Senarclens de Grancy</name></persName>
-    <persName>De Grancy van Haanwijck</persName>
-    <event type="birth" when="1780-07-30">
-      <place>St. Michielsgestel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ren&#233;</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Chalons</name></persName>
+    <persName>Ren&#233; van Nassau</persName>
+    <event type="birth" when="1518">
+      <place></place>
     </event>
-    <event type="death" when="1836-07-19">
-      <place>St. Michielsgestel</place>
+    <event type="death" when="1544">
+      <place></place>
     </event>
   </person>
   <biography/>

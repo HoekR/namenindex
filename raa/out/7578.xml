@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Boreel</name></persName>
-    <event type="birth" when="1577">
-      <place></place>
+    <persName><name type="voornaam">Cl&#233;ment Wenceslas Fran&#231;ois Charles Cun&#233;gonde Constant Jean-N&#233;pomuc&#232;ne</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Renesse-Breidbach</name></persName>
+    <event type="birth" when="2002">
+      <place>Luik</place>
     </event>
-    <event type="death" when="1629-11-01">
-      <place></place>
+    <event type="death" when="1833-04-26">
+      <place>s Heren Elderen</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Albertus</name> <name type="geslachtsnaam">Slingenberg</name></persName>
-    <event type="birth" when="1818-09-06">
-      <place>Coevorden</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Arent</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Haersma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1890-01-28">
-      <place>Coevorden</place>
+    <event type="death" when="1740-09-16">
+      <place></place>
     </event>
   </person>
   <biography/>

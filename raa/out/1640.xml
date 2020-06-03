@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Engbertus</name> <name type="geslachtsnaam">Engberts</name></persName>
-    <event type="birth" when="1798-07-18">
-      <place>Vriezenveen</place>
+    <persName><name type="voornaam">Johannes Laurentius</name> <name type="geslachtsnaam">Banens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1822">
       <place></place>
     </event>
   </person>

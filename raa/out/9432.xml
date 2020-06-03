@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Heyndricksz.</name> <name type="geslachtsnaam">Verwer</name></persName>
-    <event type="birth" when="1631">
+    <persName><name type="voornaam">Rutger</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Haersolte tot Haerst</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1691-05-15">
+    <event type="death" when="1674-12-21">
       <place></place>
     </event>
   </person>

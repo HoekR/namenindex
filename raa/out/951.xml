@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">David Christoffel Frederik</name> <name type="geslachtsnaam">Kratzsch</name></persName>
-    <event type="birth" when="1774">
-      <place>Deventer</place>
+    <persName><name type="voornaam">Dirk Lodewijk</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Cattenburch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-05-21">
-      <place>Nijmegen</place>
+    <event type="death" when="1800">
+      <place></place>
     </event>
   </person>
   <biography/>

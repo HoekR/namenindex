@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus</name> <name type="geslachtsnaam">Hillebrandts</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Teengs</name></persName>
+    <event type="birth" when="2011">
+      <place>Edam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1820-06-05">
+      <place>Monnikendam</place>
     </event>
   </person>
   <biography/>

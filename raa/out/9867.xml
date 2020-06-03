@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dionys</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Wesenhage</name></persName>
-    <persName>Dionys van Wesenhagen</persName>
+    <persName><name type="voornaam">Gijsbert</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Dedem</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1582">
+    <event type="death" when="1672">
       <place></place>
     </event>
   </person>

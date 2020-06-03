@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Joan</name> <name type="geslachtsnaam">Abbekerk</name></persName>
-    <event type="birth" when="1653">
+    <persName><name type="voornaam">Cornelis Jansz.</name> <name type="intrapositie">comte (Empire) van de</name> <name type="geslachtsnaam">Nijenburg</name></persName>
+    <persName>Cornelis Jansz. van de Nieuwburg</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1702-07-26">
+    <event type="death" when="1610">
       <place></place>
     </event>
   </person>

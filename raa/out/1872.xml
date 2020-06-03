@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Steengracht van Oostkapelle</name></persName>
-    <event type="birth" when="1782-07-11">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Ambrosius Ayzo</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Boelens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-12-17">
-      <place>Parijs</place>
+    <event type="death" when="1834">
+      <place></place>
     </event>
   </person>
   <biography/>

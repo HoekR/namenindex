@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Eberwein Wilhelm</name> <name type="geslachtsnaam">Hofmann</name></persName>
-    <event type="birth" when="1779-09-13">
-      <place>Dillenburg (Nassau)</place>
+    <persName><name type="voornaam">Ambrosius Justus</name> <name type="geslachtsnaam">Zubli</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-01-05">
-      <place>Dillenburg (Nassau)</place>
+    <event type="death" when="1820">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik Christiaan</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Mulert</name></persName>
-    <persName>Mulert tot de Leemcule</persName>
-    <event type="birth" when="1784-01-21">
-      <place>Dalfsen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Menno</name> <name type="intrapositie">prins van</name> <name type="geslachtsnaam">Coehoorn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-08-25">
-      <place>Dalfsen</place>
+    <event type="death" when="1801">
+      <place></place>
     </event>
   </person>
   <biography/>

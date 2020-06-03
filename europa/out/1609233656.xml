@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1609233656"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Drs.</name> <name type="voornaam">nan</name> <name type="intrapositie">Sassenheim nan</name> <name type="geslachtsnaam">Nooteboom</name></persName>
+    <event type="birth">
+      <date>29-11-1930</date>
+      <place>Den Haag</place>
+    </event>
+    <event type="death">
+      <date>02-01-2012</date>
+      <place>Sassenheim</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

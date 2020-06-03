@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham Johannes</name> <name type="intrapositie">de Smit van den</name> <name type="geslachtsnaam">Broecke</name></persName>
-    <event type="birth" when="1801-05-13">
-      <place>Aardenburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas Florisz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Spiering</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875">
-      <place>Oost Souburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

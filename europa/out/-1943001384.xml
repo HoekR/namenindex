@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1943001384"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Montlouis-sur-Loire nan</name> <name type="geslachtsnaam">Debr&#233;</name></persName>
+    <event type="birth">
+      <date>15-01-1912</date>
+      <place>Parijs</place>
+    </event>
+    <event type="death">
+      <date>02-08-1996</date>
+      <place>Montlouis-sur-Loire</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

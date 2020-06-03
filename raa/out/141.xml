@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Hartsen</name></persName>
-    <event type="birth" when="1823-01-23">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jarich</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Dekema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1895-10-11">
-      <place>Hilversum</place>
+    <event type="death" when="1553-04-23">
+      <place></place>
     </event>
   </person>
   <biography/>

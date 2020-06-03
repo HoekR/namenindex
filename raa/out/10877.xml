@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jelle Pietersz.</name> <name type="geslachtsnaam">Bruninga</name></persName>
-    <persName>Jelle Bruininga</persName>
-    <persName>Jelle Bruinga</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Reijmer</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Honthorst</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1688">
+    <event type="death">
       <place></place>
     </event>
   </person>

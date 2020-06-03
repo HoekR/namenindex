@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Ferdinand</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Collen</name></persName>
-    <persName>Van Collen van Gunterstein</persName>
-    <event type="birth" when="1781-02-12">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Wennemar Hendrik</name> <name type="geslachtsnaam">Droghoorn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-09-28">
-      <place>Breukelen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

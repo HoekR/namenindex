@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Swerius</name></persName>
+    <persName><name type="voornaam">Cornelis Christiaen</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Lidt de Jeude</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1629">
+    <event type="death" when="1809-02-20">
       <place></place>
     </event>
   </person>

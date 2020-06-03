@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Crack</name></persName>
-    <event type="birth" when="1600">
+    <persName><name type="voornaam">Jacobus Arnoldus</name> <name type="intrapositie">hertog de</name> <name type="geslachtsnaam">Perponcher Sedlnitsky</name></persName>
+    <persName>Jacob Arent Baron de Perponcher Sedlnitsky</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1652-04-26">
+    <event type="death" when="1771-11-14">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerard</name> <name type="geslachtsnaam">Leembruggen</name></persName>
-    <event type="birth" when="1780">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Boudewijn</name> <name type="geslachtsnaam">Donker Curtius</name></persName>
+    <persName>Donker Curtius van Tienhoven</persName>
+    <event type="birth" when="2012">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death" when="1864">
-      <place></place>
+    <event type="death" when="1858-04-16">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

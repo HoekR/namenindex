@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Jan Filip</name> <name type="geslachtsnaam">Scheidius</name></persName>
-    <event type="birth" when="1767-10-14">
-      <place>Harderwijk</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adam</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Duin</name></persName>
+    <event type="birth" when="1504">
+      <place></place>
     </event>
-    <event type="death" when="1821-01-17">
-      <place>Arnhem</place>
+    <event type="death" when="1538">
+      <place></place>
     </event>
   </person>
   <biography/>

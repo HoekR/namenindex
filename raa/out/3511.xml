@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Justus Wilhelmus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Bruyn</name></persName>
-    <event type="birth" when="1758">
+    <persName><name type="voornaam">Evert Egbertsz.</name> <name type="geslachtsnaam">Schuiringa</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1812">
+    <event type="death" when="1814">
       <place></place>
     </event>
   </person>

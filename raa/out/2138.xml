@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Paul</name> <name type="intrapositie">du</name> <name type="geslachtsnaam">Rieu</name></persName>
-    <event type="birth" when="1791-07-20">
-      <place>Leiden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Berwoudsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-11-29">
-      <place>Leiden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

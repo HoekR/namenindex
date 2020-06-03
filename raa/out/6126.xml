@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lodewijk</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
-    <persName>Van Heeckeren van de Cloese</persName>
-    <event type="birth" when="1768-09-06">
-      <place>Hummelo</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Bredero</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-11-19">
-      <place>Velp (Gld.)</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

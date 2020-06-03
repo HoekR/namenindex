@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Gerard Willem</name> <name type="geslachtsnaam">Bosch van Drakestein</name></persName>
-    <event type="birth" when="1813-11-26">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">bastaard van</name> <name type="geslachtsnaam">Borselen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-12-12">
-      <place>Markelo</place>
+    <event type="death" when="1503">
+      <place></place>
     </event>
   </person>
   <biography/>

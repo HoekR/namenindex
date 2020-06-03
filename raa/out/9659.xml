@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Korthals</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Hendrik</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Rechteren</name></persName>
+    <persName>Van Rechteren van Appeltern</persName>
+    <event type="birth" when="2011">
+      <place>Appeltern</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1845-09-07">
+      <place>Zwollerkerspel</place>
     </event>
   </person>
   <biography/>

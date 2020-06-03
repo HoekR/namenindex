@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/173"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr. baron</name> <name type="voornaam">Pim</name> <name type="intrapositie">Ubbergen van</name> <name type="geslachtsnaam">Boetzelaer van Oosterhout</name></persName>
+    <event type="birth">
+      <date>17-11-1892</date>
+      <place>Amersfoort</place>
+    </event>
+    <event type="death">
+      <date>20-05-1986</date>
+      <place>Ubbergen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

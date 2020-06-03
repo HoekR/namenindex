@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1097120888"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Jhr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Groenekan van</name> <name type="geslachtsnaam">Foreest</name></persName>
+    <event type="birth">
+      <date>11-02-1901</date>
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death">
+      <date>05-06-1964</date>
+      <place>Groenekan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

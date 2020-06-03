@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Ulrich Willem Frederick</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Panhuys</name></persName>
-    <event type="birth" when="1806-02-05">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Paul Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Raat</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-02-15">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Pieter</name> <name type="geslachtsnaam">Feith</name></persName>
-    <event type="birth" when="1814-01-12">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Jan Gijsbertsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sas</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1899-08-28">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1640">
+      <place></place>
     </event>
   </person>
   <biography/>

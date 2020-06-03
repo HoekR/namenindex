@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Zeger</name> <name type="geslachtsnaam">Sloet tot Bellinkhof</name></persName>
-    <persName>Jan Zeger Sloet tot Grimberg</persName>
-    <event type="birth" when="1747">
+    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Duyvense</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1804-01-14">
+    <event type="death">
       <place></place>
     </event>
   </person>

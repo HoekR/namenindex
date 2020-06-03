@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Daniel</name> <name type="intrapositie">ten</name> <name type="geslachtsnaam">Cate</name></persName>
-    <event type="birth" when="1763">
+    <persName><name type="voornaam">Derck</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Stikke</name></persName>
+    <persName>Dirck Stickingh</persName>
+    <persName>Diederik Stikke</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1797">
+    <event type="death" when="1619">
       <place></place>
     </event>
   </person>

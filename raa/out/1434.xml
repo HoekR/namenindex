@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Christiaan Paulus Eliza</name> <name type="geslachtsnaam">Menso</name></persName>
-    <event type="birth" when="1794-07-16">
-      <place>Rhenen</place>
+    <persName><name type="voornaam">Gijsbertus Hermannus</name> <name type="geslachtsnaam">Mulders</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-11-23">
-      <place>Rhenen</place>
+    <event type="death" when="1809">
+      <place></place>
     </event>
   </person>
   <biography/>

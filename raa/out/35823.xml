@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/35823"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Cornelis Petrus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Roeper</name></persName>
+    <event type="birth" when="2009">
+      <place>Hoorn</place>
+    </event>
+    <event type="death" when="1854-09-16">
+      <place>Naarden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

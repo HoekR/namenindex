@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Louis Fran&#231;ois Gabriel Joseph</name> <name type="intrapositie">markies de</name> <name type="geslachtsnaam">Harchies de Vlamertinghe</name></persName>
-    <event type="birth" when="1760-08-25">
-      <place>St. Omer</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Juw</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Dekema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-09-08">
-      <place>Brugge</place>
+    <event type="death" when="1523-10-24">
+      <place></place>
     </event>
   </person>
   <biography/>

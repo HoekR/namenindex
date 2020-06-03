@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Guillaume Jacques</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Heiden</name></persName>
-    <event type="birth" when="1778-09-15">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Anthony Gerritsz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Heym</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-06-03">
-      <place>Zuidlaren</place>
+    <event type="death" when="1714-12-12">
+      <place></place>
     </event>
   </person>
   <biography/>

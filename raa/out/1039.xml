@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Henri Ernst</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Panhuys</name></persName>
-    <persName>Van Panhuys van Haeren</persName>
-    <event type="birth" when="1801-09-26">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Rietveld</name></persName>
+    <persName>George Rataleur</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-02-19">
-      <place>Maastricht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

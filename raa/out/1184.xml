@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Luchies</name> <name type="geslachtsnaam">Nysingh</name></persName>
-    <event type="birth" when="1813-09-27">
-      <place>De Wijk</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boeij</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-06-05">
-      <place>De Wijk</place>
+    <event type="death" when="1759-03-22">
+      <place></place>
     </event>
   </person>
   <biography/>

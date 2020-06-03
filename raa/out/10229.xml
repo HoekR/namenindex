@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Sadet</name>
-    </persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Horatius</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Knijff</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1679-12-01">
       <place></place>
     </event>
   </person>

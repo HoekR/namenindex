@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1170382948"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Leiderdorp nan</name> <name type="geslachtsnaam">Brouwer</name></persName>
+    <event type="birth">
+      <date>19-12-0191</date>
+      <place>Ellecom</place>
+    </event>
+    <event type="death">
+      <date>18-04-1977</date>
+      <place>Leiderdorp</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

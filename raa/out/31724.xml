@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/31724"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Karel Arnold</name> <name type="geslachtsnaam">Poortman</name></persName>
+    <event type="birth" when="2007">
+      <place>Schiedam</place>
+    </event>
+    <event type="death" when="1886-10-04">
+      <place>Schiedam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

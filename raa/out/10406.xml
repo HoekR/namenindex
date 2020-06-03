@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Marinus</name> <name type="geslachtsnaam">Westerwyck</name></persName>
+    <persName><name type="voornaam">Hendrik Johan</name> <name type="geslachtsnaam">Caan</name></persName>
+    <persName>Caen</persName>
+    <persName>Caan van Maurick</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1677">
+    <event type="death" when="1864">
       <place></place>
     </event>
   </person>

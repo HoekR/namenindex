@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham</name> <name type="geslachtsnaam">Caland</name></persName>
-    <event type="birth" when="1789-03-22">
-      <place>Westkapelle</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Teico Tievex</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Heydoma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-04-11">
-      <place>Middelburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

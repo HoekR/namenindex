@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacques</name> <name type="geslachtsnaam">Gele</name></persName>
+    <persName><name type="voornaam">Joos Ewoudsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Teelinck</name></persName>
+    <persName>Joos Ewoudsz. Teeling</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1594">
       <place></place>
     </event>
   </person>

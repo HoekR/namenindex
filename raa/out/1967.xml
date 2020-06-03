@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Galenus Dignus</name> <name type="geslachtsnaam">Steengracht</name></persName>
-    <persName>Steengracht van Moyland</persName>
-    <event type="birth" when="1763-12-04">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Dominicus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Roosmale</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-08-26">
-      <place>Grijpskerke</place>
+    <event type="death" when="1689-08-31">
+      <place></place>
     </event>
   </person>
   <biography/>

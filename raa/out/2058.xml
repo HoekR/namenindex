@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jacob Cornelis</name> <name type="geslachtsnaam">Jantzon van Erffrenten</name></persName>
-    <persName>Jantzon van Erffrenten van Capelle en Hoogeveen</persName>
-    <event type="birth" when="1769-10-04">
-      <place>Breda</place>
+    <persName><name type="voornaam">Benjamin</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Fagel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-02-13">
-      <place>Dordrecht</place>
+    <event type="death" when="1705-06-14">
+      <place></place>
     </event>
   </person>
   <biography/>

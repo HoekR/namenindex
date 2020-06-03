@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Hoogensteeger</name></persName>
+    <persName><name type="voornaam">Reinout Gerard</name> <name type="intrapositie">baron (Empire) van</name> <name type="geslachtsnaam">Tuyll van Serooskerken</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1821">
       <place></place>
     </event>
   </person>

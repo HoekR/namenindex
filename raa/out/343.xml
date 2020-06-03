@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Laurens</name> <name type="intrapositie">de Witte van</name> <name type="geslachtsnaam">Citters</name></persName>
-    <event type="birth" when="1781-06-21">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Morgan</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-08-06">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

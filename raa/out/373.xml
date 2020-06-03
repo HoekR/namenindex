@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem</name> <name type="geslachtsnaam">Alewijn</name></persName>
-    <event type="birth" when="1769-05-09">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Cornelis Vincentsz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Mierop</name></persName>
+    <event type="birth" when="1507">
+      <place></place>
     </event>
-    <event type="death" when="1839-12-04">
-      <place>Utrecht</place>
+    <event type="death" when="1572">
+      <place></place>
     </event>
   </person>
   <biography/>

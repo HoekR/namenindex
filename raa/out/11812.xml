@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Merode</name></persName>
+    <persName><name type="voornaam">Wolter</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Coeverden tot Wegdam</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1666-08-25">
+    <event type="death" when="1684">
       <place></place>
     </event>
   </person>

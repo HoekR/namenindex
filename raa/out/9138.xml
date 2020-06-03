@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis Claesz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Driel</name></persName>
-    <persName>Cornelis Nicolai</persName>
-    <event type="birth" when="1572">
-      <place></place>
+    <persName><name type="voornaam">Schelto Hessel</name> <name type="intrapositie">Roorda van</name> <name type="geslachtsnaam">Eysinga</name></persName>
+    <event type="birth" when="2010">
+      <place>Langweer</place>
     </event>
-    <event type="death" when="1636-08-17">
-      <place></place>
+    <event type="death" when="1829-08-27">
+      <place>Langweer</place>
     </event>
   </person>
   <biography/>

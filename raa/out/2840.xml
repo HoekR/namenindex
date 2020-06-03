@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles Lambert Marie Dieudonn&#233;</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Rosen van der Maesen</name></persName>
-    <event type="birth" when="1787-06-19">
-      <place>Luik</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boreel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-01-02">
-      <place>Tongeren</place>
+    <event type="death" when="1697">
+      <place></place>
     </event>
   </person>
   <biography/>

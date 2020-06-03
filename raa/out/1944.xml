@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Kakebeeke</name></persName>
-    <event type="birth" when="1774-02-06">
-      <place>Kloetinge</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Douwe</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Symonsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-03-06">
-      <place>Goes</place>
+    <event type="death" when="1651">
+      <place></place>
     </event>
   </person>
   <biography/>

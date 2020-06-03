@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/632"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jhr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Utrecht nan</name> <name type="geslachtsnaam">Elias</name></persName>
+    <event type="birth">
+      <date>03-08-1909</date>
+      <place>Den Helder</place>
+    </event>
+    <event type="death">
+      <date>22-08-1974</date>
+      <place>Utrecht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Raoul</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Bruxelles</name></persName>
-    <persName>Roelof de Brouxelles</persName>
+    <persName><name type="voornaam">Petrus Adrianus</name> <name type="geslachtsnaam">Bergsma</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1539">
+    <event type="death" when="1824">
       <place></place>
     </event>
   </person>

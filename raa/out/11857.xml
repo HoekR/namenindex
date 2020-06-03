@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hector</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Hoxwier</name></persName>
-    <persName>Hette van Hoxwier</persName>
-    <event type="birth" when="1502">
+    <persName><name type="voornaam">Herman</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Borgerink</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1546">
+    <event type="death" when="1727">
       <place></place>
     </event>
   </person>

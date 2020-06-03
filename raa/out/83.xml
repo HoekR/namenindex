@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Gabri&#235;l</name> <name type="geslachtsnaam">Sevenstern</name></persName>
-    <event type="birth" when="1787-10-20">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Does</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-04-03">
-      <place>Groningen</place>
+    <event type="death" when="1599">
+      <place></place>
     </event>
   </person>
   <biography/>

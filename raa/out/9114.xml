@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gijsbert</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Peursum</name></persName>
-    <event type="birth" when="1686">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Wigbold</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sypesteyn</name></persName>
+    <event type="birth" when="2002">
+      <place>Haarlem</place>
     </event>
-    <event type="death" when="1760">
-      <place></place>
+    <event type="death" when="1815-11-24">
+      <place>Haarlem</place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/32241"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Johannes Abraham</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Visch Eijbergen</name></persName>
+    <event type="birth" when="2005">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1853-10-26">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

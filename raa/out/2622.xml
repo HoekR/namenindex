@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="intrapositie">Gelinde van</name> <name type="geslachtsnaam">Blom</name></persName>
-    <event type="birth" when="1796-01-02">
-      <place>Harlingen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arend</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Pietersz.</name></persName>
+    <event type="birth" when="1484">
+      <place></place>
     </event>
-    <event type="death" when="1871-04-29">
-      <place>Drachten</place>
+    <event type="death" when="1543">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Elardus Augustini</name> <name type="geslachtsnaam">Reynalda</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jean Fran&#231;ois</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Iddekinge</name></persName>
+    <event type="birth" when="2005">
+      <place>Kropswolde</place>
     </event>
-    <event type="death" when="1610-10-27">
-      <place></place>
+    <event type="death" when="1848-06-04">
+      <place>Groningen</place>
     </event>
   </person>
   <biography/>

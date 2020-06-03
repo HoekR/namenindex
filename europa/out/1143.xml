@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1143"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Leidschendam van den</name> <name type="geslachtsnaam">Berge</name></persName>
+    <event type="birth">
+      <date>19-02-1905</date>
+      <place>Tholen</place>
+    </event>
+    <event type="death">
+      <date>19-02-1987</date>
+      <place>Leidschendam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

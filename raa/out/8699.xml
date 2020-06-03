@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Carel Benjamin</name> <name type="geslachtsnaam">Engelen van Strijen</name></persName>
-    <event type="birth" when="1752">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Buteux</name></persName>
+    <event type="birth" when="2007">
+      <place>Middelburg</place>
     </event>
-    <event type="death" when="1818">
-      <place></place>
+    <event type="death" when="1836-01-10">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

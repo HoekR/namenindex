@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Johannes</name> <name type="geslachtsnaam">Goldberg</name></persName>
-    <event type="birth" when="1763-05-03">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Dirk Ernst</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vo&#235;rst tot Averbergen</name></persName>
+    <event type="birth" when="2011">
+      <place>Zwolle</place>
     </event>
-    <event type="death" when="1828-04-25">
-      <place>Voorschoten</place>
+    <event type="death" when="1820-06-07">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

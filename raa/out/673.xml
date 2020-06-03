@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Charles</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Limpens</name></persName>
-    <event type="birth" when="1793-02-17">
-      <place>Herentals</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Halen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-08-23">
-      <place>Klimmen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

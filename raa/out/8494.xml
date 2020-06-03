@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">W.A.</name> <name type="geslachtsnaam">Medenbach</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Diederik Barthout</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Slingelandt</name></persName>
+    <event type="birth" when="2005">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1827-03-13">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

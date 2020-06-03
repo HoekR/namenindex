@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Maximiliaan</name> <name type="intrapositie">den</name> <name type="geslachtsnaam">Appel</name></persName>
-    <event type="birth" when="1758">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Wilt Gerrit Jan</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Rhemen</name></persName>
+    <persName>Van Rhemen van Rhemenshuizen</persName>
+    <persName>Van Rhemen van Rhemenshuizen en de Geldersche Toren</persName>
+    <event type="birth" when="2002">
+      <place>Rhemenshuizen</place>
     </event>
-    <event type="death" when="1822">
-      <place></place>
+    <event type="death" when="1827-07-04">
+      <place>Zutphen</place>
     </event>
   </person>
   <biography/>

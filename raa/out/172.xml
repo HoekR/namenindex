@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Charles Andr&#233; Louis Fran&#231;ois</name> <name type="geslachtsnaam">Huughe</name></persName>
-    <persName>Huughe van Peutevin</persName>
-    <event type="birth" when="1792-12-10">
-      <place>Ieper</place>
+    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Hoef</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-09-14">
-      <place>Zillebeke</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

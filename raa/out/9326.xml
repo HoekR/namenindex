@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Assuerus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Glinstra</name></persName>
-    <event type="birth" when="1673">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan</name> <name type="geslachtsnaam">Clifford</name></persName>
+    <event type="birth" when="2001">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1706-03-03">
-      <place></place>
+    <event type="death" when="1823-03-27">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

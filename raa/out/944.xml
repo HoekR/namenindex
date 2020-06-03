@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bernard</name> <name type="geslachtsnaam">Servatius</name></persName>
-    <event type="birth" when="1791-12-28">
-      <place>Coevorden</place>
+    <persName><name type="voornaam">Johannes Fran&#231;ois</name> <name type="geslachtsnaam">Leemans</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1864-04-10">
-      <place>Assen</place>
+    <event type="death" when="1807">
+      <place></place>
     </event>
   </person>
   <biography/>

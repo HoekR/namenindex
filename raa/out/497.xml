@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Jan</name> <name type="geslachtsnaam">Quintus</name></persName>
-    <event type="birth" when="1778-03-08">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bourgondi&#235;</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-02-09">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

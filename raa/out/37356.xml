@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/37356"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">baron van den</name> <name type="geslachtsnaam">Ende</name></persName>
+    <event type="birth" when="2010">
+      <place>Delft</place>
+    </event>
+    <event type="death" when="1846-07-28">
+      <place>Warnsveld</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

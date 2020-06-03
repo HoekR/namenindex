@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sijbrand</name> <name type="geslachtsnaam">Baard</name></persName>
+    <persName><name type="voornaam">Jacob Frederik</name> <name type="geslachtsnaam">Serrurier</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1844">
       <place></place>
     </event>
   </person>

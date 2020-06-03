@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Martinus</name> <name type="geslachtsnaam">Rom</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Willem Jan</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Mulert tot de Leemcule</name></persName>
+    <event type="birth" when="2003">
+      <place>Dalfsen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1857-02-06">
+      <place>IJsselmuiden</place>
     </event>
   </person>
   <biography/>

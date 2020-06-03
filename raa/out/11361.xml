@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">ds.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Ende</name></persName>
-    <event type="birth" when="1768-10-11">
-      <place>Delft</place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">IJsbrand Jan Hendrik</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Kock</name></persName>
+    <event type="birth" when="2011">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1846-07-28">
-      <place>Warnsveld</place>
+    <event type="death" when="1893-04-13">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

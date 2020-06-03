@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Mozes</name> <name type="geslachtsnaam">Salvador</name></persName>
-    <event type="birth" when="1748-11-14">
-      <place>Londen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hieronimus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Hania</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-06-11">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1576">
+      <place></place>
     </event>
   </person>
   <biography/>

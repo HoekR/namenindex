@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1913865860"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Providence nan</name> <name type="geslachtsnaam">Green</name></persName>
+    <event type="birth">
+      <date>02-10-1867</date>
+      <place>Providence</place>
+    </event>
+    <event type="death">
+      <date>19-05-1966</date>
+      <place>Providence</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

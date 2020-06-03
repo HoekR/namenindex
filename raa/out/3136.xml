@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Franciscus August Johan</name> <name type="geslachtsnaam">Dommer van Poldersveldt</name></persName>
-    <event type="birth" when="1820-08-08">
-      <place>Ubbergen</place>
+    <persName><name type="voornaam">Jeronimus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Serooskerke</name></persName>
+    <event type="birth" when="1500">
+      <place></place>
     </event>
-    <event type="death" when="1871-12-09">
-      <place>Nijmegen</place>
+    <event type="death" when="1571">
+      <place></place>
     </event>
   </person>
   <biography/>

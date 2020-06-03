@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Colghenensz.</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Martinus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Marum</name></persName>
+    <event type="birth" when="2003">
+      <place>Delft</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1837-12-27">
+      <place>Haarlem</place>
     </event>
   </person>
   <biography/>

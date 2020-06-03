@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/13032"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Carel Ferdinand</name> <name type="intrapositie">duc (Empire) d'</name> <name type="geslachtsnaam">Aulnis de Bourouill</name></persName>
+    <event type="birth" when="2007">
+      <place>Faan (Oldekerk)</place>
+    </event>
+    <event type="death" when="1883-09-09">
+      <place>Velp</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

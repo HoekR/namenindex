@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joh.Th.</name> <name type="geslachtsnaam">Versluis</name></persName>
+    <persName><name type="voornaam">Pieter Gerritsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Santen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1658-07-11">
       <place></place>
     </event>
   </person>

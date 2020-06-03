@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fritz</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Grumbach</name></persName>
-    <persName>Fritz von Grumbach zu Eschefeld</persName>
-    <event type="birth">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Zuylen van Nijevelt</name></persName>
+    <event type="birth" when="1538">
       <place></place>
     </event>
-    <event type="death" when="1541-01-31">
+    <event type="death">
       <place></place>
     </event>
   </person>

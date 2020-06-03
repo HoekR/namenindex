@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Aart Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Tienhoven</name></persName>
-    <event type="birth" when="1808-07-21">
-      <place>Ameide</place>
+    <persName><name type="voornaam">Willem Lodewijcksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Bosschaert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-02-01">
-      <place>Gorinchem</place>
+    <event type="death" when="1698-12-13">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-114369527"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">&#199;annakale nan</name> <name type="geslachtsnaam">Gunes</name></persName>
+    <event type="birth">
+      <date>1922</date>
+      <place>Kandira</place>
+    </event>
+    <event type="death">
+      <date>09-04-1982</date>
+      <place>&#199;annakale</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

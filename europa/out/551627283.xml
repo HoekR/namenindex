@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/551627283"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Luxemburg nan</name> <name type="geslachtsnaam">Gr&#233;goire</name></persName>
+    <event type="birth">
+      <date>09-11-1907</date>
+      <place>Vlichten</place>
+    </event>
+    <event type="death">
+      <date>08-04-1991</date>
+      <place>Luxemburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

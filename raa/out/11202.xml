@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">A.</name> <name type="geslachtsnaam">Driessen</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Willem Gerard</name> <name type="geslachtsnaam">Story</name></persName>
+    <persName>Story van Blokland</persName>
+    <event type="birth" when="2008">
+      <place>Utrecht</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1866-05-20">
+      <place>IJsselstein</place>
     </event>
   </person>
   <biography/>

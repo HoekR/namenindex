@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jean Patrice</name> <name type="geslachtsnaam">O'Sullivan de Grass</name></persName>
-    <event type="birth" when="1776-01-31">
-      <place>Brussel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Herlaar</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-12-19">
-      <place>Brussel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

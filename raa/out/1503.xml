@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerhardus Johannes Otto Dorus</name> <name type="geslachtsnaam">Dikkers</name></persName>
-    <event type="birth" when="1782-12-01">
-      <place>Vriezenveen</place>
+    <persName><name type="voornaam">Jan Fransz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Thamis</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-11-30">
-      <place>Borne</place>
+    <event type="death" when="1692">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Bonaventure</name> <name type="geslachtsnaam">Broen de Kuijser</name></persName>
-    <persName>Bonaventura Broen de Keijzer</persName>
-    <event type="birth" when="1710">
+    <persName><name type="voornaam">Lodewijk</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Huygens</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1765-04-18">
+    <event type="death" when="1699-06-30">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Gijsbert Reinder</name> <name type="geslachtsnaam">Optenoort</name></persName>
-    <persName>Jan Gijsbert Reinder Opten Noort</persName>
-    <event type="birth" when="1732">
+    <persName><name type="voornaam">Matthijs</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schooff</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1787-04-10">
+    <event type="death" when="1686-08-28">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Diederich</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Wylich tot Oldenhof</name></persName>
-    <persName>Diederich van Willig tot Oldenhof</persName>
-    <event type="birth" when="1642">
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rhijn</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1718-02-09">
+    <event type="death" when="1819">
       <place></place>
     </event>
   </person>

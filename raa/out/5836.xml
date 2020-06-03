@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pierre Fran&#231;ois</name> <name type="geslachtsnaam">Besier</name></persName>
-    <event type="birth" when="1782">
+    <persName><name type="voornaam">Johan Diederik Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pompe van Meerdervoort</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1862">
+    <event type="death" when="1749-01-07">
       <place></place>
     </event>
   </person>

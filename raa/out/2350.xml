@@ -8,9 +8,9 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Machiel</name> <name type="geslachtsnaam">Speelman</name></persName>
-    <event type="birth" when="1797-08-23">
-      <place>Pernis</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kats</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
     <event type="death">
       <place></place>

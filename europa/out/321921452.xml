@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/321921452"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">1st Baron</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Layton</name></persName>
+    <event type="birth">
+      <date>15-03-1884</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>14-02-1966</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

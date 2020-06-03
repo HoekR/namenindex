@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Pieter</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Brande</name></persName>
-    <event type="birth" when="1734">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacobus Arnoldus</name> <name type="geslachtsnaam">Mutsaers</name></persName>
+    <event type="birth" when="2001">
+      <place>Tilburg</place>
     </event>
-    <event type="death" when="1793">
-      <place></place>
+    <event type="death" when="1880-02-02">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

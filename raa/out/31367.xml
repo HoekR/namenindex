@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/31367"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan</name> <name type="geslachtsnaam">Ackersdijck</name></persName>
+    <event type="birth" when="2010">
+      <place>'s-Hertogenbosch</place>
+    </event>
+    <event type="death" when="1861-07-13">
+      <place>Utrecht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

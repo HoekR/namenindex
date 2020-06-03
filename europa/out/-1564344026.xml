@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1564344026"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Tavers nan</name> <name type="geslachtsnaam">Chatenet</name></persName>
+    <event type="birth">
+      <date>06-03-1917</date>
+      <place>Parijs</place>
+    </event>
+    <event type="death">
+      <date>04-09-1997</date>
+      <place>Tavers</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

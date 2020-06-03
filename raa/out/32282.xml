@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/32282"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Arnold Adolf</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Bentinck</name></persName>
+    <event type="birth" when="2004">
+      <place>Wijhe</place>
+    </event>
+    <event type="death" when="1868-02-03">
+      <place>Londen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

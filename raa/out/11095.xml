@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ernst Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wevort tot Osseberg</name></persName>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Christiaen Reynaudt</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Wijhe tot Ysendoorn</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1690-11-12">
+    <event type="death">
       <place></place>
     </event>
   </person>

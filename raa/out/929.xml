@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans Frederik</name> <name type="geslachtsnaam">Karseboom</name></persName>
-    <event type="birth" when="1815-05-23">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Simonsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Bruin</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-08-08">
-      <place>Leersum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

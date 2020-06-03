@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Samuel John</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Limburg Stirum</name></persName>
-    <event type="birth" when="1797-08-24">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Stefanus Jacobus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Langen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-03-14">
-      <place>Utrecht</place>
+    <event type="death" when="1847">
+      <place></place>
     </event>
   </person>
   <biography/>

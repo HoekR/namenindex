@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Ludovicus Antonius</name> <name type="geslachtsnaam">Kerckhoffs</name></persName>
-    <persName>Kerkhoffs</persName>
-    <event type="birth" when="1796-01-17">
-      <place>Hoensbroek</place>
+    <persName><name type="voornaam">Maurits Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hall</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1858">
       <place></place>
     </event>
   </person>

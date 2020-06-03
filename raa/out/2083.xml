@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Clemens</name> <name type="geslachtsnaam">Sandenbergh Matthiessen</name></persName>
-    <persName>Sandenberg Matthiessen van Petten en Nolmerban</persName>
-    <event type="birth" when="1801-02-04">
-      <place>Kaap de Goede Hoop</place>
+    <persName><name type="voornaam">Fran&#231;ois</name> <name type="geslachtsnaam">Breekpot</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-11-06">
-      <place>Haarlem</place>
+    <event type="death" when="1801">
+      <place></place>
     </event>
   </person>
   <biography/>

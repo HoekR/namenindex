@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Henricus Wilhelmus Antonius</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Erp</name></persName>
-    <persName>Van Erp tot Baerlo en Holt</persName>
-    <event type="birth" when="1759-03-02">
-      <place>Didam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Jacobsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Leeuw</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-08-18">
-      <place>Maasbree</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

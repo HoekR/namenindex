@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Scotte</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Constantijn</name> <name type="geslachtsnaam">Cras</name></persName>
+    <event type="birth" when="2001">
+      <place>Leiden</place>
     </event>
-    <event type="death" when="1653">
-      <place></place>
+    <event type="death" when="1820-05-04">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Isa&#228;c Antoni</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Royen</name></persName>
-    <persName>Soetens van Royen</persName>
-    <event type="birth" when="1800-03-28">
-      <place>Vledder</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Syds</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Tjaerda</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-01-14">
-      <place>Zwolle</place>
+    <event type="death" when="1546-12-13">
+      <place></place>
     </event>
   </person>
   <biography/>

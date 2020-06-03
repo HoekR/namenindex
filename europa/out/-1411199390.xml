@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1411199390"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Wim</name> <name type="intrapositie">Nieuwegein nan</name> <name type="geslachtsnaam">Spit</name></persName>
+    <event type="birth">
+      <date>26-06-1924</date>
+      <place>Den Haag</place>
+    </event>
+    <event type="death">
+      <date>28-07-2013</date>
+      <place>Nieuwegein</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

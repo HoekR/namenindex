@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Simeon Petrus</name> <name type="geslachtsnaam">Collot d'Escury</name></persName>
-    <event type="birth" when="1719">
+    <persName><name type="voornaam">Rem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Limborch</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1800">
+    <event type="death" when="1685-03-31">
       <place></place>
     </event>
   </person>

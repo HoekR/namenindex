@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Hendrik Johan</name> <name type="geslachtsnaam">Caan</name></persName>
-    <persName>Caan van Maurick</persName>
-    <persName>Caen</persName>
-    <event type="birth" when="1781-04-08">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Christoffel</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gaergoet</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1864-01-09">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

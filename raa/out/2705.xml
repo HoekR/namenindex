@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christiaan Joseph Marie Hubertus</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Wymar de Kirchberg</name></persName>
-    <event type="birth" when="1792-12-15">
-      <place>Venlo</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Isa&#228;ck</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Schepper</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-01-28">
-      <place>Caen (Pruisen)</place>
+    <event type="death" when="1688-09-05">
+      <place></place>
     </event>
   </person>
   <biography/>

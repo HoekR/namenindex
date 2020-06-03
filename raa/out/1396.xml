@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ernst Louis</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Hardenbroek</name></persName>
-    <persName>Van Hardenbroek van Lockhorst</persName>
-    <event type="birth" when="1774-10-31">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">Jan Justinus</name> <name type="geslachtsnaam">Keyser</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1843-02-28">
-      <place>Leusden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

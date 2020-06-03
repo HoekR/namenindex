@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1031773774"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Henk</name> <name type="intrapositie">Breda nan</name> <name type="geslachtsnaam">Waltmans</name></persName>
+    <event type="birth">
+      <date>28-03-1930</date>
+      <place>Brunssum</place>
+    </event>
+    <event type="death">
+      <date>04-05-2013</date>
+      <place>Breda</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

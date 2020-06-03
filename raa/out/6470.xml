@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus Johannes Christoffel</name> <name type="intrapositie">de la</name> <name type="geslachtsnaam">Sabloni&#232;re</name></persName>
-    <event type="birth" when="1761">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wouter Jansz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Raaphorst</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1835">
+    <event type="death">
       <place></place>
     </event>
   </person>

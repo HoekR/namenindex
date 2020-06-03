@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hues</name> <name type="geslachtsnaam">Oderne</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Richard</name> <name type="geslachtsnaam">Boer</name></persName>
+    <event type="birth" when="2004">
+      <place>Rotterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1894-10-24">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

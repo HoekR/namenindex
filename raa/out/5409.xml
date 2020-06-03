@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Echten</name></persName>
-    <persName>Johan van Echten tot Olduitenborgh</persName>
-    <event type="birth" when="1540">
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Johannes Bernardus</name> <name type="geslachtsnaam">Heijdendaal</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1619">
+    <event type="death" when="1799">
       <place></place>
     </event>
   </person>

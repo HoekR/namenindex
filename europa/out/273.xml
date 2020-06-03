@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/273"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Addis Abeba nan</name> <name type="geslachtsnaam">Haile Selassie I</name></persName>
+    <event type="birth">
+      <date>23-07-1892</date>
+      <place>Ejersa Goro</place>
+    </event>
+    <event type="death">
+      <date>27-08-1975</date>
+      <place>Addis Abeba</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

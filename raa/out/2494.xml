@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dominicus</name> <name type="geslachtsnaam">Suringar</name></persName>
-    <event type="birth" when="1774-09-07">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Jan Cornelisz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Backer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-05-09">
-      <place>Beetsterzwaag</place>
+    <event type="death" when="1748-01-27">
+      <place></place>
     </event>
   </person>
   <biography/>

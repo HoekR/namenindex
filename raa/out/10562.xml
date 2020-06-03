@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Reyersz.</name> <name type="geslachtsnaam">Bisschop</name></persName>
-    <persName>Willem Reyersz. Kievit</persName>
-    <event type="birth" when="1585">
+    <persName><name type="voornaam">Carel Gerard</name> <name type="geslachtsnaam">Hultman</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1617-07-30">
+    <event type="death" when="1820">
       <place></place>
     </event>
   </person>

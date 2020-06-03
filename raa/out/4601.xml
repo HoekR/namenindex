@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Paulus</name> <name type="intrapositie">graaf d'</name> <name type="geslachtsnaam">Aumale</name></persName>
+    <persName><name type="voornaam">Lucas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Timmerman</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1719">
       <place></place>
     </event>
   </person>

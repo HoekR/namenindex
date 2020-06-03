@@ -1,0 +1,76 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Boltjes, Tjomme Ynte (1899-1971)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/boltjes"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">boltjes</idno>
+    <persName><name type="geslachtsnaam">Boltjes</name>, Tjomme Ynte</persName>
+    <sex value="1"/>
+    <event type="birth" when="1899"/>
+    <event type="death" when="1971"/>
+    <state type="occupation">jurist</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Boltjes, Tjomme Ynte&lt;/strong&gt;, jurist (Appingedam 16-1-1899 - 's-Gravenhage 9-1-1971).
+
+Zoon van Sieberen Boltjes, notaris en advocaat, en Trijntje Jelles.
+Gehuwd op 7-6-1924 met Trientje Lijkles en na haar dood (22-6-1939)
+hertrouwd op 9-9-1940 met Margaretha Johanna Lijkles. Uit dit laatste
+huwelijk werd 1 dochter geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Boltjes studeerde sinds 1919 rechten in Amsterdam waar hij
+kandidaats rechtswetenschap deed. Ondertussen bekwaamde hij zich ook
+voor het notariaat; hij werd in 1923 kandidaat-notaris en werkte als
+zodanig te Baarn en Bussum. In 1929 deed hij doctoraal rechten aan de
+Universiteit van Amsterdam. Sinds dat jaar vervulde hij daar tevens de
+functie van secretaris van de toenmalige Raad van Beroep voor de
+directe belastingen, een ambt dat de functionaris een belangrijk ruimer
+en zwaarder taak geeft dan gewoonlijk op de secretaris of griffier van
+een rechtsprekend college rust. Zijn reputatie was zodanig dat hij
+reeds in 1941 raadsheer-plaatsvervanger in het gerechtshof te Amsterdam
+werd en terstond na de bevrijding raadsheer in dat college. In 1947
+werd hij benoemd tot lid van de Hoge Raad. In deze periode was hij
+tevens publicistisch en bestuurlijk als voorzitter van de Commissie van
+Advies inzake de wettelijke regeling voor adviseurs in belastingzaken
+werkzaam. Op 9 februari 1961 werd hij vice-president van de Hoge Raad.
+Sedert presideerde hij de Derde Kamer van de Raad, die belast is met
+belasting- en onteigeningszaken. Hoewel het aandeel van de vijf leden
+van een kamer van de Hoge Raad ten gevolge van het geheim van de
+raadkamer omsluierd blijft, vertoont toch de rechtspraak van de kamer
+waarin Boltjes eerst lange tijd zitting had en die hij ten slotte
+presideerde een zo duidelijke ontwikkeling dat men die wel overwegend
+aan zijn invloed moet toeschrijven. Het duidelijkst komt die
+ontwikkeling uit in een sterk verfijnde uitbouw van de rechtspraak
+inzake de schadevergoeding bij onteigening. In 1969 werd hem in verband
+met het bereiken van de leeftijdsgrens eervol ontslag verleend.&lt;/p&gt;
+&lt;p&gt;Boltjes was een man van wie een natuurlijk overwicht op zijn
+omgeving uitging: men zou bijna zeggen juist door zijn eenvoud die uit
+een grote zedelijke ernst voortvloeide. Met het land van herkomst van
+zijn familie, Friesland, bleef hij zich steeds nauw verbonden voelen
+wat samenging met zijn geliefkoosde vrijetijdsbesteding, het
+zeilen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Preadvies voor de Vereniging voor Belastingwetenschap over 
+&lt;em&gt;De rechtspraak in successie-, registratie- en zegelgeschillen&lt;/em&gt;
+
+(Alphen a/d Rijn, 1947).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;G.E. Langemeijer, in 
+&lt;em&gt;Nederlands Juristenblad&lt;/em&gt;
+
+46(1971)92.&lt;/p&gt;
+&lt;p&gt;G.E. Langemeijer&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

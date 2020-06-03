@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Weerts</name></persName>
-    <event type="birth" when="1769-01-17">
-      <place>Deventer</place>
+    <persName><name type="voornaam">Jacob Willem</name> <name type="geslachtsnaam">Dedel</name></persName>
+    <event type="birth" when="2007">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1842-05-15">
-      <place>Arnhem</place>
+    <event type="death" when="1848-05-23">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

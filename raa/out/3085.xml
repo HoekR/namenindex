@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Borchard Frederik Lodewijk</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Westerholt</name></persName>
-    <persName>Van Westerholt van Hackfort</persName>
-    <event type="birth" when="1794-04-11">
-      <place>Zutphen</place>
+    <persName><name type="voornaam">Govert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Suijs</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-09-06">
-      <place>Vorden</place>
+    <event type="death" when="1756">
+      <place></place>
     </event>
   </person>
   <biography/>

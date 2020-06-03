@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Joan</name> <name type="geslachtsnaam">Quarles van Ufford</name></persName>
-    <event type="birth" when="1821-09-22">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Gerrit Carel Coenraad</name> <name type="geslachtsnaam">Vatebender</name></persName>
+    <persName>Vatenbender</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1856-03-17">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1822">
+      <place></place>
     </event>
   </person>
   <biography/>

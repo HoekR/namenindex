@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Theodorus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Haese</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Eko Theodorus</name> <name type="intrapositie">Scheltinga</name> <name type="geslachtsnaam">Winterberg</name></persName>
+    <event type="birth" when="2003">
+      <place>Medemblik</place>
     </event>
-    <event type="death" when="1668-11-12">
-      <place></place>
+    <event type="death" when="1859-02-28">
+      <place>Nieuwe Niedorp</place>
     </event>
   </person>
   <biography/>

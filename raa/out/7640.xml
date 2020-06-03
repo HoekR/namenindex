@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Riemsdijk</name></persName>
-    <event type="birth" when="1778-01-25">
-      <place>Hardenberg</place>
+    <persName><name type="voornaam">M.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Haas</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-12-19">
-      <place>Almelo</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

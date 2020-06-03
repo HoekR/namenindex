@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Marinus</name> <name type="geslachtsnaam">Maertens</name></persName>
+    <persName><name type="voornaam">Thomas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Punt</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1673">
       <place></place>
     </event>
   </person>

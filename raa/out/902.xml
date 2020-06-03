@@ -8,11 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerardus Jacobus</name> <name type="geslachtsnaam">Ackermans</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf van den</name> <name type="geslachtsnaam">Hage</name></persName>
+    <persName>Simon d'Amont</persName>
+    <persName>Simon du Mont</persName>
+    <persName>Simon de Mons</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1849-05-10">
+    <event type="death">
       <place></place>
     </event>
   </person>

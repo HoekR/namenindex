@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Abraham</name> <name type="geslachtsnaam">Buning</name></persName>
-    <event type="birth" when="1761-12-12">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <persName>Jean de Cortewille</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1826-10-16">
-      <place>Wirdum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

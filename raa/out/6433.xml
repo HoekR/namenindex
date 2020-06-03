@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Francois</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jongh</name></persName>
+    <persName><name type="voornaam">Pieter Joostensz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Lodensteyn</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1675-12-22">
       <place></place>
     </event>
   </person>

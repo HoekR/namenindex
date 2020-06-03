@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wopke Klazes</name> <name type="geslachtsnaam">Wopkens</name></persName>
-    <event type="birth" when="1730">
-      <place></place>
+    <persName><name type="voornaam">Johannes Eduardus Hendricus Theodorus</name> <name type="geslachtsnaam">Speyart van Woerden</name></persName>
+    <event type="birth" when="2011">
+      <place>Lienden</place>
     </event>
-    <event type="death" when="1807">
-      <place></place>
+    <event type="death" when="1847-05-21">
+      <place>Herpt</place>
     </event>
   </person>
   <biography/>

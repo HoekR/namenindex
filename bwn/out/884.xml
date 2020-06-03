@@ -1,0 +1,82 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Jurgens, Johannes Wilhelmus Gosuinus Petrus (1895-1963)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/jurgens"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">jurgens</idno>
+    <persName><name type="geslachtsnaam">Jurgens</name>, Johannes Wilhelmus Gosuinus Petrus</persName>
+    <sex value="1"/>
+    <event type="birth" when="1895"/>
+    <event type="death" when="1963"/>
+    <state type="occupation">jurist</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/JURGENSJWGP.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Jurgens, Johannes Wilhelmus Gosuinus Petrus&lt;/strong&gt;, rechtsgeleerde (Oss 11-5-1895 - Nijmegen 13-2-1963).
+
+Zoon van Franciscus Alphonsus Jurgens, wijnhandelaar, en Maria Theresia
+Petronella Anna van Heeswijk. Gehuwd met Cornelia Sebastiana Regina
+Trooster op 7-9-1922. Uit dit huwelijk werden 2 zoons en 3 dochters
+geboren.
+
+&lt;img src=&amp;quot;images/JURGENSJWGP.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Jurgens, Johannes Wilhelmus Gosuinus Petrus&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Jurgens wie de liefde voor Brabant altijd is bijgebleven, ging na
+zijn middelbare schoolopleiding rechten te Utrecht studeren. Daar werd
+hij sterk be&amp;iuml;nvloed door J.Ph. Suyling en W.L.P.A. Molengraaff. Na
+voltooiing van zijn studie in 1921 vestigde hij zich aldaar als
+repetitor. In 1927 begon zijn loopbaan bij de rechterlijke macht als
+griffier van het kantongerecht te Zuidbroek. Tevens werd hij opleider
+voor het notariaat in Groningen. In 1933 werd hij rechter in de
+Arrondissementsrechtbank te Roermond. Op 27 maart 1940 volgde zijn
+benoeming tot gewoon hoogleraar in het handelsrecht, internationaal
+privaatrecht en burgerlijk procesrecht aan de Katholieke Universiteit
+te Nijmegen. Op 16 mei 1941 sprak hij een inaugurele rede uit over 
+&lt;em&gt;De processueele werking der verjaring.&lt;/em&gt;
+
+Jurgens schreef over privaatrechtelijke onderwerpen in verscheidene
+tijdschriften. Bijzondere belangstelling had hij voor het begrip
+comitas (gastvrijheid, welwillendheid) in het internationaal
+privaatrecht van de Republiek. Daaraan wijdde hij zijn rectorale
+lustrumrede (1949) en daarover handelde twee onder zijn leiding tot
+stand gekomen proefschriften (H.B.G. Irmer, 
+&lt;em&gt;&amp;quot;Comity&amp;quot;. Nederlandse invloed op het recht der Verenigde
+Staten&lt;/em&gt;
+
+(Nijmegen, 1948) en J.H.B. Scholten, 
+&lt;em&gt;Het begrip comitas in het internationaal privaatrecht van de
+Hollandse juristenschool der zeventiende eeuw&lt;/em&gt;
+
+(Utrecht [enz.], 1949)). Behalve bestuurlijke taken in de Universiteit
+heeft Jurgens ook daarbuiten functies vervuld, zoals bestuurslid van
+een reclasseringsinstelling.&lt;/p&gt;
+&lt;p&gt;De rooms-katholieke Jurgens was een bescheiden man en zijn invloed
+als privaatrechtjurist is beperkt gebleven. Tijdens zijn Nijmeegse
+jaren heeft hij weinig gepubliceerd. In zijn onderwijs benadrukte hij
+sterk de wetsuitleg. Hij had veel contact met zijn studenten. Onder
+zijn leiding is een groot aantal dissertaties tot stand gekomen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;L.E.H. Rutten, in 
+&lt;em&gt;Jaarboek Katholieke Universiteit Nijmegen 1962-1963,&lt;/em&gt;
+
+79-84.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;
+Katholiek Documentatie Centrum te Nijmegen, Collectie personen: afb. 2A4757.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;G.C.J.J. van den Bergh&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

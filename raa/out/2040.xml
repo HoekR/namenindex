@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Johan Louis</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
-    <event type="birth" when="1826-01-21">
-      <place>Zierikzee</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ruis Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Beth</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1887-07-12">
-      <place>Friedrichroda (Th&#252;ringen)</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

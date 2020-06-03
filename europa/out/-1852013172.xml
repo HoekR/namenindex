@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1852013172"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Will</name> <name type="intrapositie">Houston (Texas) nan</name> <name type="geslachtsnaam">Clayton</name></persName>
+    <event type="birth">
+      <date>07-02-1880</date>
+      <place>Tupelo (Mississippi)</place>
+    </event>
+    <event type="death">
+      <date>08-02-1966</date>
+      <place>Houston (Texas)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

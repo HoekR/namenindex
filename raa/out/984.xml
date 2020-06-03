@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hajo Albert</name> <name type="geslachtsnaam">Spandaw</name></persName>
-    <event type="birth" when="1777-10-23">
-      <place>Vries</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-10-28">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

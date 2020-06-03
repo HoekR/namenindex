@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hugues-Bernard</name> <name type="intrapositie">duc (empire)</name> <name type="geslachtsnaam">Maret</name></persName>
-    <persName>Maret, Duc de Bassano</persName>
-    <event type="birth" when="1763">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Angelus Jacobus</name> <name type="geslachtsnaam">Cuperus</name></persName>
+    <event type="birth" when="2004">
+      <place>Vollenhove</place>
     </event>
-    <event type="death" when="1839">
-      <place></place>
+    <event type="death" when="1831-01-31">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

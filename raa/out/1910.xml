@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Lodewijk</name> <name type="geslachtsnaam">Stern</name></persName>
-    <event type="birth" when="1792-01-09">
-      <place>Sluis</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Paape</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-02-18">
-      <place>Sluis</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

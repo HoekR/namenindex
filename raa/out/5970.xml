@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Dirksz.</name> <name type="geslachtsnaam">Guldewagen</name></persName>
-    <event type="birth" when="1599">
+    <persName><name type="voornaam">Carel</name> <name type="geslachtsnaam">Campagne</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1663-11-17">
+    <event type="death" when="1831">
       <place></place>
     </event>
   </person>

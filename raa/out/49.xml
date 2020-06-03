@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.dr.</name> <name type="voornaam">Fran&#231;ois Clement</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
-    <event type="birth" when="1766">
-      <place>Zierikzee</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">G&#252;nther</name> <name type="intrapositie">ridder von</name> <name type="geslachtsnaam">B&#252;nau</name></persName>
+    <persName>G&#252;nther von B&#252;nau zu Elsterberg und Christgr&#252;n</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834">
-      <place>Middelburg</place>
+    <event type="death" when="1539">
+      <place></place>
     </event>
   </person>
   <biography/>

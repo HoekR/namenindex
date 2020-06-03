@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacques</name> <name type="geslachtsnaam">Pols</name></persName>
-    <event type="birth" when="1794-10-27">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jancke</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Ids</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1864-03-02">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

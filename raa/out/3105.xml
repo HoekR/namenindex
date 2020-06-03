@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Cornelis</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Nahuys</name></persName>
-    <event type="birth" when="1803-08-18">
-      <place>Harderwijk</place>
+    <persName><name type="voornaam">Jacobus Johannes</name> <name type="geslachtsnaam">Schrijver</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-04-19">
-      <place>Ermelo</place>
+    <event type="death" when="1828">
+      <place></place>
     </event>
   </person>
   <biography/>

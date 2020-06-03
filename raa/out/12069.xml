@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Matthijs</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Oudensteyn</name></persName>
-    <event type="birth" when="1584">
+    <persName><name type="voornaam">Johan Christoffel Ludolf</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Munchausen tot Oldemeule</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1647-01-18">
+    <event type="death" when="1745-09-04">
       <place></place>
     </event>
   </person>

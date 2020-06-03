@@ -8,15 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Swinnas</name></persName>
-    <persName>Johan Swijnas</persName>
-    <persName>Johan Swijsnas</persName>
-    <persName>Johan Swijnaart</persName>
-    <persName>Johan Swinnes</persName>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Vincent Adolph</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Baer tot den Brandsenburch</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1649-04-15">
+    <event type="death" when="1681">
       <place></place>
     </event>
   </person>

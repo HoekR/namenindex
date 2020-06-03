@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/13767"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jacob Siemens</name> <name type="geslachtsnaam">Heemstra</name></persName>
+    <event type="birth" when="2005">
+      <place>Lutkegast</place>
+    </event>
+    <event type="death" when="1827-10-20">
+      <place>Aduard</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

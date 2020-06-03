@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Wolter</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Coeverden</name></persName>
-    <persName>Van Coeverden van Putten en den Schuylenburg</persName>
-    <event type="birth" when="1790-01-23">
-      <place>Doornspijk</place>
+    <persName><name type="voornaam">Joan Hendrik</name> <name type="geslachtsnaam">Nieuwenhuis</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-11-07">
-      <place>Veldhuizen in Bentheim</place>
+    <event type="death" when="1829">
+      <place></place>
     </event>
   </person>
   <biography/>

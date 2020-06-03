@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hieronimus</name> <name type="geslachtsnaam">Beck</name></persName>
-    <event type="birth" when="1759">
+    <persName><name type="voornaam">Simon</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Paddenburg</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1830-04-12">
-      <place>Sneek</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

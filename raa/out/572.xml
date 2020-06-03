@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Paulus</name> <name type="geslachtsnaam">Gouverneur</name></persName>
-    <event type="birth" when="1786-12-14">
-      <place>Oudenbosch</place>
+    <persName><name type="voornaam">Jean-Philibert</name> <name type="geslachtsnaam">Maret</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-03-12">
-      <place>Breda</place>
+    <event type="death" when="1827">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ludovicus Ernestus</name> <name type="geslachtsnaam">Diert van Melissant</name></persName>
-    <event type="birth" when="1755">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Walraedt</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Steenhuijs</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1811">
+    <event type="death" when="1722-05-17">
       <place></place>
     </event>
   </person>

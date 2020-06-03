@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1472222955"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Piet</name> <name type="intrapositie">Perpignan, Frankrijk nan</name> <name type="geslachtsnaam">Dankert</name></persName>
+    <event type="birth">
+      <date>08-01-1934</date>
+      <place>Stiens</place>
+    </event>
+    <event type="death">
+      <date>21-06-2003</date>
+      <place>Perpignan, Frankrijk</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Volkier Marius Fran&#231;ois</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Bentinck</name></persName>
-    <event type="birth" when="1807-10-06">
-      <place>Wijhe</place>
+    <persName><name type="voornaam">Gerrit Leendertsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Grootveld</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1888-10-11">
-      <place>Twello</place>
+    <event type="death" when="1677-06-09">
+      <place></place>
     </event>
   </person>
   <biography/>

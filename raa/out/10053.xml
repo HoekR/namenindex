@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Auguste</name> <name type="intrapositie">baron (empire)</name> <name type="geslachtsnaam">Petit de Beauverger</name></persName>
-    <event type="birth" when="1782">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Boenenz.</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1858">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1394548739"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Sir</name> <name type="voornaam">nan</name> <name type="intrapositie">Londen nan</name> <name type="geslachtsnaam">Nutting</name></persName>
+    <event type="birth">
+      <date>11-01-1920</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>24-02-1999</date>
+      <place>Londen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dirck</name> <name type="geslachtsnaam">Hagha</name></persName>
-    <event type="birth" when="1620">
-      <place></place>
+    <persName><name type="voornaam">Hendrik Rudolph Willem</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Goltstein</name></persName>
+    <persName>Van Goltstein van Oldenaller</persName>
+    <event type="birth" when="2003">
+      <place>Arnhem</place>
     </event>
-    <event type="death" when="1666-06-21">
-      <place></place>
+    <event type="death" when="1868-10-24">
+      <place>Putten</place>
     </event>
   </person>
   <biography/>

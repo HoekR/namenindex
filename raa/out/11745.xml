@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Caan</name></persName>
-    <event type="birth" when="1734">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">Sleeswijk</name> <name type="geslachtsnaam">Vening</name></persName>
+    <event type="birth" when="2004">
+      <place>Lemmer</place>
     </event>
-    <event type="death" when="1800">
-      <place></place>
+    <event type="death" when="1863-11-11">
+      <place>Leeuwarden</place>
     </event>
   </person>
   <biography/>

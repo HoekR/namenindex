@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ulrich Herman</name> <name type="intrapositie">Wielinga</name> <name type="geslachtsnaam">Huber</name></persName>
-    <event type="birth" when="1792-12-05">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Simon</name> <name type="intrapositie">graaf meester</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <persName>Boussu</persName>
+    <persName>Bossu</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-10-17">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer prof.mr.</name> <name type="voornaam">Johan Melchior</name> <name type="geslachtsnaam">Kemper</name></persName>
-    <event type="birth" when="1776-04-26">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Engelbrecht Maertensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Graswinckel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-07-20">
-      <place>Leiden</place>
+    <event type="death" when="1738-10-06">
+      <place></place>
     </event>
   </person>
   <biography/>

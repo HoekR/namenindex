@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sigismund Vincent Lodewijk Gustaaf</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heiden Hompesch tot Ootmarssum</name></persName>
-    <event type="birth" when="1731">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Raaphorst</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1790-06-05">
+    <event type="death" when="1326">
       <place></place>
     </event>
   </person>

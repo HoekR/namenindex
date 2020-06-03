@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dirk Simonsz.</name> <name type="geslachtsnaam">Groenewegen van der Made</name></persName>
-    <event type="birth" when="1646">
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Eysinga</name></persName>
+    <persName>Pytter van Eysinga</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1731-03-21">
+    <event type="death" when="1645-01-16">
       <place></place>
     </event>
   </person>

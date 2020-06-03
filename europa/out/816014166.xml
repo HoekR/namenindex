@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/816014166"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Heemstede nan</name> <name type="geslachtsnaam">Biesheuvel</name></persName>
+    <event type="birth">
+      <date>21-01-1918</date>
+      <place>Haarlem</place>
+    </event>
+    <event type="death">
+      <date>05-01-2002</date>
+      <place>Heemstede</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

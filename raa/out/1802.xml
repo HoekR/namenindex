@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Augustinus Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lanschot</name></persName>
-    <event type="birth" when="1794-05-20">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">David</name> <name type="geslachtsnaam">Thomassen &#224; Thuessink</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-06-25">
-      <place>St. Michielsgestel</place>
+    <event type="death" when="1817">
+      <place></place>
     </event>
   </person>
   <biography/>

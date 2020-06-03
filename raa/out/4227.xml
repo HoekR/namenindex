@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pier Johannes</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Visser</name></persName>
-    <event type="birth" when="1764">
+    <persName><name type="voornaam">Gerard Frans</name> <name type="geslachtsnaam">Bruns</name></persName>
+    <persName>Bruins</persName>
+    <persName>Brons</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1848">
+    <event type="death" when="1799">
       <place></place>
     </event>
   </person>

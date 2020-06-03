@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">lic.</name> <name type="voornaam">Remi</name> <name type="geslachtsnaam">Dreulx</name></persName>
-    <persName>Druittius</persName>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Baen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1751">
       <place></place>
     </event>
   </person>

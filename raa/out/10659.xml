@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Pieck</name></persName>
-    <persName>Jacob Pieck van IJzendoorn</persName>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Perponcher Sedlnitsky</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1570">
+    <event type="death" when="1776-10-27">
       <place></place>
     </event>
   </person>

@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Peter Joseph Wilhelm Anton</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Lommessen</name></persName>
-    <persName>van Lommessem Strijthagen</persName>
-    <event type="birth" when="1778-03-24">
-      <place>Aken</place>
+    <persName><name type="voornaam">Wigbold Adriaan</name> <name type="intrapositie">heer van</name> <name type="geslachtsnaam">Nassau-Woudenbergh</name></persName>
+    <persName>Wigbold Adriaan Graaf van Nassau-Bergen</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-11-30">
-      <place>Schaesberg</place>
+    <event type="death" when="1797-10-23">
+      <place></place>
     </event>
   </person>
   <biography/>

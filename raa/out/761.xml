@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Carolus Ludovicus Wilhelmus Josephus</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Keverberg van Kessel en Aldengoor</name></persName>
-    <event type="birth" when="1768-03-14">
-      <place>Haelen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Jansz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Barkeloo</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-11-30">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

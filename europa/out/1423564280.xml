@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1423564280"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Ian</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Buist</name></persName>
+    <event type="birth">
+      <date>30-05-1930</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>27-10-2012</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

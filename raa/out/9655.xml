@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sem</name> <name type="geslachtsnaam">Tonningh</name></persName>
-    <event type="birth" when="1696">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">George Isaac</name> <name type="geslachtsnaam">Bruce</name></persName>
+    <event type="birth" when="2010">
+      <place>Deventer</place>
     </event>
-    <event type="death" when="1763-10-11">
-      <place></place>
+    <event type="death" when="1850-12-30">
+      <place>Nieuwediep</place>
     </event>
   </person>
   <biography/>

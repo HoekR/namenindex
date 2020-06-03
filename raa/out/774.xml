@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Rudolf Willem Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Pabst</name></persName>
-    <persName>Van Pabst van Bingerden</persName>
-    <event type="birth" when="1775-03-20">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Henricus Wiardus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Altena van Bergum</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-04-01">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1771-12-13">
+      <place></place>
     </event>
   </person>
   <biography/>

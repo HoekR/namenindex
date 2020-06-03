@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Robertus Keuchenius</name> <name type="geslachtsnaam">Driessen</name></persName>
-    <event type="birth" when="1759">
+    <persName><name type="voornaam">Dirk</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Trip</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1831">
+    <event type="death" when="1748-02-04">
       <place></place>
     </event>
   </person>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Guillaume</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Gros</name></persName>
-    <persName>Guillaume le Gros</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Maurits Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hall</name></persName>
+    <event type="birth" when="2002">
+      <place>Vianen</place>
     </event>
-    <event type="death" when="1512">
-      <place></place>
+    <event type="death" when="1858-01-19">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

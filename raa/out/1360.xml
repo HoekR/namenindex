@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Tjakko</name> <name type="geslachtsnaam">Borgesius</name></persName>
-    <event type="birth" when="1816-06-01">
-      <place>Oude Pekela</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Aedo Alma</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Idema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1888-04-13">
-      <place>Oude Pekela</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

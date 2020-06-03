@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Roeland</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dam</name></persName>
-    <event type="birth" when="1775-01-05">
-      <place>Dordrecht</place>
+    <persName><name type="voornaam">G. Hendrik</name> <name type="geslachtsnaam">Garritsen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-01-10">
-      <place>s-Gravenpolder</place>
+    <event type="death" when="1823">
+      <place></place>
     </event>
   </person>
   <biography/>

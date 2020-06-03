@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Amel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Oenema</name></persName>
-    <persName>Aemilius van Oenema</persName>
+    <persName><name type="voornaam">Everwijn</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Benthem</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1647-04-07">
+    <event type="death" when="1671">
       <place></place>
     </event>
   </person>

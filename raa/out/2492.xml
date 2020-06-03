@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sytze Fokkes</name> <name type="geslachtsnaam">Reiding</name></persName>
+    <persName><name type="voornaam">Hans Ulrich</name> <name type="geslachtsnaam">Bisschoff</name></persName>
+    <persName>Bisschop</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1814">
       <place></place>
     </event>
   </person>

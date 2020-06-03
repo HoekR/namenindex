@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Nicolaas</name> <name type="geslachtsnaam">Houttuijn</name></persName>
-    <event type="birth" when="1695">
-      <place></place>
+    <persName><name type="voornaam">Fredericus Joannes Thomas</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Bruyn</name></persName>
+    <event type="birth" when="2005">
+      <place>Overlangel</place>
     </event>
-    <event type="death" when="1767">
-      <place></place>
+    <event type="death" when="1856-07-28">
+      <place>Helmond</place>
     </event>
   </person>
   <biography/>

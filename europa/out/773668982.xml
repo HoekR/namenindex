@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/773668982"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">De Bilt baron</name> <name type="geslachtsnaam">Michiels van Kessenich</name></persName>
+    <event type="birth">
+      <date>16-10-1902</date>
+      <place>Langebr&#252;ck (Saksen, Duitsland)</place>
+    </event>
+    <event type="death">
+      <date>09-01-1992</date>
+      <place>De Bilt</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

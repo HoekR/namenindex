@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/639867853"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Sir</name> <name type="voornaam">nan</name> <name type="intrapositie">Bradford-on-Avon nan</name> <name type="geslachtsnaam">Maitland</name></persName>
+    <event type="birth">
+      <date>16-08-1922</date>
+      <place>Edinburgh</place>
+    </event>
+    <event type="death">
+      <date>22-08-2010</date>
+      <place>Bradford-on-Avon</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

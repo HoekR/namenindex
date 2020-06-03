@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/37273"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Willem</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Schiff</name></persName>
+    <event type="birth" when="2007">
+      <place>Oosterbeek</place>
+    </event>
+    <event type="death" when="1857-09-24">
+      <place>Arnhem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

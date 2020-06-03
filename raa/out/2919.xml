@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Francois Gijsbert</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Brakell tot den Brakell</name></persName>
-    <event type="birth" when="1772-03-05">
-      <place>Zoelmond</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas Harcxz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Houten</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-08-14">
-      <place>Zoelmond</place>
+    <event type="death" when="1577">
+      <place></place>
     </event>
   </person>
   <biography/>

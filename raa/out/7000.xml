@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kempen</name></persName>
+    <persName><name type="voornaam">Taems Gerritsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Verdoes</name></persName>
+    <persName>Taems Gerritsz. van der Does</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1657-02-13">
       <place></place>
     </event>
   </person>

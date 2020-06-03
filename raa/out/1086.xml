@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jan Laurens</name> <name type="geslachtsnaam">Ram</name></persName>
-    <event type="birth" when="1814-12-03">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Kloek</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-02-13">
-      <place>Utrecht</place>
+    <event type="death" when="1760-02-29">
+      <place></place>
     </event>
   </person>
   <biography/>

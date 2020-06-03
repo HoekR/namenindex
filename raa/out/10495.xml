@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerrit Leendertsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Grootveld</name></persName>
-    <event type="birth" when="1626">
+    <persName><name type="voornaam">Jacob Charles</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kretschmar</name></persName>
+    <persName>Van Kretschmar van Veen</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1677-09-06">
+    <event type="death" when="1834">
       <place></place>
     </event>
   </person>

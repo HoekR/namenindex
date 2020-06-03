@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Abraham</name> <name type="intrapositie">IJssel de</name> <name type="geslachtsnaam">Schepper</name></persName>
-    <event type="birth" when="1775-08-13">
-      <place>Deventer</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Meer van Berendrecht</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-12-20">
-      <place>Deventer</place>
+    <event type="death" when="1594">
+      <place></place>
     </event>
   </person>
   <biography/>

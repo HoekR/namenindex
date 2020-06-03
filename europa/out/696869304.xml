@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/696869304"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Kees (Cees)</name> <name type="intrapositie">Vlissingen nan</name> <name type="geslachtsnaam">Boertien</name></persName>
+    <event type="birth">
+      <date>26-07-1927</date>
+      <place>Ensched&#233;</place>
+    </event>
+    <event type="death">
+      <date>30-05-2002</date>
+      <place>Vlissingen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Derk</name> <name type="geslachtsnaam">Holtwijk</name></persName>
-    <event type="birth" when="1754">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Rikoud</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Domselaar</name></persName>
+    <persName>Rycoult van den Broek.</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1839">
+    <event type="death" when="1528">
       <place></place>
     </event>
   </person>

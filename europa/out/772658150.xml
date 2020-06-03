@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/772658150"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Guus</name> <name type="intrapositie">Amsterdam nan</name> <name type="geslachtsnaam">Belinfante</name></persName>
+    <event type="birth">
+      <date>10-09-1911</date>
+      <place>Den Haag</place>
+    </event>
+    <event type="death">
+      <date>23-03-2000</date>
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

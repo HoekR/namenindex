@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Carel Vincent</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Boetzelaer</name></persName>
-    <persName>Van Boetzelaer van Dubbeldam</persName>
-    <event type="birth" when="1748-02-13">
-      <place>Leiden</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Renik</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Cammingha</name></persName>
+    <persName>Renik Eminga</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-10-24">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1531">
+      <place></place>
     </event>
   </person>
   <biography/>

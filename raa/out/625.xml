@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hyacinthus Constantinus Fredericus</name> <name type="geslachtsnaam">Kerstens</name></persName>
-    <event type="birth" when="1821-03-22">
-      <place>Boxmeer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Kamme</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1887-04-28">
-      <place>Mill</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

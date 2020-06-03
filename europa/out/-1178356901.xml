@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1178356901"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Sp&#233;nale</name></persName>
+    <event type="birth">
+      <date>29-11-1913</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>20-08-1983</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

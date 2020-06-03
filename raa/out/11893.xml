@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Theodorus Fredericus</name> <name type="geslachtsnaam">Schelts</name></persName>
-    <event type="birth" when="1741">
+    <persName><name type="voornaam">Derk</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Wyck</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1812">
+    <event type="death" when="1751-03-30">
       <place></place>
     </event>
   </person>

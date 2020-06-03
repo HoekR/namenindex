@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1266841528"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Rome nan</name> <name type="geslachtsnaam">Scarascia Mugnozza</name></persName>
+    <event type="birth">
+      <date>21-01-1920</date>
+      <place>Rome</place>
+    </event>
+    <event type="death">
+      <date>13-05-2004</date>
+      <place>Rome</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

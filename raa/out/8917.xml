@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.</name> <name type="geslachtsnaam">Hogeweg</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Gerlings</name></persName>
+    <event type="birth" when="2004">
+      <place>Haarlem</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1851-11-27">
+      <place>Haarlem</place>
     </event>
   </person>
   <biography/>

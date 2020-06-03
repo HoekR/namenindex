@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">ds.</name> <name type="voornaam">Jacobus Didericus</name> <name type="geslachtsnaam">Janssen</name></persName>
-    <event type="birth" when="1775-04-21">
-      <place>St. Anna ter Muiden</place>
+    <persName><name type="voornaam">Wilhelmus</name> <name type="geslachtsnaam">Siepkens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-01-14">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1838">
+      <place></place>
     </event>
   </person>
   <biography/>

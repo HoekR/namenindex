@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1181892879"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Winkelse nan</name> <name type="geslachtsnaam">Geens</name></persName>
+    <event type="birth">
+      <date>10-06-1931</date>
+      <place>Kersbeek-Miskom</place>
+    </event>
+    <event type="death">
+      <date>05-06-2002</date>
+      <place>Winkelse</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

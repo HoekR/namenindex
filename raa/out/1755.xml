@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Petrus Nicolaas</name> <name type="geslachtsnaam">Janssens</name></persName>
+    <persName><name type="voornaam">Derk</name> <name type="geslachtsnaam">Schoonman</name></persName>
     <event type="birth">
-      <place>Oosterhout</place>
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1820">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,9 @@
+# generic ignore
+out/
+*.pyc
+*.lock
+
+#specific ignore
+
+# never commit real settings
+settings.py

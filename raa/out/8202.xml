@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Camerling</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Rudolf Floris Carel</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Bentinck</name></persName>
+    <persName>Bentinck van Schoonheten</persName>
+    <event type="birth" when="2010">
+      <place>Diepenheim</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1857-05-26">
+      <place>Raalte</place>
     </event>
   </person>
   <biography/>

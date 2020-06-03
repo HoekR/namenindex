@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-360388870"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Voiron (Is&#232;re) nan</name> <name type="geslachtsnaam">Terpend-Ordassi&#232;re</name></persName>
+    <event type="birth">
+      <date>04-02-1912</date>
+      <place>Saint-Joseph-de-Rivi&#232;re (Is&#232;re)</place>
+    </event>
+    <event type="death">
+      <date>06-09-1981</date>
+      <place>Voiron (Is&#232;re)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

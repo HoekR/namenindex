@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lambertus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Meerten</name></persName>
-    <event type="birth" when="1792-03-25">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Ingelraven</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-04-08">
-      <place>Jutphaas</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

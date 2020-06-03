@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">lic.</name> <name type="voornaam">Ludolf</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Veen</name></persName>
+    <persName><name type="voornaam">Bruno Arentsz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Dussen</name></persName>
+    <persName>Bruine Arendsz. van der Dussen</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1508">
+    <event type="death" when="1655-04-27">
       <place></place>
     </event>
   </person>

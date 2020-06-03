@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dominique</name> <name type="geslachtsnaam">Bertrand</name></persName>
-    <persName>Bertrand dit B&#233;to</persName>
+    <persName><name type="voornaam">Maarten Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Moel</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1604">
       <place></place>
     </event>
   </person>

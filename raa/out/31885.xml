@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/31885"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Frederik Leopold Frans</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Tuyll van Serooskerken</name></persName>
+    <event type="birth" when="2011">
+      <place>'s-Hertogenbosch</place>
+    </event>
+    <event type="death" when="1837-12-05">
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

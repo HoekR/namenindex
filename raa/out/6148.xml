@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gabri&#235;l Hercules</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Loon</name></persName>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Willigen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1670-01-25">
       <place></place>
     </event>
   </person>

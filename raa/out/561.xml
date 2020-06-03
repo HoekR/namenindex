@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Maria Petrus Josephus Franciscus</name> <name type="geslachtsnaam">Petit</name></persName>
-    <event type="birth" when="1777-08-02">
-      <place>Roermond</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Kampen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-02-14">
-      <place>Roermond</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

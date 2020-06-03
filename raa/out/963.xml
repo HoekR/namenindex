@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Rau</name></persName>
-    <persName>Rau van Gameren</persName>
-    <event type="birth" when="1799-09-28">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Hendrik Dionisiusz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Schuijlenburch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-03-05">
-      <place>Arnhem</place>
+    <event type="death" when="1768-05-29">
+      <place></place>
     </event>
   </person>
   <biography/>

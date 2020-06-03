@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Alexander Wilhelmus Josephus Joannes</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Hugenpoth tot Aerdt</name></persName>
-    <event type="birth" when="1780-06-01">
-      <place>Markelo</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Scrivere</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-08-15">
-      <place>Herwen en Aerdt</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

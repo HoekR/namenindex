@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Claas</name> <name type="geslachtsnaam">Gerdenier</name></persName>
-    <event type="birth" when="1802-01-29">
-      <place>Medemblik</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Michielsz.</name></persName>
+    <event type="birth" when="1463">
+      <place></place>
     </event>
-    <event type="death" when="1870-07-13">
-      <place>Medemblik</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

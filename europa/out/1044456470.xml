@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1044456470"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">jhr.</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Boreel</name></persName>
+    <event type="birth">
+      <date>14-06-1926</date>
+      <place>Lausanne</place>
+    </event>
+    <event type="death">
+      <date>24-03-2001</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

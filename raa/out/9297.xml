@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Volkert Claasz.</name> <name type="geslachtsnaam">Del</name></persName>
-    <event type="birth" when="1659">
+    <persName><name type="voornaam">Carel Alexander</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ray</name></persName>
+    <persName>Raay</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1694">
+    <event type="death">
       <place></place>
     </event>
   </person>

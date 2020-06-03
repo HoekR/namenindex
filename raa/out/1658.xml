@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Christian</name> <name type="geslachtsnaam">Bijsterbos</name></persName>
-    <event type="birth" when="1814-08-16">
-      <place>Kampen</place>
+    <persName><name type="voornaam">Albert Reijniersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Brouwer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1898-10-13">
-      <place>Zwolle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

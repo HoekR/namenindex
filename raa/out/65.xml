@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Gerard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nes</name></persName>
-    <persName>Van Nes van Meerkerk</persName>
-    <event type="birth" when="1776-10-11">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Christof</name> <name type="intrapositie">ridder von</name> <name type="geslachtsnaam">Taubenheim</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-03-23">
-      <place>Utrecht</place>
+    <event type="death" when="1536">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.A.G.</name> <name type="geslachtsnaam">Zegers</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johannes</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Louter</name></persName>
+    <event type="birth" when="2011">
+      <place>Amersfoort</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1891-01-29">
+      <place>Amersfoort</place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lodewijk Arend</name> <name type="geslachtsnaam">Gansneb genaamd Tengnagel tot Hogehuis</name></persName>
-    <persName>Lodewijk Arend Gansneb genaamd Tengnagel tot Oldenhof</persName>
-    <persName>Lodewijk Arend Gansneb genaamd Tengnagel tot Oldhuis</persName>
-    <event type="birth" when="1700">
+    <persName><name type="voornaam">Pieter Nicolaas</name> <name type="geslachtsnaam">Rendorp</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1750-01-22">
+    <event type="death" when="1835">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Gaspar</name> <name type="intrapositie">van Pabst</name> <name type="geslachtsnaam">Rutgers</name></persName>
-    <event type="birth" when="1792-11-02">
-      <place>Haarlem</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Rommert</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Thomas</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-10-29">
-      <place>Hoorn</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

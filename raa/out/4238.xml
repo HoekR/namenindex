@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Arnout</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Zuylen van Nyevelt</name></persName>
-    <event type="birth" when="1664">
+    <persName><name type="voornaam">Gerard</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Blyenburg</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1731-01-15">
+    <event type="death" when="1605">
       <place></place>
     </event>
   </person>

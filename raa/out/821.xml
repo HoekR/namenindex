@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jean Charles Paul Joseph</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Outheusden</name></persName>
-    <event type="birth" when="1793-06-26">
-      <place>Brussel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gerritsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-03-16">
-      <place>Brussel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arnold Jacob Adriaan</name> <name type="geslachtsnaam">Drabbe</name></persName>
-    <persName>Arend Jacob Drabbe</persName>
-    <event type="birth" when="1791">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Ulrich Jan</name> <name type="geslachtsnaam">Huber</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-05-03">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1804">
+      <place></place>
     </event>
   </person>
   <biography/>

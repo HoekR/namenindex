@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolaas</name> <name type="geslachtsnaam">Geelvinck</name></persName>
-    <event type="birth" when="1732">
-      <place></place>
+    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Seerp</name> <name type="geslachtsnaam">Brouwer</name></persName>
+    <event type="birth" when="2002">
+      <place>Franeker</place>
     </event>
-    <event type="death" when="1787-12-04">
-      <place></place>
+    <event type="death" when="1856-07-30">
+      <place>Leeuwarden</place>
     </event>
   </person>
   <biography/>

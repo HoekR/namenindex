@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaan Jan</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Borssele van Geldermalsen</name></persName>
-    <event type="birth" when="1746">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Roemer</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Pietersz.</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1806">
+    <event type="death">
       <place></place>
     </event>
   </person>

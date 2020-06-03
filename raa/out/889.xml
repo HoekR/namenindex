@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jacobus Petrus Yvo</name> <name type="geslachtsnaam">Diert van Melissant</name></persName>
-    <event type="birth" when="1774-01-03">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Jan Elias</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Huydecoper van Maarseveen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-10-17">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1808">
+      <place></place>
     </event>
   </person>
   <biography/>

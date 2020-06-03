@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik Adriaan</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Goltz</name></persName>
-    <event type="birth" when="1770-08-07">
-      <place>Friedrichsdorf (Brandenburg)</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Hera</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Hottinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-02-04">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1502">
+      <place></place>
     </event>
   </person>
   <biography/>

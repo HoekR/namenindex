@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Machiel Marinus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lange</name></persName>
+    <persName><name type="voornaam">Mattheus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Steyn</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1680">
       <place></place>
     </event>
   </person>

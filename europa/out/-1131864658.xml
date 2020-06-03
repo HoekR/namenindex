@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1131864658"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bagsv&#230;rd nan</name> <name type="geslachtsnaam">N&#248;rgaard</name></persName>
+    <event type="birth">
+      <date>26-07-1922</date>
+      <place>Lyngby</place>
+    </event>
+    <event type="death">
+      <date>03-11-2011</date>
+      <place>Bagsv&#230;rd</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

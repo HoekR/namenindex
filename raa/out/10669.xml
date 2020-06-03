@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik Jansz.</name> <name type="geslachtsnaam">Sijverts</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Philippe Balthazar Marie Ghislain</name> <name type="intrapositie">burggraaf de</name> <name type="geslachtsnaam">Lens van Meulebeke</name></persName>
+    <event type="birth" when="2001">
+      <place>Gent</place>
     </event>
-    <event type="death" when="1647-04-19">
-      <place></place>
+    <event type="death" when="1830-03-20">
+      <place>Gent</place>
     </event>
   </person>
   <biography/>

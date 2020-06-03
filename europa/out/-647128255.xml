@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-647128255"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bob</name> <name type="intrapositie">Wassenaar nan</name> <name type="geslachtsnaam">Huijsmans</name></persName>
+    <event type="birth">
+      <date>17-03-1917</date>
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death">
+      <date>21-09-1994</date>
+      <place>Wassenaar</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Stelt</name></persName>
-    <event type="birth" when="1766-12-12">
-      <place>Beverwijk</place>
+    <persName><name type="voornaam">Coenraad</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ruysch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-11-22">
-      <place>Alkmaar</place>
+    <event type="death" when="1656">
+      <place></place>
     </event>
   </person>
   <biography/>

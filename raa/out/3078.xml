@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Nicolaas Gerrit</name> <name type="geslachtsnaam">Francken</name></persName>
-    <event type="birth" when="1788-04-23">
-      <place>Nijmegen</place>
+    <persName><name type="voornaam">Jannis Cremer</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rossen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-07-29">
-      <place>Elst</place>
+    <event type="death" when="1804">
+      <place></place>
     </event>
   </person>
   <biography/>

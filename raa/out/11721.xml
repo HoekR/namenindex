@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">H.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Sande de la Coste</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Karel Arnold</name> <name type="geslachtsnaam">Poortman</name></persName>
+    <event type="birth" when="2007">
+      <place>Schiedam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1886-10-04">
+      <place>Schiedam</place>
     </event>
   </person>
   <biography/>

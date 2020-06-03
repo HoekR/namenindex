@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Schelto Hessel</name> <name type="intrapositie">Roorda van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <event type="birth" when="1780-10-11">
-      <place>Langweer</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sicco</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Grovestins</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-08-27">
-      <place>Langweer</place>
+    <event type="death" when="1665-09-16">
+      <place></place>
     </event>
   </person>
   <biography/>

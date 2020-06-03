@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Hendrik</name> <name type="geslachtsnaam">Westra</name></persName>
-    <event type="birth" when="1803-03-29">
-      <place>Harlingen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Gajus</name> <name type="intrapositie">ridder Botnia van</name> <name type="geslachtsnaam">Broersma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-01-26">
-      <place>Assen</place>
+    <event type="death" when="1678-05-12">
+      <place></place>
     </event>
   </person>
   <biography/>

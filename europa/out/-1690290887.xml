@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1690290887"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Goes nan</name> <name type="geslachtsnaam">Ginjaar</name></persName>
+    <event type="birth">
+      <date>28-05-1928</date>
+      <place>Leiden</place>
+    </event>
+    <event type="death">
+      <date>17-09-2003</date>
+      <place>Goes</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Kodde</name></persName>
-    <event type="birth" when="1744">
+    <persName><name type="voornaam">Adriaan Sijmonsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sevenhuysen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1807">
+    <event type="death" when="1719-11-19">
       <place></place>
     </event>
   </person>

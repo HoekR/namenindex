@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Henricus Martinus</name> <name type="geslachtsnaam">Beeckman</name></persName>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) Lycochthon</name> <name type="geslachtsnaam">Hooghcamer</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1763-07-01">
       <place></place>
     </event>
   </person>

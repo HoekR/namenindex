@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/14074"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jan Arend Godert</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Vos van Steenwijk</name></persName>
+    <persName>De Vos van Steenwijk van den Oldenhof</persName>
+    <event type="birth" when="2003">
+      <place>Zwolle</place>
+    </event>
+    <event type="death" when="1824-12-22">
+      <place>Vollenhove</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

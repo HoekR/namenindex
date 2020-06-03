@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaen Danielsz.</name> <name type="geslachtsnaam">Boxel</name></persName>
+    <persName><name type="voornaam">Gerard</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pauw</name></persName>
+    <persName>Gerard Hoeufft</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1691-11-24">
+    <event type="death" when="1729-05-04">
       <place></place>
     </event>
   </person>

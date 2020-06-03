@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Willem Frederik</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">R&#246;ell</name></persName>
-    <event type="birth" when="1767-10-25">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Pieter Beerent</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Wiedenburg</name></persName>
+    <persName>Pieter Beerent van Wijdenbrugh</persName>
+    <persName>Pieter Beerent van Widenbrug</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-01-03">
-      <place>Amsterdam</place>
+    <event type="death" when="1764">
+      <place></place>
     </event>
   </person>
   <biography/>

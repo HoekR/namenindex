@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Clercq</name></persName>
-    <event type="birth" when="1821-11-09">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Otto</name> <name type="geslachtsnaam">Lewe van Aduard</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-10-21">
-      <place>Amsterdam</place>
+    <event type="death" when="1821">
+      <place></place>
     </event>
   </person>
   <biography/>

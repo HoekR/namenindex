@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1032524296"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Joaquim</name> <name type="intrapositie">nan de</name> <name type="geslachtsnaam">Lange C.S.Sp.</name></persName>
+    <event type="birth">
+      <date>05-03-1906</date>
+      <place>St. Nicolaasga</place>
+    </event>
+    <event type="death">
+      <date>14-07-1992</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pierre</name> <name type="intrapositie">ridder l'</name> <name type="geslachtsnaam">Apostole</name></persName>
-    <event type="birth" when="1466">
-      <place></place>
+    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Nysingh</name></persName>
+    <event type="birth" when="2006">
+      <place>Westerbork</place>
     </event>
-    <event type="death" when="1532">
-      <place></place>
+    <event type="death" when="1830-02-09">
+      <place>Schiphorst</place>
     </event>
   </person>
   <biography/>

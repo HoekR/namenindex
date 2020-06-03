@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/27529"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Charles Joseph Romain</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">N&#233;verl&#233;e</name></persName>
+    <event type="birth" when="2012">
+      <place>Namen</place>
+    </event>
+    <event type="death" when="1821-01-24">
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

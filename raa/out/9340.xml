@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Baptista</name> <name type="geslachtsnaam">Verheyen</name></persName>
-    <event type="birth" when="1746-10-14">
-      <place>Bokhoven</place>
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Westenberg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1814-10-23">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1746">
+      <place></place>
     </event>
   </person>
   <biography/>

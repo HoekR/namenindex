@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Louis</name> <name type="geslachtsnaam">Meganck</name></persName>
+    <persName><name type="voornaam">Gosen Hendrik</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Coeverden tot Rhaan</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1619">
+    <event type="death" when="1749-05-15">
       <place></place>
     </event>
   </person>

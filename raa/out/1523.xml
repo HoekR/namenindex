@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Foreest</name></persName>
-    <persName>Van Foreest van Heemse</persName>
-    <event type="birth" when="1778-05-07">
-      <place>Alkmaar</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">ridder van der</name> <name type="geslachtsnaam">Waeyen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-03-28">
-      <place>Ambt Hardenberg</place>
+    <event type="death" when="1743-10-01">
+      <place></place>
     </event>
   </person>
   <biography/>

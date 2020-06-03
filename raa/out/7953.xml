@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Casper</name> <name type="geslachtsnaam">Ingels</name></persName>
-    <persName>Gasper Ingelsen</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Hyacinthe J. Ant.</name> <name type="intrapositie">burggraaf de</name> <name type="geslachtsnaam">Baillet</name></persName>
+    <event type="birth" when="2002">
+      <place>Antwerpen</place>
     </event>
-    <event type="death" when="1679-04-30">
-      <place></place>
+    <event type="death" when="1861-12-25">
+      <place>Antwerpen</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Leonardus Dominicus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heijst</name></persName>
-    <event type="birth" when="1785-11-16">
-      <place>Waalwijk</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Spiegelmaker</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-04-20">
-      <place>Waalwijk</place>
+    <event type="death" when="1759">
+      <place></place>
     </event>
   </person>
   <biography/>

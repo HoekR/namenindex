@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.</name> <name type="geslachtsnaam">Speelman</name></persName>
+    <persName><name type="voornaam">Jacob Pietersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Muys van Holy</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1592-07-09">
       <place></place>
     </event>
   </person>

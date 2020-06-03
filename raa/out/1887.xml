@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Francois Nicolaas</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Bilt</name></persName>
-    <event type="birth" when="1786-03-20">
-      <place>Goes</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arend</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Hermansz.</name></persName>
+    <persName>Hayo Riperdorn</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-08-22">
-      <place>Kapelle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirck</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Scheltinga</name></persName>
-    <persName>Theodorus van Scheltinga</persName>
-    <event type="birth" when="1621">
+    <persName><name type="voornaam">Raimond</name> <name type="geslachtsnaam">Slicher</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1671-12-22">
+    <event type="death" when="1807">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Loo</name></persName>
-    <event type="birth" when="1495">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerrit Nicolaas</name> <name type="geslachtsnaam">Mulier</name></persName>
+    <event type="birth" when="2005">
+      <place>Oudenbosch</place>
     </event>
-    <event type="death" when="1562-12-28">
-      <place></place>
+    <event type="death" when="1861-06-24">
+      <place>Leeuwarden</place>
     </event>
   </person>
   <biography/>

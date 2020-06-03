@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerardus Henri</name> <name type="geslachtsnaam">Betz</name></persName>
-    <event type="birth" when="1816-10-30">
-      <place>Breda</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Wybo</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-05-20">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1761-11-29">
+      <place></place>
     </event>
   </person>
   <biography/>

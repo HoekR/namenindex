@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Coenraed</name> <name type="geslachtsnaam">Burgh</name></persName>
-    <event type="birth" when="1619">
-      <place></place>
+    <persName><name type="voornaam">Leendert</name> <name type="geslachtsnaam">Rijsterborgh</name></persName>
+    <event type="birth" when="2007">
+      <place>Terheide</place>
     </event>
-    <event type="death" when="1699-11-09">
-      <place></place>
+    <event type="death" when="1864-09-14">
+      <place>'s-Hertogenbosch</place>
     </event>
   </person>
   <biography/>

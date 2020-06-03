@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gabriel-Thomas-Marie</name> <name type="intrapositie">comte (empire) d'</name> <name type="geslachtsnaam">Arjuzon</name></persName>
-    <event type="birth" when="1761">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Leonard</name> <name type="geslachtsnaam">Metman</name></persName>
+    <event type="birth" when="2005">
+      <place>Waalwijk</place>
     </event>
-    <event type="death" when="1851">
-      <place></place>
+    <event type="death" when="1860-05-10">
+      <place>Paramaribo</place>
     </event>
   </person>
   <biography/>

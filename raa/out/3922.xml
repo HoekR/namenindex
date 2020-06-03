@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrick Vechtersz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Teffelen</name></persName>
-    <event type="birth" when="1555">
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Bocke Seerpsz.</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Scheltinga</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1621">
+    <event type="death">
       <place></place>
     </event>
   </person>

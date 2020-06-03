@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lenard Pietersz.</name> <name type="geslachtsnaam">Moens</name></persName>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Munter</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1650-11-06">
+    <event type="death" when="1708-08-11">
       <place></place>
     </event>
   </person>

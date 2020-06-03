@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Andreas Joannes Ludovicus</name> <name type="intrapositie">baron van den</name> <name type="geslachtsnaam">Bogaerde</name></persName>
-    <persName>Van den Bogaerde van Terbrugge</persName>
-    <event type="birth" when="1787-07-04">
-      <place>Gent</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Pietersz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Renger</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-01-12">
-      <place>Heeswijk</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

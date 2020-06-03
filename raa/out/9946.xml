@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Diderik Jansz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Ameijde</name></persName>
-    <persName>Diderik van der Meyden</persName>
+    <persName><name type="voornaam">Henry-Jacques-Guillaume</name> <name type="geslachtsnaam">Clarke</name></persName>
+    <persName>Clarke, Duc de Feltre</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1723-01-12">
+    <event type="death" when="1818">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Henricus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Berckel</name></persName>
-    <event type="birth" when="1783-05-05">
-      <place>Delft</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frisius</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Nauta</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-03-15">
-      <place>Beek (Gld.)</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1269335199"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Wiesbaden nan</name> <name type="geslachtsnaam">Meulenbergh</name></persName>
+    <event type="birth">
+      <date>1891</date>
+      <place>S&#252;sterseel</place>
+    </event>
+    <event type="death">
+      <date>09-07-1971</date>
+      <place>Wiesbaden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

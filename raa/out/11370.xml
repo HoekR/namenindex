@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albert</name> <name type="geslachtsnaam">Tjeerds</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Willem Hendricus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Heus</name></persName>
+    <persName>De Heus van Nyenrode</persName>
+    <event type="birth" when="2012">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1872-02-17">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

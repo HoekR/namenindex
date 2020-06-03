@@ -1,0 +1,82 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Harderwijk, Petrus Johannes van (1867-1948)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/harderwijk"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">harderwijk</idno>
+    <persName><name type="geslachtsnaam">Harderwijk</name>, Petrus Johannes van</persName>
+    <sex value="1"/>
+    <event type="birth" when="1867"/>
+    <event type="death" when="1948"/>
+    <state type="occupation">oud-katholiek priester</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Harderwijk, Petrus Johannes van&lt;/strong&gt;, oud-katholiek pastoor (Utrecht 1-7-1867 - Rijswijk (Z.H.) 23-12-1948).
+
+Zoon van Petrus Johannes van Harderwijk, edelsmid, en Barbara Johanna
+Gol. Hij was ongehuwd.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Van Harderwijk werd in 1880 opgenomen in het oud-katholiek Seminarie
+te Amersfoort, waar hij de overgang meemaakte van de Latijnse School
+naar het Gymnasium. Hier slaagde hij in 1886 voor het eindexamen en
+studeerde vervolgens theologie aan het oud-katholiek Seminarie. Hier
+beleefde hij in 1889 het totstandkomen van de Unie van Utrecht,
+waardoor de 'Roomsch-Katholieken van de Oude Bisschoppelijke
+Clerezie' uit hun isolement verlost werden en contact kregen met
+oud-katholieke kerken in het buitenland. Zo kon hij profiteren van de
+colleges, die door oud-katholieke hoogleraren aan de universiteit van
+Bonn gegeven werden. Hij maakte zich verdienstelijk door het
+catalogiseren van de pamflettenverzameling (zg. Varia) in de
+bibliotheek van het seminarie, die een levendig beeld gaf van de
+kerkelijke twisten in de 17de en 18de eeuw. Door zijn redacteurschap
+aan de 
+&lt;em&gt;Amersfoortsche Courant&lt;/em&gt;
+
+legde hij de grondslag voor zijn latere journalistieke werk.&lt;/p&gt;
+&lt;p&gt;Op 26 november 1893 ontving hij de priesterwijding uit de handen van
+aartsbisschop Gerardus Gul. Hij werd benoemd tot pastoor in Schiedam,
+waar hij zou blijven tot 31 december 1937. Hier maakte hij kennis met
+zware sociale problemen, die mede veroorzaakt werden door de vele
+distilleerderijen. In dit verband mag vooral zijn werk genoemd worden
+voor het tot stand komen van een neutrale huishoud- en
+industrieschool.&lt;/p&gt;
+&lt;p&gt;Het publicistisch werk bleef hem intussen boeien. In 1899
+publiceerde hij (tegen Bolland) 
+&lt;em&gt;Petrus en het primaat m de oude Kerk&lt;/em&gt;
+
+(Rotterdam, 1899). Later werkte hij mee aan het 
+&lt;em&gt;Gedenkboek 1723-1923. Tweede Eeuwfeest der verkiezing van Cornelis
+Steenhoven tot Aartsbisschop van Utrecht&lt;/em&gt;
+
+(Utrecht, 1923) en aan 
+&lt;em&gt;Katholieke Stemmen&lt;/em&gt;
+
+(Rotterdam, 1928).&lt;/p&gt;
+&lt;p&gt;Zijn belangrijkste taak naast het pastoraat was het kerkelijk
+perswerk. In 1913 werd hij opgenomen in de redactie van 
+&lt;em&gt;De Oud-Katholiek&lt;/em&gt;
+
+en van 1918-1946 is hij hoofdredacteur geweest. Hij was voorzitter van
+de Commissie voor de inventarisatie van kerkelijke goederen van
+geschiedenis en kunst. Als hobby beoefende hij de filatelie, waarin hij
+het tot keurmeester heeft gebracht.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;De Oud-Katholiek&lt;/em&gt;
+
+65 (1949) l (l jan.) 1-4.&lt;/p&gt;
+&lt;p&gt;P.J. Maan&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/3515"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Reinier Adriaan</name> <name type="geslachtsnaam">Gansneb genaamd Tengnagel tot Oldhuis</name></persName>
+    <event type="birth" when="1696"/>
+    <event type="death" when="1750"/>
+  </person>
+  <biography/>
+</biodes>

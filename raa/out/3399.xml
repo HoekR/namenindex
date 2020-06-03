@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wilhem</name> <name type="geslachtsnaam">Willink</name></persName>
-    <event type="birth" when="1750">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Heiman</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Willemsz.</name></persName>
+    <persName>Guiset</persName>
+    <persName>Grusset</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1841">
+    <event type="death">
       <place></place>
     </event>
   </person>

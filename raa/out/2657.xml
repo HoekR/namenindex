@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Daniel Bonifacius</name> <name type="geslachtsnaam">Haer</name></persName>
-    <event type="birth" when="1781-01-10">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">P.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lelyveld</name></persName>
+    <persName>Lelijveld</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-09-27">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

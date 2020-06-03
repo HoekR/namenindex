@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Klaas Oenes</name> <name type="geslachtsnaam">Gorter</name></persName>
-    <event type="birth" when="1735">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dirk</name> <name type="geslachtsnaam">Donker Curtius</name></persName>
+    <event type="birth" when="2010">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death" when="1805">
-      <place></place>
+    <event type="death" when="1864-07-17">
+      <place>Spa</place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jan Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lynden</name></persName>
-    <persName>Van Lynden van Lunenburg</persName>
-    <event type="birth" when="1765-01-20">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Andries</name> <name type="intrapositie">baron (Empire) van</name> <name type="geslachtsnaam">Pallandt</name></persName>
+    <persName>Van Pallandt van Eerde</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-01-10">
-      <place>Utrecht</place>
+    <event type="death" when="1827">
+      <place></place>
     </event>
   </person>
   <biography/>

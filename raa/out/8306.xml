@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Nicolaas</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reygersberge</name></persName>
-    <event type="birth" when="1584">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Herman Anthony</name> <name type="geslachtsnaam">Tobias</name></persName>
+    <event type="birth" when="2007">
+      <place>Zwolle</place>
     </event>
-    <event type="death" when="1654-08-03">
-      <place></place>
+    <event type="death" when="1820-07-25">
+      <place>Haarst</place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/670938092"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Silkin</name></persName>
+    <event type="birth">
+      <date>18-03-1923</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>27-04-1987</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

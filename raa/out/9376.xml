@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Josephus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Berckel</name></persName>
-    <event type="birth" when="1741">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Carel</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Kasteele</name></persName>
+    <event type="birth" when="2003">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1817">
-      <place></place>
+    <event type="death" when="1835-01-07">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

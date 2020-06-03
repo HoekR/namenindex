@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joannes</name> <name type="geslachtsnaam">Holt</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Floris Willem</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Sloet</name></persName>
+    <persName>Sloet van Warmelo</persName>
+    <event type="birth" when="2010">
+      <place>Zeist</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1838-01-30">
+      <place>Diepenheim</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus Egbertus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Mandele</name></persName>
-    <event type="birth" when="1811-07-07">
-      <place>Delft</place>
+    <persName><name type="voornaam">Derk</name> <name type="geslachtsnaam">Gaymans</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-07-01">
-      <place>Delft</place>
+    <event type="death" when="1845">
+      <place></place>
     </event>
   </person>
   <biography/>

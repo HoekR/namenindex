@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">G.</name> <name type="geslachtsnaam">Mollerus</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Rembert</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Sierksma</name></persName>
+    <persName>Rembertus Syrcxma</persName>
+    <persName>Rombertus Siercksma</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1603-03-19">
       <place></place>
     </event>
   </person>

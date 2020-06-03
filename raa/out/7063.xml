@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Evert Christiaan</name> <name type="geslachtsnaam">Ver Huell</name></persName>
-    <event type="birth" when="1789-02-11">
-      <place>Doetinchem</place>
+    <persName><name type="voornaam">Adriaen Gerrit Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Doublet</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-02-18">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1726-03-08">
+      <place></place>
     </event>
   </person>
   <biography/>

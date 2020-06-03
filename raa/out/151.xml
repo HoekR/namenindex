@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Joan</name> <name type="geslachtsnaam">Huydecoper</name></persName>
-    <persName>Huydecoper van Maarsseveen</persName>
-    <event type="birth" when="1821-05-10">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Tobie Constantin</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Bordes</name></persName>
+    <persName>Tobias.</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1890-11-29">
-      <place>Maarsseveen</place>
+    <event type="death" when="1845">
+      <place></place>
     </event>
   </person>
   <biography/>

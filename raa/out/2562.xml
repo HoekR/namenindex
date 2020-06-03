@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Izaak Beerents</name> <name type="geslachtsnaam">Wouters</name></persName>
-    <event type="birth" when="1789-12-15">
-      <place>Sneek</place>
+    <persName><name type="voornaam">B.W.</name> <name type="geslachtsnaam">Wassenaar</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-10-03">
-      <place>Sneek</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

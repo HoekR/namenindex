@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Bolle</name></persName>
-    <persName>Willem van Zaanden</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Reint Hendrik</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Vos van Steenwijk</name></persName>
+    <persName>De Vos van Steenwijk van den Oldenhof</persName>
+    <event type="birth" when="2007">
+      <place>De Wijk</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1836-02-02">
+      <place>De Wijk</place>
     </event>
   </person>
   <biography/>

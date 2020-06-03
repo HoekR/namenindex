@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1548984431"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Riyad bin</name> <name type="geslachtsnaam">Faisal</name></persName>
+    <event type="birth">
+      <date>1906</date>
+      <place>Riyad</place>
+    </event>
+    <event type="death">
+      <date>25-03-1975</date>
+      <place>Riyad</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

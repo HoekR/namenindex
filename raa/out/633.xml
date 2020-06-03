@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Johannes Antonius Christianus Arnoldus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nispen van Sevenaer</name></persName>
-    <event type="birth" when="1803-12-27">
-      <place>Zevenaar</place>
+    <persName><name type="voornaam">Jeroen</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Borre</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-05-05">
-      <place>Zevenaar</place>
+    <event type="death" when="1595">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="intrapositie">De</name> <name type="geslachtsnaam">Vaucresson</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Matthias</name> <name type="geslachtsnaam">Singendonck</name></persName>
+    <persName>Singendonck van Dieden</persName>
+    <event type="birth" when="2002">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1819-11-07">
+      <place>Nijmegen</place>
     </event>
   </person>
   <biography/>

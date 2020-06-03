@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Josephus Fredericus Sigismundus</name> <name type="geslachtsnaam">Esser</name></persName>
-    <event type="birth" when="1818-03-17">
-      <place>Venray</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Damas</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Dirksz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-04-14">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Vitus Valerius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Cammingha</name></persName>
-    <event type="birth" when="1790-10-11">
-      <place>Goutum</place>
+    <persName><name type="voornaam">Jan junior</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-07-10">
-      <place>Huizum</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

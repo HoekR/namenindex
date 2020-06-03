@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Gradman</name>
-    </persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Albartus</name> <name type="geslachtsnaam">Telting</name></persName>
+    <event type="birth" when="2010">
+      <place>Franeker</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1863-09-17">
+      <place>Franeker</place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/548707459"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">graaf</name> <name type="voornaam">nan</name> <name type="intrapositie">Langbroek (Utrecht) van</name> <name type="geslachtsnaam">Lynden van Sandenburg</name></persName>
+    <event type="birth">
+      <date>10-02-1905</date>
+      <place>Langbroek (Utrecht)</place>
+    </event>
+    <event type="death">
+      <date>09-01-1990</date>
+      <place>Langbroek (Utrecht)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

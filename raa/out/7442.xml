@@ -8,9 +8,8 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hermanus</name> <name type="geslachtsnaam">Schiffer</name></persName>
-    <persName>Scheffer</persName>
-    <event type="birth" when="1787">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Uitwijk</name></persName>
+    <event type="birth">
       <place></place>
     </event>
     <event type="death">

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/27216"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jacob Derk</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Sweerts de Landas</name></persName>
+    <event type="birth" when="2002">
+      <place>Gorinchem</place>
+    </event>
+    <event type="death" when="1820-10-03">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

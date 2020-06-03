@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Martinus Gerardus</name> <name type="geslachtsnaam">Brondgeest</name></persName>
+    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Groenendijk</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1768">
       <place></place>
     </event>
   </person>

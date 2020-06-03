@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1322"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Alexander</name> <name type="intrapositie">'s-Gravenhage nan</name> <name type="geslachtsnaam">Fi&#233;vez</name></persName>
+    <event type="birth">
+      <date>22-06-1902</date>
+      <place>Zutphen</place>
+    </event>
+    <event type="death">
+      <date>30-04-1949</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

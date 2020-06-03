@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Steven Jan Matthias</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Geuns</name></persName>
-    <event type="birth" when="1795-12-15">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">A.C.W.</name> <name type="geslachtsnaam">Haringh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-04-10">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1202296182"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">baron</name> <name type="voornaam">nan</name> <name type="intrapositie">Sint-Lambrechts-Woluwe van der</name> <name type="geslachtsnaam">Straten-Waillet</name></persName>
+    <event type="birth">
+      <date>22-01-1910</date>
+      <place>Antwerpen</place>
+    </event>
+    <event type="death">
+      <date>15-02-1998</date>
+      <place>Sint-Lambrechts-Woluwe</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

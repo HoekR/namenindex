@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Carel Ferdinand</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Inn- und Kniphausen</name></persName>
-    <event type="birth" when="1772-04-29">
-      <place>Ulrum</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Hector Livius</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Haersma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1842-01-16">
-      <place>Groningen</place>
+    <event type="death" when="1820-01-15">
+      <place></place>
     </event>
   </person>
   <biography/>

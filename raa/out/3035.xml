@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Evert Willem</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
-    <persName>Van Heeckeren van Molecaten</persName>
-    <event type="birth" when="1760-04-27">
-      <place>Hattem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Dirksz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Korver</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-09-14">
-      <place>Oldebroek</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

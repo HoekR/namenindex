@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Eliza</name> <name type="geslachtsnaam">Vonck</name></persName>
-    <event type="birth" when="1783-12-27">
-      <place>Streefkerk</place>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jodoigne</name></persName>
+    <persName>Hendrik van Gheldenake.</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-11-16">
-      <place>Streefkerk</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

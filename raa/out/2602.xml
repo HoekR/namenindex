@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Tjalling</name> <name type="geslachtsnaam">Halbertsma</name></persName>
-    <event type="birth" when="1792-01-21">
-      <place>Grouw</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Albrecht</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Egmond van Merenstein</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-12-12">
-      <place>Grouw</place>
+    <event type="death" when="1595">
+      <place></place>
     </event>
   </person>
   <biography/>

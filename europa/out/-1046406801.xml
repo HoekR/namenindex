@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1046406801"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Bulent</name> <name type="intrapositie">Ankara nan</name> <name type="geslachtsnaam">Ecevit</name></persName>
+    <event type="birth">
+      <date>28-05-1925</date>
+      <place>Istanbul</place>
+    </event>
+    <event type="death">
+      <date>05-11-2006</date>
+      <place>Ankara</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

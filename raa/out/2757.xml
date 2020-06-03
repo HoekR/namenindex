@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Paulus Theresia</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Maesen de Sombreff</name></persName>
-    <event type="birth" when="1827-10-25">
-      <place>Maastricht</place>
+    <persName><name type="voornaam">Godefriedus Dominicus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hellenberg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1902-11-14">
-      <place>Maastricht</place>
+    <event type="death" when="1817">
+      <place></place>
     </event>
   </person>
   <biography/>

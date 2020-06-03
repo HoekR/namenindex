@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Theunes</name> <name type="intrapositie">Haakma</name> <name type="geslachtsnaam">Tresling</name></persName>
-    <event type="birth" when="1769">
-      <place>Leeuwarden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Huge</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Paulsz.</name></persName>
+    <persName>Chimay</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-10-22">
-      <place>Scharmer</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

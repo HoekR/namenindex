@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Dircxz.</name> <name type="geslachtsnaam">Baenman</name></persName>
+    <persName><name type="voornaam">Claas Jacobsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Broeck</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1644-05-13">
       <place></place>
     </event>
   </person>

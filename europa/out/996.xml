@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/996"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Ir.</name> <name type="voornaam">Steef</name> <name type="intrapositie">Arnhem van</name> <name type="geslachtsnaam">Schaik</name></persName>
+    <event type="birth">
+      <date>08-12-1888</date>
+      <place>Druten</place>
+    </event>
+    <event type="death">
+      <date>10-12-1968</date>
+      <place>Arnhem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

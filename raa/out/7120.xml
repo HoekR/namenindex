@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Carolus Jacobus</name> <name type="geslachtsnaam">Blankenheym</name></persName>
-    <event type="birth" when="1767-11-15">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Johan Eliasz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Venlo</name></persName>
+    <persName>Johan Eliasz. van Loo</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-06-18">
-      <place>Rotterdam</place>
+    <event type="death" when="1667-11-01">
+      <place></place>
     </event>
   </person>
   <biography/>

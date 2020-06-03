@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Friderich</name> <name type="geslachtsnaam">Kymmell</name></persName>
-    <event type="birth" when="1779-07-11">
-      <place>Dalen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Jansz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Assendelft</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-12-10">
-      <place>Dalen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-959501529"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Ir.</name> <name type="voornaam">Como</name> <name type="intrapositie">Wassenaar nan</name> <name type="geslachtsnaam">Stuyt</name></persName>
+    <event type="birth">
+      <date>14-03-1909</date>
+      <place>Amsterdam</place>
+    </event>
+    <event type="death">
+      <date>12-10-1955</date>
+      <place>Wassenaar</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

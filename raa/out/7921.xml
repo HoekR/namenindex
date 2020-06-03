@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Anthony Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hees</name></persName>
-    <event type="birth" when="1724">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Abraham</name> <name type="geslachtsnaam">Boxman</name></persName>
+    <event type="birth" when="2010">
+      <place>Gorinchem</place>
     </event>
-    <event type="death" when="1768-09-17">
-      <place></place>
+    <event type="death" when="1856-03-26">
+      <place>Gorinchem</place>
     </event>
   </person>
   <biography/>

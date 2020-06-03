@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Coenraad Willem</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Sloet tot Tweenyenhuizen</name></persName>
-    <persName>Sloet van Tweenyenhuizen en Bredenhorst</persName>
-    <event type="birth" when="1767-09-26">
-      <place>Vollenhove</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Martinus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Bouricius</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-11-23">
-      <place>Zwolle</place>
+    <event type="death" when="1755-01-07">
+      <place></place>
     </event>
   </person>
   <biography/>

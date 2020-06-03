@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Verdooren van Asperen</name></persName>
-    <event type="birth" when="1757">
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Elias</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1824">
+    <event type="death" when="1752-10-31">
       <place></place>
     </event>
   </person>

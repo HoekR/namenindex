@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1446016100"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Colomby-les-Deux-Eglises de</name> <name type="geslachtsnaam">Gaulle</name></persName>
+    <event type="birth">
+      <date>22-11-1890</date>
+      <place>Lille</place>
+    </event>
+    <event type="death">
+      <date>09-11-1970</date>
+      <place>Colomby-les-Deux-Eglises</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

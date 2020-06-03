@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Adriaan Walraven</name> <name type="geslachtsnaam">Engelen</name></persName>
-    <event type="birth" when="1804-08-23">
-      <place>Valburg</place>
+    <persName><name type="voornaam">Andr&#233;</name> <name type="geslachtsnaam">Fournier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1890-01-29">
-      <place>Velp</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

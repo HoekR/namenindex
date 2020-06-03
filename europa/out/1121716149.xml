@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1121716149"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Andr&#233;</name> <name type="intrapositie">Luik nan</name> <name type="geslachtsnaam">Cools</name></persName>
+    <event type="birth">
+      <date>01-08-1927</date>
+      <place>Fl&#233;malle Grande</place>
+    </event>
+    <event type="death">
+      <date>18-07-1991</date>
+      <place>Luik</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

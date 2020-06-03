@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/30879"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Angelus Jacobus</name> <name type="geslachtsnaam">Cuperus</name></persName>
+    <event type="birth" when="2004">
+      <place>Vollenhove</place>
+    </event>
+    <event type="death" when="1831-01-31">
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

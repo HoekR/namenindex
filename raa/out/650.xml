@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Warnardus Cornelis Mathildus</name> <name type="geslachtsnaam">Begram</name></persName>
-    <event type="birth" when="1823-05-23">
-      <place>Gorinchem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hermannus Ulricus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Huber</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1890-05-06">
-      <place>Gorinchem</place>
+    <event type="death" when="1797-09-06">
+      <place></place>
     </event>
   </person>
   <biography/>

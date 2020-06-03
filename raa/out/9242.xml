@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">lic.</name> <name type="voornaam">Lambert</name> <name type="intrapositie">ridder van der</name> <name type="geslachtsnaam">Ee</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Mattheus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Kempenaer</name></persName>
+    <event type="birth" when="2007">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1503">
-      <place></place>
+    <event type="death" when="1870-12-02">
+      <place>Arnhem</place>
     </event>
   </person>
   <biography/>

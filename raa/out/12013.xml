@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Boudewijnsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Muylwijk</name></persName>
-    <event type="birth" when="1585">
+    <persName><name type="voornaam">J.D.</name> <name type="intrapositie">d'</name> <name type="geslachtsnaam">Olislager</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1644-02-11">
-      <place></place>
+    <event type="death" when="1840-12-23">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

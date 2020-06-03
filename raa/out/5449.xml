@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Cornelisz.</name> <name type="geslachtsnaam">Soop</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Gerritsz.</name> <name type="intrapositie">graaf van -  de jonge</name> <name type="geslachtsnaam">Assendelft</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1622">
+    <event type="death" when="1480">
       <place></place>
     </event>
   </person>

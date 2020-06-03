@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">ter</name> <name type="geslachtsnaam">Bruggen</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerrit Adrianus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Raadt</name></persName>
+    <event type="birth" when="2003">
+      <place>Barendrecht</place>
     </event>
-    <event type="death" when="1795">
-      <place></place>
+    <event type="death" when="1883">
+      <place>Dordrecht</place>
     </event>
   </person>
   <biography/>

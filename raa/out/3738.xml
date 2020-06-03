@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Coenraad Wolter Ellents</name> <name type="geslachtsnaam">Hofstede</name></persName>
-    <event type="birth" when="1784-11-02">
-      <place>Assen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Dussen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-01-06">
-      <place>Demerary</place>
+    <event type="death" when="1497">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/14741508"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">Jos</name> <name type="intrapositie">Haarlem nan</name> <name type="geslachtsnaam">Staatsen</name></persName>
+    <event type="birth">
+      <date>30-01-1943</date>
+      <place>Utrecht</place>
+    </event>
+    <event type="death">
+      <date>19-01-2006</date>
+      <place>Haarlem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

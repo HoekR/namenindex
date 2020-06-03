@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan Willem</name> <name type="geslachtsnaam">Thibaut</name></persName>
-    <persName>Thibaut van Aagtekerke</persName>
-    <event type="birth" when="1776-05-10">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jacobsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1815-03-18">
-      <place>Middelburg</place>
+    <event type="death" when="1470">
+      <place></place>
     </event>
   </person>
   <biography/>

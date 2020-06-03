@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jan</name> <name type="intrapositie">ter</name> <name type="geslachtsnaam">Braak</name></persName>
-    <event type="birth" when="1762">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Nicolaas</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Gijselaar</name></persName>
+    <event type="birth" when="2005">
+      <place>Gorinchem</place>
     </event>
-    <event type="death" when="1810">
-      <place></place>
+    <event type="death" when="1818-01-29">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-139938372"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">T&#226;rgovi&#351;te, D&#226;mbovi&#539;a nan</name> <name type="geslachtsnaam">Ceausescu</name></persName>
+    <event type="birth">
+      <date>28-01-1918</date>
+      <place>Scornice&#351;ti, Olt</place>
+    </event>
+    <event type="death">
+      <date>25-12-1989</date>
+      <place>T&#226;rgovi&#351;te, D&#226;mbovi&#539;a</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

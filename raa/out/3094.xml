@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Benjamin</name> <name type="geslachtsnaam">Dutry van Haeften</name></persName>
-    <event type="birth" when="1798-03-31">
-      <place>Zaltbommel</place>
+    <persName><name type="voornaam">Boudewijn</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Jongkint</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-08-30">
-      <place>Haaften</place>
+    <event type="death" when="1713-08-14">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1556849648"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Ir.</name> <name type="voornaam">Wim</name> <name type="intrapositie">Nieuwerkerk aan de Ijsel nan</name> <name type="geslachtsnaam">Schut</name></persName>
+    <event type="birth">
+      <date>21-08-1920</date>
+      <place>Amsterdam</place>
+    </event>
+    <event type="death">
+      <date>15-08-2006</date>
+      <place>Nieuwerkerk aan de Ijsel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

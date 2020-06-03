@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/48"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof. dr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">Hilversum van den</name> <name type="geslachtsnaam">Brink</name></persName>
+    <event type="birth">
+      <date>12-04-1915</date>
+      <place>Laren (NH)</place>
+    </event>
+    <event type="death">
+      <date>19-07-2006</date>
+      <place>Hilversum</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

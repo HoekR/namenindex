@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Sijbrandus Tetardus</name> <name type="geslachtsnaam">Siccama</name></persName>
-    <event type="birth" when="1570">
+    <persName><name type="voornaam">G.</name> <name type="geslachtsnaam">Wetsels</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1622-05-31">
+    <event type="death">
       <place></place>
     </event>
   </person>

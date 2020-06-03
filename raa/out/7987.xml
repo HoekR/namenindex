@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Wilmerink</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Johan Albert</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Dedem</name></persName>
+    <persName>Van Dedem van Vosbergen</persName>
+    <event type="birth" when="2007">
+      <place>Heerde</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1827-07-03">
+      <place>Heerde</place>
     </event>
   </person>
   <biography/>

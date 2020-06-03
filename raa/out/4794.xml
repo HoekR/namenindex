@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">G&#252;nther</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">B&#252;nau</name></persName>
-    <persName>G&#252;nther von B&#252;nau zu Elsterberg und Christgr&#252;n</persName>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Veen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1539">
+    <event type="death" when="1745">
       <place></place>
     </event>
   </person>

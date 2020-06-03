@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sigismundus Petrus</name> <name type="geslachtsnaam">Ham</name></persName>
-    <persName>Ham van Sluipwijk</persName>
-    <event type="birth" when="1754-02-10">
-      <place>Schoonhoven</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Melis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Klaasz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-04-22">
-      <place>Woerden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

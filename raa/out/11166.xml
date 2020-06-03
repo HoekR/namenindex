@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jasper</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Poelgeest</name></persName>
-    <persName>Kasper van Poelgeest</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Philip Julius</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Zuylen van Nijevelt</name></persName>
+    <persName>Van Zuylen van Nijevelt van Hinderstein</persName>
+    <event type="birth" when="2004">
+      <place>Rotterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1864-01-06">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

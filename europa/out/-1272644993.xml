@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1272644993"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Captain</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Malcolm</name></persName>
+    <event type="birth">
+      <date>22-12-1917</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>16-02-2000</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

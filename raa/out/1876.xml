@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Pieter Damas</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Citters</name></persName>
-    <event type="birth" when="1802-04-14">
-      <place>Goes</place>
+    <persName><name type="voornaam">Evert</name> <name type="geslachtsnaam">Roorda</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1888-02-04">
-      <place>Oostkapelle</place>
+    <event type="death" when="1853">
+      <place></place>
     </event>
   </person>
   <biography/>

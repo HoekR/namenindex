@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Sebastiaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Naamen</name></persName>
-    <persName>Van Naamen van Eemnes</persName>
-    <event type="birth" when="1795-10-01">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Jacobus</name> <name type="geslachtsnaam">Thehoff</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-06-05">
-      <place>Zwollerkerspel</place>
+    <event type="death" when="1815">
+      <place></place>
     </event>
   </person>
   <biography/>

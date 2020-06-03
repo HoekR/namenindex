@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/32293"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Adriaan Jan</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Borssele van Geldermalsen</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1806">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

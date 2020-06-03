@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Louis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Beuchem</name></persName>
-    <persName>Louis van Beughem</persName>
+    <persName><name type="voornaam">Georg Borchard Ludolf Unico</name> <name type="intrapositie">hertog</name> <name type="geslachtsnaam">Keppel tot Hengelo</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1573">
+    <event type="death" when="1756-10-05">
       <place></place>
     </event>
   </person>

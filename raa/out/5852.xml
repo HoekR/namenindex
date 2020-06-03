@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Roelof</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoevell</name></persName>
-    <persName>Roelof van Hoevell tot den Dam</persName>
-    <persName>Roelof van Hoevell tot Nijenhuis</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf van den</name> <name type="geslachtsnaam">Dike</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1614-12-20">
+    <event type="death">
       <place></place>
     </event>
   </person>

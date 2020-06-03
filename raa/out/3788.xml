@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Teengs</name></persName>
-    <event type="birth" when="1748-11-15">
-      <place>Edam</place>
+    <persName><name type="prepositie">ds.</name> <name type="voornaam">Alexander</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Wiedenburg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-05-06">
-      <place>Monnikendam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

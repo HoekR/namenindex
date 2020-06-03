@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Paulus</name> <name type="geslachtsnaam">Repelaer</name></persName>
-    <persName>Repelaer van Spijkenisse</persName>
-    <persName>Repelaer van Valkenswaard</persName>
-    <event type="birth" when="1766-06-10">
-      <place>Dordrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Koning</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-03-30">
-      <place>Dordrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

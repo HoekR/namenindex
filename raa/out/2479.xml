@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Philip Ernst Asuerus</name> <name type="geslachtsnaam">Vegilin van Claerbergen</name></persName>
-    <event type="birth" when="1781-12-06">
-      <place>Langeveen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik</name> <name type="intrapositie">graaf de jonge, van der</name> <name type="geslachtsnaam">Zevender</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-10-31">
-      <place>Peperga</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

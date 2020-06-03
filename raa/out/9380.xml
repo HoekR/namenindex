@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Derk</name> <name type="geslachtsnaam">Basters</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jacobus Hendricus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reenen</name></persName>
+    <event type="birth" when="2011">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1584">
-      <place></place>
+    <event type="death" when="1845-03-08">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

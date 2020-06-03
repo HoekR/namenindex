@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bernardus Johannes</name> <name type="geslachtsnaam">Vrijthoff</name></persName>
-    <event type="birth" when="1769-07-12">
-      <place>Maastricht</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bodeghem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-01-08">
-      <place>Dordrecht</place>
+    <event type="death" when="1777">
+      <place></place>
     </event>
   </person>
   <biography/>

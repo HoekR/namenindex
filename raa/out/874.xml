@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joannes Cornelis</name> <name type="geslachtsnaam">Willemse</name></persName>
-    <event type="birth" when="1800-04-03">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Jan Evert</name> <name type="geslachtsnaam">Lewe van Aduard</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-11-20">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1807">
+      <place></place>
     </event>
   </person>
   <biography/>

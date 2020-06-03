@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaen</name> <name type="geslachtsnaam">Vroesen</name></persName>
-    <event type="birth" when="1609">
+    <persName><name type="voornaam">Gerard Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Putmans</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1669-08-17">
+    <event type="death" when="1698-11-14">
       <place></place>
     </event>
   </person>

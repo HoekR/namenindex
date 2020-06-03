@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Coenraad Willem</name> <name type="geslachtsnaam">Schlingemann</name></persName>
-    <event type="birth" when="1778-09-06">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Ruychrock</name></persName>
+    <persName>Jan van de Werve</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-04-09">
-      <place>Zwolle</place>
+    <event type="death" when="1474">
+      <place></place>
     </event>
   </person>
   <biography/>

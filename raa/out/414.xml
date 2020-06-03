@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Lambertus</name> <name type="geslachtsnaam">Kien</name></persName>
-    <event type="birth" when="1749-12-21">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Regnerus Livius</name> <name type="intrapositie">van Andringa de</name> <name type="geslachtsnaam">Kempenaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-01-26">
-      <place>Utrecht</place>
+    <event type="death" when="1813">
+      <place></place>
     </event>
   </person>
   <biography/>

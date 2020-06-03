@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Constantijn</name> <name type="geslachtsnaam">G&#252;lcher</name></persName>
-    <event type="birth" when="1802-11-20">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Simen Jansz.</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Runia</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-07-26">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

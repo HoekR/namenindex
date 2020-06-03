@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1741383926"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">graaf</name> <name type="voornaam">nan</name> <name type="intrapositie">Rome nan</name> <name type="geslachtsnaam">Sforza</name></persName>
+    <event type="birth">
+      <date>24-01-1872</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>04-09-1952</date>
+      <place>Rome</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

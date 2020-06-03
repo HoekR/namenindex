@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Maarten Adriaan Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Brakell</name></persName>
-    <event type="birth" when="1786-01-02">
-      <place>Rijswijk (Gld.)</place>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Groeneveld</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-07-07">
-      <place>Scheveningen</place>
+    <event type="death" when="1695">
+      <place></place>
     </event>
   </person>
   <biography/>

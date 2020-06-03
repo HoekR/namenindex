@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Simon</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vries</name></persName>
-    <event type="birth" when="1782-12-02">
-      <place>Monnickendam</place>
+    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Costerus</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-04-08">
-      <place>Purmerend</place>
+    <event type="death" when="1806">
+      <place></place>
     </event>
   </person>
   <biography/>

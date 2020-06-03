@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Assuerus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Grovestins</name></persName>
-    <event type="birth" when="1632">
+    <persName><name type="voornaam">Reijnier Adriaensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Cromhout</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1699-11-13">
+    <event type="death" when="1591">
       <place></place>
     </event>
   </person>

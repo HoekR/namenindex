@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbert Timan Joan</name> <name type="geslachtsnaam">Wicherlink</name></persName>
-    <event type="birth" when="1797-09-23">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gillis Klaasz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Scolin</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-04-17">
-      <place>Zwolle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

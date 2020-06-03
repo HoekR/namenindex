@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Meynard</name> <name type="geslachtsnaam">Merens</name></persName>
-    <event type="birth" when="1736">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Saecke Alefsz.</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Idsinga</name></persName>
+    <persName>Saco van Idsinga</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1802-07-03">
+    <event type="death" when="1697-03-24">
       <place></place>
     </event>
   </person>

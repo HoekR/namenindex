@@ -8,14 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Fento Fredericsz.</name> <name type="geslachtsnaam">Riccen</name></persName>
-    <persName>Feynte Fredericx</persName>
-    <persName>Fento Rixen</persName>
-    <persName>Fento Fredericsz. Blauvelt</persName>
-    <event type="birth" when="1556">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Hoep</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1636-05-29">
+    <event type="death">
       <place></place>
     </event>
   </person>

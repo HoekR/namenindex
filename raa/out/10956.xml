@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Pothoff</name></persName>
-    <event type="birth" when="1766">
-      <place></place>
+    <persName><name type="voornaam">Josua Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Winter</name></persName>
+    <event type="birth" when="2001">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1844">
-      <place></place>
+    <event type="death" when="1840-01-09">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

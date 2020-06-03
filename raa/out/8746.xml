@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dominicus</name> <name type="geslachtsnaam">Hamerster</name></persName>
-    <event type="birth" when="1689">
-      <place></place>
+    <persName><name type="voornaam">Isaac Jacobus</name> <name type="geslachtsnaam">Tegelberg</name></persName>
+    <event type="birth" when="2002">
+      <place>Hulst</place>
     </event>
-    <event type="death" when="1774-05-11">
-      <place></place>
+    <event type="death" when="1822-11-16">
+      <place>Antwerpen</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Jacob Peter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Herzeele</name></persName>
-    <event type="birth" when="1799-06-20">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Alle Jansz.</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Burum</name></persName>
+    <persName>Allart van Burum</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1889-03-06">
-      <place>Amsterdam</place>
+    <event type="death" when="1668-11-05">
+      <place></place>
     </event>
   </person>
   <biography/>

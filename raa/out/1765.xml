@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Carel Frederik</name> <name type="geslachtsnaam">Wesselman</name></persName>
-    <persName>Wesselman van Helmond</persName>
-    <event type="birth" when="1780-02-19">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Cornelis Pietersz.</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Roovere</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-04-07">
-      <place>Helmond</place>
+    <event type="death" when="1706">
+      <place></place>
     </event>
   </person>
   <biography/>

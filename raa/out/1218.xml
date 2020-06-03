@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Petrus</name> <name type="geslachtsnaam">Willinge</name></persName>
-    <event type="birth" when="1819-06-02">
-      <place>Emmen</place>
+    <persName><name type="voornaam">Arlewijn Simonsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Groenewegen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1889-12-09">
-      <place>Oosterhesselen</place>
+    <event type="death" when="1648-06-18">
+      <place></place>
     </event>
   </person>
   <biography/>

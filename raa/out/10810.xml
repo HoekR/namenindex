@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Duco</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Burmania</name></persName>
-    <event type="birth" when="1687">
+    <persName><name type="voornaam">Eustacen Adriaansz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Polaanen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1746-09-04">
+    <event type="death" when="1600">
       <place></place>
     </event>
   </person>

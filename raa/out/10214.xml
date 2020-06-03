@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerard</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jong</name></persName>
-    <event type="birth" when="1757-08-08">
-      <place>Erp</place>
+    <persName><name type="voornaam">Johannes Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hanswijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-01-27">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1808">
+      <place></place>
     </event>
   </person>
   <biography/>

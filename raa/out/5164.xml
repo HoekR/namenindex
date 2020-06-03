@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Sicco Tjalling Camstra</name> <name type="intrapositie">baron thoe</name> <name type="geslachtsnaam">Schwartzenberg en Hohenlansberg</name></persName>
-    <event type="birth" when="1769-05-25">
-      <place>Rinsumageest</place>
+    <persName><name type="voornaam">Govert Willemsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Goedereede</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-03-07">
-      <place>Hichtum</place>
+    <event type="death" when="1625-02-09">
+      <place></place>
     </event>
   </person>
   <biography/>

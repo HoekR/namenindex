@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hans Willem</name> <name type="intrapositie">baron van Aylva van</name> <name type="geslachtsnaam">Pallandt</name></persName>
-    <persName>Van Pallandt van Waardenburg en Neerijnen</persName>
-    <event type="birth" when="1804-05-20">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Bout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-04-21">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1786-11-30">
+      <place></place>
     </event>
   </person>
   <biography/>

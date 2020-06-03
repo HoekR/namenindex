@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joan Wilhelm</name> <name type="intrapositie">Putman</name> <name type="geslachtsnaam">Cramer</name></persName>
-    <event type="birth" when="1814-04-07">
-      <place>Delden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kruiningen</name></persName>
+    <event type="birth" when="1460">
+      <place></place>
     </event>
-    <event type="death" when="1897-08-28">
-      <place>Apeldoorn</place>
+    <event type="death" when="1513">
+      <place></place>
     </event>
   </person>
   <biography/>

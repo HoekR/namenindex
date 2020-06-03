@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Diederik Gregorius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Teylingen van Kamerik</name></persName>
-    <event type="birth" when="1752-05-04">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Arend</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Sanen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-12-24">
-      <place>Gouda</place>
+    <event type="death" when="1787">
+      <place></place>
     </event>
   </person>
   <biography/>

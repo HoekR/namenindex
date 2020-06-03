@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Antoni</name> <name type="geslachtsnaam">Philipse</name></persName>
-    <event type="birth" when="1800-03-19">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Abraham Catharinus</name> <name type="intrapositie">comte (Empire) van Gel&#233;</name> <name type="geslachtsnaam">Twent</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1884-05-10">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1821">
+      <place></place>
     </event>
   </person>
   <biography/>

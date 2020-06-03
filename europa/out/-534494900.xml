@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-534494900"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr. mr.</name> <name type="voornaam">Andr&#233;</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Kempinaire</name></persName>
+    <event type="birth">
+      <date>26-01-1929</date>
+      <place>Hasselt</place>
+    </event>
+    <event type="death">
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

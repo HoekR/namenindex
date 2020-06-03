@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Engelbert Johan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Mandere</name></persName>
-    <persName>Van der Mandere van Ouwerkerk</persName>
-    <event type="birth" when="1744-06-25">
-      <place>Vlissingen</place>
+    <persName><name type="voornaam">IJzak</name> <name type="geslachtsnaam">Kaarsgaaren</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-03-09">
-      <place>Middelburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

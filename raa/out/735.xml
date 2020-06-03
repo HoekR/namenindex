@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik Leopold Frans</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Tuyll van Serooskerken</name></persName>
-    <event type="birth" when="1774-11-18">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Barnier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-05-12">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

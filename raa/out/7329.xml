@@ -8,14 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Zuylen van Nijevelt</name>
-    </persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Pieter</name> <name type="intrapositie">van Wickevoort</name> <name type="geslachtsnaam">Crommelin</name></persName>
+    <persName>Van Wickevoort Crommelin van Berkenrode</persName>
+    <event type="birth" when="2007">
+      <place>Haarlem</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1837-06-05">
+      <place>Haarlem</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jakob Hendriksz.</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Corput</name></persName>
-    <event type="birth" when="1574">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Otto Willem Johan</name> <name type="geslachtsnaam">Berg</name></persName>
+    <persName>Berg van Dussen-Muilkerk</persName>
+    <event type="birth" when="2003">
+      <place>'s-Hertogenbosch</place>
     </event>
-    <event type="death" when="1658-09-07">
-      <place></place>
+    <event type="death" when="1825-05-02">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Stephanus Adrianus</name> <name type="intrapositie">Verniers van der</name> <name type="geslachtsnaam">Loeff</name></persName>
-    <event type="birth" when="1769">
+    <persName><name type="voornaam">Jan Arentsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Lakencooper</name></persName>
+    <persName>Jan Arentsz. Snyder</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1818">
+    <event type="death">
       <place></place>
     </event>
   </person>

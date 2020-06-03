@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Klaas Harshoorn</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jong</name></persName>
-    <event type="birth" when="1815-12-14">
-      <place>Hoogkarspel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lau</name> <name type="intrapositie">graaf</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1886-12-14">
-      <place>Hoogkarspel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

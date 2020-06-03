@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Boldewijn</name> <name type="geslachtsnaam">Sloet tot Slotenhagen en Lindenhorst</name></persName>
-    <event type="birth" when="1660">
+    <persName><name type="voornaam">Pieter Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schout</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1721-04-08">
+    <event type="death" when="1645">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-429665922"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Sir</name> <name type="voornaam">Winston</name> <name type="intrapositie">Londen nan</name> <name type="geslachtsnaam">Churchill</name></persName>
+    <event type="birth">
+      <date>30-11-1874</date>
+      <place>Blenheim Palace</place>
+    </event>
+    <event type="death">
+      <date>24-01-1965</date>
+      <place>Londen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

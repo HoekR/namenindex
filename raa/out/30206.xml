@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/30206"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jacques Pierre Louis Marie Joseph</name> <name type="geslachtsnaam">Puthod</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1837">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

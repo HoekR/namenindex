@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Nicolaas Willem</name> <name type="geslachtsnaam">Hartman</name></persName>
-    <event type="birth" when="1746">
-      <place></place>
+    <persName><name type="voornaam">Sebastiaan Ignatius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nooten</name></persName>
+    <event type="birth" when="2002">
+      <place>Lopik</place>
     </event>
-    <event type="death" when="1809">
-      <place></place>
+    <event type="death" when="1878-02-17">
+      <place>Lopik</place>
     </event>
   </person>
   <biography/>

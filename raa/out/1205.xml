@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Herman Hendrik Adriaan</name> <name type="geslachtsnaam">Sluis</name></persName>
-    <event type="birth" when="1810-01-09">
-      <place>Loppersum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Willem</name> <name type="intrapositie">ridder van der</name> <name type="geslachtsnaam">Haer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1900-02-25">
-      <place>Assen</place>
+    <event type="death" when="1764-06-25">
+      <place></place>
     </event>
   </person>
   <biography/>

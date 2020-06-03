@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Aart</name> <name type="geslachtsnaam">Overbosch</name></persName>
-    <event type="birth" when="1746">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Louis Rhijnvisch</name> <name type="geslachtsnaam">Feith</name></persName>
+    <event type="birth" when="2003">
+      <place>Zwolle</place>
     </event>
-    <event type="death" when="1829">
-      <place></place>
+    <event type="death" when="1845-07-20">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

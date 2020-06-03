@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacques Clement Philippe</name> <name type="geslachtsnaam">Lammens</name></persName>
-    <event type="birth" when="1754-11-24">
-      <place>Gent</place>
+    <persName><name type="voornaam">Hendrik Ewoutsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bleyswijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-09-20">
-      <place>Wetteren</place>
+    <event type="death" when="1703-08-20">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan G.</name> <name type="geslachtsnaam">Koopman</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Benjamin Willem</name> <name type="geslachtsnaam">Blijdenstein</name></persName>
+    <event type="birth" when="2008">
+      <place>Enschede</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1857-04-17">
+      <place>Enschede</place>
     </event>
   </person>
   <biography/>

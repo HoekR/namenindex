@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Steven</name> <name type="intrapositie">Blaupot ten</name> <name type="geslachtsnaam">Cate</name></persName>
-    <event type="birth" when="1807-01-29">
-      <place>Noordbroek</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Idzerd</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Aebinga van Humalda</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1884-09-09">
-      <place>Hoogezand</place>
+    <event type="death" when="1834-02-21">
+      <place></place>
     </event>
   </person>
   <biography/>

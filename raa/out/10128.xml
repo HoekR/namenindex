@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirk Willemsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Zwieten</name></persName>
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Scott</name></persName>
+    <persName>Joan Schott</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1502">
+    <event type="death" when="1740-11-10">
       <place></place>
     </event>
   </person>

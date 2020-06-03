@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Vliegen</name></persName>
+    <persName><name type="voornaam">Edzard Moritz</name> <name type="intrapositie">zu</name> <name type="geslachtsnaam">Inn- und Knyphausen L&#252;tetsburg</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1824">
       <place></place>
     </event>
   </person>

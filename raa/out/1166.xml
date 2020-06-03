@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Roelof</name> <name type="geslachtsnaam">Abbingh</name></persName>
-    <event type="birth" when="1761-12-04">
-      <place>Sleen</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Hubrechtsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-07-29">
-      <place>Erm</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

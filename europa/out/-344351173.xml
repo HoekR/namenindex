@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-344351173"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Aerdenhout nan</name> <name type="geslachtsnaam">Hoefnagels</name></persName>
+    <event type="birth">
+      <date>13-05-1929</date>
+      <place>Kerkrade</place>
+    </event>
+    <event type="death">
+      <date>14-02-1978</date>
+      <place>Aerdenhout</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

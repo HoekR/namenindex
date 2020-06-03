@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-528427387"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Ernest</name> <name type="intrapositie">Courcelles nan</name> <name type="geslachtsnaam">Glinne</name></persName>
+    <event type="birth">
+      <date>30-03-1931</date>
+      <place>Forchies-la-Marche</place>
+    </event>
+    <event type="death">
+      <date>10-08-2009</date>
+      <place>Courcelles</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

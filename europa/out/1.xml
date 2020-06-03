@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Josef</name> <name type="intrapositie">Brussel nan</name> <name type="geslachtsnaam">Luns</name></persName>
+    <event type="birth">
+      <date>28-08-1911</date>
+      <place>Rotterdam</place>
+    </event>
+    <event type="death">
+      <date>17-07-2002</date>
+      <place>Brussel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

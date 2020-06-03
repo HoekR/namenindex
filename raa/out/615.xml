@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Jan</name> <name type="geslachtsnaam">Heemskerk Azn.</name></persName>
-    <event type="birth" when="1818-07-30">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Quirijn</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Blau</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1897-10-09">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1780-12-16">
+      <place></place>
     </event>
   </person>
   <biography/>

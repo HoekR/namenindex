@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Carel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wessem</name></persName>
-    <event type="birth" when="1799-03-14">
-      <place>Tiel</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Suys</name></persName>
+    <event type="birth" when="1514">
+      <place></place>
     </event>
-    <event type="death" when="1864-06-18">
-      <place>Zaandam</place>
+    <event type="death" when="1580">
+      <place></place>
     </event>
   </person>
   <biography/>

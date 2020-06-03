@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Rutger</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Haersolte tot Herxen</name></persName>
-    <persName>Rutger van Haersolte tot Toutenburg</persName>
-    <persName>Rutger van Haersolte tot Paaslo</persName>
-    <event type="birth" when="1642">
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Oene</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Grovestins</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1703-12-22">
+    <event type="death">
       <place></place>
     </event>
   </person>

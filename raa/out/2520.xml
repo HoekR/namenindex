@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jurjen</name> <name type="geslachtsnaam">Schols</name></persName>
-    <event type="birth" when="1748">
-      <place>Strukham (Den.)</place>
+    <persName><name type="voornaam">Andries Jonasz.</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Jong</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1826-07-29">
-      <place>Workum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

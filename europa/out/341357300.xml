@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/341357300"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">John</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Davies</name></persName>
+    <event type="birth">
+      <date>08-01-1916</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>04-07-1979</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

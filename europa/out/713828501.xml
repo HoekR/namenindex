@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/713828501"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Pierre</name> <name type="intrapositie">Nevers nan</name> <name type="geslachtsnaam">B&#233;r&#233;govoy</name></persName>
+    <event type="birth">
+      <date>23-12-1925</date>
+      <place>D&#233;ville-l&#232;s-Rouen</place>
+    </event>
+    <event type="death">
+      <date>01-05-1993</date>
+      <place>Nevers</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

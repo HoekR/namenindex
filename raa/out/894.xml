@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Andries</name> <name type="geslachtsnaam">Weiland</name></persName>
-    <event type="birth" when="1784-05-09">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Gerrit David</name> <name type="geslachtsnaam">Jordens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-05-07">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

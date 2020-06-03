@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Marinus</name> <name type="geslachtsnaam">Smallegange</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Sebastiaan Hendrik</name> <name type="geslachtsnaam">Anemaet</name></persName>
+    <event type="birth" when="2001">
+      <place>Nieuwe Tonge</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1863-01-21">
+      <place>Nieuwe Tonge</place>
     </event>
   </person>
   <biography/>

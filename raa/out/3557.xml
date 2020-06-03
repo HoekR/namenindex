@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Franciscus Antonius</name> <name type="geslachtsnaam">Ketelaar</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Boudijn</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Oignies</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1459">
       <place></place>
     </event>
   </person>

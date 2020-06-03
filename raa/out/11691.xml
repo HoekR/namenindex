@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.</name> <name type="geslachtsnaam">Bouwmeester</name></persName>
+    <persName><name type="voornaam">Engbert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Claasz.</name></persName>
+    <persName>Engbert Claasz. Engberts</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1637">
       <place></place>
     </event>
   </person>

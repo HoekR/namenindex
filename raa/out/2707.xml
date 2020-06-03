@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Laurent Michiel Francois Guilliaume Marie Oscar</name> <name type="intrapositie">graaf de</name> <name type="geslachtsnaam">Marchant d'Ansembourg</name></persName>
-    <persName>D'Ansembourg de Neuborg</persName>
-    <event type="birth" when="1811-12-27">
-      <place>Amstenrade</place>
+    <persName><name type="voornaam">Egbert Johan</name> <name type="geslachtsnaam">Greve</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1883-03-17">
-      <place>Gulpen</place>
+    <event type="death" when="1811">
+      <place></place>
     </event>
   </person>
   <biography/>

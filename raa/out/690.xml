@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joannes Ludovicus Theodorus Antonius Libuinus</name> <name type="intrapositie">baron van Scherpenzeel</name> <name type="geslachtsnaam">Heusch</name></persName>
-    <event type="birth" when="1799-11-13">
-      <place>Oosterhout</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Govert</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Duvenee</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-02-14">
-      <place>Vlodrop</place>
+    <event type="death" when="1557">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaan Willem</name> <name type="geslachtsnaam">Vullers</name></persName>
+    <persName><name type="voornaam">Teunis Iza&#228;ks</name> <name type="geslachtsnaam">Hulshoff</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1817">
       <place></place>
     </event>
   </person>

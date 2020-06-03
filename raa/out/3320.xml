@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Caspar Antoni Lucas</name> <name type="geslachtsnaam">Exalto D' Almaras</name></persName>
-    <event type="birth" when="1764">
+    <persName><name type="voornaam">Gerard Abrahamsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hoey</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1823">
+    <event type="death" when="1708-01-16">
       <place></place>
     </event>
   </person>

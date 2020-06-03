@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Cornelis Ocker Rees</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Tets</name></persName>
-    <event type="birth" when="1786-12-03">
-      <place>Dordrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Assendelft</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1856-12-28">
-      <place>Brussel</place>
+    <event type="death" when="1444">
+      <place></place>
     </event>
   </person>
   <biography/>

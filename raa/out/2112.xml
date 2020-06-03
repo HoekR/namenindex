@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerbrand</name> <name type="geslachtsnaam">Elias</name></persName>
-    <event type="birth" when="1764-04-20">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Dirck</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hoola</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1842-10-18">
-      <place>Haarlem</place>
+    <event type="death" when="1701">
+      <place></place>
     </event>
   </person>
   <biography/>

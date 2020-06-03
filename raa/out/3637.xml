@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Th&#233;ophile George Immanuel</name> <name type="geslachtsnaam">Kettler</name></persName>
-    <event type="birth" when="1779">
+    <persName><name type="voornaam">Coenraet Dircksz.</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Rechtere</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1601">
       <place></place>
     </event>
   </person>

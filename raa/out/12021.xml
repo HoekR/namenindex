@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Paulus</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Bergh</name></persName>
-    <persName>Montanus</persName>
-    <event type="birth" when="1530">
+    <persName><name type="voornaam">Willem Jurjen</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Boetzelaer tot Toutenburg</name></persName>
+    <persName>Willem Jurjen van den Boetzelaer tot Westerholt</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1587">
+    <event type="death" when="1652">
       <place></place>
     </event>
   </person>

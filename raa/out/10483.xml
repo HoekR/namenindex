@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan Matthias</name> <name type="geslachtsnaam">Singendonck</name></persName>
-    <persName>Singendonck van Dieden</persName>
-    <event type="birth" when="1769-02-24">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Willem Emmery</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Perponcher Sedlnitsky</name></persName>
+    <persName>De Perponcher Sedlnitsky van Wolphaartsdijk</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-07-11">
-      <place>Nijmegen</place>
+    <event type="death" when="1819">
+      <place></place>
     </event>
   </person>
   <biography/>

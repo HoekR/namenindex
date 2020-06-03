@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaan Maarten</name> <name type="geslachtsnaam">Montijn</name></persName>
-    <event type="birth" when="1792-10-03">
-      <place>Oudewater</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Filips</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Duvenvoorde</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1864-01-21">
-      <place>Oudewater</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

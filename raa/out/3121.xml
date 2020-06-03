@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wilhelm Arnold</name> <name type="geslachtsnaam">Roelvink</name></persName>
-    <event type="birth" when="1822-10-26">
-      <place>Winterswijk</place>
+    <persName><name type="voornaam">Jan Engelsz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Lesanen</name></persName>
+    <persName>Jan Engelsz. van Lezanen</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1917-05-02">
-      <place>Winterswijk</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

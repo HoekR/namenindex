@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jonas Dani&#235;l</name> <name type="geslachtsnaam">Meyer</name></persName>
-    <event type="birth" when="1780-09-15">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Arent</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Groot</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-12-06">
-      <place>Amsterdam</place>
+    <event type="death" when="1750-04-16">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.I.</name> <name type="geslachtsnaam">Corbelijn</name></persName>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">graaf bastaard van</name> <name type="geslachtsnaam">Pelgrom</name></persName>
+    <persName>Willem van Gendt</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1831">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Louis Christiaan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Limpens</name></persName>
+    <persName><name type="voornaam">Dirk</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mol</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1789">
       <place></place>
     </event>
   </person>

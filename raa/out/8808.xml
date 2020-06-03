@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arent Julianus Carel</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">B&#232;re</name></persName>
-    <persName>Arent Julianus de Beere</persName>
-    <event type="birth" when="1753">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Elbrecht</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Speijart</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1820">
+    <event type="death">
       <place></place>
     </event>
   </person>

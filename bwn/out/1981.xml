@@ -1,0 +1,72 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Waning, Willem Johannes Philippus van (1844-1915)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/waning"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">waning</idno>
+    <persName><name type="geslachtsnaam">Waning</name>, Willem Johannes Philippus van</persName>
+    <sex value="1"/>
+    <event type="birth" when="1844"/>
+    <event type="death" when="1915"/>
+    <state type="occupation">marineofficier</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Waning, Willem Johannes Philippus van&lt;/strong&gt;, officier Koninklijke marine (Bleiswijk (Z.H.) 4-2-1844 - Heemstede 7-10-1915).
+
+Zoon van Jacob Isaac van Waning, burgemeester en secretaris van
+Bleiswijk en Moerkapelle, en Catharina Maria Sara van Aalst. Gehuwd
+sinds 15-11-1876 met Ida Margaretha Wijnanda van der Loeff en na haar
+overlijden op 3-3-1894 met Grietje Reddingius op 18-4-1896. Uit het
+eerste huwelijk werden 1 dochter en 2 zoons en uit het tweede 1 zoon
+geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Van Waning werd na zijn opleiding op het Koninklijk instituut voor
+de marine in Den Helder op 16 september 1862 benoemd tot adelborst der
+1e klasse. Als luitenant ter zee 2e klasse nam hij tussen 1871 en 1873
+deel aan de expedities tegen de rijken Goennoeng-Tinggi, Deli en Atjeh.
+Van mei 1881 tot februari 1883 voerde hij nabij Atjeh het bevel over
+Zr.Ms. raderstoomschip Salak. Daarna vervulde hij diverse maritieme
+functies in binnen- en buitenland. Vervolgens was hij als
+kapitein-luitenant ter zee, chef afdeling personeel te Batavia van 1890
+tot 1893. In dat jaar werd hij bevorderd tot kapitein ter zee en voerde
+van 1894 tot 1896 het bevel over de schroefstoomschepen Admiraal van
+Wassenaar en Atjeh, het ramschip Schorpioen en de pantserschepen
+Kortenaer, Evertsen en Piet Hein. Met Zr.Ms. Atjeh vertegenwoordigde
+hij de Nederlandse regering in juni 1895 bij de feestelijke opening van
+het Noord-Oostzeekanaal (tussen Elbemonding en Kiel). Van 1894 tot 1897
+was hij tevens lid van de Raad van Tucht voor de koopvaardij te
+Amsterdam. Tijdens zijn commando's over de twee pantserschepen was
+hij eveneens belast met het bevel over de divisies voor de buitenlandse
+en binnenlandse dienst. De kroon op deze carri&amp;egrave;re was het bevel
+over de scheepsmacht in de wateren van Atjeh van april 1898 tot maart
+1899, waarbij hij als commandant van het pantserschip Prins Hendrik der
+Nederlanden een scheepsmacht van negen schepen commandeerde en een
+belangrijk aandeel had in de gevechten bij Noord- en Oost-Atjeh; daarna
+had hij als commando-platform de Koningin Emma der Nederlanden tot 9
+juni 1899. Voor deze verrichtingen werd hij wegens zijn gedrag benoemd
+tot ridder der 4e klasse van de Militaire Willemsorde. Na zijn
+terugkomst in Nederland volgde op 1 mei 1900 zijn bevordering tot
+schout-bij-nacht en zijn benoeming tot directeur en commandant der
+marine te Hellevoetsluis, tevens commandant van de stelling der monden
+van de Maas en het Haringvliet. Op 1 mei 1902 werd hij
+gepensioneerd.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;Eigen haard&lt;/em&gt;
+
+41 (1915) 45 (6 november) 846.&lt;/p&gt;
+&lt;p&gt;K.H.L. Gerretse&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

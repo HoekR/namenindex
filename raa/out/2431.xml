@@ -8,9 +8,9 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Plonius Jan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Raadt van Hendrik-Ido-Ambacht</name></persName>
-    <event type="birth" when="1788-05-13">
-      <place>Oost- en West-Barendrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Herman</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Lichtenberg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
     <event type="death">
       <place></place>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/29650"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Reinier Saris</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Gronden</name></persName>
+    <event type="birth" when="2010">
+      <place>Zwolle</place>
+    </event>
+    <event type="death" when="1845-08-05">
+      <place>Zwolle</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jeen Taekes</name> <name type="geslachtsnaam">Taekema</name></persName>
-    <event type="birth" when="1775">
-      <place>Ureterp</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jansz.</name></persName>
+    <persName>Lange Adriaan.</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-10-01">
-      <place>Ureterp</place>
+    <event type="death" when="1481">
+      <place></place>
     </event>
   </person>
   <biography/>

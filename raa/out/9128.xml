@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Johannes</name> <name type="geslachtsnaam">Heyblom</name></persName>
-    <event type="birth" when="1759">
+    <persName><name type="voornaam">Johan Albert Gabriel</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sloet tot Warmelo</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1830">
+    <event type="death" when="1754-04-30">
       <place></place>
     </event>
   </person>

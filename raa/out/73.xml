@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Nicolaas</name> <name type="intrapositie">(de)</name> <name type="geslachtsnaam">Pesters</name></persName>
-    <persName>De Pesters van Cattenbroek</persName>
-    <event type="birth" when="1754-01-06">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Seifard</name> <name type="intrapositie">ridder von</name> <name type="geslachtsnaam">L&#252;ttichau</name></persName>
+    <persName>Seifard von L&#252;ttichau zu Kmehlen und Ortrand</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-04-21">
-      <place>Utrecht</place>
+    <event type="death" when="1524">
+      <place></place>
     </event>
   </person>
   <biography/>

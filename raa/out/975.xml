@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Louis Henri</name> <name type="geslachtsnaam">Rambonnet</name></persName>
-    <event type="birth" when="1796-01-08">
-      <place>Kampen</place>
+    <persName><name type="voornaam">Stephanus Adrianus</name> <name type="intrapositie">Verniers van der</name> <name type="geslachtsnaam">Loeff</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1880-02-02">
-      <place>Kampen</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

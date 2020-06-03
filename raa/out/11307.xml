@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dani&#235;l Pompejus</name> <name type="geslachtsnaam">Assendelft</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jules Edouard</name> <name type="intrapositie">Godin de</name> <name type="geslachtsnaam">Pesters</name></persName>
+    <event type="birth" when="2010">
+      <place>Bunnik</place>
     </event>
-    <event type="death" when="1722-10-16">
-      <place></place>
+    <event type="death" when="1898-01-14">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

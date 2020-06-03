@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik Wilhelm Adriaan Karel</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Knobelsdorff</name></persName>
-    <persName>Van Knobelsdorff tot de Gelder, Krijtenberg en Scherpenzeel</persName>
-    <event type="birth" when="1810-10-04">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Wouter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Marchant</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1894-01-03">
-      <place>Wijhe</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

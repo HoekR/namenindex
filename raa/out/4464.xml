@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Roeland</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Uutkerke</name></persName>
+    <persName><name type="voornaam">Sijmon Adriaensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sevenhuysen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1442">
+    <event type="death" when="1694-05-10">
       <place></place>
     </event>
   </person>

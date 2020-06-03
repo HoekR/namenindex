@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerhard Jacob</name> <name type="geslachtsnaam">Blanckvoort tot Pothof</name></persName>
-    <event type="birth" when="1685">
+    <persName><name type="voornaam">Jacob Willemsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Bosch</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1722-02-11">
+    <event type="death" when="1714-04-14">
       <place></place>
     </event>
   </person>

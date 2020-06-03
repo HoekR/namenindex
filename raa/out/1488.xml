@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoytema</name></persName>
-    <event type="birth" when="1803-09-19">
-      <place>Culemborg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan Woutersz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Vink</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-11-26">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

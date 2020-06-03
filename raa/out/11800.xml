@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johannes</name> <name type="geslachtsnaam">Cuylenburg</name></persName>
-    <persName>Johannes Culenburg</persName>
+    <persName><name type="voornaam">Edzard Rudolf</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sloet tot Cannevelt</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1774-05-25">
       <place></place>
     </event>
   </person>

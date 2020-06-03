@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Cornelis</name> <name type="geslachtsnaam">Ketjen</name></persName>
-    <event type="birth" when="1782-12-26">
-      <place>Doesburg</place>
+    <persName><name type="voornaam">Michiel Marinus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Monchy</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-01-28">
-      <place>Doesburg</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

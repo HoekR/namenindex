@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Godefridus Andreas</name> <name type="geslachtsnaam">Melort</name></persName>
-    <persName>Melort van Middelharnis (1840)</persName>
-    <event type="birth" when="1792-11-09">
-      <place>Oudenbosch</place>
+    <persName><name type="voornaam">Andries Sijbrand</name> <name type="geslachtsnaam">Abbema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-02-25">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1802">
+      <place></place>
     </event>
   </person>
   <biography/>

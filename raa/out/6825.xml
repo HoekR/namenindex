@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Peter</name> <name type="geslachtsnaam">Dibbets</name></persName>
-    <event type="birth" when="1747">
+    <persName><name type="voornaam">Everaerd</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Schuer</name></persName>
+    <persName>Everard Verschuyr</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1828">
+    <event type="death">
       <place></place>
     </event>
   </person>

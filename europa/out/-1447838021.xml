@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1447838021"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Blaricum Baron</name> <name type="geslachtsnaam">Mackay</name></persName>
+    <event type="birth">
+      <date>07-12-1907</date>
+      <place>Arnhem</place>
+    </event>
+    <event type="death">
+      <date>25-10-1995</date>
+      <place>Blaricum</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

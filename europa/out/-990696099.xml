@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-990696099"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Luigi</name> <name type="intrapositie">Lovere nan</name> <name type="geslachtsnaam">Granelli</name></persName>
+    <event type="birth">
+      <date>01-03-1929</date>
+      <place>Lovere</place>
+    </event>
+    <event type="death">
+      <date>01-12-1999</date>
+      <place>Lovere</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

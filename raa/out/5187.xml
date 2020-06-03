@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Taco</name> <name type="geslachtsnaam">Schonegevel</name></persName>
-    <event type="birth" when="1756">
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pots</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1819">
+    <event type="death" when="1622-04-07">
       <place></place>
     </event>
   </person>

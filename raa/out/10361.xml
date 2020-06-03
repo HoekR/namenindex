@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Renicus</name> <name type="geslachtsnaam">Atsma</name></persName>
-    <persName>Rienk Atsma</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Pieter Adriaan</name> <name type="geslachtsnaam">Rauws</name></persName>
+    <event type="birth" when="2007">
+      <place>Heusden</place>
     </event>
-    <event type="death" when="1625">
-      <place></place>
+    <event type="death" when="1837-02-11">
+      <place>Nijmegen</place>
     </event>
   </person>
   <biography/>

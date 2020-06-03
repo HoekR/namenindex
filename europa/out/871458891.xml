@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/871458891"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Otto</name> <name type="intrapositie">Bonn nan</name> <name type="geslachtsnaam">Schlecht</name></persName>
+    <event type="birth">
+      <date>21-12-1925</date>
+      <place>Biberacht an der Ri&#223;</place>
+    </event>
+    <event type="death">
+      <date>03-12-2003</date>
+      <place>Bonn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christiaan</name> <name type="geslachtsnaam">Westenberg</name></persName>
-    <event type="birth" when="1773-10-13">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Sybrant</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Buyskes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-04-20">
-      <place>Hoogebeintum (Ferwerderadeel)</place>
+    <event type="death" when="1679-10-26">
+      <place></place>
     </event>
   </person>
   <biography/>

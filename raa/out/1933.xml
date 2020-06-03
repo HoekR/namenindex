@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Johan Pieter</name> <name type="geslachtsnaam">Kroef</name></persName>
-    <event type="birth" when="1793-03-31">
-      <place>Vlissingen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <persName>Johan van Niel</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-08-01">
-      <place>Zierikzee</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

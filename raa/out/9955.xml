@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vierssen</name></persName>
-    <event type="birth" when="1692">
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Caspar</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Ziegler</name></persName>
+    <persName>Casper Ziegler zu Gauernitz und Taubenheim</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1782-06-18">
+    <event type="death" when="1518">
       <place></place>
     </event>
   </person>

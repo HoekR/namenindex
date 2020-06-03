@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Diederik</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Tuyll van Serooskerken</name></persName>
-    <persName>Van Tuyll van Serooskerken van Maarssen</persName>
-    <event type="birth" when="1782-04-03">
-      <place>Heeze</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Tielman</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Willemsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-11-22">
-      <place>Maarssen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

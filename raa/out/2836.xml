@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jean Nepomucene</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Arazola de Onate</name></persName>
-    <persName>Arazola D&#233;onata</persName>
-    <event type="birth" when="1784-06-07">
-      <place>Meldert</place>
+    <persName><name type="voornaam">Coenraad</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Heemskerck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-06-16">
-      <place>Meldert</place>
+    <event type="death" when="1702">
+      <place></place>
     </event>
   </person>
   <biography/>

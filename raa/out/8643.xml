@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Wormer</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Henri Joseph</name> <name type="geslachtsnaam">Robinet de Villeval</name></persName>
+    <event type="birth" when="2012">
+      <place>Namen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1829-11-30">
+      <place>Hilvarenbeek</place>
     </event>
   </person>
   <biography/>

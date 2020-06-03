@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jan Gijsbert Ludolph Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Neukirchen genaamd Nyvenheim</name></persName>
-    <persName>Van Neukirchen genaamd Nyvenheim tot Eck en Wiel</persName>
-    <event type="birth" when="1783-12-12">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Coenraad</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ruijsch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-12-21">
-      <place>Parijs</place>
+    <event type="death" when="1731">
+      <place></place>
     </event>
   </person>
   <biography/>

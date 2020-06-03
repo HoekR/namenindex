@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Anneus Jacobi</name> <name type="geslachtsnaam">Haersma</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Maurits Pico Diederik</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Sytzama</name></persName>
+    <event type="birth" when="2006">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1848-07-15">
+      <place>Leeuwarden</place>
     </event>
   </person>
   <biography/>

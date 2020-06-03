@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Marinus Laurentius</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Woestijne Voerman</name></persName>
-    <event type="birth" when="1810-10-25">
+    <persName><name type="voornaam">Joan Allard</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schagen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1768-07-07">
       <place></place>
     </event>
   </person>

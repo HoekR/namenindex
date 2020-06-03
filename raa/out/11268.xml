@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adolf</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Goer</name></persName>
-    <persName>Adolf van Goer tot Caldenbroeck</persName>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Gerhard Willem</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Balveren</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1798-02-12">
       <place></place>
     </event>
   </person>

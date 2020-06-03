@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Frederik Willem</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Spaen</name></persName>
-    <persName>Van Spaen van Biljoen</persName>
-    <event type="birth" when="1746-05-22">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Anthony</name> <name type="geslachtsnaam">Raedt</name></persName>
+    <event type="birth" when="2012">
+      <place>Lochem</place>
     </event>
-    <event type="death" when="1827-11-18">
-      <place>Velp</place>
+    <event type="death" when="1833-04-01">
+      <place>Doornspijk</place>
     </event>
   </person>
   <biography/>

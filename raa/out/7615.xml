@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Karel</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Croy</name></persName>
-    <persName>Aarschot</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Augustijn Cornelisz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Poel</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1551">
+    <event type="death">
       <place></place>
     </event>
   </person>

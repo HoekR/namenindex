@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/27472"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Louis Gaspard Adrien</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Limburg Stirum</name></persName>
+    <event type="birth" when="2001">
+      <place>Groningen</place>
+    </event>
+    <event type="death" when="1884-08-30">
+      <place>Arnhem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

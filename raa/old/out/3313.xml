@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/3313"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Ernst</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ittersum tot Nijenhuis</name></persName>
+    <event type="birth" when="1563"/>
+    <event type="death" when="1611"/>
+  </person>
+  <biography/>
+</biodes>

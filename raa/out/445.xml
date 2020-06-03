@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bartholomeus Michael</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Steenhardt</name></persName>
-    <event type="birth" when="1747-08-07">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Hector</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Grovestins</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-04-14">
-      <place>Utrecht</place>
+    <event type="death" when="1643-12-30">
+      <place></place>
     </event>
   </person>
   <biography/>

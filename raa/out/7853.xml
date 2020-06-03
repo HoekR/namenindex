@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Pietersz.</name> <name type="geslachtsnaam">Croon</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Arend Godert</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Vos van Steenwijk</name></persName>
+    <persName>De Vos van Steenwijk van Voorstonden</persName>
+    <event type="birth" when="2009">
+      <place>De Wijk</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1905-10-17">
+      <place>Brummen</place>
     </event>
   </person>
   <biography/>

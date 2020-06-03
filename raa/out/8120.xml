@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Hoffer</name></persName>
-    <event type="birth" when="1571">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Evert Johan</name> <name type="geslachtsnaam">Wentholt</name></persName>
+    <event type="birth" when="2004">
+      <place>Arnhem</place>
     </event>
-    <event type="death" when="1640">
-      <place></place>
+    <event type="death" when="1835-04-27">
+      <place>Doetinchem</place>
     </event>
   </person>
   <biography/>

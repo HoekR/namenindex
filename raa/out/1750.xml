@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Josephus Cornelis</name> <name type="geslachtsnaam">Delhez</name></persName>
-    <event type="birth" when="1787-06-04">
-      <place>Bergen op Zoom</place>
+    <persName><name type="voornaam">Herbert</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Beaumont</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-12-17">
-      <place>Bergen op Zoom</place>
+    <event type="death" when="1679-05-03">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Aelbert Fransz.</name> <name type="geslachtsnaam">Bruynings</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jo(h)annes</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Agricola</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1648-11-30">
+    <event type="death">
       <place></place>
     </event>
   </person>

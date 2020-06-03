@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Robert</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Breugel Douglas</name></persName>
-    <event type="birth" when="1791-07-26">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">Fran&#231;ois-Alexandre</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Forget</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-11-23">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1836">
+      <place></place>
     </event>
   </person>
   <biography/>

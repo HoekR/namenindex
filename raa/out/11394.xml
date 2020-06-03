@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolaas</name> <name type="geslachtsnaam">Teengs</name></persName>
-    <event type="birth" when="1688">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Wilhelmus Johannes Marie</name> <name type="geslachtsnaam">Bosch</name></persName>
+    <persName>Bosch van Oud-Amelisweerd</persName>
+    <event type="birth" when="2005">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1752-11-30">
-      <place></place>
+    <event type="death" when="1899-08-29">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

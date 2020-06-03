@@ -8,13 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Isaac Lambertus</name> <name type="intrapositie">Cremer van den</name> <name type="geslachtsnaam">Berch</name></persName>
-    <persName>Cremer van den Berch van Heemstede</persName>
-    <event type="birth" when="1811-01-06">
-      <place>Zaltbommel</place>
+    <persName>
+      <name type="geslachtsnaam">Oosthuyse van Rysenborgh</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-07-02">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

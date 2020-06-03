@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/12149"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Idesbalde Marie Louis Joseph</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Gracht</name></persName>
+    <persName>Van der Gracht d'Eeghen</persName>
+    <event type="birth" when="2002">
+      <place>Gent</place>
+    </event>
+    <event type="death" when="1858-05-25">
+      <place>Gent</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

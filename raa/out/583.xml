@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Reinier Saris</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Gronden</name></persName>
-    <event type="birth" when="1788-10-31">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Grande</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-05-08">
-      <place>Zwolle</place>
+    <event type="death" when="1763-09-08">
+      <place></place>
     </event>
   </person>
   <biography/>

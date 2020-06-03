@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Paulus</name> <name type="geslachtsnaam">Vreede</name></persName>
-    <event type="birth" when="1779-06-29">
-      <place>Emmerik</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Lubbert</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Lycklama &#224; Nijeholt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1842-04-23">
-      <place>Tilburg</place>
+    <event type="death" when="1697-08-22">
+      <place></place>
     </event>
   </person>
   <biography/>

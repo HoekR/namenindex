@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Eeuwoudsz.</name> <name type="geslachtsnaam">Porrenaer</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Charles Theodore Jean</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Constant Rebecque</name></persName>
+    <event type="birth" when="2009">
+      <place>Berlijn</place>
     </event>
-    <event type="death" when="1618-12-26">
-      <place></place>
+    <event type="death" when="1870-09-17">
+      <place>Loosduinen</place>
     </event>
   </person>
   <biography/>

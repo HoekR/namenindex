@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Arnold Hendrik</name> <name type="intrapositie">ten</name> <name type="geslachtsnaam">Oever</name></persName>
-    <persName>Arent Hendrik ten Oever</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Daniel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Toloysen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1783-08-16">
+    <event type="death" when="1389">
       <place></place>
     </event>
   </person>

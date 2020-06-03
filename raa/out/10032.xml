@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Lodewijk</name> <name type="geslachtsnaam">Vogel</name></persName>
+    <persName><name type="voornaam">Roeland</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Kinschot</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1773-03-05">
+    <event type="death" when="1701-04-02">
       <place></place>
     </event>
   </person>

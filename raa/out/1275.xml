@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Douwe Martens</name> <name type="geslachtsnaam">Teenstra</name></persName>
-    <event type="birth" when="1768-04-07">
-      <place>Anjum</place>
+    <persName><name type="voornaam">Franciscus</name> <name type="geslachtsnaam">Hovius</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-06-19">
-      <place>Ruigezand</place>
+    <event type="death" when="1813">
+      <place></place>
     </event>
   </person>
   <biography/>

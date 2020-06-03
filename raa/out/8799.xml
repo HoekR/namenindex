@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Nicolaes Frederik Andriesz.</name> <name type="geslachtsnaam">Boogaert</name></persName>
-    <event type="birth" when="1670">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Mello</name> <name type="geslachtsnaam">Sichterman</name></persName>
+    <event type="birth" when="2012">
+      <place>Groningen</place>
     </event>
-    <event type="death" when="1757-03-30">
-      <place></place>
+    <event type="death" when="1826-10-14">
+      <place>Groningen</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Meyden</name></persName>
-    <event type="birth" when="1609">
-      <place></place>
+    <persName><name type="voornaam">Jacob Adriaan</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Taets van Amerongen</name></persName>
+    <persName>Taets van Amerongen van Deyl</persName>
+    <event type="birth" when="2001">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1677">
-      <place></place>
+    <event type="death" when="1842-01-24">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

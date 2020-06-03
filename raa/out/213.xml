@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Cornelis Fran&#231;ois</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vries</name></persName>
-    <event type="birth" when="1750-01-21">
-      <place>Paramaribo</place>
+    <persName><name type="voornaam">Denis</name> <name type="geslachtsnaam">Decr&#232;s</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-01-24">
-      <place>Harderwijk</place>
+    <event type="death" when="1820">
+      <place></place>
     </event>
   </person>
   <biography/>

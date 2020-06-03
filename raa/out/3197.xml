@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Andreas Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heusde</name></persName>
-    <event type="birth" when="1816-03-21">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">lic.</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Volmachten van Leeuwarden</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1899-02-24">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

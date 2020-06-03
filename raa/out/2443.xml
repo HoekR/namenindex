@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arend</name> <name type="geslachtsnaam">Everts</name></persName>
-    <event type="birth" when="1760-11-06">
-      <place>Joure</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Schagen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1830-08-08">
-      <place>Joure</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

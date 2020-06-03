@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Harmen</name> <name type="geslachtsnaam">Willems</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="geslachtsnaam">Calkoen</name></persName>
+    <persName>Calkoen van Kortenhoef</persName>
+    <event type="birth" when="2001">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1817">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

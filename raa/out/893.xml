@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adrianus Gilles</name> <name type="geslachtsnaam">Spoor</name></persName>
-    <event type="birth" when="1786-05-15">
-      <place>Eindhoven</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Geelvinck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-08-07">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1787-04-12">
+      <place></place>
     </event>
   </person>
   <biography/>

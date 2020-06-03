@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/331360331"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">V&#246;lklingen nan</name> <name type="geslachtsnaam">Hoffmann</name></persName>
+    <event type="birth">
+      <date>23-12-1890</date>
+      <place>Landsweiler-Reden</place>
+    </event>
+    <event type="death">
+      <date>21-09-1967</date>
+      <place>V&#246;lklingen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

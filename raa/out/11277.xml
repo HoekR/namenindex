@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Quirijn</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Strijen</name></persName>
-    <event type="birth" when="1660">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Ernst Hendrik</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Ittersum</name></persName>
+    <event type="birth" when="2010">
+      <place>Kampen</place>
     </event>
-    <event type="death" when="1724-07-28">
-      <place></place>
+    <event type="death" when="1853-05-01">
+      <place>Wijk bij Duurstede</place>
     </event>
   </person>
   <biography/>

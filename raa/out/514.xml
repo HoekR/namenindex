@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Dani&#235;l Fran&#231;ois</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Alphen</name></persName>
-    <event type="birth" when="1774-08-30">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Harmannus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Idsinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-10-15">
-      <place>Voorschoten</place>
+    <event type="death" when="1698-03-11">
+      <place></place>
     </event>
   </person>
   <biography/>

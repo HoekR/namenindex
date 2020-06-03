@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Huibrecht</name> <name type="geslachtsnaam">Moolenburgh</name></persName>
-    <event type="birth" when="1784-03-24">
-      <place>Zonnemaire</place>
+    <persName><name type="voornaam">Isaac</name> <name type="intrapositie">da Costa</name> <name type="geslachtsnaam">Athias</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-12-11">
-      <place>Zonnemaire</place>
+    <event type="death" when="1807">
+      <place></place>
     </event>
   </person>
   <biography/>

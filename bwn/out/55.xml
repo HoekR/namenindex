@@ -1,0 +1,100 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Aten [sr.], Adriaan Hendrik Willem (1877-1950)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn2/aten"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">aten</idno>
+    <persName><name type="geslachtsnaam">Aten [sr.]</name>, Adriaan Hendrik Willem</persName>
+    <sex value="1"/>
+    <event type="birth" when="1877"/>
+    <event type="death" when="1950"/>
+    <state type="occupation">scheikundige</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Aten [sr.], Adriaan Hendrik Willem&lt;/strong&gt;, scheikundige (Wormerveer 16-12-1877 - Hilversum 8-3-1950).
+
+Zoon van Adriaan Aten, pelder, en Aaltje Verdam. Gehuwd op 5-3-1907 met
+Jacqueline Henriette Agathe van Iterson. Uit dit huwelijk werden 1 zoon
+en 1 dochter geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Aten doorliep de HBS in Zaandam, legde het staatsexamen af en
+studeerde scheikunde aan de Universiteit van Amsterdam (1896-1904). Op
+17 maart 1904 promoveerde hij onder H.W. Bakhuis Roozeboom op een
+dissertatie: 
+&lt;em&gt;Onderzoekingen over het stelsel zwavel en chloor.&lt;/em&gt;
+
+Hij was daarna waarnemend directeur van het rijkslandbouwproefstation
+in Wageningen tot zijn benoeming tot lector in de elektrochemie aan de
+Universiteit van Amsterdam (2-1-1907). Hij aanvaardde dit ambt op 8
+oktober 1907 met het uitspreken van een openbare les. Op 28 mei 1919
+volgde zijn benoeming tot buitengewoon hoogleraar in de elektrochemie,
+welk ambt hij op 29 september 1919 aanvaardde met een oratie: 
+&lt;em&gt;De beteekenis van de electrochemie in de wetenschap en in de
+praktijk.&lt;/em&gt;
+
+Toen G. Hondius Boldingh met emeritaat ging werd Atens leeropdracht
+uitgebreid met de analytische scheikunde (25-4-1930). Op 26-9-1941
+volgde zijn benoeming tot gewoon hoogleraar. Op 20 september 1948 ging
+hij met emeritaat, maar hij kon zijn leeropdracht met een jaar
+verlengen tot in zijn opvolging was voorzien. In oktober 1949 nam hij
+officieel afscheid.&lt;/p&gt;
+&lt;p&gt;Atens vroegste onderzoekingen liggen op het gebied van de fasenleer,
+geheel in de geest van zijn leermeester Bakhuis Roozeboom. Hij
+onderzocht o.a. pseudobinaire systemen (1905 vlg.) en de verschillende
+moleculesoorten van zwavel (1912 vlg.) en verzorgde het derde stuk van
+deel II van Bakhuis Roozebooms niet voltooide standaardwerk: 
+&lt;em&gt;Die heterogenen Gleichgewichte vom Standpunkte der Phasenlehre&lt;/em&gt;
+
+(Braunschweig, 1901-1918, 3 dl.) onder de titel: 
+&lt;em&gt;Systeme aus zwei Komponenten. Pseudobin&amp;auml;re Systeme&lt;/em&gt;
+
+(1918). Door zijn leeropdrachten verplaatste Atens onderzoeksveld zich
+langzamerhand van de fasenleer naar de elektrochemie en de analytische
+chemie. Hij bestudeerde o.m. het geleidingsvermogen van gesmolten
+zouten en van oplossingen van metalen in gesmolten zouten (1909), de
+elektrolytische afscheiding van metalen (1916), elektro-osmose (1921),
+de waterstofelektrode (1923) en met P.J.H. van Ginneken de vorming van
+saccharaten in oplossing en het carbonatieproces in de sapzuivering van
+de suikerwiniung (1926). Veel van de resultaten van zijn
+wetenschappelijk werk is neergelegd in de dissertaties en publikaties
+van zijn leerlingen. Zijn grootste verdienste is het vele werk dat hij
+deed voor de modernisering van het onderwijs aan de Amsterdamse
+universiteit. Het in 1907 nog geheel nieuwe vak elektrochemie werd door
+hem uitgewerkt tot een volledige studierichting. In de analytische
+chemie schonk hij grote aandacht aan de theoretische grondslagen en aan
+nieuwe technieken als druppelreacties, spectroscopie en spectrografie,
+spectrofotometrie, polarografie, elektro-analyse en elektrochemische
+titraties.&lt;/p&gt;
+&lt;p&gt;Aten had een grote belangstelling voor de toegepaste scheikunde. Hij
+was adviseur van het Gemeente-energiebedrijf te Amsterdam. Van hem is
+een zogenaamde elektropasteur afkomstig (een pasteur is een apparaat
+waarin een vloeistof verhit wordt met het doel aanwezige
+micro-organismen zoveel mogelijk te doden).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;
+  &lt;em&gt;Chemisch Weekblad&lt;/em&gt;
+
+46 (1950) 118-119.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;L.M. Boerlage en H.W. van Deinum, 
+&lt;em&gt;Chemisch Weekblad&lt;/em&gt;
+
+46 (1950) 117-119; 'Prof. Dr. A.H.W. Aten Sr.' in 
+&lt;em&gt;Amsterdamsche Studenten-almanak voor het jaar 1951,&lt;/em&gt;
+
+121 (1951) 81.&lt;/p&gt;
+&lt;p&gt;H.A.M. Snelders&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

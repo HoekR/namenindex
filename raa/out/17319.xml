@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/17319"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Volkier Marius Fran&#231;ois</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Bentinck</name></persName>
+    <event type="birth" when="2010">
+      <place>Wijhe</place>
+    </event>
+    <event type="death" when="1888-11-10">
+      <place>Twello</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

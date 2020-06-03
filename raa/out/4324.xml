@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christiaan</name> <name type="geslachtsnaam">Brunings</name></persName>
-    <event type="birth" when="1736">
+    <persName><name type="voornaam">Jan Francosz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Graswinckel</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1805">
+    <event type="death" when="1668-05-30">
       <place></place>
     </event>
   </person>

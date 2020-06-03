@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gillis Jansz.</name> <name type="geslachtsnaam">Valckenier</name></persName>
-    <event type="birth" when="1550">
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Charles Antonie</name> <name type="geslachtsnaam">Hartman</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1613-12-26">
+    <event type="death" when="1821">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Augustinus</name> <name type="geslachtsnaam">Gerlach</name></persName>
-    <event type="birth" when="1790-06-23">
-      <place>Heusden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bartholt</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Lycklama &#224; Nijeholt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-01-05">
-      <place>Heusden</place>
+    <event type="death" when="1731-03-18">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter Pietersz.</name> <name type="geslachtsnaam">Houtingh</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">David</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Ruychrock van den Werve</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1695-07-31">
+    <event type="death">
       <place></place>
     </event>
   </person>

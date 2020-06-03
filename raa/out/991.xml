@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Rudolph Helprich</name> <name type="intrapositie">Eyssonius</name> <name type="geslachtsnaam">Wichers</name></persName>
-    <event type="birth" when="1800-07-09">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Wissenz.</name></persName>
+    <persName>Epinoy</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-08-14">
-      <place>Groningen</place>
+    <event type="death" when="1345">
+      <place></place>
     </event>
   </person>
   <biography/>

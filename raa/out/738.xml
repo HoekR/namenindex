@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Bicker Caarten</name></persName>
-    <event type="birth" when="1792-11-04">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Vincentius</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Glinstra</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-05-17">
-      <place>Zwolle</place>
+    <event type="death" when="1780-03-08">
+      <place></place>
     </event>
   </person>
   <biography/>

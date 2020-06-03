@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hinderikus</name> <name type="geslachtsnaam">Braams</name></persName>
-    <event type="birth" when="1807-10-18">
-      <place>Gieten</place>
+    <persName><name type="voornaam">A.J.</name> <name type="geslachtsnaam">Mijn&#233;</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-08-02">
-      <place>Gieten</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

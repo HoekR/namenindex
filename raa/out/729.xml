@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Fran&#231;ois</name> <name type="geslachtsnaam">Bareel</name></persName>
+    <persName><name type="voornaam">Pieter Hendrik</name> <name type="intrapositie">comte (Empire) van de</name> <name type="geslachtsnaam">Wall</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1808-05-28">
       <place></place>
     </event>
   </person>

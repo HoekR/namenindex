@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1801726516"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Duch&#234;ne</name></persName>
+    <event type="birth">
+      <date>17-02-1927</date>
+      <place>London</place>
+    </event>
+    <event type="death">
+      <date>12-07-2005</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

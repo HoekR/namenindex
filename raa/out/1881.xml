@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adrianus Jacobus</name> <name type="geslachtsnaam">Paulus</name></persName>
-    <event type="birth" when="1775-05-27">
-      <place>Axel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Victor</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Blinkvliet</name></persName>
+    <persName>Johan Stalborch</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-09-20">
-      <place>Axel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

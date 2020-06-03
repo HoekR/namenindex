@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Poll</name></persName>
-    <event type="birth" when="1759-08-25">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Frederik Allard</name> <name type="intrapositie">Ebbinge</name> <name type="geslachtsnaam">Wubben</name></persName>
+    <event type="birth" when="2007">
+      <place>Deventer</place>
     </event>
-    <event type="death" when="1822-06-22">
-      <place>Heemstede</place>
+    <event type="death" when="1874-06-26">
+      <place>Staphorst</place>
     </event>
   </person>
   <biography/>

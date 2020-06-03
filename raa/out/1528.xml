@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Albertus</name> <name type="geslachtsnaam">Sandberg</name></persName>
-    <persName>Sandberg van 't Laar</persName>
-    <event type="birth" when="1810-03-30">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Poel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1888-05-18">
-      <place>Zwolle</place>
+    <event type="death" when="1717">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/133137813"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Brussel van</name> <name type="geslachtsnaam">Zeeland</name></persName>
+    <event type="birth">
+      <date>11-11-1893</date>
+      <place>Zinnik</place>
+    </event>
+    <event type="death">
+      <date>22-09-1973</date>
+      <place>Brussel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

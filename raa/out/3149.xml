@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik Alexander Sippo Arnold</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Ittersum</name></persName>
-    <event type="birth" when="1800-08-14">
-      <place>Kampen</place>
+    <persName><name type="voornaam">Johan Albert</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Spijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-10-25">
-      <place>Hattem</place>
+    <event type="death" when="1826">
+      <place></place>
     </event>
   </person>
   <biography/>

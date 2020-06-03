@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philip Frederick</name> <name type="geslachtsnaam">Vegelin van Claerbergen</name></persName>
-    <event type="birth" when="1685">
+    <persName><name type="voornaam">Cornelis Jacob</name> <name type="geslachtsnaam">Speelman</name></persName>
+    <persName>Speelman van Heeswijk en Dinther</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1738-07-28">
+    <event type="death" when="1825">
       <place></place>
     </event>
   </person>

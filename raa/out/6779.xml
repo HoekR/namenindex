@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Mossel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Stralen</name></persName>
-    <event type="birth" when="1777-10-23">
-      <place>Enkhuizen</place>
+    <persName><name type="voornaam">Arend Jacobsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Lodensteyn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-06-04">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1637-08-12">
+      <place></place>
     </event>
   </person>
   <biography/>

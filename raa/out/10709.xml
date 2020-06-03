@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Klaas</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vriese</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Anthony Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Borssele</name></persName>
+    <persName>Van Borssele van Wadenoyen</persName>
+    <event type="birth" when="2003">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1475">
-      <place></place>
+    <event type="death" when="1857-01-30">
+      <place>Barneveld</place>
     </event>
   </person>
   <biography/>

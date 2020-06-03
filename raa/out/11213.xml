@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Richard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ommeren</name></persName>
-    <event type="birth" when="1757-01-18">
-      <place>Nederhemert</place>
+    <persName><name type="voornaam">J.H.C.</name> <name type="geslachtsnaam">Sieverts</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-11-05">
-      <place>Heusden</place>
+    <event type="death" when="1841">
+      <place></place>
     </event>
   </person>
   <biography/>

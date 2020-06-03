@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Petrus</name> <name type="geslachtsnaam">Axma</name></persName>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Raesfelt tot Twickel</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1648-02-28">
       <place></place>
     </event>
   </person>

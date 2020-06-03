@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Edouard-Marie-Joseph-Gilles</name> <name type="geslachtsnaam">Broux</name></persName>
-    <event type="birth" when="1755">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Joostenz.</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Duin</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1813">
+    <event type="death">
       <place></place>
     </event>
   </person>

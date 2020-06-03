@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Leonard Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sonsbeeck</name></persName>
-    <event type="birth" when="1781-02-23">
-      <place>Vlissingen</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Voorburgh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-04-05">
-      <place>Middelburg</place>
+    <event type="death" when="1675">
+      <place></place>
     </event>
   </person>
   <biography/>

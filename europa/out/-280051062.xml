@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-280051062"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Jim</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Tully</name></persName>
+    <event type="birth">
+      <date>18-09-1915</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>20-05-1992</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

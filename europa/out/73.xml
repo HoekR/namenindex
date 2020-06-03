@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/73"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Beers de</name> <name type="geslachtsnaam">Quay</name></persName>
+    <event type="birth">
+      <date>26-08-1901</date>
+      <place>'s-Hertogenbosch</place>
+    </event>
+    <event type="death">
+      <date>04-07-1985</date>
+      <place>Beers</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

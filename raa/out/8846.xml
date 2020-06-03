@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Dircksz.</name> <name type="geslachtsnaam">Everhardt</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Anthony</name> <name type="geslachtsnaam">Backer</name></persName>
+    <event type="birth" when="2002">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1831-02-28">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

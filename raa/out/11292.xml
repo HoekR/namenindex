@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sjuck Gerrolt</name> <name type="intrapositie">Juckema van</name> <name type="geslachtsnaam">Burmania</name></persName>
-    <event type="birth" when="1652">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dam van Isselt</name></persName>
+    <event type="birth" when="2005">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1720-12-04">
-      <place></place>
+    <event type="death" when="1854-11-14">
+      <place>Amersfoort</place>
     </event>
   </person>
   <biography/>

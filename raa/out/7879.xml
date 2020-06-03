@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albertus Aemilius Lamoraal</name> <name type="geslachtsnaam">Rengers</name></persName>
-    <event type="birth" when="1690">
+    <persName><name type="voornaam">Gillis</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Huybert</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1729-09-25">
+    <event type="death" when="1669">
       <place></place>
     </event>
   </person>

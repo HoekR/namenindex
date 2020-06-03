@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Estienne</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lignaga</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Hogendorp</name></persName>
+    <event type="birth" when="2003">
+      <place>Rotterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1838-10-07">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

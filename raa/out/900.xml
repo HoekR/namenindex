@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">George Cornelis</name> <name type="geslachtsnaam">Hageman</name></persName>
-    <event type="birth" when="1790">
-      <place>Duisburg</place>
+    <persName><name type="voornaam">Marten Adriaan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Beels</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855">
-      <place>Alphen</place>
+    <event type="death" when="1789">
+      <place></place>
     </event>
   </person>
   <biography/>

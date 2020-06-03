@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/28025"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Evert Christiaan Carel Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
+    <event type="birth" when="2008">
+      <place>Laren (Gld.)</place>
+    </event>
+    <event type="death" when="1816-09-09">
+      <place>Laren (Gld.)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

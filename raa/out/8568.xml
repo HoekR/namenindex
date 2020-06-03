@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Nauta</name>
-    </persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Willem Frederik</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Bylandt</name></persName>
+    <event type="birth" when="2006">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1855-10-25">
+      <place>Princenhage</place>
     </event>
   </person>
   <biography/>

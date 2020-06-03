@@ -1,0 +1,92 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Riel, Cornelis Gerardus van (1886-1939)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/riel"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">riel_1</idno>
+    <persName><name type="geslachtsnaam">Riel</name>, Cornelis Gerardus van</persName>
+    <sex value="1"/>
+    <event type="birth" when="1886"/>
+    <event type="death" when="1939"/>
+    <state type="occupation">oud-katholiek priester</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/RIELCG.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Riel, Cornelis Gerardus van&lt;/strong&gt;, hoogleraar en pastoor (Zaandam 29-7-1886 - Amsterdam 7-9-1939).
+
+Zoon van Age Cornelis van Riel, kaaskoper, en Anna Bongers. Gehuwd met
+Elisabeth Maria Ott op 9-4-1923. Uit dit huwelijk werden 2 zoons
+geboren.
+
+&lt;img src=&amp;quot;images/RIELCG.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Riel, Cornelis Gerardus van&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Van Riel ging na de lagere school te Zaandam in 1888 naar het
+oud-katholiek seminarie te Amersfoort, waar hij eerst het stedelijk
+gymnasium bezocht en later theologie en filosofie studeerde. Deze
+studies zette hij vervolgens aan de oud-katholieke faculteit van de
+Universiteit van Bern voort tot 1909, toen hij in Nederland in functie
+moest treden.&lt;/p&gt;
+&lt;p&gt;Op 10 oktober 1909 werd hij tot priester gewijd en terstond
+aangesteld tot kapelaan te Amsterdam, waar hij van 1911 tot 1939
+pastoor was van dezelfde parochie (H.H. Petrus en Paulus). Tijdens zijn
+pastoraat werd de schuilkerk in het oude stadscentrum (Barndesteeg)
+verwisseld voor een nieuw kerkgebouw in Zuid (Ruysdaelstraat).&lt;/p&gt;
+&lt;p&gt;Ondertussen zette hij zijn studie voort en op 20 april 1922
+promoveerde hij te Bern summa cum laude op een proefschrift dat een
+onderwerp behandelde de genadeleer der kerk betreffend. Vanaf 1925 was
+Van Riel hoogleraar in de kerkgeschiedenis aan het oud-katholiek
+seminarie te Amersfoort. Voorts was hij o.a. medeoprichter van de
+Oud-Katholieke Oecumenische Vereeniging, actief leider van de Bond van
+Jonge Oud-Katholieken in Nederland (later erevoorzitter); zijn sterk
+muzikale geest plaatste hem op de voorzitterszetel van de Orgelraad en
+het Curatorium voor cursussen tot opleiding van organisten. Als fel
+antimilitarist maakte hij deel uit van 'Militia Christi' en was
+hij in de jaren dertig een machtig getuige voor de vrede. In dit
+verband zagen ook enkele geschriften van hem het licht.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;
+  &lt;em&gt;Beitrag zur Geschichte der Congregationes de Auxiliis&lt;/em&gt;
+
+(Konstanz, 1929). Proefschrift Bern; 
+&lt;em&gt;De moderne Theosophie en de Vrije Katholieke Kerk&lt;/em&gt;
+
+(Rotterdam, 1928); 
+&lt;em&gt;Europa am Scheidewege&lt;/em&gt;
+
+(Ammerstol, 1931); 
+&lt;em&gt;Waarom wordt de particuliere wapenindustrie niet afgeschaft?&lt;/em&gt;
+
+[Ammerstol, 1933];
+&lt;em&gt;S.O.S.! &amp;quot;Kerk&amp;quot;...&lt;/em&gt;
+
+(Utrecht, 1935); postume publikaties, in 
+&lt;em&gt;De Oud-Katholiek&lt;/em&gt;
+
+van 1939.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;De Oud-Katholiek&lt;/em&gt;
+
+55 (1939) 38 (16 september) 282-286.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt; &lt;em&gt;De Oud-Katholiek&lt;/em&gt;
+
+55 (1939) 38 (16 september) 282.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;H.J.W. Verhey &amp;#134;&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

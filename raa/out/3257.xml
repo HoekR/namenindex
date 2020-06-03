@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendericus</name> <name type="geslachtsnaam">Wijnbeek</name></persName>
-    <event type="birth" when="1772-11-17">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Cincq</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-12-11">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

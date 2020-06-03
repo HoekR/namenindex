@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Petrus Coenraad</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Coningh</name></persName>
-    <event type="birth" when="1761">
+    <persName><name type="voornaam">R.J.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Apeldoorn</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1826">
+    <event type="death">
       <place></place>
     </event>
   </person>

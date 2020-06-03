@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">N.M.</name> <name type="intrapositie">van der Noot</name> <name type="geslachtsnaam">Roseboom</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Guillaume</name> <name type="geslachtsnaam">Groen van Prinsterer</name></persName>
+    <event type="birth" when="2008">
+      <place>Voorburg</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1876-05-19">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

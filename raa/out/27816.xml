@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/27816"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Albrecht Fredrik</name> <name type="geslachtsnaam">Insinger</name></persName>
+    <event type="birth" when="2008">
+      <place>Amsterdam</place>
+    </event>
+    <event type="death" when="1872-12-03">
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

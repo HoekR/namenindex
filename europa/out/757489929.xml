@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/757489929"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Boston nan</name> <name type="geslachtsnaam">Thieu</name></persName>
+    <event type="birth">
+      <date>05-04-1923</date>
+      <place>Phan Rang-Th&#225;p Ch&#224;m, Indo-China</place>
+    </event>
+    <event type="death">
+      <date>29-09-2001</date>
+      <place>Boston</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Andreas Anthonius</name> <name type="geslachtsnaam">Reael</name></persName>
-    <event type="birth" when="1783-07-31">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <persName>Ludovicus</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1856-03-11">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

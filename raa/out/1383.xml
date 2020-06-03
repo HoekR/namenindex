@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joannes Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reenen</name></persName>
-    <event type="birth" when="1791-03-28">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Regnerus Livius</name> <name type="intrapositie">ridder van Andringa de</name> <name type="geslachtsnaam">Kempenaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-10-10">
-      <place>Loosdrecht</place>
+    <event type="death" when="1813-03-12">
+      <place></place>
     </event>
   </person>
   <biography/>

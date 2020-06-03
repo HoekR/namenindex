@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lieuwe</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Juckema</name></persName>
-    <event type="birth" when="1550">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Korstiaan (bastaard)</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Herwijnen</name></persName>
+    <persName>Jacques Muysart</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1614">
+    <event type="death">
       <place></place>
     </event>
   </person>

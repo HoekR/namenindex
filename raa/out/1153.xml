@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Roelof</name> <name type="geslachtsnaam">Houwink</name></persName>
-    <event type="birth" when="1746">
-      <place>Meppel</place>
+    <persName><name type="voornaam">Jacques Martin Madeleine</name> <name type="geslachtsnaam">Ferri&#232;re</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-04-26">
-      <place>Meppel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

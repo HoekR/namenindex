@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bartholomeus Maertsz.</name> <name type="geslachtsnaam">Busier</name></persName>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Avenhorn</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1652-09-30">
+    <event type="death" when="1727-08-11">
       <place></place>
     </event>
   </person>

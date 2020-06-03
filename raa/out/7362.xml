@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anne Regnerus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Wendt</name></persName>
-    <event type="birth" when="1772-02-11">
-      <place>Sneek</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Maarten</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-07-31">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

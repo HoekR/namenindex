@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ernst Karel Johannes</name> <name type="geslachtsnaam">Bertling</name></persName>
-    <event type="birth" when="1817-01-19">
-      <place>Veendam</place>
+    <persName><name type="prepositie">ds.</name> <name type="voornaam">Ciprianus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Bruinsma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1889-12-04">
-      <place>Assen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

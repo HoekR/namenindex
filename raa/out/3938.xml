@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Jansz. Duyvesz.</name> <name type="geslachtsnaam">Benningh</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Marck</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Bonnes</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1617">
+    <event type="death">
       <place></place>
     </event>
   </person>

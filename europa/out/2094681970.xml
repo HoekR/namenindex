@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/2094681970"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Drs.</name> <name type="voornaam">Frans</name> <name type="intrapositie">Oosterbeek nan</name> <name type="geslachtsnaam">Roelen</name></persName>
+    <event type="birth">
+      <date>17-11-1920</date>
+      <place>Langsa (Ned. Indi&#235;)</place>
+    </event>
+    <event type="death">
+      <date>17-07-2005</date>
+      <place>Oosterbeek</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

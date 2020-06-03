@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jan Ernst Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gesseler</name></persName>
-    <event type="birth" when="1768-09-17">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbrecht Simonsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Moen</name></persName>
+    <persName>Roelof de Brouxelles</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-01-26">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

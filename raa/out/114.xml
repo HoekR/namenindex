@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus Johannes</name> <name type="geslachtsnaam">Cremers</name></persName>
-    <event type="birth" when="1806-12-13">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerard</name> <name type="geslachtsnaam">Mulert</name></persName>
+    <persName>Gerard Muylaert</persName>
+    <persName>Gerard Milert</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-03-05">
-      <place>Groningen</place>
+    <event type="death" when="1538-07-12">
+      <place></place>
     </event>
   </person>
   <biography/>

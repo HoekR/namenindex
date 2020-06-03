@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus</name> <name type="geslachtsnaam">Slegt</name></persName>
-    <event type="birth" when="1791-03-18">
-      <place>Zierikzee</place>
+    <persName><name type="voornaam">D.</name> <name type="geslachtsnaam">Hanekamp tot Harinxma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-10-21">
-      <place>Middelburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

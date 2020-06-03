@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Niclaas</name> <name type="geslachtsnaam">Holmberg de Beckfelt</name></persName>
-    <persName>Niclas Kyronius</persName>
-    <event type="birth" when="1742-09-09">
-      <place>Uppsala</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Cats</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-12-20">
-      <place>Culemborg</place>
+    <event type="death" when="1773">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Hendrik Alexander Carel</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
-    <persName>Van Heeckeren van Kell</persName>
-    <event type="birth" when="1774-08-12">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">H.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Gestas</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-07-24">
-      <place>Ruurlo</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

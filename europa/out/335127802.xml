@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/335127802"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">F&#233;camp nan</name> <name type="geslachtsnaam">Servan Schreiber</name></persName>
+    <event type="birth">
+      <date>13-02-1924</date>
+      <place>Parijs</place>
+    </event>
+    <event type="death">
+      <date>07-11-2006</date>
+      <place>F&#233;camp</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

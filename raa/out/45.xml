@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Benedictus Josephus</name> <name type="geslachtsnaam">Holvoet</name></persName>
-    <event type="birth" when="1763-02-27">
-      <place>Dadizeele</place>
+    <persName><name type="voornaam">Maarten</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Meister</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1838-01-24">
-      <place>Mechelen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

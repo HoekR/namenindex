@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albertus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ruinen</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Johann Eberhard Paul Ernst</name> <name type="geslachtsnaam">Gericke</name></persName>
+    <persName>Gericke van Herwijnen</persName>
+    <event type="birth" when="2002">
+      <place>Kleef</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1845-11-19">
+      <place>Maastricht</place>
     </event>
   </person>
   <biography/>

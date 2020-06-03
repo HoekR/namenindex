@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wijbe Harms</name> <name type="geslachtsnaam">Bakker</name></persName>
-    <event type="birth" when="1755">
+    <persName><name type="voornaam">Rutger</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Haersolte tot Egede</name></persName>
+    <persName>Rutger van Haersolte tot Hoenlo</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1808">
+    <event type="death" when="1713-08-14">
       <place></place>
     </event>
   </person>

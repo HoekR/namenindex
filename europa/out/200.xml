@@ -1,0 +1,25 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/200"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bloomington, Minnesota&#13;
+Bloomington, Minnesota, nan</name> <name type="geslachtsnaam">Stassen</name></persName>
+    <event type="birth">
+      <date>13-04-1907</date>
+      <place>West St. Paul, Minnesota&#13;
+West St. Paul, Minnesota</place>
+    </event>
+    <event type="death">
+      <date>04-03-2001</date>
+      <place>Bloomington, Minnesota&#13;
+Bloomington, Minnesota,</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Micha&#235;l</name> <name type="geslachtsnaam">Helmich</name></persName>
-    <event type="birth" when="1753-11-12">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gruter</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-03-11">
-      <place>Dalfsen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

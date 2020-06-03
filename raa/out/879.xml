@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Daniel Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ewijck</name></persName>
-    <persName>Van Ewijck van Oostbroek en De Bilt</persName>
-    <event type="birth" when="1786-11-13">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Zweersz.</name></persName>
+    <persName>Scepperus</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-12-15">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

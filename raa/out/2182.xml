@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Petrus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Roeper</name></persName>
-    <event type="birth" when="1796-09-30">
-      <place>Hoorn</place>
+    <persName><name type="voornaam">Gijsbert Gerard Jacob</name> <name type="geslachtsnaam">Dommer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-09-16">
-      <place>Naarden</place>
+    <event type="death" when="1816">
+      <place></place>
     </event>
   </person>
   <biography/>

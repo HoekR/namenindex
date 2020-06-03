@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antoine Lambert Joseph</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Villenfagne de Zolder</name></persName>
-    <event type="birth" when="1753-06-14">
-      <place>Ordennes</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bartoud Albrechtsz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Assendelft</name></persName>
+    <event type="birth" when="1472">
+      <place></place>
     </event>
-    <event type="death" when="1822-07-03">
+    <event type="death" when="1549">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">ds.</name> <name type="voornaam">Jacob Frederik</name> <name type="geslachtsnaam">Serrurier</name></persName>
-    <event type="birth" when="1771-11-05">
-      <place>Hanau</place>
+    <persName><name type="voornaam">Ewoud Lodewijk</name> <name type="geslachtsnaam">Storm van 's-Gravenzande</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-11-02">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1846">
+      <place></place>
     </event>
   </person>
   <biography/>

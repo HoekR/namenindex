@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Aalt Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Holthe tot Oldengaarden</name></persName>
-    <event type="birth" when="1780-10-23">
-      <place>Rhebrugge</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Lambrechtsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-01-17">
-      <place>Dwingeloo</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

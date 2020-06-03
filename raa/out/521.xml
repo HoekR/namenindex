@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Henrik</name> <name type="geslachtsnaam">Backer</name></persName>
-    <event type="birth" when="1792-08-15">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Michiel</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Hameel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-11-30">
-      <place>s-Graveland</place>
+    <event type="death" when="1565">
+      <place></place>
     </event>
   </person>
   <biography/>

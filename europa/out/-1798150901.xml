@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1798150901"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bonn nan</name> <name type="geslachtsnaam">L&#252;bke</name></persName>
+    <event type="birth">
+      <date>14-10-1894</date>
+      <place>Enkhausen/Sauerland</place>
+    </event>
+    <event type="death">
+      <date>06-04-1972</date>
+      <place>Bonn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/30763"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Jan</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Dedem</name></persName>
+    <event type="birth" when="2003">
+      <place>Zwolle</place>
+    </event>
+    <event type="death" when="1851-11-21">
+      <place>Dedemsvaart</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

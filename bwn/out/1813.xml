@@ -1,0 +1,111 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Thiel, Jacobus Johannes van (1843-1912)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/thiel"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">thiel_1</idno>
+    <persName><name type="geslachtsnaam">Thiel</name>, Jacobus Johannes van</persName>
+    <sex value="1"/>
+    <event type="birth" when="1843"/>
+    <event type="death" when="1912"/>
+    <state type="occupation">oud-katholiek bisschop</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Thiel, Jacobus Johannes van&lt;/strong&gt;
+
+, oud-katholiek bisschop van Haarlem (Haarlem 16-4-
+1843
+
+- Haarlem 16-5-
+1912
+).
+
+Zoon van Matthias van Thiel, koek- en banketbakker, en Maria Spruit.
+Hij was ongehuwd.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Van 1854 tot 1860 was hij intern op het oud-katholiek seminarie en
+leerling van het stedelijk gymnasium te Amersfoort. Na zijn
+filosofische en theologische studie aan het seminarie in 1862
+be&amp;euml;indigd te hebben, volgde zijn wijding tot subdiaken, diaken en
+priester op 2, 7 en 9 november van dat jaar. Daarna was hij tot 1863
+kapelaan en vervolgens tot 1885 pastoor in Enkhuizen. In de periode van
+1885-1906 was hij president van het seminarie. Zijn verkiezing en
+wijding tot bisschop van Haarlem vond op 27 juni en 27 augustus 1906
+plaats.&lt;/p&gt;
+&lt;p&gt;Thiel volgde met grote aandacht het ontstaan en de ontwikkelingen
+van de oud-katholieke kerken in het buitenland na 1870. Bij het congres
+in 1871 van de oud-katholieke beweging in M&amp;uuml;nchen
+vertegenwoordigde hij de oud-katholieke kerk van Nederland. Contacten
+werden in 1891 gelegd met de 'petite &amp;eacute;glise' in Frankrijk
+die toenadering zocht tot de oud-katholieke kerk. Van 1893-1894 werkte
+hij in de door P. Hyacinthe Loyson gestichte oud-katholieke gemeente in
+Parijs. Het was zijn verdienste de 
+&lt;em&gt;Traite sur la primaut&amp;eacute; du pape&lt;/em&gt;
+
+van de Oratoriaan Pinel weer in de belangstelling te hebben gebracht.
+Hij was lid van de Rotterdam-Petersburg Commissie die van 1894-1914 de
+oosterse en westerse kerken poogde te herenigen. Zijn rol bij de opname
+van de Kerk der Mariavieten in Polen in de de zg. Unie van Utrecht in
+1909 was belangrijk. Het volgend jaar bezocht hij deze Poolse kerk,
+waarbij zijn kennis van de taal hem te stade kwam. Hij stond in
+correspondentie met theologen in vele landen. Zijn verdiensten voor de
+buitenlandse oud-katholieke kerk werden erkend door een doctoraat
+honoris causa in 1903 van de universiteit van Bern.&lt;/p&gt;
+&lt;p&gt;Ook in Nederland had hij grote invloed. Hij was medeoprichter van 
+&lt;em&gt;Cor Unum et Anima Una&lt;/em&gt;
+
+een organisatie die geschriften ging uitgeven en van 
+&lt;em&gt;De Oud-Katholiek&lt;/em&gt;
+
+een tijdschrift dat in 1885 verscheen en waarvan hij tot 1890 redacteur
+was. In 1907 waarschuwde hij in een herderlijk schrijven tegen de leer
+van de onfeilbaarheid van de paus, en voorts tegen de macht van de
+Ultramontanen in de R.-K. kerk. Van Thiel bevorderde een betere
+meeviering van de gelovigen door invoering van de moedertaal en
+gemeentezang in de liturgie en bemiddelde bij geschillen van
+verschillende aard tussen geestelijken van oud-katholieke
+signatuur.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;'Toespraak tijdens Congres te M&amp;uuml;nchen 1871', in 
+&lt;em&gt;De Globe&lt;/em&gt;
+
+van oktober 1872; 'Die katholische Kirche in ihrer Ansicht
+&amp;uuml;ber die Ehe', in 
+&lt;em&gt;Deutscher Merkur&lt;/em&gt;
+
+van 1882, 47-50; 'Sur la Papaut&amp;eacute;. Un ouvrage du XVIII&amp;egrave;me
+si&amp;egrave;cle &amp;agrave; r&amp;eacute;&amp;eacute;diter', in 
+&lt;em&gt;Revue internationale de Th&amp;eacute;ologie (RIT)&lt;/em&gt;
+
+13(1905) 225-237; 'L'&amp;eacute;glise catholique gallicane &amp;agrave;
+Paris', 
+&lt;em&gt;ibidem,&lt;/em&gt;
+
+1 (1893) 454-464 ; 'Die G&amp;uuml;ltigkeit der Bisschofsweihen in der
+altkatholischen Kirche von Utrecht', 
+&lt;em&gt;ibidem,&lt;/em&gt;
+
+7(1899) 256-267.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;F. Kenninck, 'Dr. J.J. van Thiel', in 
+&lt;em&gt;Internationale Kirchliche Zeitschrift 2&lt;/em&gt;
+
+(1912) 433-441; 'Mgr.Dr. J.J. van Thiel', in 
+&lt;em&gt;De Oud-Katholiek&lt;/em&gt;
+
+28 (1912) 12 (1 juni) 121-129.&lt;/p&gt;
+&lt;p&gt;F. Smit&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

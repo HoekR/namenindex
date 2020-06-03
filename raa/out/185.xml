@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Albert</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Dedem</name></persName>
-    <persName>Van Dedem van Vosbergen</persName>
-    <event type="birth" when="1748-07-28">
-      <place>Heerde</place>
+    <persName><name type="voornaam">Adriaan Franciscus</name> <name type="geslachtsnaam">Goudriaan</name></persName>
+    <persName>Adrianus Francois</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-03-07">
-      <place>Heerde</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus Catharinus</name> <name type="intrapositie">den</name> <name type="geslachtsnaam">Beer Poortugaal</name></persName>
-    <event type="birth" when="1775">
+    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Guichart</name></persName>
+    <persName>Gaschard</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1813">
+    <event type="death" when="1837">
       <place></place>
     </event>
   </person>

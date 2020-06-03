@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Anton Cornelis</name> <name type="geslachtsnaam">Chais van Buren</name></persName>
-    <event type="birth" when="1800-03-03">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk Woutersz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Beynen</name></persName>
+    <persName>Buren</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-01-30">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

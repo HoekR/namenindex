@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Carolus Justus</name> <name type="geslachtsnaam">Lewe van Aduard</name></persName>
-    <event type="birth" when="1767-07-30">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Frank</name> <name type="intrapositie">graaf van den</name> <name type="geslachtsnaam">Bergen</name></persName>
+    <event type="birth" when="1498">
+      <place></place>
     </event>
-    <event type="death" when="1836-05-25">
-      <place>Rolde</place>
+    <event type="death" when="1559">
+      <place></place>
     </event>
   </person>
   <biography/>

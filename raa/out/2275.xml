@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Gerard Frederik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Tets</name></persName>
-    <event type="birth" when="1815-03-19">
-      <place>Haarlem</place>
+    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Vergroesen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1888-01-16">
-      <place>Heemstede</place>
+    <event type="death" when="1836">
+      <place></place>
     </event>
   </person>
   <biography/>

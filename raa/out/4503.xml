@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Feltrum</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vries</name></persName>
-    <event type="birth" when="1659">
+    <persName><name type="voornaam">Jacob Josias</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vrijburgh</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1723-08-13">
+    <event type="death" when="1755">
       <place></place>
     </event>
   </person>

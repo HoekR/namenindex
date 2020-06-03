@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Westrenen van Sterkenburg</name></persName>
-    <event type="birth" when="1741-08-08">
-      <place>Utrecht</place>
+    <persName>
+      <name type="geslachtsnaam">Courtin</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1817-09-09">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

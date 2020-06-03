@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Henricus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Wijs</name></persName>
-    <event type="birth" when="1775-09-03">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">Jan Pieter</name> <name type="geslachtsnaam">Westerwijk Forsborgh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-04-09">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1822">
+      <place></place>
     </event>
   </person>
   <biography/>

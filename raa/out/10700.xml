@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Joan</name> <name type="geslachtsnaam">Scott</name></persName>
-    <persName>Joan Schott</persName>
-    <event type="birth" when="1674">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Anne</name> <name type="geslachtsnaam">Singendonck</name></persName>
+    <event type="birth" when="2005">
+      <place>Nijmegen</place>
     </event>
-    <event type="death" when="1740-10-11">
-      <place></place>
+    <event type="death" when="1893-11-29">
+      <place>Nijmegen</place>
     </event>
   </person>
   <biography/>

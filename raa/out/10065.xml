@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolaas Willemsz.</name> <name type="geslachtsnaam">Cromstrien</name></persName>
-    <persName>Nicolaas Willemsz. van Cromstryen</persName>
-    <persName>Nicolaas Willem Symonsz. Cromstryen</persName>
-    <event type="birth" when="1540">
+    <persName><name type="voornaam">Mattheus</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Broucke</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1612-07-31">
+    <event type="death">
       <place></place>
     </event>
   </person>

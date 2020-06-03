@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham Johannes</name> <name type="geslachtsnaam">Severijn</name></persName>
-    <event type="birth" when="1774-09-06">
-      <place>Amsterdam</place>
+    <persName>
+      <name type="geslachtsnaam">Moijaart</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-06-14">
-      <place>Kleef</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Robert</name> <name type="geslachtsnaam">Vo&#251;te</name></persName>
-    <event type="birth" when="1747-01-13">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Bartholt</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Douma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-09-15">
-      <place>Oudshoorn</place>
+    <event type="death" when="1678-03-22">
+      <place></place>
     </event>
   </person>
   <biography/>

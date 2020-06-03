@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joan Coenraad</name> <name type="geslachtsnaam">Druman</name></persName>
-    <event type="birth" when="1743">
+    <persName><name type="voornaam">Caspar Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Lemker</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1810">
+    <event type="death" when="1707-01-31">
       <place></place>
     </event>
   </person>

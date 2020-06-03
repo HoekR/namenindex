@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaan Cornelisz.</name> <name type="geslachtsnaam">Vereyck</name></persName>
+    <persName><name type="voornaam">Geraart</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Mortagne</name></persName>
+    <persName>Geraart Montaigne</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1682">
+    <event type="death">
       <place></place>
     </event>
   </person>

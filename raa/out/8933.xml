@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Grovestins</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Gijsbert Carel Duco</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Hardenbroek</name></persName>
+    <event type="birth" when="2006">
+      <place>Sterkenburg</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1851-11-23">
+      <place>Sterkenburg</place>
     </event>
   </person>
   <biography/>

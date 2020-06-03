@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christiaen Willemsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Cleyburg</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Dirk Carel</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
+    <persName>Van Heeckeren van Wassenaer</persName>
+    <persName>Van Heeckeren van Wassenaer-Twickel</persName>
+    <event type="birth" when="2002">
+      <place>Emmerik</place>
     </event>
-    <event type="death" when="1604">
-      <place></place>
+    <event type="death" when="1875-07-11">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

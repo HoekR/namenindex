@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sicco</name> <name type="geslachtsnaam">Wiedenburg</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jean Louis</name> <name type="geslachtsnaam">Trip</name></persName>
+    <persName>Trip van Zoudtlandt</persName>
+    <event type="birth" when="2007">
+      <place>Groningen</place>
     </event>
-    <event type="death" when="1720">
-      <place></place>
+    <event type="death" when="1822-07-07">
+      <place>Princenhage</place>
     </event>
   </person>
   <biography/>

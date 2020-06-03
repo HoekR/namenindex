@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Iman Claasz.</name> <name type="geslachtsnaam">Imans (van der Lisse)</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Blois</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1579-04-27">
+    <event type="death">
       <place></place>
     </event>
   </person>

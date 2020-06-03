@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-2056697881"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Lissabon nan</name> <name type="geslachtsnaam">Antunes</name></persName>
+    <event type="birth">
+      <date>02-10-1933</date>
+      <place>Lissabon</place>
+    </event>
+    <event type="death">
+      <date>10-08-1999</date>
+      <place>Lissabon</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

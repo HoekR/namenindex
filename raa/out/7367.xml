@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Joost</name> <name type="geslachtsnaam">Rataller</name></persName>
-    <persName>George Rataleur</persName>
-    <event type="birth" when="1528">
+    <persName><name type="voornaam">Jacob Arent</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Wassenaer</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1581">
+    <event type="death" when="1767-05-08">
       <place></place>
     </event>
   </person>

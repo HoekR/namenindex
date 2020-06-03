@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1212278719"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Biarritz de</name> <name type="geslachtsnaam">Carbonnel</name></persName>
+    <event type="birth">
+      <date>08-07-1910</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>02-08-1965</date>
+      <place>Biarritz</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

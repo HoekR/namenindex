@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Adriaan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Hasselgreen</name></persName>
-    <event type="birth" when="1778-06-19">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Patrice Charles Ghislain</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Coninck</name></persName>
+    <persName>De Coninck d'Outryve</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1843-10-12">
-      <place>Amsterdam</place>
+    <event type="death" when="1827">
+      <place></place>
     </event>
   </person>
   <biography/>

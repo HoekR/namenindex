@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">A.C.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Normandie van Schalkwijk</name></persName>
+    <persName><name type="voornaam">Albert</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Schagen</name></persName>
+    <persName>Albrecht van Schagen</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1638">
       <place></place>
     </event>
   </person>

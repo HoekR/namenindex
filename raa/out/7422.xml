@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Claesz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Harencarspel</name></persName>
-    <persName>Jacob Claesz. Haringcarspel</persName>
-    <event type="birth" when="1601">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Hendriksz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Kamerlink</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1649-05-09">
+    <event type="death">
       <place></place>
     </event>
   </person>

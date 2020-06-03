@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gulian Cornelis</name> <name type="geslachtsnaam">Arntzenius</name></persName>
-    <event type="birth" when="1810-10-05">
-      <place>Haarlem</place>
+    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Bossaert (van Belle)</name></persName>
+    <persName>Jacob Bossaert van Belle</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-03-21">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1483">
+      <place></place>
     </event>
   </person>
   <biography/>

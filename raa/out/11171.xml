@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bernhard</name> <name type="geslachtsnaam">Vollenhove</name></persName>
-    <event type="birth" when="1633">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Goosen Geurt</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Bentinck tot den Brielaart</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1694">
+    <event type="death">
       <place></place>
     </event>
   </person>

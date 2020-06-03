@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham</name> <name type="intrapositie">den</name> <name type="geslachtsnaam">Bandt</name></persName>
-    <event type="birth" when="1797-07-29">
-      <place>Dordrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Oem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-07-16">
-      <place>Dordrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

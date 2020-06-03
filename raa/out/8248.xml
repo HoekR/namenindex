@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vossen</name></persName>
-    <event type="birth" when="1670">
-      <place></place>
+    <persName><name type="voornaam">Jasper Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ittersum</name></persName>
+    <persName>Van Ittersum van Relaer</persName>
+    <event type="birth" when="2003">
+      <place>Rijssen</place>
     </event>
-    <event type="death" when="1727">
-      <place></place>
+    <event type="death" when="1819-03-23">
+      <place>Raalte</place>
     </event>
   </person>
   <biography/>

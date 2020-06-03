@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Abrahamsz.</name> <name type="geslachtsnaam">Schilthouwer van Hoeij</name></persName>
-    <event type="birth" when="1722">
-      <place></place>
+    <persName><name type="voornaam">Ernestus Jodocus Rudolphus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Grotenhuis van Onstein</name></persName>
+    <event type="birth" when="2009">
+      <place>Wamel</place>
     </event>
-    <event type="death" when="1793-10-31">
-      <place></place>
+    <event type="death" when="1847-12-21">
+      <place>Vorden</place>
     </event>
   </person>
   <biography/>

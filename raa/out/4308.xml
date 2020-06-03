@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albrecht Cornelisz.</name> <name type="geslachtsnaam">Comans</name></persName>
+    <persName><name type="voornaam">Joan Hendrik</name> <name type="geslachtsnaam">Jalink</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1801">
       <place></place>
     </event>
   </person>

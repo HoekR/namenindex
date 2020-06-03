@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/37141"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johannes Wolter</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Coeverden</name></persName>
+    <event type="birth" when="2001">
+      <place>Doornspijk</place>
+    </event>
+    <event type="death" when="1861-07-11">
+      <place>Veldhuizen in Bentheim</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

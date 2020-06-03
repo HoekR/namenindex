@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Arend</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Vos van Steenwijk genaamd van Essen</name></persName>
-    <persName>De Vos van Steenwijk genaamd van Essen van Abbenbroek</persName>
-    <event type="birth" when="1809-10-27">
-      <place>Werkhoven</place>
+    <persName><name type="voornaam">Wouter</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Lanschot</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-06-20">
-      <place>Neuenahr</place>
+    <event type="death" when="1717">
+      <place></place>
     </event>
   </person>
   <biography/>

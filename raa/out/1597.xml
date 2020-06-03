@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Marle</name></persName>
-    <event type="birth" when="1768-04-30">
-      <place>Deventer</place>
+    <persName><name type="voornaam">Alexander Willem</name> <name type="geslachtsnaam">Zwart</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-06-30">
-      <place>Deventer</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

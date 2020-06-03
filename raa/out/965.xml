@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerard Jean Chretien</name> <name type="geslachtsnaam">Schneither</name></persName>
-    <event type="birth" when="1795">
-      <place>Leiden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Gerbrandsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Onnoozel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877">
-      <place>Arnhem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

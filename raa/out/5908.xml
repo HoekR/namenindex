@@ -8,11 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Jansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Schagen</name></persName>
-    <event type="birth" when="1578">
+    <persName><name type="voornaam">Job Pietersz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Ruwen</name></persName>
+    <persName>Job Pietersz. Ruvere</persName>
+    <persName>Job Pietersz. van Ruiven</persName>
+    <persName>Job Pietersz. van Roeren</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1636">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Nanningsz.</name></persName>
+    <persName><name type="voornaam">Arent</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Lawick</name></persName>
+    <persName>Arent van Lauwick</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1606">
       <place></place>
     </event>
   </person>

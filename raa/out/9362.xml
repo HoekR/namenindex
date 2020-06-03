@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Regnerus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Andringa</name></persName>
-    <persName>Rintze van Andringa</persName>
-    <persName>Rinso van Andringa</persName>
-    <event type="birth" when="1612">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Robbert Hendrik</name> <name type="geslachtsnaam">Arntzenius</name></persName>
+    <event type="birth" when="2012">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1671-05-10">
-      <place></place>
+    <event type="death" when="1823-11-23">
+      <place>Haarlem</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Constantijn</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Valkenburg</name></persName>
-    <event type="birth" when="1764-01-06">
-      <place>Haarlem</place>
+    <persName><name type="voornaam">Dominique</name> <name type="geslachtsnaam">Bertrand</name></persName>
+    <persName>Bertrand dit B&#233;to</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-01-26">
-      <place>Haarlem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

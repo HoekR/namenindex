@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Karel Adriaan</name> <name type="geslachtsnaam">Meeussen</name></persName>
-    <event type="birth" when="1815-03-09">
-      <place>Bergen op Zoom</place>
+    <persName>
+      <name type="geslachtsnaam">Napoleon Louis</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1884-01-24">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1831">
+      <place></place>
     </event>
   </person>
   <biography/>

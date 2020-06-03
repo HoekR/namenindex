@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Samuel Pierre Jean Charles</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dam</name></persName>
-    <persName>Van Dam van Hekendorp en Polanen</persName>
-    <event type="birth" when="1811-01-14">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Obbe</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Obbes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-02-25">
-      <place>Amsterdam</place>
+    <event type="death" when="1632-08-04">
+      <place></place>
     </event>
   </person>
   <biography/>

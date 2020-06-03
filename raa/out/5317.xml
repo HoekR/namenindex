@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Teunis Iza&#228;ks</name> <name type="geslachtsnaam">Hulshoff</name></persName>
-    <event type="birth" when="1743-12-06">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nieuwerve</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1817-10-19">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

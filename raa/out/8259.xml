@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jacobsz.</name> <name type="geslachtsnaam">Trompet</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Assuerus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Merwede</name></persName>
+    <event type="birth" when="2011">
+      <place>Kampen</place>
     </event>
-    <event type="death" when="1629-11-01">
-      <place></place>
+    <event type="death" when="1823-11-20">
+      <place>Kampen</place>
     </event>
   </person>
   <biography/>

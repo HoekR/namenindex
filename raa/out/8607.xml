@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Joostensz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lodensteyn</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Martinus</name> <name type="geslachtsnaam">Huysmans</name></persName>
+    <event type="birth" when="2012">
+      <place>Bladel</place>
     </event>
-    <event type="death" when="1675-12-22">
-      <place></place>
+    <event type="death" when="1848-05-01">
+      <place>Hilvarenbeek</place>
     </event>
   </person>
   <biography/>

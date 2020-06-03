@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hans Monses</name> <name type="geslachtsnaam">Hettema</name></persName>
-    <event type="birth" when="1761">
-      <place></place>
+    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Zeehuisen</name></persName>
+    <event type="birth" when="2008">
+      <place>Middelstum</place>
     </event>
-    <event type="death" when="1823">
+    <event type="death">
       <place></place>
     </event>
   </person>

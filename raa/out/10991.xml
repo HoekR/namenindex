@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Nicolaus Arnoldi</name> <name type="geslachtsnaam">Knock</name></persName>
-    <event type="birth" when="1759">
-      <place></place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">Hora</name> <name type="geslachtsnaam">Siccama</name></persName>
+    <persName>Hora Siccama van Slochteren</persName>
+    <event type="birth" when="2010">
+      <place>Groningen</place>
     </event>
-    <event type="death" when="1794">
-      <place></place>
+    <event type="death" when="1829-07-04">
+      <place>Brussel</place>
     </event>
   </person>
   <biography/>

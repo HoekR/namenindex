@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/463975300"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Nice de</name> <name type="geslachtsnaam">Beaumont</name></persName>
+    <event type="birth">
+      <date>29-08-1896</date>
+      <place>Airel (Manche)</place>
+    </event>
+    <event type="death">
+      <date>13-10-1955</date>
+      <place>Nice</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

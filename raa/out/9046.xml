@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Meinderts</name></persName>
-    <event type="birth" when="1746">
-      <place></place>
+    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Putman</name></persName>
+    <event type="birth" when="2002">
+      <place>Oudewater</place>
     </event>
-    <event type="death" when="1821">
-      <place></place>
+    <event type="death" when="1870-07-24">
+      <place>Oudewater</place>
     </event>
   </person>
   <biography/>

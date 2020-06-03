@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Maximiliaan Jacob</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Man</name></persName>
-    <event type="birth" when="1788-06-23">
-      <place>Nijmegen</place>
+    <persName><name type="intrapositie">van</name> <name type="geslachtsnaam">Citters</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-12-22">
-      <place>Nijmegen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

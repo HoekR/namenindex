@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Clifford</name></persName>
-    <event type="birth" when="1765-12-09">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Gijsbertus Bernardus</name> <name type="geslachtsnaam">Buysen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-11-02">
-      <place>Amsterdam</place>
+    <event type="death" when="1812">
+      <place></place>
     </event>
   </person>
   <biography/>

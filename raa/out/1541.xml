@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Georg</name> <name type="geslachtsnaam">Roijer</name></persName>
-    <event type="birth" when="1747-04-15">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Meindertsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-09-03">
-      <place>Zwolle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

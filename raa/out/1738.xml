@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Willem Arnold Alting Lamoraal</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Geusau</name></persName>
-    <event type="birth" when="1783-11-02">
-      <place>Bantam (N.I.)</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Erpecum</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-02-17">
-      <place>Vught</place>
+    <event type="death" when="1755-02-19">
+      <place></place>
     </event>
   </person>
   <biography/>

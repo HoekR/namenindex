@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Paulus Godfried</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoorn</name></persName>
-    <event type="birth" when="1777-10-07">
-      <place>Delft</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Assenbroek</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-08-02">
-      <place>Voorschoten</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

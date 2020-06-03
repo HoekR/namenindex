@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Rhijnvis</name> <name type="geslachtsnaam">Feith</name></persName>
-    <event type="birth" when="1753-02-07">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Grenier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-02-08">
-      <place>Zwolle</place>
+    <event type="death" when="1471">
+      <place></place>
     </event>
   </person>
   <biography/>

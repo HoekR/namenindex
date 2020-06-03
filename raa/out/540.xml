@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Leeuwen</name></persName>
-    <event type="birth" when="1795-01-26">
-      <place>Alkmaar</place>
+    <persName><name type="intrapositie">La</name> <name type="geslachtsnaam">B&#233;nardi&#232;re</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-03-12">
-      <place>Alkmaar</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

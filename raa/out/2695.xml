@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hermanus Josephus Adolphius Franciscus</name> <name type="geslachtsnaam">Steffens</name></persName>
-    <event type="birth" when="1789-08-29">
-      <place>Gulik</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Huge</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Willemsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1865-03-23">
-      <place>Horst</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

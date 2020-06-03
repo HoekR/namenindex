@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Abraham</name> <name type="geslachtsnaam">Rombouts</name></persName>
+    <persName><name type="voornaam">Otto Georg</name> <name type="intrapositie">comte (Empire) von</name> <name type="geslachtsnaam">Munchausen tot Oldemeule</name></persName>
+    <persName>Georg Otto von Munchausen tot Oldemeule</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1725-09-03">
+    <event type="death" when="1727-11-09">
       <place></place>
     </event>
   </person>

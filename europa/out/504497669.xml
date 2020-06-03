@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/504497669"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Jack</name> <name type="intrapositie">Shape Suffolk (Engeland) nan</name> <name type="geslachtsnaam">Marshall</name></persName>
+    <event type="birth">
+      <date>05-03-1912</date>
+      <place>Wellington (Nieuw-Zeeland)</place>
+    </event>
+    <event type="death">
+      <date>30-08-1988</date>
+      <place>Shape Suffolk (Engeland)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

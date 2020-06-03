@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Derk Jan Carel Sebastiaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Keppel tot Oolde</name></persName>
-    <event type="birth" when="1772-07-23">
-      <place>Laren (Gld.)</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Alkemade</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-12-16">
-      <place>Laren (Gld.)</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

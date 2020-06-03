@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dierick</name> <name type="geslachtsnaam">Vlaming van Oudtshoorn</name></persName>
-    <event type="birth" when="1574">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Mijer</name></persName>
+    <event type="birth" when="2006">
+      <place>Batavia</place>
     </event>
-    <event type="death" when="1643-08-08">
-      <place></place>
+    <event type="death" when="1881-06-02">
+      <place>Scheveningen</place>
     </event>
   </person>
   <biography/>

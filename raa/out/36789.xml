@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/36789"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Laurent Michiel Francois Guilliaume Marie Oscar</name> <name type="intrapositie">burggraaf de</name> <name type="geslachtsnaam">Marchant d'Ansembourg</name></persName>
+    <event type="birth" when="2012">
+      <place>Amstenrade</place>
+    </event>
+    <event type="death" when="1883-03-17">
+      <place>Gulpen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

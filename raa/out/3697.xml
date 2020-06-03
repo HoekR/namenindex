@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gobel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Versendaal</name></persName>
-    <event type="birth" when="1753">
+    <persName><name type="prepositie">ds.</name> <name type="voornaam">Tjerk</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Boelens</name></persName>
+    <persName>Tarquinius van Boelens</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1848">
+    <event type="death" when="1673-04-29">
       <place></place>
     </event>
   </person>

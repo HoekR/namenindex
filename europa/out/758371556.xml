@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/758371556"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Frankfurt am Main nan</name> <name type="geslachtsnaam">Vocke</name></persName>
+    <event type="birth">
+      <date>09-02-1866</date>
+      <place>Aufhausen</place>
+    </event>
+    <event type="death">
+      <date>19-09-1973</date>
+      <place>Frankfurt am Main</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

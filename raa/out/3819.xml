@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolaes Eeuwitsz.</name> <name type="geslachtsnaam">Vermeulen</name></persName>
-    <persName>Nicolaas Ewoutsz. Vermeulen</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Thomas</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Herbayus</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1672-03-07">
+    <event type="death" when="1613">
       <place></place>
     </event>
   </person>

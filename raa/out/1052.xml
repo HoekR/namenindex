@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arnoldus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Galen</name></persName>
-    <persName>A.J.F. van Galen</persName>
-    <event type="birth" when="1805-09-24">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">Philippus Carolus</name> <name type="geslachtsnaam">Hage</name></persName>
+    <persName>Haagen.</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-11-05">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1804">
+      <place></place>
     </event>
   </person>
   <biography/>

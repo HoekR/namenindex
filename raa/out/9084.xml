@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Petrus</name> <name type="geslachtsnaam">Poppingawier</name></persName>
-    <persName>Petrus Wiardi</persName>
-    <event type="birth" when="1452">
+    <persName><name type="voornaam">Gerhard Joan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Jacobson</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1501">
+    <event type="death" when="1771-10-13">
       <place></place>
     </event>
   </person>

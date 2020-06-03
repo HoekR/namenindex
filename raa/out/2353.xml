@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arie</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Driel</name></persName>
-    <event type="birth" when="1797-01-14">
-      <place>Goudswaard</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">?</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Bonekijn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-08-26">
-      <place>Puttershoek</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

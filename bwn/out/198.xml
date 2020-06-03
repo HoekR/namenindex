@@ -1,0 +1,95 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Bolk, Lodewijk (1866-1930)</title>
+    <author>L. de Rooy</author>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn6/bolk"/>
+    <date when="2005-11-15"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">bolk</idno>
+    <persName><name type="geslachtsnaam">Bolk</name>, Lodewijk</persName>
+    <sex value="1"/>
+    <event type="birth" when="1866"/>
+    <event type="death" when="1930"/>
+    <state type="occupation">medicus</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn6/images/images/BOLK.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class=&amp;quot;genealogie&amp;quot;&gt;
+
+&lt;strong&gt;BOLK, Lodewijk&lt;/strong&gt;, medicus (Overschie 10-12-1866 - Amsterdam 17-6-1930). Zoon van Alexander Bolk, gemeenteontvanger, en Cornelia Blok.
+
+
+&lt;/p&gt;
+
+&lt;img src=&amp;quot;images/BOLK.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Bolk, Lodewijk&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+De vader van Louis Bolk, die naast zijn betrekking als gemeenteontvanger ook werkzaam was bij de Nederlandsche Hervormde Kerk in Overschie, wilde aanvankelijk dat zijn zoon theologie zou gaan studeren. Om die reden ging Louis - na de MULO en enkele jaren HBS - naar het gymnasium in Schiedam. Zelf wilde hij echter liever geneeskunde studeren, maar omdat de rijkssubsidie voor de opleiding tot officier van gezondheid werd opgeheven, moest hij deze wens laten varen. Louis verliet daarom voortijdig het gymnasium en ging in de leer bij een notaris in Waalwijk.
+&lt;br&gt;
+&lt;br&gt;
+In 1888, nadat hij met succes het kandidaat-notarisexamen had afgelegd, werd Bolk financieel in staat gesteld aan de Universiteit van Amsterdam medicijnen te studeren. Het notarisvak zegde hij echter niet helemaal vaarwel. Tijdens zijn studie geneeskunde bracht Bolk namelijk twee jaar lang zijn vrije tijd door bij een notaris in Amsterdam om tot notaris te worden be&#235;digd. Zijn studie leed er kennelijk niet onder, want na het kandidaatsexamen schreef hij, als antwoord op een in 1891 door de medische faculteit uitgeschreven prijsvraag, zijn eerste wetenschappelijke werk 'Bijdrage tot de kennis van de innervatie der huid en der spiergroepen aan het bovenbeen van den mensch', dat later in bewerkte vorm zou worden gepubliceerd in het &lt;i&gt;Morphologisches Jahrbuch&lt;/i&gt; (21 (1894) 241-277). Deze bijdrage - die met een gouden medaille werd bekroond - getuigt van Bolks grote prepareer-technische kwaliteiten, die gedurende zijn gehele verdere carri&#232;re de basis zouden vormen van een groot deel van zijn wetenschappelijk werk.
+&lt;br&gt;
+&lt;br&gt;
+In 1896 legde Bolk het artsexamen af. Daarna ging het heel snel met zijn carri&#232;re, want na slechts een jaar assistent te zijn geweest bij het Anatomisch Laboratorium werd hij al op 1 april 1898 benoemd tot hoogleraar in de anatomie aan de gemeentelijke universiteit. Dit gebeurde overigens niet zonder enig tumult, aangezien de 31-jarige Bolk op dat moment nog niet was gepromoveerd. Hij aanvaardde het ambt met de inaugurele rede: &lt;i&gt;De morphotische eenheden van het menschelijk lichaam&lt;/i&gt; (1898).
+&lt;br&gt;
+&lt;br&gt;
+Bolks gezag en prestige bleken spoedig zo groot, dat hij wist te bereiken wat zijn voorganger en leermeester Georg Ruge jarenlang tevergeefs had bepleit, namelijk de bouw van een nieuw Anatomisch Laboratorium, dat voldeed aan de moderne eisen van onderwijs en onderzoek. Uit vrees dat Bolk de Amsterdamse universiteit zou verruilen voor die van Leiden - waar hij in 1902 al een eredoctoraat had ontvangen - richtte de vereniging van geneeskundestudenten zich in 1903 tot de Amsterdamse gemeenteraad met het dringende verzoek tot nieuwbouw over te gaan; en zo gebeurde het ook. Het nieuwe Anatomisch Laboratorium aan de Mauritskade werd volledig naar Bolks inzichten gebouwd en ingericht, met diverse onderzoeksruimten, een ruime studiezaal, een collegezaal met 160 zitplaatsen en een grote, hoge snijzaal voor anatomische practica. Daarnaast was er een bibliotheek en een grote museumzaal, waarin de beroemde anatomische collectie met haar waardevolle onderzoeks- en onderwijspreparaten kwam te staan. Begin juni 1909 werd het gebouw feestelijk geopend.
+&lt;br&gt;
+&lt;br&gt;
+Het onderzoek van Bolk stond grotendeels in de fylogenetisch-morfologische traditie, een stroming binnen de zo&#246;logie en anatomie die in Duitsland was ontstaan en waarvan E. Haeckel en C. Gegenbaur de grondleggers waren. Met behulp van beschrijvende en verklarende onderzoeksmethoden naar de vorm van organismen en hun onderdelen - zoals de paleontologie, vergelijkende anatomie en vergelijkende embryologie - werd geprobeerd de evolutionistische stamboom van het leven te reconstrueren.
+&lt;br&gt;
+&lt;br&gt;
+Bolk richtte zich binnen de fylogenetische morfologie in hoofdzaak op de vergelijkende anatomie. Sterk be&#239;nvloed door zijn leermeester Ruge was hij zijn wetenschappelijke carri&#232;re begonnen met onderzoek op het gebied van de segmentaal-anatomie. Zowel zijn inzending voor de prijsvraag van 1892 als zijn inaugurele rede uit 1898 had betrekking op dit vakgebied. Bolk richtte zich daarbij in het bijzonder op allerlei kwesties betreffende de bouw van het menselijk lichaam, vooral in relatie tot die van apen. Met zijn onderzoek trachtte hij aan te tonen dat het menselijk lichaam van oorsprong was opgebouwd uit segmentale eenheden. Door differentiatie zou veel van deze oorspronkelijke segmentatie verloren zijn gegaan. Om deze te achterhalen, bestudeerde Bolk de innervatie van de huid en spieren door de verschillende ruggenmergzenuwen of afgeleiden hiervan. Op deze manier dacht hij te bepalen tot welk oorspronkelijk segment die delen hadden behoord en daarmee wat hun vroege embryonale ligging was geweest. De segmentale innervatie van de huid, die hij op die manier ontrafelde, het systeem van dermatomen, is voor de fysiologie en de kliniek van grote waarde geweest.
+&lt;br&gt;
+&lt;br&gt;
+Tussen 1900 en 1907 deed Bolk vooral onderzoek naar de vergelijkende anatomie van de kleine hersenen. Dit onderzoek leidde in 1906 tot &lt;i&gt;Das Cerebellum der S&#228;ugetiere&lt;/i&gt; (1906), met beschrijvingen van de kleine hersenen van praktisch iedere zoogdiergroep. Na het werk over het cerebellum begon Bolk aan een serie publicaties over tandontwikkeling. Hij vergeleek hierbij vooral de tandaanleg van de mens en andere primaten met die van reptielen. Hij ontwikkelde zo de dimeertheorie, die stelde dat de elementen in het zoogdiergebit ontstaan zijn uit twee samengesmolten opeenvolgende rijen reptielentanden. Tot 1917 zou hij aan dit onderwerp werken.
+&lt;br&gt;
+&lt;br&gt;
+In 1913 pleitte Bolk - op dat moment secretaris van het Genootschap ter bevordering van de Natuur-, Genees- en Heelkunde - ervoor jaarlijks een van de vergaderingen van de biologische sectie van het Genootschap volledig aan de anatomie te wijden. Zo geschiedde, en op 17 april 1915 was de eerste Nederlandse Anatomendag een feit. De dag werd gehouden op Bolks eigen Anatomisch Laboratorium, en Bolk was zelf dagvoorzitter. De jaarlijkse anatomendag werd een succes. Vanaf 1925 werden er jaarlijks zelfs twee anatomendagen gehouden.
+&lt;br&gt;
+&lt;br&gt;
+In 1917-1918 was Bolk rector magnificus van de Universiteit van Amsterdam. Zijn rectoraatsrede, &lt;i&gt;Hersenen en cultuur&lt;/i&gt; (1917), vormde het begin van een serie onderzoekingen waarmee hij zich het laatste gedeelte van zijn leven zou bezighouden, namelijk de 'menswording', zoals hij het zelf noemde. In 1921 lanceerde hij in dit kader zijn foetalisatie- of retardatietheorie. De kern van deze theorie kan het beste als volgt worden samengevat: de mens is een geslachtsrijp geworden foetale aap. Gebaseerd op een groot aantal kenmerken - zoals beperkte pigmentatie, positie van het achterhoofdsgat, de lengte van de kaken en de geringe lichaamsbeharing - concludeerde Bolk dat tijdens de evolutie de aapachtige voorouder van de mens een vertraging of zelfs stilstand in zijn ontwikkeling had doorgemaakt, waardoor uiteindelijk de volwassen mens vele voor apen foetale kenmerken heeft behouden. De oorzaak van deze foetalisatie zocht Bolk in de hormonenhuishouding.
+&lt;br&gt;
+&lt;br&gt;
+Intussen had Bolk zich al vanaf 1900 met tussenpozen beziggehouden met antropologische vraagstukken. Deze hadden vooral betrekking op het ontstaan en de samenstelling van de Nederlandse bevolking. Over dit onderwerp gaf hij ook lezingen en cursussen op bijeenkomsten van de in 1898 opgerichte Nederlandsche Anthropologische Vereeniging - waarvan hij lid was - en van het in 1922 opgerichte Nederlandsch Nationaal Bureau voor  Anthropologie. Bolk waarschuwde fysisch-antropologen bij hun onderzoek niet te veel gebruik te maken van historische, taalkundige of culturele gegevens. Het zou volgens hem juist andersom moeten: de historicus diende bij zijn werk de antropologische bevindingen in acht te nemen. Bolk stelde voor om vanuit de Koninklijke Akademie van Wetenschappen - waarvan hij vanaf 1903 lid was - een antropologische commissie op te richten, die een omvangrijk antropologisch onderzoek van de Nederlandse bevolking zou uitvoeren. In 1925 zou deze inderdaad tot stand komen.
+&lt;br&gt;
+&lt;br&gt;
+Bolk wijdde niet alleen publicaties aan de genoemde onderzoeksthema's, maar ook aan tal van andere onderwerpen, uiteenlopend van aangeboren afwijkingen tot tuberculose of een olifantenfoetus. Bolk was een productief auteur, die in totaal ruim 250 publicaties op zijn naam heeft staan. Zijn laatste belangrijke bijdrage werd pas na zijn dood uitgegeven: in 1931 verscheen het eerste deel van het zesdelige &lt;i&gt;Handbuch der vergleichenden Anatomie der Wirbeltiere&lt;/i&gt;, door Bolk uitgegeven samen met drie Duitse wetenschappers: E. G&#246;ppert, E. Kallius en W. Lubosch.
+&lt;br&gt;
+&lt;br&gt;
+De colleges van de docent Bolk werden over het algemeen zeer gewaardeerd vanwege duidelijke opbouw. Zo heet het in de studentenalmanak van 1903: 'Het is een aangename taak van Prof. Bolk een collegeverslag te maken' (277). Maar op de snijzalen kon hij regeren als een despoot. Een beeld van hem als docerend hoogleraar wordt geschetst in de romans van Jet Luber en Simon Vestdijk, die beiden zijn colleges hebben gevolgd. Maar terwijl in Lubers &lt;i&gt;De drie levens van Nina Vesper&lt;/i&gt; (1927) Bolk vooral naar voren komt als een charmante 'baas', is hij in de &lt;i&gt;De vrije vogel en zijn kooien&lt;/i&gt; (1958), het zesde deel van de Anton-Wachtercyclus van Vestdijk, een cynische heerszuchtige 'krachtfiguur'.
+&lt;br&gt;
+&lt;br&gt;
+Bolk leefde voor de wetenschap, hoewel ook het notariaat levenslang zijn actieve belangstelling zou hebben. Zo nam hij, ook toen hij hoogleraar in de anatomie was, in de zomermaanden nu en dan het notariaat van zijn broer in Amersfoort waar. Een uitgebreid sociaal leven had Bolk niet. Hij was nogal gesloten en had maar een klein groepje persoonlijke vrienden om zich heen. 'Hem als mensch nader te komen was (...), behalve voor 'n paar oude getrouwe vrienden, niet makkelijk', schreef zijn leerling en assistent J.A.J. Barge later over hem. Maar temidden van die vrienden was hij, volgens Barge, 'joviaal, vriendschappelijk en gezellig'. Hij had gevoel voor humor, 'plaaglust, met 'n enkel fijn sarcasme gekruid', terwijl hij ook een 'spontane en gracieuze hoffelijkheid' bezat, die hem maakte tot een 'geboren &amp;quot;ami des femmes&amp;quot;'. Toch is Bolk is nooit getrouwd. 'Ik kan mijn aandacht niet verdeelen', zo luidde zijn verklaring.
+&lt;br&gt;
+&lt;br&gt;
+	Vanwege een gezwel moest Bolks rechterbeen in 1918 worden afgezet. De kanker kwam echter terug, en in mei 1930 nam hij ontslag. Met zijn overlijden, een maand later op 64-jarige leeftijd, verdween een wetenschapper met een groot nationaal en internationaal aanzien, die een belangrijk stempel heeft gedrukt op de ontwikkeling van de anatomie aan het begin van de 20ste eeuw in Nederland. Bolks publicaties tonen vooral de gedetailleerdheid en zorgvuldigheid van zijn waarnemingen, waaraan in vele gevallen zijn grote prepareer-technische vaardigheid ten grondslag lag. Daarnaast blijkt hieruit zijn sterke verbeeldingskracht en synthetisch vermogen. Hoewel hij hiermee zijn onderzoeksonderwerpen op een hoger plan bracht, kregen zijn idee&#235;n daardoor soms ook iets speculatiefs.
+
+
+&lt;p&gt;
+&lt;a href=&amp;quot;agedeelte&amp;quot;&gt;A: &lt;/a&gt;Onderzoeksarchief-Bolk in het archief van de Universiteit van Amsterdam.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&amp;quot;pgedeelte&amp;quot;&gt;P: &lt;/a&gt;Chronologische lijst van publicaties in &lt;i&gt;Acta Morphologica Neerlando-Scandinavica&lt;/i&gt; 13 (1975) 91-99. 'Lijst der voornaamste geschriften [van L. Bolk]', in de onder L genoemde publicatie van Barge, 107-112.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&amp;quot;lgedeelte&amp;quot;&gt;L: &lt;/a&gt;A.J.P. van den Broek, in &lt;i&gt;Gegenbaurs morphologisches Jahrbuch&lt;/i&gt; 65 (1931) 497-516; idem, in &lt;i&gt;Nederlandsch Tijdschrift voor Geneeskunde&lt;/i&gt; 74 (1930) II, 3078-3081; J.A.J. Barge, in &lt;i&gt;Jaarboek van de Maatschappij der Nederlandsche Letterkunde te Leiden, 1935-1936&lt;/i&gt; (Leiden 1936) 103-112; &lt;i&gt;Gedenkboek van het Atheneum en de Universiteit van Amsterdam, 1632-1932&lt;/i&gt;. Onder red. van H. Brugmans [e.a.] (Amsterdam 1932) 190, 413-414, 554; C.U. Ari&#235;ns Kappers, in &lt;i&gt;Psychiatrische en Neurologische Bladen&lt;/i&gt; 34 (1930) 393-398; W.A. Mijsberg, in &lt;i&gt;Geneeskundig Tijdschrift voor Nederlandsch-Indi&#235;&lt;/i&gt; 70 (1930), II, 736-738; F.A.F.C. Went, in &lt;i&gt;Verslag van de gewone vergaderingen der afdeeling Natuurkunde [van de] Koninklijke Akademie van Wetenschappen&lt;/i&gt; 39 (1930) 1-7; J. van Limborgh [e.a.], &lt;i&gt;Acta Morphologica Neerlando-Scandinavica&lt;/i&gt; [Speciale uitgave over Bolk] 13 (1975) 2-90; B. Baljet, 'Louis Bolk (1866-1930). Een anatoom in hart en nieren', in &lt;i&gt;Een brandpunt van geleerdheid in de hoofdstad. De Universiteit van Amsterdam rond 1900 in vijftien portretten&lt;/i&gt;. Onder red. van J.H.C. Blom [e.a.] (Hilversum 1992) 141-158.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;Foto in bezit van de afdeling Anatomie en Embryologie van het Academisch Medisch Centrum te Amsterdam [Foto: Merckelbach. Bolk omstreeks 1918].
+&lt;/p&gt;
+
+
+&lt;p&gt;Laurens de Rooy&lt;/p&gt;
+ 
+&lt;dtml-var bwn_footer&gt;
+</text>
+  </biography>
+</biodes>
+

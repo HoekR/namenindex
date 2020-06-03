@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">C.S.F.</name> <name type="geslachtsnaam">Klein</name></persName>
+    <persName><name type="voornaam">Meynard</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mossel</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1712-07-27">
       <place></place>
     </event>
   </person>

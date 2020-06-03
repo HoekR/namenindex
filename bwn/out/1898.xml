@@ -1,0 +1,64 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Veth, Gerda (1894-1966)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/veth"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">veth_1</idno>
+    <persName><name type="geslachtsnaam">Veth</name>, Gerda</persName>
+    <sex value="2"/>
+    <event type="birth" when="1894"/>
+    <event type="death" when="1966"/>
+    <state type="occupation">juriste</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Veth, Gerda&lt;/strong&gt; (bijnaam &lt;b&gt;Polle&lt;/b&gt;) advocate en procureur (Bussum 10-2-1894 - Haarlem 31-12-1966).
+
+Derde dochter van Jan Pieter Veth, portretschilder en kunsthistoricus,
+en Anna Dorothea Dirks. Ze was ongehuwd.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Gerda bezocht de meisjesschool te Bussum, afgewisseld met herhaald,
+door haar lichamelijke handicap ge&amp;iuml;ndiceerd, verblijf in
+Duitsland, behaalde haar staatsexamen gymnasium in 1913 en studeerde
+daarna rechten aan de Universiteit van Amsterdam, alwaar zij in 1921
+promoveerde bij Paul Scholten op de dissertatie 
+&lt;em&gt;Simulatie in het privaatrecht.&lt;/em&gt;
+
+Vervolgens werd zij advocate en procureur te Amsterdam, waar zij tot
+haar 65ste levensjaar, en sedert 1931 zelfstandig, de praktijk
+uitoefende. Behalve door grote scherpzinnigheid en vasthoudendheid,
+onderscheidde zij zich door buitengewone inzet voor haar cli&amp;euml;nten
+en kring van vrienden en verwanten alsmede vermogen zich in hun
+situatie te verplaatsen. Deze eigenschappen konden haar dikwijls fel en
+soms scherp doen zijn, maar in combinatie met haar warme menselijkheid
+maakten zij haar tot een geliefd raadsvrouwe, in het bijzonder ook voor
+joodse Nederlanders gedurende de Tweede Wereldoorlog. Zij vervulde vele
+functies op maatschappelijk gebied, zowel binnen de balie waar zij het
+eerste vrouwelijk lid van de Raad voor Toezicht en Discipline was, als
+daarbuiten op het terrein van de kinderbescherming, de reclassering, de
+gezondheidszorg en de opleiding voor het maatschappelijk werk. Zij was
+voorzitster van de zuiveringscommissie van de Amsterdamse GG &amp;amp; GD
+na de bevrijding.&lt;/p&gt;
+&lt;p&gt;Bij de kinderen van al haar kennissen was zij zeer geliefd. Nadat
+zij haar praktijk reeds had neergelegd deed zij in 1961 belijdenis en
+werd lidmaat van de Nederlandse Hervormde Kerk. Afhankelijkheid en
+teruggang tekenden haar moeilijke laatste levensjaren.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;'In memoriam Mr. Gerda Veth', in 
+&lt;em&gt;Advocatenblad&lt;/em&gt;
+
+47 (1967) 2 (15 februari) 127-129.&lt;/p&gt;
+&lt;p&gt;A.M.M. Orie&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

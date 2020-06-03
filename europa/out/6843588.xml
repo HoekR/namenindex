@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/6843588"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ren&#233;</name> <name type="intrapositie">Breda nan</name> <name type="geslachtsnaam">Wijers</name></persName>
+    <event type="birth">
+      <date>27-01-1891</date>
+      <place>Roermond</place>
+    </event>
+    <event type="death">
+      <date>25-11-1973</date>
+      <place>Breda</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

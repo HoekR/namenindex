@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/795328933"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Fernand</name> <name type="intrapositie">Brussel nan</name> <name type="geslachtsnaam">Herman</name></persName>
+    <event type="birth">
+      <date>23-01-1932</date>
+      <place>Boirs</place>
+    </event>
+    <event type="death">
+      <date>04-04-2005</date>
+      <place>Brussel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Carel Clemens</name> <name type="geslachtsnaam">Sassen</name></persName>
-    <event type="birth" when="1817-01-26">
-      <place>s-Hertogenbosch</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Roelofsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-12-29">
-      <place>Evere (Brussel)</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Louis</name> <name type="geslachtsnaam">Rataller</name></persName>
-    <persName>Loys Rataller</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Claudius Pieter</name> <name type="geslachtsnaam">Gevers</name></persName>
+    <event type="birth" when="2001">
+      <place>Rotterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1836-02-18">
+      <place>Leiden</place>
     </event>
   </person>
   <biography/>

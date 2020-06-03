@@ -8,14 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Meynart</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heussen</name></persName>
-    <persName>Meynart van Hensz.</persName>
-    <persName>Meynart van Huissen</persName>
-    <persName>Meynart van Huessen</persName>
+    <persName><name type="voornaam">Jean Gijsberto</name> <name type="intrapositie">baron (Empire) de</name> <name type="geslachtsnaam">Mey van Streefkerk</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1841">
       <place></place>
     </event>
   </person>

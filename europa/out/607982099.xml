@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/607982099"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dipl. Ing.</name> <name type="voornaam">nan</name> <name type="intrapositie">Hannover nan</name> <name type="geslachtsnaam">Kuhlemann</name></persName>
+    <event type="birth">
+      <date>04-02-1891</date>
+      <place>Misburg</place>
+    </event>
+    <event type="death">
+      <date>03-09-1964</date>
+      <place>Hannover</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Floris Hendrik Carel</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Nassau la Lecq</name></persName>
-    <event type="birth" when="1782-09-15">
-      <place>Leerdam</place>
+    <persName><name type="voornaam">Dirck Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Cluyt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-03-29">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

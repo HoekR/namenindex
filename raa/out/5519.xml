@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="geslachtsnaam">Muller</name>
-    </persName>
+    <persName><name type="voornaam">Fredrick</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Spanheim</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1715-01-12">
       <place></place>
     </event>
   </person>

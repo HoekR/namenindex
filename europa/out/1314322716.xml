@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1314322716"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Saint-Charmond nan</name> <name type="geslachtsnaam">Pinay</name></persName>
+    <event type="birth">
+      <date>30-12-1891</date>
+      <place>Saint-Symphorien-sur-Coise</place>
+    </event>
+    <event type="death">
+      <date>13-12-1994</date>
+      <place>Saint-Charmond</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

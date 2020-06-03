@@ -8,9 +8,8 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Tiete</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hania</name></persName>
-    <persName>Titus van Hania</persName>
-    <event type="birth" when="1605">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Floris</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gerritsz.</name></persName>
+    <event type="birth">
       <place></place>
     </event>
     <event type="death">

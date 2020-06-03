@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/31251"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Jacob Everhard Christiaan Maria Albrecht</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1780-04-07">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albert</name> <name type="geslachtsnaam">Waalkens</name></persName>
-    <event type="birth" when="1817-05-20">
-      <place>Bellingwolde</place>
+    <persName><name type="voornaam">Walich</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Proost</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1895-09-07">
-      <place>Groningen</place>
+    <event type="death" when="1709-05-07">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Balthasar Marie Ghislain</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Borluut d'Hoogstraete</name></persName>
-    <event type="birth" when="1802-01-12">
-      <place>Gent</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Klaasz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-05-03">
-      <place>Gent</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

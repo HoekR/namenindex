@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Zacharie Vincent Joseph</name> <name type="intrapositie">burggraaf</name> <name type="geslachtsnaam">Obert de Qu&#233;vy</name></persName>
-    <event type="birth" when="1746-11-24">
-      <place>Bergen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Kilian</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">K&#246;nig</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-09-09">
-      <place>Thoricourt</place>
+    <event type="death" when="1526-01-26">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Isselmuden tot Paaslo</name></persName>
-    <event type="birth" when="1719">
+    <persName><name type="voornaam">Gerard Adriaensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Cool</name></persName>
+    <persName>Gerard Adriaensz. Koel</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1774-11-24">
+    <event type="death" when="1641">
       <place></place>
     </event>
   </person>

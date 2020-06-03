@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/72"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.ir.</name> <name type="voornaam">nan</name> <name type="intrapositie">Mechelen (B) nan</name> <name type="geslachtsnaam">Vondeling</name></persName>
+    <event type="birth">
+      <date>02-03-1916</date>
+      <place>Appelscha</place>
+    </event>
+    <event type="death">
+      <date>22-11-1979</date>
+      <place>Mechelen (B)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

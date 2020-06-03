@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Victorin Jean Fran&#231;ois Augustin</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Steenhault</name></persName>
-    <event type="birth" when="1791-10-21">
-      <place>Vollezeele</place>
+    <persName><name type="voornaam">Thomas Hendriksz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Lidt de Jeude</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-04-24">
-      <place>Arlon</place>
+    <event type="death" when="1811">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1771145523"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs. baron</name> <name type="voornaam">nan</name> <name type="intrapositie">Beesterzwaag van</name> <name type="geslachtsnaam">Knobelsdorff</name></persName>
+    <event type="birth">
+      <date>15-07-1916</date>
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death">
+      <date>18-04-1975</date>
+      <place>Beesterzwaag</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

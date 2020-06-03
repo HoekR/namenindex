@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Nierstrasz</name></persName>
-    <event type="birth" when="1773-01-26">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Mathijs</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Maartensz.</name></persName>
+    <event type="birth" when="1436">
+      <place></place>
     </event>
-    <event type="death" when="1855-02-19">
-      <place>Maastricht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

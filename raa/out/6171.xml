@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Pieter Rembt</name> <name type="geslachtsnaam">Sickinghe</name></persName>
-    <event type="birth" when="1743-09-21">
-      <place>Nieuweschans</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Herbaren</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">IJsselstein</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1821-06-19">
-      <place>Groningen</place>
+    <event type="death" when="1429">
+      <place></place>
     </event>
   </person>
   <biography/>

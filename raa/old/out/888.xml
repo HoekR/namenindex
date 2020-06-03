@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/888"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Donatus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Groenendijk</name></persName>
+    <event type="birth" when="1623"/>
+    <event type="death" when="1698"/>
+  </person>
+  <biography/>
+</biodes>

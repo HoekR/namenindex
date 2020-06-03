@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerbrand</name> <name type="geslachtsnaam">Elias</name></persName>
-    <event type="birth" when="1699">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf van den</name> <name type="geslachtsnaam">Steen (Steyn)</name></persName>
+    <persName>Jan van den Steen, Lem Scheve Nevenz.</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1757">
+    <event type="death">
       <place></place>
     </event>
   </person>

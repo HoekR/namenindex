@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-12017467"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Rome nan</name> <name type="geslachtsnaam">Ferrari Aggradi</name></persName>
+    <event type="birth">
+      <date>13-03-1916</date>
+      <place>La Maddelena</place>
+    </event>
+    <event type="death">
+      <date>24-12-1997</date>
+      <place>Rome</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

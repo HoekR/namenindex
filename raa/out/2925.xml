@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Roelof Wolter Herman</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Broeckhuysen</name></persName>
-    <event type="birth" when="1774-05-20">
-      <place>Epe</place>
+    <persName><name type="voornaam">Frans</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Kerchem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1833-11-20">
-      <place>Harderwijk</place>
+    <event type="death" when="1734">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirck</name> <name type="geslachtsnaam">Thijssen</name></persName>
+    <persName><name type="voornaam">Adolf Warner</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Pallandt tot Zuthem</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1803-02-23">
       <place></place>
     </event>
   </person>

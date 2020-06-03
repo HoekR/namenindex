@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hermannus</name> <name type="geslachtsnaam">Kijff</name></persName>
-    <event type="birth" when="1749">
+    <persName><name type="voornaam">Hilbrand Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Vossen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1817">
+    <event type="death" when="1789-02-13">
       <place></place>
     </event>
   </person>

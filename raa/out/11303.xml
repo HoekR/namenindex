@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wijbrandt Jansz.</name> <name type="geslachtsnaam">Schram</name></persName>
-    <event type="birth" when="1583">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Lodewijk Steven</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Gavanon</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1626">
+    <event type="death">
       <place></place>
     </event>
   </person>

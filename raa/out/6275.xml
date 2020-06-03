@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Isselmuden tot Zwollingerkamp</name></persName>
-    <persName>Hendrik van Isselmuden tot Hogenhuys</persName>
-    <event type="birth" when="1682">
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Geelen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1751-05-27">
+    <event type="death">
       <place></place>
     </event>
   </person>

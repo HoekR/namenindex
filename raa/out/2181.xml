@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirk</name> <name type="geslachtsnaam">Vis</name></persName>
-    <event type="birth" when="1804-12-07">
-      <place>Zaandijk</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Dierck</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Thiessen</name></persName>
+    <persName>Dierck Thijssens</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1884-05-13">
-      <place>Beverwijk</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/27444"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">duc (Empire) Merkus</name> <name type="geslachtsnaam">Kock</name></persName>
+    <event type="birth" when="2005">
+      <place>Heusden</place>
+    </event>
+    <event type="death" when="1845-12-04">
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

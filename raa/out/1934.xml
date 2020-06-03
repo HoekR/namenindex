@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wilhelm Johann Jacob</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Franckenberg en Proschlitz</name></persName>
-    <event type="birth" when="1779-04-24">
-      <place>Veere</place>
+    <persName><name type="voornaam">Adriaen</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boon</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-11-19">
-      <place>Sas van Gent</place>
+    <event type="death" when="1667-03-06">
+      <place></place>
     </event>
   </person>
   <biography/>

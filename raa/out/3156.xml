@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbertus Hendrikus Wilhelmus Laurentius</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Dorth tot Medler</name></persName>
-    <event type="birth" when="1811-08-10">
-      <place>Vorden</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Cyprianus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Oosterzee</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-09-06">
-      <place>Arnhem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

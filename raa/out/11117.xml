@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Rutger</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Haersolte tot Haerst</name></persName>
-    <event type="birth" when="1607">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Maurits Carel Georgh Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Ripperda</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1674-12-21">
+    <event type="death" when="1751-03-14">
       <place></place>
     </event>
   </person>

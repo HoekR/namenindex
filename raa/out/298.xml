@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbert Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Voorst</name></persName>
-    <event type="birth" when="1762-07-19">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Reinier Cornelisz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
+    <event type="birth" when="1475">
+      <place></place>
     </event>
-    <event type="death" when="1824-12-15">
-      <place>Delft</place>
+    <event type="death" when="1514">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Cornelis Jacob</name> <name type="geslachtsnaam">Speelman</name></persName>
-    <event type="birth" when="1817-12-17">
-      <place>Heerenveen</place>
+    <persName><name type="voornaam">Daniel</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hooft</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1891-03-07">
-      <place>Leeuwarden</place>
+    <event type="death" when="1743-07-11">
+      <place></place>
     </event>
   </person>
   <biography/>

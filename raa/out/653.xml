@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Baptista Josephus</name> <name type="geslachtsnaam">Hengst</name></persName>
-    <event type="birth" when="1817-06-23">
-      <place>Boxmeer</place>
+    <persName><name type="voornaam">Pelgrim</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Loon</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1892-03-23">
-      <place>Boxmeer</place>
+    <event type="death" when="1587">
+      <place></place>
     </event>
   </person>
   <biography/>

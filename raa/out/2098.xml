@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hieronymus</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Slingelandt</name></persName>
-    <event type="birth" when="1762-02-15">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Hanso</name> <name type="intrapositie">Lemstra van</name> <name type="geslachtsnaam">Buma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-08-31">
-      <place>Amsterdam</place>
+    <event type="death" when="1847">
+      <place></place>
     </event>
   </person>
   <biography/>

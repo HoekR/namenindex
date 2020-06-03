@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerard</name> <name type="intrapositie">Munnicks van</name> <name type="geslachtsnaam">Cleeff</name></persName>
+    <persName><name type="voornaam">Herman Willem</name> <name type="geslachtsnaam">Daendels</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1860-05-04">
-      <place>Utrecht</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

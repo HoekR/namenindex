@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Adriaen Prosper</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Brakell</name></persName>
-    <persName>Van Brakell van Wadenoyen en Doorwerth</persName>
-    <event type="birth" when="1808-02-03">
-      <place>Geldermalsen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jochum</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Wijckel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-06-27">
-      <place>Doorwerth</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

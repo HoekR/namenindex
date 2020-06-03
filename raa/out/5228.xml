@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Anthony Adolf</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Haersolte tot Haerst</name></persName>
-    <event type="birth" when="1671">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Peregrijnsz.</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1722-10-06">
+    <event type="death">
       <place></place>
     </event>
   </person>

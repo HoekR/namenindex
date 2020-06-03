@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">George</name> <name type="geslachtsnaam">Doublet</name></persName>
-    <persName>George Rataller</persName>
-    <persName>George Rathaller</persName>
-    <event type="birth" when="1600">
+    <persName><name type="voornaam">Hubertus Martinus</name> <name type="geslachtsnaam">Scrinerius</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1655-04-30">
+    <event type="death" when="1808">
       <place></place>
     </event>
   </person>

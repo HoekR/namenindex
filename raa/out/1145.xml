@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Pieter Adam</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Holthe</name></persName>
-    <event type="birth" when="1783-02-23">
-      <place>Rhebrugge</place>
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Pieter Philip Juriaan</name> <name type="intrapositie">Quint</name> <name type="geslachtsnaam">Ondaatje</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-07-27">
-      <place>Demerary</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

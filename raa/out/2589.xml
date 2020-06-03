@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Bonifacius</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Haer</name></persName>
-    <event type="birth" when="1812-06-07">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Kempenaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-12-24">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1809">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/28195"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Klaas Arjens</name> <name type="geslachtsnaam">Wassenaar</name></persName>
+    <event type="birth" when="2007">
+      <place>St. Jacobi Parochie</place>
+    </event>
+    <event type="death" when="1833-10-30">
+      <place>St. Jacobi Parochie</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

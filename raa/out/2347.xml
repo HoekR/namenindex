@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Kornelis</name> <name type="geslachtsnaam">Boogaard</name></persName>
+    <persName><name type="voornaam">Stephanus Bernardus</name> <name type="geslachtsnaam">Jantzon</name></persName>
+    <persName>Jantzon van Nieuwland</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1828">
       <place></place>
     </event>
   </person>

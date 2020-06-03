@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reygersberge</name></persName>
-    <event type="birth" when="1630">
+    <persName><name type="voornaam">Caspar Jacob</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Citters</name></persName>
+    <persName>Gasper Jacob van Citters</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1801">
       <place></place>
     </event>
   </person>

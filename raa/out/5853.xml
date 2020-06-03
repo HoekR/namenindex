@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sonsbeeck</name></persName>
-    <event type="birth" when="1681">
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Willem Hermansz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Blommesteijn</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1737-11-01">
+    <event type="death" when="1789">
       <place></place>
     </event>
   </person>

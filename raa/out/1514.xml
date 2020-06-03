@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">ter</name> <name type="geslachtsnaam">Kuile</name></persName>
-    <event type="birth" when="1779-03-31">
-      <place>Enschede</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joost</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lalaing</name></persName>
+    <event type="birth" when="1437">
+      <place></place>
     </event>
-    <event type="death" when="1853-03-11">
-      <place>Enschede</place>
+    <event type="death" when="1483">
+      <place></place>
     </event>
   </person>
   <biography/>

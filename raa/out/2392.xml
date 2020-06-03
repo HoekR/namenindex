@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Barthold Ludolf</name> <name type="geslachtsnaam">Wentholt</name></persName>
-    <event type="birth" when="1818-11-28">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Claes Sijmen</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Heijckes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1902-02-16">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1625">
+      <place></place>
     </event>
   </person>
   <biography/>

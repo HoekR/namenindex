@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.H. senior</name> <name type="geslachtsnaam">Frescarode</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Cornelissen</name></persName>
+    <event type="birth" when="2009">
+      <place>Steenwijk</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1875-01-14">
+      <place>Meppel</place>
     </event>
   </person>
   <biography/>

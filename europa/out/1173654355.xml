@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1173654355"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Leidschendam nan</name> <name type="geslachtsnaam">Scholten</name></persName>
+    <event type="birth">
+      <date>01-06-1927</date>
+      <place>Deventer</place>
+    </event>
+    <event type="death">
+      <date>01-01-2005</date>
+      <place>Leidschendam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

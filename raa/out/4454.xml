@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Louris Jacobsz.</name> <name type="geslachtsnaam">Berckhout</name></persName>
+    <persName><name type="voornaam">Cornelis Cornelisz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sevenhuysen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1681">
       <place></place>
     </event>
   </person>

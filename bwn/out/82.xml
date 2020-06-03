@@ -1,0 +1,84 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Bax, Johannes Stephanus (1902-1967)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/bax"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">bax</idno>
+    <persName><name type="geslachtsnaam">Bax</name>, Johannes Stephanus</persName>
+    <sex value="1"/>
+    <event type="birth" when="1902"/>
+    <event type="death" when="1967"/>
+    <state type="occupation">marineofficier</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Bax, Johannes Stephanus&lt;/strong&gt;, marineofficier (Utrecht 14-3-1902 - Amsterdam 3-4-1967).
+
+Zoon van Hendrik Jacobus Leonardus Cornelis Bax, officier der
+artillerie bij de landmacht, en Maria Adriana Hordijk. Gehuwd op
+24-11-1928 met Maria Johanna Doedens. Uit dit huwelijk werden 3 zoons
+en 2 dochters, geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Bax werd toegelaten tot de opleiding aan het Koninklijk instituut
+voor de marine te Willemsoord en per 16 augustus 1924 benoemd als
+marineofficier. Hij specialiseerde zich op het gebied van de
+artillerie, fungeerde in het begin van de jaren dertig als officier van
+artillerie op diverse torpedobootjagers van de Admiralenklasse en in
+1934 en 1935 als artillerieofficier bij de staf van het Nederlands
+eskader in Oost-Indi&amp;euml;. In dat eskader commandeerde hij, inmiddels
+per 29 januari 1935 bevorderd tot luitenant ter zee 1e klasse,
+achtereenvolgens Hr.Ms. torpedobootjagers Van Nes, Piet Hein, Van Ghent
+en Evertsen. Daarna volgde in december 1941 zijn plaatsing bij de Staf
+van de Commandant der Marine te Soerabaja. Op 3 maart 1942 ontsnapte
+Bax vandaar met zijn gezin per vliegboot naar Broome (Australi&amp;euml;)
+en overleefde met vrouw en zoon de 'Broome-ramp', waarbij een
+aantal Nederlandse vliegboten en vele hunner inzittenden ten offer
+vielen aan een Japanse luchtaanval. Van 11 januari 1943 tot 2 mei 1944
+trad hij op als commandant van Hr.Ms. kanonneerboot Flores. Tijdens die
+periode werd vuursteun gegeven bij de invasie van Sicili&amp;euml; en
+diverse operaties in Zuid- en Midden-Itali&amp;euml;. Daarbij kregen de
+Flores en haar zusterschip Soemba de bijnaam 'the terrible
+twins'. Op 1 februari 1945 bevorderd tot kapitein-luitenant ter
+zee, fungeerde hij van 1 juni 1945 tot 1 augustus 1947 als 'Dutch
+Naval Liaison Officer' bij de Britse Admiraliteit te Bath (Gr.
+Br.). Op 1 september 1948 volgde zijn benoeming tot kapitein ter zee.
+Zijn laatste functie bij de Koninklijke marine was die van commandant
+Maritieme Middelen te Amsterdam (31 oktober 1950 - 15 januari 1953). Na
+zijn pensionering op 1 maart 1953 bekleedde Bax tot 1965 de functie van
+hoofd van de afdeling personeelszaken bij de Koninklijke Maatschappij
+voor Havenwerken N.V. te Amsterdam.&lt;/p&gt;
+&lt;p&gt;Bax was een zeer bekwaam artillerist. Het succes van de
+'terrible twins' is in niet geringe mate te danken aan zijn
+leiding en die van zijn collega J.J.M. Sterkenburg van de Soemba. In de
+omgang met anderen kenmerkte hij zich door distinctie en
+bescheidenheid. Daarnaast vielen bij hem op gevoeligheid en een sterke
+affectieve verbondenheid met de Koninklijke marine en het Nederlandse
+zeewezen in het algemeen. Nog gedurende de laatste periode van zijn
+leven kwam dit gevoel van solidariteit tot uiting bij een alleen door
+hem gevoerde ledenwerfactie ten behoeve van de Vereeniging Nederlandsch
+Historisch Scheepvaart Museum.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;
+  &lt;em&gt;Batterij gereed... Vuur...!&lt;/em&gt;
+
+(Rotterdam, 1948).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;v.W. [= C.J.W. van Waning], 'Kapitein ter Zee J.S.
+Bax', in 
+&lt;em&gt;Ons Zeewezen&lt;/em&gt;
+
+56 (1967) 5 (mei) 29-31.&lt;/p&gt;
+&lt;p&gt;Ph.M. Bosscher&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

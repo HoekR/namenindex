@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan George</name> <name type="geslachtsnaam">Gleichman</name></persName>
-    <event type="birth" when="1834-07-19">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Tiaerd</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1906-04-30">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1593">
+      <place></place>
     </event>
   </person>
   <biography/>

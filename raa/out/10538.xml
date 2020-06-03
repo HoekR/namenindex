@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.A.</name> <name type="geslachtsnaam">Hemminga</name></persName>
+    <persName><name type="voornaam">Dirk Arnold Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Tets</name></persName>
+    <persName>Van Tets van Goudriaan</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1853">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/282605807"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Henk</name> <name type="intrapositie">Delft nan</name> <name type="geslachtsnaam">Zeevalking</name></persName>
+    <event type="birth">
+      <date>07-06-1922</date>
+      <place>Laag-Keppel</place>
+    </event>
+    <event type="death">
+      <date>23-02-2005</date>
+      <place>Delft</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

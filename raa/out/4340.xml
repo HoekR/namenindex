@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joan</name> <name type="geslachtsnaam">Huydecoper</name></persName>
-    <event type="birth" when="1599">
+    <persName><name type="voornaam">Meynard</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vianen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1661-10-26">
+    <event type="death" when="1685">
       <place></place>
     </event>
   </person>

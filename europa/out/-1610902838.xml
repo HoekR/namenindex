@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1610902838"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Strassbourg nan</name> <name type="geslachtsnaam">Pflimlin</name></persName>
+    <event type="birth">
+      <date>05-02-1907</date>
+      <place>Roubaix</place>
+    </event>
+    <event type="death">
+      <date>27-06-2000</date>
+      <place>Strassbourg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arnold Albert Willem</name> <name type="intrapositie">van Wulfften</name> <name type="geslachtsnaam">Palthe</name></persName>
-    <event type="birth" when="1816-08-19">
-      <place>Oldenzaal</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Lodewijk</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Rengers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1900-10-04">
-      <place>Almelo</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

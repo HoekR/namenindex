@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Servaas</name> <name type="geslachtsnaam">Lotsy</name></persName>
-    <event type="birth" when="1808-05-31">
-      <place>Dordrecht</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Reffyn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-04-04">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Hendrik</name> <name type="geslachtsnaam">Bentinck tot Wittenstein</name></persName>
-    <event type="birth" when="1705">
+    <persName><name type="voornaam">Michiel Adriaan</name> <name type="intrapositie">van er</name> <name type="geslachtsnaam">Wal</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1754-04-19">
+    <event type="death">
       <place></place>
     </event>
   </person>

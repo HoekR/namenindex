@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1119113463"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Baron</name> <name type="voornaam">Tom</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Williams</name></persName>
+    <event type="birth">
+      <date>18-03-1888</date>
+      <place>Blackwell (Derbyshire)</place>
+    </event>
+    <event type="death">
+      <date>29-03-1967</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

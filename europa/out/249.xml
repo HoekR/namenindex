@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/249"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frans-Joseph</name> <name type="intrapositie">Helmond van</name> <name type="geslachtsnaam">Thiel</name></persName>
+    <event type="birth">
+      <date>19-12-1906</date>
+      <place>Helmond</place>
+    </event>
+    <event type="death">
+      <date>02-06-1993</date>
+      <place>Helmond</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,8 +8,9 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">R.J.</name> <name type="geslachtsnaam">Brousson</name></persName>
-    <event type="birth">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Alewijn</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Klaasz.</name></persName>
+    <persName>Jan Stoop</persName>
+    <event type="birth" when="1476">
       <place></place>
     </event>
     <event type="death">

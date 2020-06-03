@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/958867595"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Gent nan</name> <name type="geslachtsnaam">Heyman</name></persName>
+    <event type="birth">
+      <date>22-05-1879</date>
+      <place>Sint-Niklaas</place>
+    </event>
+    <event type="death">
+      <date>04-04-1958</date>
+      <place>Gent</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1704974328"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Houston nan</name> <name type="geslachtsnaam">Conally jr.</name></persName>
+    <event type="birth">
+      <date>27-02-1917</date>
+      <place>Floresville, Texas</place>
+    </event>
+    <event type="death">
+      <date>15-06-1993</date>
+      <place>Houston</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

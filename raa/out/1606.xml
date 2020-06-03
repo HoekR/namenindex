@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Thiman Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Marle</name></persName>
-    <event type="birth" when="1798-11-26">
-      <place>Deventer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk Sijbrandsz.</name> <name type="geslachtsnaam">Poes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1862-10-19">
-      <place>Deventer</place>
+    <event type="death" when="1471">
+      <place></place>
     </event>
   </person>
   <biography/>

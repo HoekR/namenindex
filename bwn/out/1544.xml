@@ -1,0 +1,82 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Roldanus, Cornelia Wilhelmine (1889-1972)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/roldanus"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">roldanus</idno>
+    <persName><name type="geslachtsnaam">Roldanus</name>, Cornelia Wilhelmine</persName>
+    <sex value="2"/>
+    <event type="birth" when="1889"/>
+    <event type="death" when="1972"/>
+    <state type="occupation">historica</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Roldanus, Cornelia Wilhelmine&lt;/strong&gt;, historica ('s-Gravenhage 16-6-1889 - Haren in Groningen 7-3-1972).
+
+Dochter van Willem Nicolaas Roldanus, generaal-majoor intendant, en
+Jenny Friederike Caroline Peters. Zij was ongehuwd.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Cornelia W. Roldanus bezocht de lagere school en het gymnasium te
+Amsterdam, liet zich in 1908 inschrijven als studente in de letteren
+aan de Universiteit van Amsterdam, doch zette reeds in het volgende
+jaar haar studie voort te Leiden. Aanvankelijk ging haar belangstelling
+uit in lingu&amp;iuml;stische richting; in 1914 legde zij het kandidaats-,
+in 1918 het doctoraal examen af in de Nederlandse Letteren. Van 1919
+tot 1920 was zij werkzaam als lerares geschiedenis en aardrijkskunde
+aan het gymnasium te Winschoten, van 1920 tot 1928 als lerares
+Nederlands en geschiedenis aan het gymnasium te Assen. In haar Asser
+jaren leerde zij in de kringen van het vrijzinnig protestantisme de
+Groninger hoogleraar J. Lindeboom kennen, die haar attendeerde op het
+onderwerp van haar proefschrift. Na drie ambteloze jaren promoveerde
+zij in 1931 bij H. Brugmans te Amsterdam op 
+&lt;em&gt;Coenraad van Beuningen, staatsman en libertijn&lt;/em&gt;
+
+('s-Gravenhage, 1931). Nog in hetzelfde jaar nam zij de leiding op
+zich van Lindebooms door de ziekte van zijn vrouw zwaar getroffen
+gezin. Zij was Lindebooms huisgenote tot diens dood in 1958 en bleef
+ook daarna zijn huis bewonen, totdat ziekte verblijf elders
+noodzakelijk maakte.&lt;/p&gt;
+&lt;p&gt;Na haar promotie bleef de belangstelling van Cornelia Roldanus
+uitgaan naar de cultuur- en geestesgeschiedenis van de zeventiende
+eeuw, met evenals Lindeboom een speciale voorliefde voor de
+'stiefkinderen van het christendom'. Een grote lezerskring
+verwierf zij met haar 
+&lt;em&gt;Zeventiende-eeuwsche geestesbloei&lt;/em&gt;
+
+(Amsterdam, 1938; 2e herz. dr. Utrecht [enz.], 1961). Vele belangrijke
+artikelen en boekbesprekingen van haar hand verschenen in 
+&lt;em&gt;Tijdschrift voor Geschiedenis, De Gids&lt;/em&gt;
+
+en 
+&lt;em&gt;Nederlands Archief voor Kerkgeschiedenis.&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve de bovengenoemde werken: 
+&lt;em&gt;Hugo de Groots Bewijs van den waren godsdienst&lt;/em&gt;
+
+(Arnhem, 1944); 'Johannes Lindeboom', in 
+&lt;em&gt;Jaarboek van de Maatschappij der Nederlandse Letterkunde te Leiden
+1957-1958. Levensberichten&lt;/em&gt;
+
+59-69.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;P.J. van Winter, in 
+&lt;em&gt;Bijdragen en Mededelingen betreffende de geschiedenis der
+Nederlanden&lt;/em&gt;
+
+87 (1972) 250-251.&lt;/p&gt;
+&lt;p&gt;S.B.J. Zilverberg&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

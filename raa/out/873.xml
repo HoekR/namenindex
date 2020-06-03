@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Fran&#231;ois Joseph Marie Th&#233;r&#232;se</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">P&#233;lichy</name></persName>
-    <persName>P&#233;lichy de Lichtervelde</persName>
-    <event type="birth" when="1772-06-22">
-      <place>Brugge</place>
+    <persName><name type="voornaam">Gerard</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Bicker van Swieten</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-11-24">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1753">
+      <place></place>
     </event>
   </person>
   <biography/>

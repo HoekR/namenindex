@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1174149409"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof. drs.</name> <name type="voornaam">nan</name> <name type="intrapositie">Amsterdam ter</name> <name type="geslachtsnaam">Heide</name></persName>
+    <event type="birth">
+      <date>10-03-1928</date>
+      <place>Almelo</place>
+    </event>
+    <event type="death">
+      <date>14-04-1985</date>
+      <place>Amsterdam</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

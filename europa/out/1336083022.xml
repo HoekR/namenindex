@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1336083022"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Scheveningen nan</name> <name type="geslachtsnaam">Cohen Stuart</name></persName>
+    <event type="birth">
+      <date>17-08-1880</date>
+      <place>Semarang</place>
+    </event>
+    <event type="death">
+      <date>02-09-1955</date>
+      <place>Scheveningen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

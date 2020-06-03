@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Antoine</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Bran&#231;ion</name></persName>
-    <persName>Antoine de Branchion</persName>
+    <persName><name type="voornaam">Bruijn Adriaensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Nieuland</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1543">
+    <event type="death" when="1626">
       <place></place>
     </event>
   </person>

@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adolph Warner</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Pallandt</name></persName>
-    <persName>Van Pallandt van Eerde</persName>
-    <event type="birth" when="1781-06-10">
-      <place>Eerde</place>
+    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Reepmaker</name></persName>
+    <persName>Reepmaker van Strevelshoek</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-11-02">
-      <place>Ambt Ommen</place>
+    <event type="death" when="1828">
+      <place></place>
     </event>
   </person>
   <biography/>

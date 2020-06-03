@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hindrik Hindriks</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Haan</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pelgrim</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jansz.</name></persName>
+    <persName>Filips bastaard van Brabant</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1865-02-24">
+    <event type="death">
       <place></place>
     </event>
   </person>

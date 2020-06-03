@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-562353730"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">Gerard</name> <name type="intrapositie">Voorburg van</name> <name type="geslachtsnaam">Dinter</name></persName>
+    <event type="birth">
+      <date>17-06-1929</date>
+      <place>Dreumel</place>
+    </event>
+    <event type="death">
+      <date>18-12-2006</date>
+      <place>Voorburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

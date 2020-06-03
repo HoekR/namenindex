@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/36727"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Frederik Hessel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Beyma thoe Kingma</name></persName>
+    <event type="birth" when="2004">
+      <place>Workum</place>
+    </event>
+    <event type="death" when="1899-03-02">
+      <place>Heerenveen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

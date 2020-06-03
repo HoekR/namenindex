@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joannes Hermannus</name> <name type="geslachtsnaam">Jansen</name></persName>
-    <event type="birth" when="1811-04-07">
-      <place>Raalte</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Schoonhoven</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1503">
       <place></place>
     </event>
   </person>

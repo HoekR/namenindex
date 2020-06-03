@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Claas Jansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Santen</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Laurens Willemsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Witte</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1638-01-10">
+    <event type="death">
       <place></place>
     </event>
   </person>

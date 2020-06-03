@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/29177"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerrit Nicolaas</name> <name type="geslachtsnaam">Mulier</name></persName>
+    <event type="birth" when="2005">
+      <place>Oudenbosch</place>
+    </event>
+    <event type="death" when="1861-06-24">
+      <place>Leeuwarden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

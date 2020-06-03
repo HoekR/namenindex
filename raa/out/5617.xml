@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Tedgerus Ruardi</name> <name type="geslachtsnaam">Schotanus</name></persName>
+    <persName><name type="voornaam">Hugo Adriaensz.</name> <name type="intrapositie">comte (Empire) 's</name> <name type="geslachtsnaam">Gravesande</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1699-08-19">
       <place></place>
     </event>
   </person>

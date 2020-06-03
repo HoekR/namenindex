@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Marius Hendrik</name> <name type="intrapositie">s'</name> <name type="geslachtsnaam">Jacob</name></persName>
-    <event type="birth" when="1817-09-06">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sixtus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Scheltema</name></persName>
+    <persName>Syds van Scheltema</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1907-08-25">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

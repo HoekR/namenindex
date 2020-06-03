@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendricus Petrus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Heyden</name></persName>
-    <event type="birth" when="1760-12-06">
-      <place>Eindhoven</place>
+    <persName><name type="voornaam">Jacob Philippus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boogaert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1813-08-05">
-      <place>Eindhoven</place>
+    <event type="death" when="1796">
+      <place></place>
     </event>
   </person>
   <biography/>

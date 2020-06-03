@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ignace</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Toers Solvyns</name></persName>
-    <event type="birth" when="1767-02-15">
-      <place>Gent</place>
+    <persName><name type="voornaam">Johan Fransz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Meerman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-02-09">
-      <place>Gent</place>
+    <event type="death" when="1724-03-28">
+      <place></place>
     </event>
   </person>
   <biography/>

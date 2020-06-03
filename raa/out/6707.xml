@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sijtze</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Aylva</name></persName>
-    <persName>Zidzie van Aylva</persName>
-    <persName>Sytthie Aylva</persName>
-    <event type="birth" when="1481">
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Heim</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1548-09-07">
+    <event type="death" when="1768-03-27">
       <place></place>
     </event>
   </person>

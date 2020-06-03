@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Paul</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Rotu</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Willem Gustaaf Frederik</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Reede</name></persName>
+    <persName>Van Reede van Middachten</persName>
+    <persName>Van Reede van Ginkel</persName>
+    <event type="birth" when="2007">
+      <place>Utrecht</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1844-05-21">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

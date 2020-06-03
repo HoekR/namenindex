@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Jansz.</name> <name type="geslachtsnaam">Bouwens</name></persName>
-    <event type="birth" when="1725">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Philippus Johannes</name> <name type="geslachtsnaam">Bachiene</name></persName>
+    <event type="birth" when="2012">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1788-12-21">
-      <place></place>
+    <event type="death" when="1881-03-14">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/17506"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Frans Alexander</name> <name type="intrapositie">comte (d'Empire) van</name> <name type="geslachtsnaam">Rappard</name></persName>
+    <event type="birth" when="2004">
+      <place>Utrecht</place>
+    </event>
+    <event type="death" when="1867-02-19">
+      <place>Utrecht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jean-Jacques-R&#233;gis</name> <name type="intrapositie">prince (empire)</name> <name type="geslachtsnaam">Cambac&#233;r&#232;s</name></persName>
-    <persName>Cambac&#233;r&#232;s, Prince-Duc de Parme</persName>
-    <event type="birth" when="1753">
+    <persName><name type="voornaam">Evert Willemsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Waacker</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1824">
+    <event type="death">
       <place></place>
     </event>
   </person>

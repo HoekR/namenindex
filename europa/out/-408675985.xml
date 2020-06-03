@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-408675985"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Alain</name> <name type="intrapositie">Parijs nan</name> <name type="geslachtsnaam">Peyrefitte</name></persName>
+    <event type="birth">
+      <date>26-08-1925</date>
+      <place>Najac, Aveyron</place>
+    </event>
+    <event type="death">
+      <date>27-11-1999</date>
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

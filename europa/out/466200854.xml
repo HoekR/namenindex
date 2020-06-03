@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/466200854"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Lissabon nan</name> <name type="geslachtsnaam">Salazar</name></persName>
+    <event type="birth">
+      <date>28-04-1889</date>
+      <place>Santa Comba D&#227;o</place>
+    </event>
+    <event type="death">
+      <date>27-07-1970</date>
+      <place>Lissabon</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

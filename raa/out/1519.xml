@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heek</name></persName>
-    <event type="birth" when="1780-07-01">
-      <place>Enschede</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Livius Suffridus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Lycklama &#224; Nijeholt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-09-06">
-      <place>Enschede</place>
+    <event type="death" when="1773-03-22">
+      <place></place>
     </event>
   </person>
   <biography/>

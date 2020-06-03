@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">C.</name> <name type="geslachtsnaam">Losbergen</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Paulus Cornelis Adriaan</name> <name type="geslachtsnaam">Sichterman</name></persName>
+    <event type="birth" when="2009">
+      <place>Zwolle</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1857-01-04">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Paulus Cornelis Adriaan</name> <name type="geslachtsnaam">Sichterman</name></persName>
-    <event type="birth" when="1773-09-02">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sijes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-04-01">
-      <place>Zwolle</place>
+    <event type="death" when="1707">
+      <place></place>
     </event>
   </person>
   <biography/>

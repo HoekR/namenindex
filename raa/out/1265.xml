@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Louis Bothenius</name> <name type="geslachtsnaam">Lohman</name></persName>
-    <event type="birth" when="1803-07-20">
-      <place>Groningen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Willem</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Haren</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1856-07-13">
-      <place>Groningen</place>
+    <event type="death" when="1768-04-07">
+      <place></place>
     </event>
   </person>
   <biography/>

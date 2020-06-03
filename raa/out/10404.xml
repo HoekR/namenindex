@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Burch</name></persName>
-    <persName>Hendrik Verburch</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hayo Hermannus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Hompens</name></persName>
+    <persName>Haio Hompius</persName>
+    <persName>Humpius van Emden</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1540">
       <place></place>
     </event>
   </person>

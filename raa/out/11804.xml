@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Rievert Eelckesz.</name> <name type="geslachtsnaam">Fenstra</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Lodewijk Willem</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Geer</name></persName>
+    <persName>De Geer van Jutphaas</persName>
+    <event type="birth" when="2011">
+      <place>Utrecht</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1857-03-11">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

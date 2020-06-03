@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Lodewijk</name> <name type="geslachtsnaam">Farjon</name></persName>
-    <event type="birth" when="1766-04-13">
-      <place>Maastricht</place>
+    <persName><name type="voornaam">Antoni Christiaan Wynand</name> <name type="geslachtsnaam">Staring</name></persName>
+    <persName>Staring van den Wildenborch</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-02-10">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1840">
+      <place></place>
     </event>
   </person>
   <biography/>

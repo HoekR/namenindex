@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="intrapositie">ten</name> <name type="geslachtsnaam">Holte</name></persName>
-    <event type="birth" when="1782-09-13">
-      <place>Dalen</place>
+    <persName><name type="prepositie">ds.</name> <name type="voornaam">Oenias</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Geldorp</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-03-20">
-      <place>Dalen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

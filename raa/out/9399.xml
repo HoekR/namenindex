@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Guiseling</name></persName>
-    <persName>Johan Ghiselyn</persName>
-    <persName>Johan Gijseling</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Louis Gaspar</name> <name type="geslachtsnaam">Luzac</name></persName>
+    <event type="birth" when="2008">
+      <place>Leiden</place>
     </event>
-    <event type="death" when="1736">
-      <place></place>
+    <event type="death" when="1861-02-18">
+      <place>Leiden</place>
     </event>
   </person>
   <biography/>

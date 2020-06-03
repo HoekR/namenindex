@@ -1,0 +1,21 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/17233"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Lodewijk Carel Jacob Christiaan Frans</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Nispen</name></persName>
+    <persName>Van Nispen van Velde</persName>
+    <event type="birth" when="2006">
+      <place>Chaudfontaine</place>
+    </event>
+    <event type="death" when="1872-08-05">
+      <place>Wehl</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

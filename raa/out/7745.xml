@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Margadant</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adriaan Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Royen</name></persName>
+    <event type="birth" when="2008">
+      <place>Katwijk</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1874-01-06">
+      <place>Onderdendam</place>
     </event>
   </person>
   <biography/>

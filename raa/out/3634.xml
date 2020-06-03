@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Symon Saskersz.</name> <name type="geslachtsnaam">Schagen</name></persName>
+    <persName><name type="voornaam">Hendrik Jan</name> <name type="geslachtsnaam">Verschuur</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1804">
       <place></place>
     </event>
   </person>

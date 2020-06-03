@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerard Anthony</name> <name type="geslachtsnaam">Ramaer</name></persName>
-    <event type="birth" when="1770-03-24">
-      <place>Vlierden</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jacob Paulus</name> <name type="intrapositie">markgraaf d'</name> <name type="geslachtsnaam">Aumale</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-07-11">
-      <place>Zwolle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

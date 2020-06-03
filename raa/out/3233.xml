@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ludovicus Johannes Hubertus</name> <name type="intrapositie">ridder de van der</name> <name type="geslachtsnaam">Schueren</name></persName>
-    <event type="birth" when="1800-04-29">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="voornaam">Andries Lourisz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Swaenswijck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1886-03-18">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1643">
+      <place></place>
     </event>
   </person>
   <biography/>

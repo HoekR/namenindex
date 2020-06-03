@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bernard Germain &#201;tienne</name> <name type="intrapositie">graaf de La</name> <name type="geslachtsnaam">Ville-sur-Illon</name></persName>
-    <persName>Ville-sur-Illon, Comte de Lac&#233;p&#232;de.</persName>
-    <event type="birth" when="1756">
+    <persName><name type="voornaam">A.M.</name> <name type="intrapositie">du</name> <name type="geslachtsnaam">Rij</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1825">
+    <event type="death">
       <place></place>
     </event>
   </person>

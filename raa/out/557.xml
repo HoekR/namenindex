@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles Marie Joseph Ghislain</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Brouck&#232;re</name></persName>
-    <event type="birth" when="1796-01-18">
-      <place>Brugge</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Haak</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-04-20">
-      <place>Brugge</place>
+    <event type="death" when="1574">
+      <place></place>
     </event>
   </person>
   <biography/>

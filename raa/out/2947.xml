@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jacob Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kretschmar</name></persName>
-    <persName>Van Kretschmar van Veen</persName>
-    <event type="birth" when="1797-05-17">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Nicolaas Pietersz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Tol</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-11-07">
-      <place>Nederhemert</place>
+    <event type="death" when="1740">
+      <place></place>
     </event>
   </person>
   <biography/>

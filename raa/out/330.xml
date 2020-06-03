@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Theodorus</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Smeth</name></persName>
-    <persName>De Smeth van Deurne</persName>
-    <event type="birth" when="1779-08-16">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Sibrandus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Richaeus</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-10-07">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1585">
+      <place></place>
     </event>
   </person>
   <biography/>

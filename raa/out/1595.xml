@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dani&#235;l Jacob Rudolph</name> <name type="geslachtsnaam">Jordens</name></persName>
-    <event type="birth" when="1775-06-25">
-      <place>Deventer</place>
+    <persName><name type="prepositie">ds.</name> <name type="voornaam">Petrus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Camper</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-09-29">
-      <place>Deventer</place>
+    <event type="death" when="1789-07-04">
+      <place></place>
     </event>
   </person>
   <biography/>

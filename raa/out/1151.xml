@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Isaak</name> <name type="geslachtsnaam">Collard</name></persName>
-    <event type="birth" when="1774-01-31">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Abel</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Franckena</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-11-06">
-      <place>Assen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Christiaan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Houven</name></persName>
-    <event type="birth" when="1773-11-26">
-      <place>Nieuw-Beierland</place>
+    <persName><name type="voornaam">J.</name> <name type="geslachtsnaam">Bousquet</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-12-09">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

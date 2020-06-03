@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Isaac</name> <name type="geslachtsnaam">Vroombroeck</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jan Jacob</name> <name type="geslachtsnaam">Rochussen</name></persName>
+    <event type="birth" when="2010">
+      <place>Etten</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1871-01-21">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

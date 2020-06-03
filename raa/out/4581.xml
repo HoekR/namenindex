@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hayo</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Ripperda</name></persName>
-    <persName>Hayo Riperdorn</persName>
+    <persName><name type="voornaam">Gerbrandt</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Blaeuhulk</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1558">
+    <event type="death" when="1699-01-31">
       <place></place>
     </event>
   </person>

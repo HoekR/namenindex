@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Joannes Adrianus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Ram</name></persName>
-    <event type="birth" when="1798-11-10">
-      <place>Wouw</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Floris</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Abeele</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1888-11-23">
-      <place>Bergen op Zoom</place>
+    <event type="death" when="1440">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Carelus Everhardus Josephus Franciscus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nispen van Pannerden</name></persName>
-    <event type="birth" when="1807-04-03">
-      <place>Zevenaar</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Renick</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Kamstra</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-12-01">
-      <place>Zevenaar</place>
+    <event type="death" when="1522-09-04">
+      <place></place>
     </event>
   </person>
   <biography/>

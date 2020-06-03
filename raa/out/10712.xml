@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joan</name> <name type="geslachtsnaam">Rouse</name></persName>
-    <event type="birth" when="1626">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dirk Willem</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Brugghen van Kermesteyn</name></persName>
+    <event type="birth" when="2006">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1666">
-      <place></place>
+    <event type="death" when="1825-08-02">
+      <place>Lienden</place>
     </event>
   </person>
   <biography/>

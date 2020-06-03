@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wolter</name> <name type="geslachtsnaam">Kymmell</name></persName>
-    <persName>Kijmmel</persName>
-    <event type="birth" when="1752-02-06">
-      <place>Havelte</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wouter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heemskerk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1830-11-21">
-      <place>Havelte</place>
+    <event type="death" when="1380">
+      <place></place>
     </event>
   </person>
   <biography/>

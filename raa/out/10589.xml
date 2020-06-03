@@ -8,11 +8,15 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Dorper Coorne</name></persName>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Swinnas</name></persName>
+    <persName>Johan Swinnes</persName>
+    <persName>Johan Swijsnas</persName>
+    <persName>Johan Swijnaart</persName>
+    <persName>Johan Swijnas</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1649-04-15">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wolter Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Broeckhuysen tot de Grote Wede</name></persName>
-    <persName>Wolter Jan van Broeckhuysen tot den Doorn</persName>
-    <event type="birth" when="1676">
+    <persName><name type="voornaam">J.A. of A.J.</name> <name type="geslachtsnaam">Bode</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1732-07-22">
+    <event type="death">
       <place></place>
     </event>
   </person>

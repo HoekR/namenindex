@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Hoop</name></persName>
-    <event type="birth" when="1716">
+    <persName><name type="voornaam">Adriaen Dircxz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Lakencoper</name></persName>
+    <persName>Adriaen Dircxz. Jong(e)</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1781-03-10">
+    <event type="death" when="1636">
       <place></place>
     </event>
   </person>

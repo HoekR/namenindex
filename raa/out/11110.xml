@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Martinus</name> <name type="geslachtsnaam">Valencijn</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Arnoud</name> <name type="geslachtsnaam">Laan</name></persName>
+    <event type="birth" when="2001">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1785-02-14">
-      <place></place>
+    <event type="death" when="1863-03-27">
+      <place>Baarn</place>
     </event>
   </person>
   <biography/>

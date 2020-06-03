@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Jansz.</name> <name type="geslachtsnaam">Vael in Lioren</name></persName>
-    <persName>Pieter Jansz. Liorne</persName>
-    <persName>Pieter Jansz. Livorne</persName>
-    <event type="birth" when="1562">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hubert Matthijs Adriaan Jan</name> <name type="intrapositie">van Asch van</name> <name type="geslachtsnaam">Wyck</name></persName>
+    <event type="birth" when="2010">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1620">
-      <place></place>
+    <event type="death" when="1843-07-16">
+      <place>Woudenberg</place>
     </event>
   </person>
   <biography/>

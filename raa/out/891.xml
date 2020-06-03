@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Hendricus</name> <name type="geslachtsnaam">Huygens</name></persName>
-    <event type="birth" when="1771-10-09">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Evert</name> <name type="geslachtsnaam">Nicolai</name></persName>
+    <persName>Everard Everaerts.</persName>
+    <event type="birth" when="1498">
+      <place></place>
     </event>
-    <event type="death" when="1844-05-25">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1561">
+      <place></place>
     </event>
   </person>
   <biography/>

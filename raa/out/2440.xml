@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Karel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gennep</name></persName>
-    <event type="birth" when="1823-11-22">
-      <place>Arnhem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Dirksz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1900-07-09">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1516">
+      <place></place>
     </event>
   </person>
   <biography/>

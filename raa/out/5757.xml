@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Coenraad Willem</name> <name type="geslachtsnaam">Sloet tot Lindenhorst</name></persName>
-    <event type="birth" when="1743">
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Johan Hendrik</name> <name type="geslachtsnaam">Schedet</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1809-12-14">
+    <event type="death" when="1813">
       <place></place>
     </event>
   </person>

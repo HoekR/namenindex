@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/3485"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Lodewijk Arend</name> <name type="geslachtsnaam">Sloet tot Plattenburg</name></persName>
+    <event type="birth" when="1720"/>
+    <event type="death" when="1800"/>
+  </person>
+  <biography/>
+</biodes>

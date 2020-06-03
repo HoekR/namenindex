@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan Theodoor Hendrik</name> <name type="intrapositie">ridder Nedermeyer van</name> <name type="geslachtsnaam">Rosenthal</name></persName>
-    <event type="birth" when="1792-03-27">
-      <place>Culemborg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Victor</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Zichele</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-01-31">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

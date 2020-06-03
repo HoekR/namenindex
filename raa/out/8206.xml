@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Nicolai</name></persName>
-    <persName>Hadrianus Marius</persName>
-    <event type="birth" when="1507">
-      <place></place>
+    <persName><name type="voornaam">Volkier Rudolph</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Bentinck</name></persName>
+    <persName>Bentinck van Schoonheten</persName>
+    <event type="birth" when="2006">
+      <place>Raalte</place>
     </event>
-    <event type="death" when="1568">
-      <place></place>
+    <event type="death" when="1820-12-25">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joan Anthony</name> <name type="geslachtsnaam">Exrik</name></persName>
-    <event type="birth" when="1758-08-01">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">F.</name> <name type="geslachtsnaam">Dubblinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1836-08-06">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1653455544"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">'s-Gravenhage van der</name> <name type="geslachtsnaam">Goes van Naters-van der Plaats</name></persName>
+    <event type="birth">
+      <date>28-11-1901</date>
+      <place>Leeuwarden</place>
+    </event>
+    <event type="death">
+      <date>09-04-1985</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-778652143"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">baron</name> <name type="voornaam">nan</name> <name type="intrapositie">Ch&#226;teau-Gontier (Mayenne, Fr.) nan</name> <name type="geslachtsnaam">Bentinck</name></persName>
+    <event type="birth">
+      <date>14-11-1919</date>
+      <place>'s-Gravenhage</place>
+    </event>
+    <event type="death">
+      <date>25-05-1997</date>
+      <place>Ch&#226;teau-Gontier (Mayenne, Fr.)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

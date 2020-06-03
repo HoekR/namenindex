@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/203414290"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bridgewater, Somerset nan</name> <name type="geslachtsnaam">Rippon</name></persName>
+    <event type="birth">
+      <date>28-05-1924</date>
+      <place>Londen</place>
+    </event>
+    <event type="death">
+      <date>28-01-1997</date>
+      <place>Bridgewater, Somerset</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

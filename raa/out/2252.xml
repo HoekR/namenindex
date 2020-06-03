@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jean Jacques</name> <name type="intrapositie">Granpr&#233;</name> <name type="geslachtsnaam">Moli&#232;re</name></persName>
-    <event type="birth" when="1799-07-11">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Paulus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Buys</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-10-15">
-      <place>Amsterdam</place>
+    <event type="death" when="1594">
+      <place></place>
     </event>
   </person>
   <biography/>

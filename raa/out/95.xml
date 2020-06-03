@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arnoldus Gerbrandus</name> <name type="geslachtsnaam">Verheyen</name></persName>
-    <event type="birth" when="1770-10-30">
-      <place>Loon op Zand</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Fritz</name> <name type="intrapositie">ridder von</name> <name type="geslachtsnaam">Grumbach</name></persName>
+    <persName>Fritz von Grumbach zu Eschefeld</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-07-12">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1541">
+      <place></place>
     </event>
   </person>
   <biography/>

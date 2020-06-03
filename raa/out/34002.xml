@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/34002"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Paulus Adriaan</name> <name type="geslachtsnaam">Beelaerts van Blokland</name></persName>
+    <event type="birth" when="2003">
+      <place>Dordrecht</place>
+    </event>
+    <event type="death" when="1854-08-21">
+      <place>Utrecht</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

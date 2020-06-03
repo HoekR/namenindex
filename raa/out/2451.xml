@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Hayes</name> <name type="geslachtsnaam">Haitsma</name></persName>
-    <event type="birth" when="1763-10-29">
-      <place>Tjerkwerd</place>
+    <persName><name type="voornaam">D.</name> <name type="geslachtsnaam">Nolthenius</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-04-28">
-      <place>Bolsward</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

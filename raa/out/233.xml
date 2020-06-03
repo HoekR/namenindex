@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Roelof</name> <name type="geslachtsnaam">Eekhout</name></persName>
-    <event type="birth" when="1745-07-26">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Nicolas-Fran&#231;ois</name> <name type="geslachtsnaam">Mollien</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-12-08">
-      <place>Zwolle</place>
+    <event type="death" when="1850">
+      <place></place>
     </event>
   </person>
   <biography/>

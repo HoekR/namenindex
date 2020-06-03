@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-239982066"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Huddinge (Stockholm) nan</name> <name type="geslachtsnaam">Erlander</name></persName>
+    <event type="birth">
+      <date>13-06-1901</date>
+      <place>Rans&#228;ter</place>
+    </event>
+    <event type="death">
+      <date>21-06-1985</date>
+      <place>Huddinge (Stockholm)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

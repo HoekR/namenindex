@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Haan</name></persName>
-    <event type="birth" when="1761">
-      <place></place>
+    <persName><name type="voornaam">Erasme Louis</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Surlet de Chokier</name></persName>
+    <event type="birth" when="2011">
+      <place>Luik</place>
     </event>
-    <event type="death" when="1829">
-      <place></place>
+    <event type="death" when="1839-07-08">
+      <place>Gingelom</place>
     </event>
   </person>
   <biography/>

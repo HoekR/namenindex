@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Leopold</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Limburg Stirum</name></persName>
-    <event type="birth" when="1758-03-19">
-      <place>Hoogeveen</place>
+    <persName><name type="voornaam">Isaac Jan Alexander</name> <name type="geslachtsnaam">Gogel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-06-25">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1821">
+      <place></place>
     </event>
   </person>
   <biography/>

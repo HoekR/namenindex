@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wilhem</name> <name type="geslachtsnaam">Willink</name></persName>
-    <event type="birth" when="1777-05-20">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hartesius</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Jepema</name></persName>
+    <persName>Hartius Iepema</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1864-08-23">
-      <place>Amsterdam</place>
+    <event type="death" when="1666-03-24">
+      <place></place>
     </event>
   </person>
   <biography/>

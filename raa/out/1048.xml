@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Franciscus Johannes Emilius</name> <name type="intrapositie">van Zinnicq</name> <name type="geslachtsnaam">Bergmann</name></persName>
-    <event type="birth" when="1807-11-10">
-      <place>Lier</place>
+    <persName><name type="voornaam">Floris</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Teylingen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-02-25">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1728">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Epo Sjuck</name> <name type="intrapositie">Burmania</name> <name type="geslachtsnaam">Vegilin van Claerbergen</name></persName>
-    <event type="birth" when="1790-04-07">
-      <place>Leeuwarden</place>
+    <persName><name type="intrapositie">van</name> <name type="geslachtsnaam">Brussel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-07-11">
-      <place>Cornjum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Guillaume Pierre</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Outeren</name></persName>
-    <event type="birth" when="1799-10-25">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Johannes Adrianus</name> <name type="geslachtsnaam">Modera</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-11-06">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1827">
+      <place></place>
     </event>
   </person>
   <biography/>

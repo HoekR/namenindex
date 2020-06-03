@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirck</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Suchtelen</name></persName>
-    <event type="birth" when="1617">
-      <place></place>
+    <persName><name type="voornaam">Jan Carel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wessem</name></persName>
+    <event type="birth" when="2003">
+      <place>Tiel</place>
     </event>
-    <event type="death" when="1691-10-31">
-      <place></place>
+    <event type="death" when="1864-06-18">
+      <place>Zaandam</place>
     </event>
   </person>
   <biography/>

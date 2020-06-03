@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Siemens</name> <name type="geslachtsnaam">Heemstra</name></persName>
-    <event type="birth" when="1762-05-09">
-      <place>Lutkegast</place>
+    <persName><name type="voornaam">Albert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pietersz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-10-20">
-      <place>Aduard</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

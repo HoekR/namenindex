@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Dirk Rudolph</name> <name type="geslachtsnaam">Gevers Deynoot</name></persName>
-    <event type="birth" when="1807-04-01">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lambrecht</name> <name type="intrapositie">graaf</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-04-03">
-      <place>Loosduinen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

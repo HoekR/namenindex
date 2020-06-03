@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/422"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Bauke</name> <name type="intrapositie">Baarn nan</name> <name type="geslachtsnaam">Roolvink</name></persName>
+    <event type="birth">
+      <date>31-01-1912</date>
+      <place>Wijtgaard</place>
+    </event>
+    <event type="death">
+      <date>25-11-1979</date>
+      <place>Baarn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

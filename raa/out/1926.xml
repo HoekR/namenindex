@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Christiaan</name> <name type="geslachtsnaam">Dutilh</name></persName>
-    <event type="birth" when="1786-11-23">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jacob Binckes</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Hannema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-12-18">
-      <place>Vlissingen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="geslachtsnaam">Quarles van Ufford</name></persName>
-    <event type="birth" when="1751">
-      <place></place>
+    <persName><name type="voornaam">Daniel</name> <name type="geslachtsnaam">Pietermaat</name></persName>
+    <event type="birth" when="2001">
+      <place>Weesp</place>
     </event>
-    <event type="death" when="1826">
-      <place></place>
+    <event type="death" when="1822-01-31">
+      <place>Schiedam</place>
     </event>
   </person>
   <biography/>

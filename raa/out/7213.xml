@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wilhelmus Antonius</name> <name type="geslachtsnaam">Ninaber</name></persName>
-    <event type="birth" when="1747">
-      <place></place>
+    <persName><name type="voornaam">Jacob Derk</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Sweerts de Landas</name></persName>
+    <persName>Sweerts de Landas van Oirschot</persName>
+    <event type="birth" when="2002">
+      <place>Gorinchem</place>
     </event>
-    <event type="death" when="1803">
-      <place></place>
+    <event type="death" when="1820-10-03">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

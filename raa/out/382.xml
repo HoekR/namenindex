@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Henric</name> <name type="geslachtsnaam">Bicker</name></persName>
-    <event type="birth" when="1777-07-12">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Laelius</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Lycklama (&#224; Nijeholt)</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-03-11">
-      <place>Amsterdam</place>
+    <event type="death" when="1625">
+      <place></place>
     </event>
   </person>
   <biography/>

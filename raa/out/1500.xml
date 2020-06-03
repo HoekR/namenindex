@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Hendrik</name> <name type="geslachtsnaam">Michorius</name></persName>
+    <persName><name type="voornaam">Jacob Adriaensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Baen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1701-03-24">
       <place></place>
     </event>
   </person>

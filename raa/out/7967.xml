@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jan</name> <name type="geslachtsnaam">Pijman</name></persName>
-    <event type="birth" when="1750">
-      <place></place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">le</name> <name type="geslachtsnaam">Balleur</name></persName>
+    <event type="birth" when="2011">
+      <place>Zaltbommel</place>
     </event>
-    <event type="death" when="1839">
-      <place></place>
+    <event type="death" when="1825-03-07">
+      <place>Zaltbommel</place>
     </event>
   </person>
   <biography/>

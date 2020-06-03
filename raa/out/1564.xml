@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Dirk Joachim Willem Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Raesfelt</name></persName>
-    <persName>Van Raesfelt van Elsen</persName>
-    <event type="birth" when="1755-08-03">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Andries</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Cruce</name></persName>
+    <persName>Andrieu de la Croix</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-09-05">
-      <place>Zwolle</place>
+    <event type="death" when="1463">
+      <place></place>
     </event>
   </person>
   <biography/>

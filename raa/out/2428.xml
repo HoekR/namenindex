@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Daniel</name> <name type="intrapositie">Tieboel</name> <name type="geslachtsnaam">Siegenbeek</name></persName>
-    <event type="birth" when="1806-02-25">
-      <place>Leiden</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Bartoudsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-01-11">
-      <place>Leiden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

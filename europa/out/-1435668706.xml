@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1435668706"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">nan van der</name> <name type="geslachtsnaam">Willigen</name></persName>
+    <event type="birth">
+      <date>08-05-1926</date>
+      <place>Utrecht</place>
+    </event>
+    <event type="death">
+      <date>22-02-2001</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

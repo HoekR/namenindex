@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Age Solkes</name> <name type="geslachtsnaam">Tromp</name></persName>
-    <event type="birth" when="1787-07-20">
-      <place>Woudsend</place>
+    <persName><name type="voornaam">Matthijs Rijniersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Verschoor</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-08-19">
-      <place>Woudsend</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

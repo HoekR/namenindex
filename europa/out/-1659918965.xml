@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1659918965"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bad Godesberg nan</name> <name type="geslachtsnaam">Bl&#252;cher</name></persName>
+    <event type="birth">
+      <date>24-03-1896</date>
+      <place>Essen</place>
+    </event>
+    <event type="death">
+      <date>26-03-1959</date>
+      <place>Bad Godesberg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

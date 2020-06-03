@@ -1,0 +1,79 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Feith, jhr. Rhijnvis (1868-1953)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/feith"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">feith_1</idno>
+    <persName><name type="geslachtsnaam">Feith</name>, jhr. Rhijnvis</persName>
+    <sex value="1"/>
+    <event type="birth" when="1868"/>
+    <event type="death" when="1953"/>
+    <state type="occupation">rechter</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/FEITH.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Feith, Jhr. Rhijnvis&lt;/strong&gt;, president van de Hoge Raad (Amsterdam 14-12-1868 - 's-Gravenhage 16-7-1953).
+
+Zoon van jhr. Pieter Rutger Feith, vice-president van de Hoge Raad, en
+Jacoba Johanna Petronella Dronsberg. Gehuwd op 21-5-1896 met jkvr.
+Maria Clasina de Ranitz. Na haar overlijden op 23-4-1917 hertrouwd op
+17-6-1920 met jkvr. Maria Vincentia Schorer. Uit het eerste huwelijk
+werden 1 zoon en 2 dochters geboren.
+
+&lt;img src=&amp;quot;images/FEITH.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Feith, Jhr. Rhijnvis&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Feith studeerde sinds 1887 na eindexamen gymnasium, rechten te
+Leiden waar hij in 1892 promoveerde op het proefschrift 
+&lt;em&gt;De decisoire eed.&lt;/em&gt;
+
+Hij werd ambtenaar van het openbaar ministerie bij het kantongerecht te
+'s-Hertogenbosch. In 1900 werd hij rechter in de
+arrondissementsrechtbank achtereenvolgens te Breda en sinds 1905 in Den
+Haag. In 1909 volgde zijn benoeming tot raadsheer in het gerechtshof
+aldaar. In 1913 werd hij benoemd tot raadsheer in de Hoge Raad; in 1931
+werd hij vice-president en in 1933 president van dit College, welk ambt
+hij tot 1939 bekleedde. Voor de Nederlandsche Juristen-Vereeniging
+schreef hij in 1910 een preadvies over het bewijs in strafzaken; in
+1925 over de stichtingen; in 1933 over wenselijke wijzigingen in de
+rechterlijke organisatie. Gedurende 25 jaar was hij medewerker van het 
+&lt;em&gt;Weekblad van het Recht.&lt;/em&gt;
+
+Sinds 1910 maakte hij deel uit van de Staatscommissie tot herziening
+van het Wetboek van Strafvordering. Voor het nieuwe gebouw voor de Hoge
+Raad heeft hij zich zeer beijverd. Bij de inwijding op 30 september
+1938, welke samenviel met het 100-jarig bestaan van de Hoge Raad, hield
+hij een herdenkingsrede. Hij was tevens curator van de
+Rijksuniversiteit te Leiden, voorzitter van de Haagse
+volksuniversiteit, voorzitter van het Haagse gemeentelijke
+scheidsgerecht, regent van het Heilige Geesthofje en van het
+Oudemannenhuis. Hij werd bij K.B. van 5-6-1905 in de adel verheven.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve de in de tekst genoemde werken: Rh. Feith, 
+&lt;em&gt;Genealogie van de familie Feith&lt;/em&gt;
+
+('s-Gravenhage, 1924) 85, 117.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;Nederlands Juristenblad&lt;/em&gt;
+
+14 (1939) 14-15 en 
+&lt;em&gt;ibidem,&lt;/em&gt;
+
+28 (1953) 618.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;&lt;i&gt;Persoonlijkheden in het Koninkrijk der Nederlanden in woord en beeld&lt;/i&gt;. Onder hoofdred. van H.P. van den Aardweg (Amsterdam 1938) 469.
+&lt;/p&gt;
+
+&lt;p&gt;L.E. van Holk&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

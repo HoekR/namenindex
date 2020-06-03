@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ren&#233;</name> <name type="intrapositie">prins van</name> <name type="geslachtsnaam">Chalons</name></persName>
-    <persName>Ren&#233; van Nassau</persName>
-    <event type="birth" when="1519">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob (Coppijn) Dirksz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Spit</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1544">
+    <event type="death">
       <place></place>
     </event>
   </person>

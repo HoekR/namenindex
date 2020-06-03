@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antoon Alfonsus Lambert</name> <name type="geslachtsnaam">Haffmans</name></persName>
-    <event type="birth" when="1821-05-28">
-      <place>Horst</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Tjalling Edo Hessel</name> <name type="intrapositie">ridder Roorda van</name> <name type="geslachtsnaam">Sixma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1775">
       <place></place>
     </event>
   </person>

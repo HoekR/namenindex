@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Boldewijn</name> <name type="geslachtsnaam">Sloet tot Slotenhagen</name></persName>
-    <persName>Boldewijn Sloet tot Lindenhorst</persName>
-    <event type="birth" when="1588">
+    <persName><name type="voornaam">A.</name> <name type="geslachtsnaam">Meints</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1650">
+    <event type="death">
       <place></place>
     </event>
   </person>

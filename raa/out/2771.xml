@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Karel Hubert</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Borman</name></persName>
-    <event type="birth" when="1828-02-12">
-      <place>Sittard</place>
+    <persName><name type="voornaam">Gerrit Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Witsen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-09-01">
+    <event type="death" when="1626">
       <place></place>
     </event>
   </person>

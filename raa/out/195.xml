@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anne Hendricus</name> <name type="geslachtsnaam">Hummelinck</name></persName>
-    <event type="birth" when="1759-10-14">
-      <place>Groenlo</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Roussel</name></persName>
+    <persName>Jacob Rousseau</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-12-30">
-      <place>Groenlo</place>
+    <event type="death" when="1577">
+      <place></place>
     </event>
   </person>
   <biography/>

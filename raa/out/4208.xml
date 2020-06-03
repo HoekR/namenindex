@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Balthazar</name> <name type="geslachtsnaam">Muntz</name></persName>
+    <persName><name type="voornaam">Ariaen Jacobsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Baen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1769-09-28">
+    <event type="death" when="1636">
       <place></place>
     </event>
   </person>

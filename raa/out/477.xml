@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Georgius</name> <name type="intrapositie">Hiddema</name> <name type="geslachtsnaam">Jongsma</name></persName>
-    <event type="birth" when="1806-11-04">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Houtman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-05-28">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

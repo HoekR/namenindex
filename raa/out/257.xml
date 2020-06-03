@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Arend</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Burch</name></persName>
-    <event type="birth" when="1746-02-22">
-      <place>Gouda</place>
+    <persName><name type="voornaam">Jean-Charles-Joseph</name> <name type="geslachtsnaam">Laumond</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1815-03-14">
-      <place>Gouda</place>
+    <event type="death" when="1825">
+      <place></place>
     </event>
   </person>
   <biography/>

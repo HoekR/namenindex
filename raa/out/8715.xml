@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arent Reyersz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Burch</name></persName>
-    <event type="birth" when="1621">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Pijnssen van der Aa</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1691-09-20">
+    <event type="death" when="1528">
       <place></place>
     </event>
   </person>

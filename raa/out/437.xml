@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pierre Nicolas</name> <name type="geslachtsnaam">Quarles van Ufford</name></persName>
-    <event type="birth" when="1757-11-13">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Louis-J&#233;r&#244;me</name> <name type="geslachtsnaam">Gohier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-04-21">
-      <place>Haarlem</place>
+    <event type="death" when="1830">
+      <place></place>
     </event>
   </person>
   <biography/>

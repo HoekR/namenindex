@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-129451806"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Cordast, Zwitserland nan</name> <name type="geslachtsnaam">Star Busmann</name></persName>
+    <event type="birth">
+      <date>20-05-1904</date>
+      <place>Bussum</place>
+    </event>
+    <event type="death">
+      <date>25-07-1982</date>
+      <place>Cordast, Zwitserland</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

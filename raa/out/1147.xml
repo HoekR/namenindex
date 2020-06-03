@@ -8,13 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Hendrik Jan Leopold</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Wyck</name></persName>
-    <persName>Van der Wyck tot de Klencke</persName>
-    <event type="birth" when="1792-11-03">
-      <place>Laar (graafschap Bentheim)</place>
+    <persName><name type="prepositie">ds.</name> <name type="voornaam">Dirck</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Fogelsangh</name></persName>
+    <persName>Dirck Foegelsangh</persName>
+    <persName>Theodorus Fogelsangh</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-10-23">
-      <place>Assen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

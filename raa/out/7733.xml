@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Schermer</name></persName>
-    <event type="birth" when="1774">
-      <place></place>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Sitter</name></persName>
+    <event type="birth" when="2002">
+      <place>Groningen</place>
     </event>
-    <event type="death" when="1857">
-      <place></place>
+    <event type="death" when="1855-12-04">
+      <place>Groningen</place>
     </event>
   </person>
   <biography/>

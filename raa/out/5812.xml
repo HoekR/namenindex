@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joannis Alexander</name> <name type="geslachtsnaam">Krieger</name></persName>
-    <event type="birth" when="1759">
+    <persName><name type="voornaam">Nicolaes Frederik Andriesz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boogaert</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1832">
+    <event type="death" when="1757-03-30">
       <place></place>
     </event>
   </person>

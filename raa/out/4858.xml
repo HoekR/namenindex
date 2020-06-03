@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arend</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bonenberch</name></persName>
-    <persName>Honsteyn</persName>
-    <persName>Arend Boonenburch</persName>
+    <persName><name type="voornaam">Willem Jan</name> <name type="geslachtsnaam">Tulleken</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1814">
       <place></place>
     </event>
   </person>

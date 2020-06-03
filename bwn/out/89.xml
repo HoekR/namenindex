@@ -1,0 +1,90 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Beckers, Hendrik Joseph (1862-1950)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/beckers"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">beckers</idno>
+    <persName><name type="geslachtsnaam">Beckers</name>, Hendrik Joseph</persName>
+    <sex value="1"/>
+    <event type="birth" when="1862"/>
+    <event type="death" when="1950"/>
+    <state type="occupation">archeoloog</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Beckers, Hendrik Joseph&lt;/strong&gt;, arts, natuuronderzoeker en amateur-archaeoloog (Sittard 23-8-1862 - Maastricht 12-1-1950).
+
+Zoon van Gerard Beckers, manufacturier, en Maria Barbara Beckers.
+Gehuwd sinds 10-9-1907 met Maria Josephina Hubertina Catharina Corten.
+Uit dit huwelijk werden 1 zoon en 2 dochters geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Reeds op 5-jarige leeftijd verloor Joseph zijn vader. Met steun van
+familieleden kon hij naar het Gymnasium te Rolduc, waar hij de studie
+moest afbreken door een zenuwziekte in het linkerbeen. Een oud-leraar
+van Rolduc, pastoor Thissen, bereidde hem thuis voor op het
+staatsexamen. Daardoor was Beckers in staat medicijnen te studeren in
+Amsterdam. In 1898 deed hij zijn artsexamen en bouwde vervolgens in
+Beek (L.) een zeer omvangrijke plattelandspraktijk op. De
+pati&amp;euml;nten werden eerst per rijtuig, daarna per motor en van 1910
+(!) af per auto bezocht. In 1918 werd hij slachtoffer van de Spaanse
+griep, waarna hij zijn praktijk moest matigen. Hij kreeg het advies om
+wat meer ontspanning te zoeken. Dit betekende, dat hij zich kon gaan
+wijden aan zijn liefhebberij: de natuur. Van 1913 afwas hij lid van de
+Natuurhistorische Vereniging, die hij 30 jaar als bestuurslid diende.
+Beekers was allereerst botanicus, in wie nog iets van de oude
+kruidendokter doorwerkte. Spoedig daarna ging zijn bijzondere
+belangstelling uit naar de geologie en de palaeontologie. Contacten met
+dr. W.C. Klein, de districtsgeoloog, en F.H. van Rummelen,
+assistent-geoloog, leidden tot het vormen van een theorie over het
+ontstaan van de zg. l&amp;ouml;sspoppetjes (kalkconcreties in l&amp;ouml;ss).
+Het graven van het Julianakanaal onder Elsloo schiep voor hem de
+mogelijkheid om palaeontologisch werkzaam te zijn. Hiervan getuigen
+diverse publikaties van zijn hand. Maar ook op medisch gebied deed hij
+onderzoek en wel over de destijds veel voorkomende mijnwormziekte.&lt;/p&gt;
+&lt;p&gt;Door zijn belangstelling voor de bodem kwam hij uiteraard ook in
+aanraking met oudheidkundige vondsten. Deze hebben hem dermate geboeid,
+dat hij zich ontwikkeld heeft tot een locale archaeoloog wiens werk
+nationale betekenis heeft gekregen mede dank zij zijn goed
+gedocumenteerde collectie. Samen met zijn zoon G.A.J. Beckers
+publiceerde hij 
+&lt;em&gt;Voorgeschiedenis van Zuid-Limburg. Twintig jaren archaeologisch
+onderzoek&lt;/em&gt;
+
+(Maastricht, 1940). Het bijna 400 pagina's dikke boek bevat een
+schat aan documentatie over de verzameling Beckers. De beschrijvingen
+munten uit door exactheid, waartoe natuurwetenschappelijk
+detailonderzoek overtuigend bijdraagt. Als gevolg van het relatief
+veelvuldig optreden van bodemsporen uit de periode van de Bandceramiek
+en de Romeinse tijd is daaraan de meeste aandacht besteed. Na 1940 had
+hij nog een zeer actief aandeel in de opgravingen van de thermen in
+Heerlen.&lt;/p&gt;
+&lt;p&gt;Men zou Beckers een zeker lokaalchauvinisme kunnen aanwrijven, maar
+als men in &amp;eacute;&amp;eacute;n zijner levensberichten leest, dat hij een man
+was met een 'grote vitaliteit, die vooral gevoed werd door een
+sterk verantwoordelijkheidsgevoel, dat mede samenhing met zijn besef
+tot een oud Limburgs geslacht van korenkoningen te behoren met hun
+'noblesse oblige' tegenover individu en dorpsgemeenschap'
+dan kan men daar vrede mee hebben.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;G. Panhuysen, in 
+&lt;em&gt;De Maasgouw&lt;/em&gt;
+
+69 (1950) 1-2; A. Kessen, in 
+&lt;em&gt;Jaarboek van de Maatschappij der Nederlandse Letterkunde te Leiden
+1955-1956. Levensberichten&lt;/em&gt;
+
+39-43.&lt;/p&gt;
+&lt;p&gt;P.J.R. Modderman&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

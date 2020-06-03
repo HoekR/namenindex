@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik August Alexander Carel</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Lynden van Sandenburg</name></persName>
-    <event type="birth" when="1801-10-18">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Theodorus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Saskerus</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-06-30">
-      <place>Neerlangbroek</place>
+    <event type="death" when="1762-11-07">
+      <place></place>
     </event>
   </person>
   <biography/>

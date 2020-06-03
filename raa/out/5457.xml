@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joachim Hendrik Adolf</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Rechteren tot Rechteren</name></persName>
-    <event type="birth" when="1687">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Boekhorst</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1719-03-05">
+    <event type="death" when="1480">
       <place></place>
     </event>
   </person>

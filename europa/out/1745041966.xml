@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1745041966"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Manila nan</name> <name type="geslachtsnaam">Emminger</name></persName>
+    <event type="birth">
+      <date>02-03-1911</date>
+      <place>Ausburg</place>
+    </event>
+    <event type="death">
+      <date>03-08-1986</date>
+      <place>Manila</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

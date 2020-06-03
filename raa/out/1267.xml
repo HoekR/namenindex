@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Antonius</name> <name type="geslachtsnaam">Modderman</name></persName>
-    <event type="birth" when="1793-04-01">
-      <place>Groningen</place>
+    <persName>
+      <name type="geslachtsnaam">WEGHALEN</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-11-20">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

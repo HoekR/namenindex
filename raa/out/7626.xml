@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Arnoldus</name> <name type="geslachtsnaam">Hengst</name></persName>
-    <event type="birth" when="1750">
-      <place></place>
+    <persName><name type="voornaam">Chr&#233;tien Charles Marie Joseph Ghislain Caj&#233;tan</name> <name type="intrapositie">burggraaf de</name> <name type="geslachtsnaam">Thiennes de Rumbeke</name></persName>
+    <event type="birth" when="2012">
+      <place>Gent</place>
     </event>
-    <event type="death" when="1803">
-      <place></place>
+    <event type="death" when="1831-09-15">
+      <place>Anzegem</place>
     </event>
   </person>
   <biography/>

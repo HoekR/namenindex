@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arent</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Graef</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jasper Hendrik</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Zuylen van Nievelt</name></persName>
+    <persName>Van Zuylen van Nievelt van den Schaffelaar</persName>
+    <event type="birth" when="2011">
+      <place>Arnhem</place>
     </event>
-    <event type="death" when="1679-11-19">
-      <place></place>
+    <event type="death" when="1828-03-18">
+      <place>Barneveld</place>
     </event>
   </person>
   <biography/>

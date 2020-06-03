@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/465754538"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">D&#252;sseldorf nan</name> <name type="geslachtsnaam">Dinkelbach</name></persName>
+    <event type="birth">
+      <date>12-01-1891</date>
+      <place>M&#252;hlheim an der Ruhr</place>
+    </event>
+    <event type="death">
+      <date>25-02-1967</date>
+      <place>D&#252;sseldorf</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

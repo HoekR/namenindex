@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Beelaerts</name></persName>
-    <persName>Beelaerts van Emmichoven</persName>
-    <event type="birth" when="1772-07-08">
-      <place>Dordrecht</place>
+    <persName><name type="voornaam">Caspar</name> <name type="geslachtsnaam">Kuyper</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-07-25">
-      <place>Dordrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

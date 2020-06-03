@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Backer</name></persName>
-    <event type="birth" when="1572">
-      <place></place>
+    <persName><name type="voornaam">Joseph Charles Henri Jean-N&#233;pomuc&#232;ne</name> <name type="intrapositie">della</name> <name type="geslachtsnaam">Faille de Leverghem</name></persName>
+    <event type="birth" when="2004">
+      <place>Antwerpen</place>
     </event>
-    <event type="death" when="1643">
-      <place></place>
+    <event type="death" when="1822-03-24">
+      <place>Antwerpen</place>
     </event>
   </person>
   <biography/>

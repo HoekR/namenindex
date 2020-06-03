@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">lic.</name> <name type="voornaam">Johannes Franciscus Josephus</name> <name type="geslachtsnaam">Baesten</name></persName>
-    <event type="birth" when="1757-07-07">
-      <place>Tilburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Willemsz. - de jonge</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Boschuysen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-03-24">
-      <place>Tilburg</place>
+    <event type="death" when="1518">
+      <place></place>
     </event>
   </person>
   <biography/>

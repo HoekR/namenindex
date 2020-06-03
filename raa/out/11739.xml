@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Marinus</name> <name type="geslachtsnaam">Groeninx</name></persName>
-    <event type="birth" when="1655">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Anne Franciscus</name> <name type="geslachtsnaam">Jongstra</name></persName>
+    <event type="birth" when="2004">
+      <place>Bakhuizen</place>
     </event>
-    <event type="death" when="1730">
-      <place></place>
+    <event type="death" when="1871-05-08">
+      <place>Heerenveen</place>
     </event>
   </person>
   <biography/>

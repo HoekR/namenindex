@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Franciscus Joseph</name> <name type="geslachtsnaam">Pluymaekers</name></persName>
-    <event type="birth" when="1797-09-12">
-      <place>Heerlen</place>
+    <persName><name type="voornaam">Claes Simonsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Heemskerck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1616">
       <place></place>
     </event>
   </person>

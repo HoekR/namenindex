@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sebastiaen</name> <name type="geslachtsnaam">Reijnersz.</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Hugo</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Andel</name></persName>
+    <event type="birth" when="2004">
+      <place>Brielle</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1826-02-06">
+      <place>Nijmegen</place>
     </event>
   </person>
   <biography/>

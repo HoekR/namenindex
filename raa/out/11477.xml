@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Steenler</name></persName>
-    <event type="birth" when="1749">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johannes Theunis</name> <name type="geslachtsnaam">Roessingh Udink</name></persName>
+    <persName>Roessingh Udink van Singraven</persName>
+    <event type="birth" when="2002">
+      <place>Enschede</place>
     </event>
-    <event type="death" when="1822">
-      <place></place>
+    <event type="death" when="1858-04-13">
+      <place>Denekamp</place>
     </event>
   </person>
   <biography/>

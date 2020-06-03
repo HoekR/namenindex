@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk Rudolph</name> <name type="intrapositie">Wijckerheld</name> <name type="geslachtsnaam">Bisdom</name></persName>
-    <event type="birth" when="1740-06-27">
-      <place>Delft</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Artus</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Noort</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1814-04-03">
-      <place>Leiden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

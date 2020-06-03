@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Arnoldusz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Convent</name></persName>
-    <event type="birth" when="1703">
-      <place></place>
+    <persName><name type="voornaam">Jan Christoffel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Voss</name></persName>
+    <event type="birth" when="2004">
+      <place>Leeuwarden</place>
     </event>
-    <event type="death" when="1787-11-22">
-      <place></place>
+    <event type="death" when="1825-11-07">
+      <place>Oud Gastel</place>
     </event>
   </person>
   <biography/>

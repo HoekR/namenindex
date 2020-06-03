@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Abraham</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Meester</name></persName>
-    <event type="birth" when="1817-10-02">
-      <place>Harderwijk</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Fedde</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Bonnema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1864-03-02">
-      <place>Harderwijk</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

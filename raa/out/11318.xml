@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Paul-&#201;tienne</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Villiers du Terrage</name></persName>
-    <event type="birth" when="1774">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Alexander</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Dedem van Vosbergen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1858">
+    <event type="death" when="1798">
       <place></place>
     </event>
   </person>

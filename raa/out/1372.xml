@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Beaufort</name></persName>
-    <event type="birth" when="1807-02-26">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Simon</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Haak</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-10-30">
-      <place>Driebergen</place>
+    <event type="death" when="1705-04-28">
+      <place></place>
     </event>
   </person>
   <biography/>

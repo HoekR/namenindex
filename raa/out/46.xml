@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Hoop</name></persName>
-    <event type="birth" when="1778-04-28">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ulfert</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Sybrants</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-03-15">
-      <place>Amsterdam</place>
+    <event type="death" when="1536">
+      <place></place>
     </event>
   </person>
   <biography/>

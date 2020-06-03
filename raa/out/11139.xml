@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Harm</name> <name type="geslachtsnaam">Tamming</name></persName>
-    <event type="birth" when="1742-10-01">
-      <place>Zuidlaren</place>
+    <persName><name type="voornaam">Hendrik Philip</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Snouckaert van Schauburg</name></persName>
+    <event type="birth" when="2007">
+      <place>Nijmegen</place>
     </event>
-    <event type="death" when="1817-09-16">
-      <place>Zuidlaren</place>
+    <event type="death" when="1844-12-11">
+      <place>Soest</place>
     </event>
   </person>
   <biography/>

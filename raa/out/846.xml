@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arnold Adolf</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Bentinck</name></persName>
-    <persName>Bentinck van Nijenhuis</persName>
-    <event type="birth" when="1798-04-17">
-      <place>Wijhe</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Ulbe</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-03-02">
-      <place>Londen</place>
+    <event type="death" when="1652">
+      <place></place>
     </event>
   </person>
   <biography/>

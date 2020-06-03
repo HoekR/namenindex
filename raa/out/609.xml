@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Harm</name> <name type="geslachtsnaam">Stolte</name></persName>
-    <event type="birth" when="1797-12-22">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Hubertus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Rooseboom</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1859-11-30">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1722-04-10">
+      <place></place>
     </event>
   </person>
   <biography/>

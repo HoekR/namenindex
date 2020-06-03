@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Peter</name> <name type="geslachtsnaam">Lamers</name></persName>
-    <event type="birth" when="1747">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Arnoldus Gerbrandus</name> <name type="geslachtsnaam">Verheyen</name></persName>
+    <event type="birth" when="2010">
+      <place>Loon op Zand</place>
     </event>
-    <event type="death" when="1798">
-      <place></place>
+    <event type="death" when="1857-12-07">
+      <place>'s-Hertogenbosch</place>
     </event>
   </person>
   <biography/>

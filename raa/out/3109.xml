@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.R.</name> <name type="geslachtsnaam">Krepel</name></persName>
+    <persName><name type="voornaam">Fran&#231;ois Pierre Guillaume</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Schuylenburch</name></persName>
+    <persName>Van Schuylenburch van Bommenede</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1818">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/123"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Drs.</name> <name type="voornaam">nan</name> <name type="intrapositie">Laren (N.H.) nan</name> <name type="geslachtsnaam">Roemers</name></persName>
+    <event type="birth">
+      <date>06-02-1915</date>
+      <place>Haarlem</place>
+    </event>
+    <event type="death">
+      <date>05-02-1983</date>
+      <place>Laren (N.H.)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

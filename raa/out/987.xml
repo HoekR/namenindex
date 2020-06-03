@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">prof.dr.mr.</name> <name type="voornaam">Gerhardus</name> <name type="geslachtsnaam">Diephuis</name></persName>
-    <event type="birth" when="1817-02-06">
-      <place>Farmsum</place>
+    <persName><name type="voornaam">Johannes Jacobus</name> <name type="geslachtsnaam">Loke</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1892-11-04">
-      <place>Groningen</place>
+    <event type="death" when="1836">
+      <place></place>
     </event>
   </person>
   <biography/>

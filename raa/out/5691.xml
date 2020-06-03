@@ -8,14 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jansz.</name> <name type="intrapositie">Tedingh van</name> <name type="geslachtsnaam">Berkhout</name></persName>
-    <persName>Jan Teen</persName>
-    <persName>Jan Tedijn</persName>
-    <persName>Jan Jansz. Teengh van Berkhout</persName>
-    <event type="birth" when="1549">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Floris Raasz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Borselen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1633-05-31">
+    <event type="death">
       <place></place>
     </event>
   </person>

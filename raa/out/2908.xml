@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacques Albert Louis Frederik Carel</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Nagell</name></persName>
-    <persName>Van Nagell van Wisch</persName>
-    <event type="birth" when="1762-01-17">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Kempo Sjoerdsz.</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Wiarda</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-10-04">
-      <place>Wisch</place>
+    <event type="death" when="1625">
+      <place></place>
     </event>
   </person>
   <biography/>

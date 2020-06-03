@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Fran&#231;ois Joseph</name> <name type="intrapositie">du</name> <name type="geslachtsnaam">Bus</name></persName>
-    <event type="birth" when="1757-09-01">
-      <place>Dottignies</place>
+    <persName>
+      <name type="geslachtsnaam">Bertrand de Beaumont</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-01-17">
-      <place>Doornik</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

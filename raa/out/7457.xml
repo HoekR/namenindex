@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sjoerd</name> <name type="geslachtsnaam">Potter</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Samuel Johan</name> <name type="intrapositie">burggraaf van</name> <name type="geslachtsnaam">Limburg Stirum</name></persName>
+    <event type="birth" when="2002">
+      <place>Hoogeveen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1824-07-20">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

@@ -8,14 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dirck</name> <name type="geslachtsnaam">Fogelsangh</name></persName>
-    <persName>Theodorus Fogelsangh</persName>
-    <persName>Dirck Foegelsangh</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Arnold Jan Bernard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Suchtelen</name></persName>
+    <persName>Van Suchtelen van de Haare</persName>
+    <event type="birth" when="2010">
+      <place>Olst</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1849-01-21">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

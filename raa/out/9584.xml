@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Joost</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heemskerk</name></persName>
-    <event type="birth" when="1649">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Andreas Josephus Henricus</name> <name type="intrapositie">le</name> <name type="geslachtsnaam">Heu</name></persName>
+    <event type="birth" when="2003">
+      <place>Waspik</place>
     </event>
-    <event type="death" when="1717">
-      <place></place>
+    <event type="death" when="1833-12-01">
+      <place>Breda</place>
     </event>
   </person>
   <biography/>

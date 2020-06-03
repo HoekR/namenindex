@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Reinierus Engelbertus</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Dorth tot Medler</name></persName>
-    <event type="birth" when="1759-03-14">
-      <place>Voorst</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Karel</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Grenier</name></persName>
+    <event type="birth" when="1463">
+      <place></place>
     </event>
-    <event type="death" when="1847-09-02">
-      <place>Vorden</place>
+    <event type="death" when="1520">
+      <place></place>
     </event>
   </person>
   <biography/>

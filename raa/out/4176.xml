@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dirck Dircksz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Dussen</name></persName>
-    <event type="birth" when="1648">
+    <persName><name type="voornaam">Gerrit Claesz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Brouwer</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1689-02-05">
+    <event type="death">
       <place></place>
     </event>
   </person>

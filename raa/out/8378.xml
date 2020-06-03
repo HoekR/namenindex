@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Quirijn Taekesz.</name> <name type="geslachtsnaam">Ossekooper</name></persName>
-    <persName>Crijn Takesz. Ossekooper</persName>
-    <persName>Crijn Takesz. Osseweyer</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Gerardus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gennep</name></persName>
+    <event type="birth" when="2010">
+      <place>Rotterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1840-11-05">
+      <place>Rotterdam</place>
     </event>
   </person>
   <biography/>

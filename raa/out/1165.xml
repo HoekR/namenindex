@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Roelof</name> <name type="geslachtsnaam">Zegering</name></persName>
-    <event type="birth" when="1764">
-      <place>Odoorn</place>
+    <persName><name type="voornaam">Gabriel-Thomas-Marie</name> <name type="intrapositie">d'</name> <name type="geslachtsnaam">Arjuzon</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-09-28">
-      <place>Valthe</place>
+    <event type="death" when="1851">
+      <place></place>
     </event>
   </person>
   <biography/>

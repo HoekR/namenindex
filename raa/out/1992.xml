@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adrianus</name> <name type="geslachtsnaam">Pick&#233;</name></persName>
-    <event type="birth" when="1800-10-08">
-      <place>Goes</place>
+    <persName><name type="voornaam">Dani&#235;l</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Noordhey</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-01-24">
-      <place>Koudekerke</place>
+    <event type="death" when="1721-05-07">
+      <place></place>
     </event>
   </person>
   <biography/>

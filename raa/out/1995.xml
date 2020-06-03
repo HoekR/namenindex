@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Cornelis Reinier</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Bilt</name></persName>
-    <event type="birth" when="1817-05-01">
-      <place>Kapelle</place>
+    <persName><name type="voornaam">Adriaen</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Roosmale</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1899-05-31">
-      <place>Heinkenszand</place>
+    <event type="death" when="1740">
+      <place></place>
     </event>
   </person>
   <biography/>

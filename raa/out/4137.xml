@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jacob Godefroy</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rechteren tot Gramsbergen</name></persName>
-    <event type="birth" when="1736">
+    <persName><name type="voornaam">Jacob Dircxsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Wijnkooper</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1831-07-27">
+    <event type="death" when="1608">
       <place></place>
     </event>
   </person>

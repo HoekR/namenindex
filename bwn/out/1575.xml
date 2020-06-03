@@ -1,0 +1,84 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Ruijs, Willem (1865-1961)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn2/ruijsw"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">ruijsw</idno>
+    <persName><name type="geslachtsnaam">Ruijs</name>, Willem</persName>
+    <sex value="1"/>
+    <event type="birth" when="1865"/>
+    <event type="death" when="1961"/>
+    <state type="occupation">ondernemer</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Ruijs, Willem&lt;/strong&gt;
+
+  (bekend onder de naam &lt;b&gt;Ruys&lt;/b&gt;), zeereder, cargadoor en expediteur (Rotterdam 15-3-1865 - Rotterdam 19-6-1961).
+
+  Zoon van Willem Ruijs Wzn. (bekend onder de naam Ruys),
+  zeereder, en Maria Cankrien. Gehuwd op 10-5-1893 met Joanna
+  Cornelia Ruijs (bekend onder de naam Ruys). Uit dit huwelijk
+  werden 4 zoons en 1 dochter geboren. Na haar overlijden
+  (15-3-1915) gehuwd op 17-8-1920 met Sophia Petronella de Vries.
+  Uit dit huwelijk werden geen kinderen geboren. 
+  
+
+  
+
+  
+  &lt;/p&gt;
+&lt;p&gt;Willem genoot zijn vooropleiding te Arnhem en Voorschoten
+    om in Antwerpen hoger handelsonderwijs te kunnen ontvangen.
+    In die stad ving ook zijn praktische loopbaan in de
+    familiezaak aan. Later was hij werkzaam bij de Engelse
+    spoorwegen. In verband met zijn opneming in de firma Wm. Ruys
+    &amp;amp; Zn., op 1 januari 1892, nam hij ontslag. Uit dit
+    Engelse contact behield hij gedurende zijn gehele lange leven
+    een vrijbiljet op de Engelse spoorwegen. In de zaken van de
+    Rotterdamsche Lloyd hield Ruys zich vooral bezig met de meer
+    commerci&amp;euml;le zijde van de bedrijven van zijn familie,
+    vooral de verzorging van de passagebelangen. Daarnaast
+    verloochende zijn oude liefde voor het railvervoer zich niet.
+    Hij had een bijna legendarische kennis van de
+    spoorwegdienstregelingen, die het hem mede mogelijk maakte in
+    1927 de instelling door te zetten van de speciale
+    spoorwegverbinding 'Rotterdam Lloyd Rapide', welke boottrein
+    passagiers en post vervoerde tussen Marseille en Den Haag (in
+    1928 ook vice versa). De traditie wil dat hij, toen
+    deskundigen van de spoorwegmaatschappijen bij een complicatie
+    in de dienstregeling wanhoopten, zelf de mogelijkheid
+    aanwees, omdat hij nu eenmaal het spoorboekje 'uit zijn hoofd
+    kende'.&lt;/p&gt;
+&lt;p&gt;Ook maatschappelijk was hij actief. Zo was hij bijv.
+    bestuurslid van de Rotterdamse diergaarde. Zijn bemoeiingen
+    met zijn steeds groeiend bedrijf, dat in 1947 het predicaat
+    'Koninklijke' verwierf, werden gekenmerkt door
+    belangstelling, die zijn warme hart, gesteund door grote
+    mensenkennis, hem ingaf voor alle medewerkers. Na zijn
+    terugtreden uit de directie in 1940 bleef hij tot zijn dood
+    commissaris, in welke hoedanigheid hij ook enkele andere
+    ondernemingen heeft gediend.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;A. Hoynck van Papendrecht, 
+  &lt;em&gt;De zeilvloot van Willem Ruys Jan Danielszoon en de
+  Rotterdamsche Lloyd&lt;/em&gt;
+
+  (Rotterdam, 1933); F.W.G. Leeman, 
+  &lt;em&gt;Van barkschip tot &amp;quot;Willem Ruys&amp;quot; 120 jaar zeevaart...&lt;/em&gt;
+
+  [Rotterdam, 1961]; idem, in 
+  &lt;em&gt;Rotterdams Jaarboekje&lt;/em&gt;
+
+  6e reeks 10 (1962) 244-246.&lt;/p&gt;
+&lt;p&gt;W.F. Lichtenauer&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

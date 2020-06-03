@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Josephus</name> <name type="geslachtsnaam">Meijer</name></persName>
+    <persName><name type="voornaam">Franciscus Carolus Christiaan</name> <name type="geslachtsnaam">Oettinger</name></persName>
     <event type="birth">
-      <place></place>
+      <place>Yperen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1822-10-27">
+      <place>Amersfoort</place>
     </event>
   </person>
   <biography/>

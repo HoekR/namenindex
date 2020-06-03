@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Godfried Karel Joseph</name> <name type="geslachtsnaam">Bloemarts</name></persName>
-    <persName>Bloemaerts</persName>
+    <persName><name type="voornaam">Gilles</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Bempden</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1748-01-20">
       <place></place>
     </event>
   </person>

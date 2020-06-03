@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rhemen tot Rhemenshuizen</name></persName>
-    <event type="birth" when="1682">
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Valke</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1748-11-15">
+    <event type="death" when="1603-09-07">
       <place></place>
     </event>
   </person>

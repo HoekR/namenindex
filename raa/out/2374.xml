@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Henricus Cornelius</name> <name type="geslachtsnaam">Huyser</name></persName>
-    <event type="birth" when="1807-12-17">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbrecht II</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Abcoude</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1865-09-15">
-      <place>Leiden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

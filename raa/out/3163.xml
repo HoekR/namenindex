@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik Carl David</name> <name type="geslachtsnaam">Bauer</name></persName>
-    <event type="birth" when="1790-12-04">
-      <place>Zutphen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">H.</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Schotanus &#224; Sterringa</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-10-11">
-      <place>Arnhem</place>
+    <event type="death" when="1678">
+      <place></place>
     </event>
   </person>
   <biography/>

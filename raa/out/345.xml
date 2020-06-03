@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Danker Amijs</name> <name type="geslachtsnaam">Haringman</name></persName>
-    <event type="birth" when="1757-05-05">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Cornelis Hendriksz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Weldam</name></persName>
+    <persName>Hendrikse</persName>
+    <event type="birth" when="1498">
+      <place></place>
     </event>
-    <event type="death" when="1840-12-02">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1561">
+      <place></place>
     </event>
   </person>
   <biography/>

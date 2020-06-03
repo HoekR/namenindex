@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Paul Engelbrecht</name> <name type="intrapositie">baron van Hangest d'</name> <name type="geslachtsnaam">Yvoy</name></persName>
-    <event type="birth" when="1776-08-20">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Foppius</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Wigeri</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1843-04-19">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ephraim Daniel</name> <name type="geslachtsnaam">Pichot</name></persName>
-    <event type="birth" when="1753-01-21">
-      <place>Paramaribo</place>
+    <persName><name type="voornaam">Gerrit Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Zuylen van Nievelt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-02-27">
-      <place>Maastricht</place>
+    <event type="death" when="1814">
+      <place></place>
     </event>
   </person>
   <biography/>

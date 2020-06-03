@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joseph Charles Emmanuel</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Ertborn</name></persName>
-    <event type="birth" when="1778-11-22">
-      <place>Antwerpen</place>
+    <persName><name type="voornaam">Willem Willemsz.</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Jonge</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-09-01">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1604">
+      <place></place>
     </event>
   </person>
   <biography/>

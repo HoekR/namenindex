@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirck Albertsz.</name> <name type="geslachtsnaam">Ruyter</name></persName>
+    <persName><name type="voornaam">Cornelis Jan Wouter</name> <name type="geslachtsnaam">Nahuys</name></persName>
+    <persName>Nahuys van Burgst</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1639">
+    <event type="death" when="1831">
       <place></place>
     </event>
   </person>

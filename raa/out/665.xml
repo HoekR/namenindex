@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Elisa Cornelis Unico</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Doorn</name></persName>
-    <event type="birth" when="1799-10-13">
-      <place>Oisterwijk</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Leeuwen</name></persName>
+    <persName>Dirk van Leiden</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-08-02">
-      <place>Maarn</place>
+    <event type="death" when="1596">
+      <place></place>
     </event>
   </person>
   <biography/>

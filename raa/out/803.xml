@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Gabriel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ghert</name></persName>
-    <event type="birth" when="1782-03-17">
-      <place>Baarle-Nassau</place>
+    <persName><name type="voornaam">Willem Jansz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Schuylenburch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-03-19">
+    <event type="death" when="1755-10-01">
       <place></place>
     </event>
   </person>

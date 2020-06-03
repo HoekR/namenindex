@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer dr.</name> <name type="voornaam">Johan Johansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Egmond van de Nijenburg</name></persName>
-    <event type="birth" when="1646">
+    <persName><name type="voornaam">Marinus</name> <name type="geslachtsnaam">Geene</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1690-04-03">
+    <event type="death" when="1806">
       <place></place>
     </event>
   </person>

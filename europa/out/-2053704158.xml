@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-2053704158"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Jan</name> <name type="intrapositie">Oosterhout, N-Br. nan</name> <name type="geslachtsnaam">Mertens</name></persName>
+    <event type="birth">
+      <date>14-07-1916</date>
+      <place>Dongen</place>
+    </event>
+    <event type="death">
+      <date>02-08-2000</date>
+      <place>Oosterhout, N-Br.</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

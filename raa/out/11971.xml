@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ludovicus Johannes</name> <name type="geslachtsnaam">Bono</name></persName>
-    <event type="birth" when="1764">
+    <persName><name type="voornaam">Henrick</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Markel</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1702">
       <place></place>
     </event>
   </person>

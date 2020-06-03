@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacobus</name> <name type="geslachtsnaam">Scheltema</name></persName>
-    <event type="birth" when="1767-03-14">
-      <place>Franeker</place>
+    <persName><name type="voornaam">Hendrik Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bulderen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1835-10-25">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

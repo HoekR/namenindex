@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Hendricus Arnoldus</name> <name type="geslachtsnaam">Diepen</name></persName>
-    <event type="birth" when="1815-06-11">
-      <place>Tilburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Albrecht Hendriksz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Naaldwijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1897-06-20">
-      <place>Tilburg</place>
+    <event type="death" when="1464">
+      <place></place>
     </event>
   </person>
   <biography/>

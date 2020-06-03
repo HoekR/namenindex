@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frederik junior</name> <name type="geslachtsnaam">Ledeman</name></persName>
-    <event type="birth" when="1788">
+    <persName><name type="voornaam">Nicolaes Woutersz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Meer</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1637">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes</name> <name type="geslachtsnaam">Tonckens</name></persName>
-    <event type="birth" when="1784-01-16">
-      <place>Westervelde</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Valerius</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Glinstra</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-04-29">
-      <place>Westervelde</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Anne</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Schimmelpenninck van der Oye</name></persName>
-    <persName>Schimmelpenninck van der Oye van den Poll</persName>
-    <event type="birth" when="1800-01-06">
-      <place>Doesburg</place>
+    <persName><name type="voornaam">Dirk</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hogendorp</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-12-12">
-      <place>Voorst</place>
+    <event type="death" when="1822">
+      <place></place>
     </event>
   </person>
   <biography/>

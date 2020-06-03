@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/309164411"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Lord</name> <name type="voornaam">nan</name> <name type="intrapositie">Oxford nan</name> <name type="geslachtsnaam">Beveridge</name></persName>
+    <event type="birth">
+      <date>05-03-1879</date>
+      <place>Rangpur (India)</place>
+    </event>
+    <event type="death">
+      <date>16-03-1963</date>
+      <place>Oxford</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

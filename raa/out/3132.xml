@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Peter Godfried Mathijs</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Man</name></persName>
-    <event type="birth" when="1814-05-03">
-      <place>Nijmegen</place>
+    <persName><name type="voornaam">Reinier</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Duin</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-02-01">
-      <place>Nijmegen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

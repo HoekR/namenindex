@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/671053119"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">Fons</name> <name type="intrapositie">'s-Gravenhage van der</name> <name type="geslachtsnaam">Stee</name></persName>
+    <event type="birth">
+      <date>30-07-1928</date>
+      <place>Langeweg (Terheijden)</place>
+    </event>
+    <event type="death">
+      <date>09-09-1999</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

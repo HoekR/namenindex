@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Bruno Nicolaesz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Waerthuysen</name></persName>
-    <event type="birth" when="1623">
+    <persName><name type="voornaam">Adriaen Cornelisz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Jonghknecht</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1679-01-12">
+    <event type="death" when="1679">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/735"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">pater Didimyus</name> <name type="intrapositie">Nijmegen nan</name> <name type="geslachtsnaam">Beaufort OFM</name></persName>
+    <event type="birth">
+      <date>24-03-1890</date>
+      <place>Haarlem</place>
+    </event>
+    <event type="death">
+      <date>09-06-1965</date>
+      <place>Nijmegen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

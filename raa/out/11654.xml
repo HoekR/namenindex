@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Frederik Willem</name> <name type="geslachtsnaam">Chion</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adolph</name> <name type="geslachtsnaam">Ypeij</name></persName>
+    <event type="birth" when="2004">
+      <place>Leeuwarden</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1875-11-04">
+      <place>Leeuwarden</place>
     </event>
   </person>
   <biography/>

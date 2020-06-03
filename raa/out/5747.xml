@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lammert Jochems</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sloten</name></persName>
-    <event type="birth" when="1745">
+    <persName><name type="voornaam">Daniel Danielsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Alphen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1733-10-07">
       <place></place>
     </event>
   </person>

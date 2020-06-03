@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arent</name> <name type="geslachtsnaam">Boymer</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Godefridus Franciscus Antonius Henricus Cornelius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hugenpoth tot Aerdt</name></persName>
+    <event type="birth" when="2002">
+      <place>Herwen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1819-07-27">
+      <place>Herwen</place>
     </event>
   </person>
   <biography/>

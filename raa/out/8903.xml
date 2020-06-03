@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Joannes Jacobsz.</name> <name type="geslachtsnaam">Mars van Hoorn</name></persName>
+    <persName><name type="voornaam">Pieter jr.</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Schilder</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1689-09-16">
       <place></place>
     </event>
   </person>

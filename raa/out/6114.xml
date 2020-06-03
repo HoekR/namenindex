@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antony Coenraad Willem</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Haersolte</name></persName>
-    <persName>Van Haersolte tot den Doorn</persName>
-    <event type="birth" when="1760-04-10">
-      <place>Zutphen</place>
+    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Boss&#233;e</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-10-28">
-      <place>Zwolle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

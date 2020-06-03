@@ -8,13 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Philippe</name> <name type="geslachtsnaam">Fabri</name></persName>
-    <persName>Philippe le Febre</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Nicolaas</name> <name type="geslachtsnaam">Steengracht</name></persName>
+    <persName>Steengracht van Oosterland</persName>
+    <event type="birth" when="2011">
+      <place>Middelburg</place>
     </event>
-    <event type="death" when="1559">
-      <place></place>
+    <event type="death" when="1840-12-13">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

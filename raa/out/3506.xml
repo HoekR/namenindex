@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sijmon Pietersz.</name> <name type="geslachtsnaam">Meijer</name></persName>
+    <persName><name type="voornaam">Simon</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hulshout</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1632">
+    <event type="death" when="1717-04-29">
       <place></place>
     </event>
   </person>

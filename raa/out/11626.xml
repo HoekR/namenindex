@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Franciscus Henricus</name> <name type="geslachtsnaam">Moorrees</name></persName>
-    <event type="birth" when="1755-06-08">
-      <place>Nijmegen</place>
+    <persName><name type="voornaam">Robbert Adolf Borchard Jan</name> <name type="geslachtsnaam">Sloet</name></persName>
+    <persName>Sloet van Westerholt</persName>
+    <event type="birth" when="2007">
+      <place>Zutphen</place>
     </event>
-    <event type="death" when="1828-12-03">
-      <place>Utrecht</place>
+    <event type="death" when="1816-11-13">
+      <place>Westerholt</place>
     </event>
   </person>
   <biography/>

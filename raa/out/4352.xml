@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adolf</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Meurs</name></persName>
-    <persName>NIeuwenaar</persName>
+    <persName><name type="voornaam">Cornelis Dingemansz.</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Vries</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1589">
+    <event type="death" when="1681">
       <place></place>
     </event>
   </person>

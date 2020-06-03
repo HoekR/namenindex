@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Nicolaas Alexander Frederik Karel Hendrik</name> <name type="intrapositie">prins van</name> <name type="geslachtsnaam">Oranje-Nassau</name></persName>
-    <persName>prins Willem</persName>
-    <event type="birth" when="1840-09-04">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Cornelisz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-06-11">
-      <place>Parijs</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

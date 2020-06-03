@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
-    <event type="birth" when="1774">
+    <persName><name type="voornaam">Gaspar</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Kinschot</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1855-05-12">
-      <place>Meppel</place>
+    <event type="death" when="1654-05-07">
+      <place></place>
     </event>
   </person>
   <biography/>

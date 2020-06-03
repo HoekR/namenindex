@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1053284429"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Luxemburg-Stad nan</name> <name type="geslachtsnaam">B&#252;chler</name></persName>
+    <event type="birth">
+      <date>06-07-1908</date>
+      <place>Haler</place>
+    </event>
+    <event type="death">
+      <date>07-09-1993</date>
+      <place>Luxemburg-Stad</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

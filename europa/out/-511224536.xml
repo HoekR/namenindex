@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-511224536"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Brussel nan</name> <name type="geslachtsnaam">Cahen</name></persName>
+    <event type="birth">
+      <date>28-09-1929</date>
+      <place>Elsene</place>
+    </event>
+    <event type="death">
+      <date>19-04-2000</date>
+      <place>Brussel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

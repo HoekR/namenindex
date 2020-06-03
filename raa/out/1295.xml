@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ubbo Evers</name> <name type="geslachtsnaam">Stheeman</name></persName>
-    <event type="birth" when="1776-08-24">
-      <place>Scheemda</place>
+    <persName><name type="voornaam">P.</name> <name type="geslachtsnaam">Lorentz</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-07-20">
-      <place>Scheemda</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

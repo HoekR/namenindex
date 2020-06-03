@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Baertsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Steenhuysen</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan heren Jansz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Leyenburg</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1662">
+    <event type="death">
       <place></place>
     </event>
   </person>

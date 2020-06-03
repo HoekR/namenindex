@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">T.A.</name> <name type="geslachtsnaam">Gerlacius van Stedum</name></persName>
+    <persName><name type="voornaam">Arnoldus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gennep</name></persName>
+    <persName>Van Gennip</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1817">
+    <event type="death" when="1846">
       <place></place>
     </event>
   </person>

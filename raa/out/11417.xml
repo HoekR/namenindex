@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirk Bruynsz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Dussen</name></persName>
-    <event type="birth" when="1612">
-      <place></place>
+    <persName><name type="voornaam">Franciscus Egon Philippus Joannes</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">B&#246;nninghausen</name></persName>
+    <persName>Von B&#246;nninghausen van Herinkhave</persName>
+    <event type="birth" when="2003">
+      <place>Fleringen</place>
     </event>
-    <event type="death" when="1668-01-12">
-      <place></place>
+    <event type="death" when="1849-10-04">
+      <place>Fleringen</place>
     </event>
   </person>
   <biography/>

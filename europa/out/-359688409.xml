@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-359688409"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">baron</name> <name type="voornaam">nan</name> <name type="intrapositie">Kortenberg de</name> <name type="geslachtsnaam">Vleeschauwer van Braekel</name></persName>
+    <event type="birth">
+      <date>01-01-1897</date>
+      <place>Nederbrakel</place>
+    </event>
+    <event type="death">
+      <date>24-02-1971</date>
+      <place>Kortenberg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

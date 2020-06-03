@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Otto Jacob</name> <name type="intrapositie">Vorsselman de</name> <name type="geslachtsnaam">Heer</name></persName>
-    <event type="birth" when="1811-03-04">
+    <persName><name type="voornaam">Johan Dircksz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Vesanevelt</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1862-11-08">
+    <event type="death" when="1693-06-12">
       <place></place>
     </event>
   </person>

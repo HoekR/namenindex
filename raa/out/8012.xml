@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Paulus</name> <name type="geslachtsnaam">Gasinjet</name></persName>
-    <persName>Gazinget</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Albrecht Jansz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Wissenkerke</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1492">
       <place></place>
     </event>
   </person>

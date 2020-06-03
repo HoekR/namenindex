@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-261287198"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Eban</name></persName>
+    <event type="birth">
+      <date>02-02-1915</date>
+      <place>Kaapstad</place>
+    </event>
+    <event type="death">
+      <date>17-11-2002</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

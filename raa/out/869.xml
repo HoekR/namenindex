@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Johan Pieter</name> <name type="intrapositie">Cornets de</name> <name type="geslachtsnaam">Groot van Kraaijenburg</name></persName>
-    <event type="birth" when="1808-04-06">
-      <place>Groningen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Hobbe Dircksz.</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Baerdt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-07-23">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1655-11-05">
+      <place></place>
     </event>
   </person>
   <biography/>

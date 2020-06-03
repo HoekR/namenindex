@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Aert Jansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Herwaerden</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Johannes Nicolaas</name> <name type="geslachtsnaam">Diert van Leefdael</name></persName>
+    <event type="birth" when="2005">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1671-09-03">
-      <place></place>
+    <event type="death" when="1826-02-20">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

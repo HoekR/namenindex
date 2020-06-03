@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Auguste Charles Joseph</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Janti</name></persName>
-    <event type="birth" when="1784-08-05">
-      <place>Sint Goedele</place>
+    <persName><name type="voornaam">Willem Sybrandsz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Lelij</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-10-08">
-      <place>Sint-Joost-ten-Node</place>
+    <event type="death" when="1772-03-27">
+      <place></place>
     </event>
   </person>
   <biography/>

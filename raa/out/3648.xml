@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Vos</name></persName>
-    <event type="birth" when="1746-04-21">
-      <place>Assen</place>
+    <persName><name type="voornaam">Caspar</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Clotterbooke</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-05-07">
-      <place>Nijeveen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

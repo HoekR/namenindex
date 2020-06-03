@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bernardus Aloysius</name> <name type="geslachtsnaam">Reigers</name></persName>
-    <event type="birth" when="1819-09-29">
-      <place>Ulft</place>
+    <persName><name type="voornaam">Dirk Maartensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Westerhout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1895-03-25">
-      <place>Ulft</place>
+    <event type="death" when="1638-10-22">
+      <place></place>
     </event>
   </person>
   <biography/>

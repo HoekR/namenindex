@@ -8,16 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerardt</name> <name type="geslachtsnaam">Doedesz.</name></persName>
-    <persName>Gerardt Deuse</persName>
-    <persName>Gerardt Doesze</persName>
-    <persName>Gerardt Deusze</persName>
-    <persName>Gerardt Duesen</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis Philip</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lidth de Jeude</name></persName>
+    <event type="birth" when="2004">
+      <place>Tiel</place>
     </event>
-    <event type="death" when="1595">
-      <place></place>
+    <event type="death" when="1830-02-27">
+      <place>Tiel</place>
     </event>
   </person>
   <biography/>

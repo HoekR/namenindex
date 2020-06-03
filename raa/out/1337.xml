@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anthonius</name> <name type="geslachtsnaam">Lijphart</name></persName>
-    <event type="birth" when="1828-02-04">
-      <place>Appingedam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Wilhelmus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Hillebrandts</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1899-12-27">
-      <place>Winschoten</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

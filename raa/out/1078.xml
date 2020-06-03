@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Leopold Frans Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Cooth</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Johan Edzard</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Douma</name></persName>
+    <persName>Idzard van Douma</persName>
+    <persName>Erasmus van Douma</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1840-05-24">
+    <event type="death" when="1676-07-26">
       <place></place>
     </event>
   </person>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arnoldus Johannes Josephus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Roy van Zuydewijn</name></persName>
-    <persName>De Roy van Zuydewijn-Capelle</persName>
-    <event type="birth" when="1798-10-10">
-      <place>Breda</place>
+    <persName><name type="voornaam">Herman Jacob</name> <name type="geslachtsnaam">Dijckmeester</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-08-21">
-      <place>Vrijhoeve-Capelle</place>
+    <event type="death" when="1850">
+      <place></place>
     </event>
   </person>
   <biography/>

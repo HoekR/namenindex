@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Kymmell</name></persName>
-    <event type="birth" when="1784-07-24">
-      <place>Havelte</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Reynier</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Frankena</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-05-06">
-      <place>Meppel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

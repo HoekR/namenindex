@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/609304979"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Hamburg nan</name> <name type="geslachtsnaam">Dahlgr&#252;n</name></persName>
+    <event type="birth">
+      <date>19-05-1908</date>
+      <place>Hannover</place>
+    </event>
+    <event type="death">
+      <date>19-12-1919</date>
+      <place>Hamburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

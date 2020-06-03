@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Sibout</name> <name type="geslachtsnaam">Schmolck</name></persName>
-    <event type="birth" when="1806">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Cornelis Heyndricksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Verwer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1691-05-15">
+      <place></place>
     </event>
   </person>
   <biography/>

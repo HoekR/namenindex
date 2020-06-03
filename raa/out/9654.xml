@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pancratius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Castricum</name></persName>
+    <persName><name type="voornaam">Alexander Willem</name> <name type="geslachtsnaam">Swart</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1619-04-16">
+    <event type="death">
       <place></place>
     </event>
   </person>

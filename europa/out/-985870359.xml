@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-985870359"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">drs.</name> <name type="voornaam">Sjef</name> <name type="intrapositie">Tunis nan</name> <name type="geslachtsnaam">Theunis</name></persName>
+    <event type="birth">
+      <date>1942</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>24-05-1993</date>
+      <place>Tunis</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

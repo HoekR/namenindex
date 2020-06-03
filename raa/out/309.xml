@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frank</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Goes</name></persName>
-    <event type="birth" when="1772-12-17">
-      <place>Delft</place>
+    <persName><name type="voornaam">Rutger Jan</name> <name type="geslachtsnaam">Schimmelpenninck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-02-01">
-      <place>Kleef</place>
+    <event type="death" when="1825">
+      <place></place>
     </event>
   </person>
   <biography/>

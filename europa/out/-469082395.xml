@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-469082395"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Locust Valley, NY nan</name> <name type="geslachtsnaam">Lovett</name></persName>
+    <event type="birth">
+      <date>14-09-1895</date>
+      <place>Huntsville, Texas</place>
+    </event>
+    <event type="death">
+      <date>07-05-1986</date>
+      <place>Locust Valley, NY</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

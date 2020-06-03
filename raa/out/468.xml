@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Tiete Solkes</name> <name type="geslachtsnaam">Tromp</name></persName>
-    <event type="birth" when="1786-02-25">
-      <place>Woudsend</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Poelgeest van Homade</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-12-17">
-      <place>Leeuwarden</place>
+    <event type="death" when="1614">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Eugene Jean Alexandre</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Bylandt</name></persName>
-    <event type="birth" when="1807-07-01">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Cornelis Claesz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Brouwer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-02-21">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1636">
+      <place></place>
     </event>
   </person>
   <biography/>

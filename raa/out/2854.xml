@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Guillaume Ernest</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Arschot Schoonhoven</name></persName>
-    <event type="birth" when="1800-07-06">
-      <place>Voordt</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bartoud</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gerritsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-07-03">
-      <place>Ollignies</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

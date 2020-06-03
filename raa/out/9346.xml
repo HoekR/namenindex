@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lodewijk Arend</name> <name type="geslachtsnaam">Sloet tot de Hare</name></persName>
-    <event type="birth" when="1688">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter Samuel</name> <name type="geslachtsnaam">Dedel</name></persName>
+    <event type="birth" when="2010">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1720-02-24">
-      <place></place>
+    <event type="death" when="1851-08-11">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

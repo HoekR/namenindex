@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Kuyper</name></persName>
-    <event type="birth" when="1802-09-01">
-      <place>Wormer</place>
+    <persName><name type="voornaam">Jacobus</name> <name type="geslachtsnaam">Dominicus</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-06-25">
-      <place>Zaandijk</place>
+    <event type="death" when="1805">
+      <place></place>
     </event>
   </person>
   <biography/>

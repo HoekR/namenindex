@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Beerent</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wiedenburg</name></persName>
-    <persName>Pieter Beerent van Widenbrug</persName>
-    <persName>Pieter Beerent van Wijdenbrugh</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Joannes Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Reenen</name></persName>
+    <event type="birth" when="2003">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1764-09-30">
-      <place></place>
+    <event type="death" when="1852-10-10">
+      <place>Loosdrecht</place>
     </event>
   </person>
   <biography/>

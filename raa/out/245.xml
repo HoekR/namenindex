@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bernardus Josephus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Sonsbeeck</name></persName>
-    <event type="birth" when="1772-03-05">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Anne Jean Marie Ren&#233;</name> <name type="geslachtsnaam">Savary</name></persName>
+    <persName>Savary, Duc de Rovigo</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-01-03">
-      <place>Zwolle</place>
+    <event type="death" when="1833">
+      <place></place>
     </event>
   </person>
   <biography/>

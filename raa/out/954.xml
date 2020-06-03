@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Douwe Jan Andries</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Harinxma thoe Slooten</name></persName>
-    <event type="birth" when="1806-04-12">
-      <place>Holwerd</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Bocco</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Burmania</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1879-02-10">
-      <place>Leeuwarden</place>
+    <event type="death" when="1628">
+      <place></place>
     </event>
   </person>
   <biography/>

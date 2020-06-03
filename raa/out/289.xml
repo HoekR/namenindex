@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Mattheus Gilles</name> <name type="geslachtsnaam">Rees</name></persName>
-    <event type="birth" when="1753-11-17">
-      <place>Dordrecht</place>
+    <persName><name type="voornaam">Lodewijk</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Toulon</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1817-10-21">
-      <place>Dordrecht</place>
+    <event type="death" when="1840">
+      <place></place>
     </event>
   </person>
   <biography/>

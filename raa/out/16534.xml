@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/16534"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dani&#235;l</name> <name type="intrapositie">de Blocq Haersma van</name> <name type="geslachtsnaam">Sminia</name></persName>
+    <event type="birth" when="2005">
+      <place>Leeuwarden</place>
+    </event>
+    <event type="death" when="1861-10-17">
+      <place>Leeuwarden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Carolus</name> <name type="intrapositie">van der Meer</name> <name type="geslachtsnaam">Mohr</name></persName>
-    <event type="birth" when="1790-04-13">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Suffridus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Rispens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-05-05">
-      <place>Goes</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

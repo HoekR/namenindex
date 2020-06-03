@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Rudolph Willem</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Goltstein</name></persName>
-    <persName>Van Goltstein van Oldenaller</persName>
-    <event type="birth" when="1790-03-10">
-      <place>Arnhem</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Gerrold</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Herema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-10-24">
-      <place>Putten</place>
+    <event type="death" when="1538">
+      <place></place>
     </event>
   </person>
   <biography/>

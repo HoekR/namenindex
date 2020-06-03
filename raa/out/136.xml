@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albrecht Fredrik</name> <name type="geslachtsnaam">Insinger</name></persName>
-    <event type="birth" when="1788-08-28">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Hugenz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Dam</name></persName>
+    <event type="birth" when="1513">
+      <place></place>
     </event>
-    <event type="death" when="1872-03-12">
-      <place>Amsterdam</place>
+    <event type="death" when="1568">
+      <place></place>
     </event>
   </person>
   <biography/>

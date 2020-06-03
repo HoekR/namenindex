@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Livius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Scheltinga</name></persName>
-    <event type="birth" when="1589">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Ludolf</name> <name type="geslachtsnaam">Wichers</name></persName>
+    <event type="birth" when="2002">
+      <place>Groningen</place>
     </event>
-    <event type="death" when="1650-12-17">
-      <place></place>
+    <event type="death" when="1840-05-13">
+      <place>Groningen</place>
     </event>
   </person>
   <biography/>

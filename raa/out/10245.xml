@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Theodorus Egbertus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Marle</name></persName>
-    <event type="birth" when="1741">
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sippe</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Meckema</name></persName>
+    <persName>Scipio van Meckema</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1600">
       <place></place>
     </event>
   </person>

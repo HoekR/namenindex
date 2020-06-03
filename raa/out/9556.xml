@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Reinier</name> <name type="geslachtsnaam">Schaep</name></persName>
-    <event type="birth" when="1656">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Carel Gideon</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Brugghen</name></persName>
+    <persName>Van der Brugghen van Croy</persName>
+    <event type="birth" when="2004">
+      <place>Colombo</place>
     </event>
-    <event type="death" when="1734-07-02">
-      <place></place>
+    <event type="death" when="1828-09-29">
+      <place>Aarle-Rixtel</place>
     </event>
   </person>
   <biography/>

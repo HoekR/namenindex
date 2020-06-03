@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Augustus Everardus Danielus Fredericus</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Voorst tot Voorst</name></persName>
-    <persName>Van Voorst tot Voorst en Ploen</persName>
-    <event type="birth" when="1807-08-01">
-      <place>Zevenaar</place>
+    <persName><name type="voornaam">Gerard Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Marle</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-06-15">
-      <place>Nijmegen</place>
+    <event type="death" when="1799">
+      <place></place>
     </event>
   </person>
   <biography/>

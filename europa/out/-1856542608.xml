@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1856542608"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Prof.mr.</name> <name type="voornaam">Andr&#233;</name> <name type="intrapositie">Amersfoort nan</name> <name type="geslachtsnaam">Donner</name></persName>
+    <event type="birth">
+      <date>15-06-1918</date>
+      <place>Rotterdam</place>
+    </event>
+    <event type="death">
+      <date>24-08-1992</date>
+      <place>Amersfoort</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

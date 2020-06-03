@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Frederik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Liere</name></persName>
-    <persName>Frederik de Lier</persName>
+    <persName><name type="voornaam">A.W.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Beveren</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1692-05-28">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Borchard Herman</name> <name type="geslachtsnaam">Gansneb genaamd Tengnagel tot Luttenberg</name></persName>
-    <event type="birth" when="1731">
+    <persName><name type="voornaam">Salomon</name> <name type="intrapositie">ten Bokkel</name> <name type="geslachtsnaam">Huinink</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1787-02-25">
+    <event type="death" when="1826">
       <place></place>
     </event>
   </person>

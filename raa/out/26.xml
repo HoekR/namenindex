@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Gerard George</name> <name type="geslachtsnaam">Clifford</name></persName>
-    <event type="birth" when="1779-02-16">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Henricus</name> <name type="geslachtsnaam">Aeneae</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-03-07">
-      <place>Arnhem</place>
+    <event type="death" when="1810">
+      <place></place>
     </event>
   </person>
   <biography/>

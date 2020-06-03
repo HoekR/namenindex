@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Berent</name> <name type="geslachtsnaam">Eekhout</name></persName>
-    <event type="birth" when="1782-12-11">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Henricus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Dompselaar</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-04-01">
-      <place>Zwolle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

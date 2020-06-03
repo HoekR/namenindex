@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Willem Otto</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Dorsser</name></persName>
-    <event type="birth" when="1805-05-25">
-      <place>Dordrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Lek</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-05-11">
-      <place>Dordrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

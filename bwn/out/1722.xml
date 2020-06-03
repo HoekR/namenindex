@@ -1,0 +1,66 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Spit, Nicolaus Bartholomeus Petrus (1853-1929)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/spit"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">spit</idno>
+    <persName><name type="geslachtsnaam">Spit</name>, Nicolaus Bartholomeus Petrus</persName>
+    <sex value="1"/>
+    <event type="birth" when="1853"/>
+    <event type="death" when="1929"/>
+    <state type="occupation">oud-katholiek bisschop</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Spit, Nicolaus Bartholomeus Petrus&lt;/strong&gt;, oud-katholiek pastoor en bisschop van Deventer (Enkhuizen 9-3-1853 - Amersfoort 24-5-1929).
+
+Zoon van Hendricus Spit, winkelier, en Geertruida Maria van der Veer.
+Ongehuwd.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Na zijn opleiding aan het oud-katholiek seminarie te Amersfoort werd
+hij in 1879 priester gewijd. Was kapelaan in Amersfoort en Egmond aan
+Zee. In de laatstgenoemde plaats had hij een belangrijk aandeel in het
+tot stand komen van een nieuw kerkgebouw. In 1884 werd hij benoemd tot
+pastoor van de gemeente van de H.H. Petrus en Paulus te Rotterdam,
+genaamd 'Het Paradijs'. Hier nam hij met o.a. pastoor J.A. van
+Beek het initiatief tot het oprichten van 
+&lt;em&gt;De Oud-Katholiek.&lt;/em&gt;
+
+Tijdens zijn pastoraat werd de schuilkerk in de oude stad vervangen
+door een nieuw bedehuis aan de Nieuwe Binnenweg (1910). Nadat hij in
+1892 lid geworden was van het Metropolitaan Kapittel vond in 1894 zijn
+benoeming plaats tot bisschop van Deventer, een functie, die hij naast
+zijn pastoraat in Rotterdam uitoefende. Hij koos als zinspreuk de
+woorden uit Psalm 73, 28: Spem Posui In Te (Op U Heer heb ik mijn hoop
+gevestigd. In de Vulgaat Ps. 72, 28). In 1913 werd hij deken van het
+Metropolitaan Kapittel en aartspriester van Schieland en Zuid-Holland.
+In 1922 trok hij zich terug uit het pastoraat en vestigde zich te
+Amersfoort. Zijn laatste levensjaren werden gekenschetst door een
+toenemende doofheid en slechtziendheid.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;
+  &lt;em&gt;Waarheid en Liefde. Amalie von Lasaulx of Zuster Augustine.&lt;/em&gt;
+
+(Rotterdam, 1891); 
+&lt;em&gt;Lezingen en Gebeden voor en na de Heilige Communie&lt;/em&gt;
+
+(Rotterdam, 1899).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;
+  &lt;em&gt;De Oud-Katholiek&lt;/em&gt;
+
+45 (1929) 23 (8 juni) 170-173.&lt;/p&gt;
+&lt;p&gt;P.J. Maan&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

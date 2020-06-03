@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bertram Philip Sigismund Albrecht</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Gronsfeld</name></persName>
-    <persName>Bertram Philip Sigismund Albrecht graaf van Gronsfeld Diepenbroick Impel</persName>
-    <event type="birth" when="1715">
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mulert tot Baeckenhagen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1772-11-14">
+    <event type="death" when="1673-04-15">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gijsbert Lucas</name> <name type="intrapositie">Geerlig van</name> <name type="geslachtsnaam">Fridagh</name></persName>
-    <persName>Vrijdag</persName>
-    <event type="birth" when="1756">
+    <persName><name type="voornaam">Gerben</name> <name type="geslachtsnaam">Boeles</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1806">
+    <event type="death" when="1808">
       <place></place>
     </event>
   </person>

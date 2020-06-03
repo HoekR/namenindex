@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Naaldwijk</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Stephanus Bernardus</name> <name type="geslachtsnaam">Jantzon</name></persName>
+    <persName>Jantzon van Nieuwland</persName>
+    <event type="birth" when="2011">
+      <place>Breda</place>
     </event>
-    <event type="death" when="1444">
-      <place></place>
+    <event type="death" when="1828-07-19">
+      <place>Breda</place>
     </event>
   </person>
   <biography/>

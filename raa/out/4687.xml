@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christiaan Everhard</name> <name type="geslachtsnaam">Weits</name></persName>
+    <persName><name type="voornaam">Paulus</name> <name type="geslachtsnaam">Graafman</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1793">
+    <event type="death">
       <place></place>
     </event>
   </person>

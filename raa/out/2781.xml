@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Peter Joseph</name> <name type="geslachtsnaam">Berger</name></persName>
-    <event type="birth" when="1798-10-02">
-      <place>Vierssen (Pruisen)</place>
+    <persName><name type="voornaam">Abraham Pietersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boom</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1865-12-15">
-      <place>Venlo</place>
+    <event type="death" when="1642">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Bakker</name></persName>
-    <event type="birth" when="1812-03-02">
-      <place>Broek in Waterland</place>
+    <persName><name type="voornaam">Daniel</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ockersse</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-03-27">
-      <place>Den Helder</place>
+    <event type="death" when="1680-09-28">
+      <place></place>
     </event>
   </person>
   <biography/>

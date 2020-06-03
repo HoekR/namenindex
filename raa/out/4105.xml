@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Carl Gustav</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Inn- und Knyphausen Leer</name></persName>
-    <event type="birth" when="1749">
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Mey</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1841">
+    <event type="death" when="1795">
       <place></place>
     </event>
   </person>

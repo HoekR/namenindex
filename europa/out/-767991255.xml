@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-767991255"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Grasse (Fr) nan</name> <name type="geslachtsnaam">Calmes</name></persName>
+    <event type="birth">
+      <date>11-07-1913</date>
+      <place>Oberursel (L)</place>
+    </event>
+    <event type="death">
+      <date>05-07-1995</date>
+      <place>Grasse (Fr)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

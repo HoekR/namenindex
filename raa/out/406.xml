@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Adriaan</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Heuvel</name></persName>
-    <event type="birth" when="1766-07-01">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Goswin-Joseph-Augustin</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Stassart</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-03-02">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1854">
+      <place></place>
     </event>
   </person>
   <biography/>

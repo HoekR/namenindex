@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Francois</name> <name type="geslachtsnaam">Martin</name></persName>
-    <event type="birth" when="1783-04-26">
-      <place>Hallum</place>
+    <persName><name type="voornaam">Frederik</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Jong</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-03-16">
-      <place>Leeuwarden</place>
+    <event type="death" when="1694">
+      <place></place>
     </event>
   </person>
   <biography/>

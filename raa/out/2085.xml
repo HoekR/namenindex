@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Johan</name> <name type="geslachtsnaam">Gevers Deynoot</name></persName>
-    <event type="birth" when="1780-09-14">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Idsert</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Gerroltsma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-03-09">
-      <place>Rotterdam</place>
+    <event type="death" when="1676-10-26">
+      <place></place>
     </event>
   </person>
   <biography/>

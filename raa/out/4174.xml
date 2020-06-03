@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Engelbrecht Maertensz.</name> <name type="geslachtsnaam">Graswinckel</name></persName>
-    <event type="birth" when="1653">
+    <persName><name type="voornaam">Frans Julius Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eysinga</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1738-06-10">
+    <event type="death" when="1828">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Fransz.</name> <name type="geslachtsnaam">Thamis</name></persName>
-    <event type="birth" when="1626">
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lelyveld van Cingelshouck</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1692-01-31">
+    <event type="death" when="1823">
       <place></place>
     </event>
   </person>

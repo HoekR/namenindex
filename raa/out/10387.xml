@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Marius Gerhard Johan</name> <name type="geslachtsnaam">Feith</name></persName>
-    <persName>Feijt</persName>
-    <event type="birth" when="1781">
+    <persName><name type="voornaam">Pierre Louis Joseph Servais</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gobbelschroy</name></persName>
+    <persName>Van Gobbelschroy van Spoelbeeck</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1850">
       <place></place>
     </event>
   </person>

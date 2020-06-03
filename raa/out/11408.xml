@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Carel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Cattenburgh</name></persName>
-    <event type="birth" when="1729">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Knijpinga</name> <name type="geslachtsnaam">Cramer</name></persName>
+    <persName>Cramer van Ootmarsum</persName>
+    <event type="birth" when="2001">
+      <place>Ootmarsum</place>
     </event>
-    <event type="death" when="1797">
-      <place></place>
+    <event type="death" when="1815-03-29">
+      <place>Ootmarsum</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Anthoni</name> <name type="geslachtsnaam">Warin</name></persName>
-    <event type="birth" when="1712">
-      <place></place>
+    <persName><name type="voornaam">Klaas Arjens</name> <name type="geslachtsnaam">Wassenaar</name></persName>
+    <event type="birth" when="2007">
+      <place>St. Jacobi Parochie</place>
     </event>
-    <event type="death" when="1764">
-      <place></place>
+    <event type="death" when="1833-10-30">
+      <place>St. Jacobi Parochie</place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">David</name> <name type="geslachtsnaam">Thilenius</name></persName>
+    <persName><name type="voornaam">Jan Christiaan</name> <name type="intrapositie">comte (Empire) van de</name> <name type="geslachtsnaam">Blocquery</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1805-05-11">
       <place></place>
     </event>
   </person>

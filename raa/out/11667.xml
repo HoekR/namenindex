@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arent</name> <name type="geslachtsnaam">Kloeke</name></persName>
-    <persName>Snijders</persName>
-    <event type="birth" when="1748">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Venijn Jansz.</name> <name type="intrapositie">graaf van den</name> <name type="geslachtsnaam">Oudendijk</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1822">
+    <event type="death">
       <place></place>
     </event>
   </person>

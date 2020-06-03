@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Constantijn Arnold</name> <name type="geslachtsnaam">Staring</name></persName>
-    <event type="birth" when="1812-12-19">
-      <place>Laren (Gld.)</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Otto</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Simonides</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1895-11-19">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

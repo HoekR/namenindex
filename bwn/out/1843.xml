@@ -1,0 +1,104 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Tros&#195;&#169;e, Jacobus Antonius Godefridus Clemens (1859-1938)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/trosee"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">trosee</idno>
+    <persName><name type="geslachtsnaam">Tros&amp;eacute;e</name>, Jacobus Antonius Godefridus Clemens</persName>
+    <sex value="1"/>
+    <event type="birth" when="1859"/>
+    <event type="death" when="1938"/>
+    <state type="occupation">historicus</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Tros&amp;eacute;e, Jacobus Antonius Godefridus Clemens&lt;/strong&gt;, historicus (Boxmeer 23-11-1859 - Brussel 20-1-1938).
+
+Zoon van Franciscus Benedictus Tros&amp;eacute;e, classicus en rector
+gymnasium, en Minardina Cornelia Laukens. Gehuwd op 5-9-1906 met
+Marianne Powlona Romswinckel. Uit dit huwelijk werden geen kinderen
+geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;In 1878 ging Tros&amp;eacute;e te Utrecht rechten studeren, maar na een
+cum laude afgelegd kandidaatsexamen brak hij deze studie af om zich
+voortaan uitsluitend toe te leggen op de bestudering van de toen zeer
+actuele periode 1576-1580 uit de Nederlandse geschiedenis. Zijn eerste
+geschrift 'Het tijdelijk karakter der Unie van Utrecht', in het
+
+&lt;em&gt;Tijdschrift voor Geschiedenis&lt;/em&gt;
+
+2 (1887) 191-197 ontlokte reeds kritiek van Robert Fruin. De
+verdiensten van Tros&amp;eacute;e als geschiedschrijver zijn nogal
+aanvechtbaar en zijn opvattingen inmiddels alweer achterhaald; hij
+bezat de voor een historicus bijna onvergeeflijke eigenschap zijn
+persoonlijke, veelal religieuze, rancunes in zijn geschiedschrijving
+alle ruimte te geven. Zo waren George van Lalaing, graaf van
+Rennenberg, en graaf Willem van den Bergh voor hem personificaties van
+verdorven en gewetenloze katholieke exponenten uit een tijd, die
+Tros&amp;eacute;e in zijn vaak felle polemieken - onder meer met H. van Alfen
+en L. Delfos - 'zijn' tijd placht te noemen. Alle van zijn hand
+verschenen publikaties beschouwde Tros&amp;eacute;e zelf als naaste
+voorbereiding voor zijn - onvoltooid gebleven - levenswerk: een
+wetenschappelijke uitgave van de 
+&lt;em&gt;Notulen en de Correspondentie van het College van de Nadere Unie
+(1579-1581)&lt;/em&gt;
+
+en daarnaast een uitgave van de 
+&lt;em&gt;Correspondentie van graaf Jan van Nassau tijdens diens
+stadhouderschap in Gelderland (1578-1580).&lt;/em&gt;
+
+Voor deze enkel op eigen initiatief ge&amp;euml;ntameerde projecten
+verrichtte hij vrijwel ononderbroken onderzoek in talrijke archieven in
+binnen- en buitenland. Eerst nadat hij zijn naspeuringen goeddeels had
+afgesloten, ontving hij van koningin Wilhelmina de opdracht tot uitgave
+van de bovengenoemde briefwisseling van graaf Jan van Nassau, zulks ter
+aanvulling van de 
+&lt;em&gt;Archives ...&lt;/em&gt;
+
+van G. Groen van Prinsterer op wiens werk hij nogal wat kritiek had. De
+Rijkscommissie voor Vaderlandse Geschiedenis vertrouwde hem voorts op
+18 december 1930 de uitgave toe van de 
+&lt;em&gt;Notulen van het college der Nadere Unie.&lt;/em&gt;
+
+Dat Tros&amp;eacute;e er niet in is geslaagd beide uitgaven te voltooien moet
+worden toegeschreven aan een zwakke gezondheid, alsmede aan een
+persoonlijke geaardheid, waarbij de nodige distantie tussen acribie en
+angstvalligheid ontbrak.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='agedeelte'&gt;A: &lt;/a&gt;Collectie-Tros&amp;eacute;e in het Koninklijk Huisarchief te
+'s-Gravenhage.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;
+  &lt;em&gt;Het verraad van George van Lalaing, graaf van Rennenberg . . .&lt;/em&gt;
+
+('s-Hertogenbosch, 1894); 
+&lt;em&gt;Historische Studi&amp;euml;n&lt;/em&gt;
+
+(['s-Gravenhage], 1924); 
+&lt;em&gt;Het eerste tijdvak van het verraad van graaf Willem van den
+Bergh&lt;/em&gt;
+
+(Arnhem, 1929).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;'In memoriam J.A.G.C. Tros&amp;eacute;e (1859-1938)', in 
+&lt;em&gt;Nieuwe Rotterdamsche Courant&lt;/em&gt;
+
+van 28-1-1938; R.[J.] Fruin, 
+&lt;em&gt;Correspondentie 1845-1899.&lt;/em&gt;
+
+Uitg. door H.J. Smit en W.J. Wieringa (Groningen [enz.], 1957)
+349-352.&lt;/p&gt;
+&lt;p&gt;A.E.M. Janssen&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dominicus</name> <name type="geslachtsnaam">Blankenheym</name></persName>
-    <event type="birth" when="1797-03-25">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Everard</name> <name type="geslachtsnaam">Nicolai</name></persName>
+    <persName>Everard Everaerts</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-09-06">
-      <place>Rotterdam</place>
+    <event type="death" when="1561-10-05">
+      <place></place>
     </event>
   </person>
   <biography/>

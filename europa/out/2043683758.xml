@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/2043683758"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bonn-Bad Godesberg nan</name> <name type="geslachtsnaam">Haunschild</name></persName>
+    <event type="birth">
+      <date>25-01-1928</date>
+      <place>Berlijn</place>
+    </event>
+    <event type="death">
+      <date>30-08-2012</date>
+      <place>Bonn-Bad Godesberg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

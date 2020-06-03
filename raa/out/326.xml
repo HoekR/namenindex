@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Thomas Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rijckevorsel</name></persName>
-    <event type="birth" when="1751-06-10">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbert</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Aernstma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-09-15">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1596">
+      <place></place>
     </event>
   </person>
   <biography/>

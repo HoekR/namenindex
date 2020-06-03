@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/34501"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Johan Richard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ommeren</name></persName>
+    <event type="birth" when="2001">
+      <place>Nederhemert</place>
+    </event>
+    <event type="death" when="1820-05-11">
+      <place>Heusden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

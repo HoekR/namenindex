@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Goedschalksz.</name> <name type="geslachtsnaam">Kops</name></persName>
-    <event type="birth" when="1746">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Bartholomeus Michael</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Steenhardt</name></persName>
+    <event type="birth" when="2008">
+      <place>Maastricht</place>
     </event>
-    <event type="death" when="1803">
-      <place></place>
+    <event type="death" when="1818-04-14">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

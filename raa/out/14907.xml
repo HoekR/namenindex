@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/14907"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Jan Cornelis</name> <name type="geslachtsnaam">Maris</name></persName>
+    <event type="birth" when="2011">
+      <place>Willemstad</place>
+    </event>
+    <event type="death" when="1835-05-20">
+      <place>Willemstad</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

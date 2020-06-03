@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-837996468"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">Rijswijk (ZH) nan</name> <name type="geslachtsnaam">Beernink</name></persName>
+    <event type="birth">
+      <date>02-02-1910</date>
+      <place>Maarssen</place>
+    </event>
+    <event type="death">
+      <date>22-08-1979</date>
+      <place>Rijswijk (ZH)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

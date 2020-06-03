@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Geert</name> <name type="geslachtsnaam">Reinders</name></persName>
-    <event type="birth" when="1790-07-26">
-      <place>Winsum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Frederiksz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-02-24">
-      <place>Warfum</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

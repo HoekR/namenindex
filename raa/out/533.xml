@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hugo Adriaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bleyswijck</name></persName>
-    <event type="birth" when="1803-02-20">
-      <place>Enkhuizen</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Valladolid</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1872-04-02">
-      <place>Enkhuizen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

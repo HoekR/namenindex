@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joachim Philip Adolf</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rechteren tot Mennigjeshave</name></persName>
-    <event type="birth" when="1715">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Maurits Herman</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ripperda tot Verden</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1796-08-17">
+    <event type="death" when="1689-02-07">
       <place></place>
     </event>
   </person>

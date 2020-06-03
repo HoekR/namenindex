@@ -1,0 +1,78 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Oord, Jacob van der (1882-1973)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/oord"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">oord</idno>
+    <persName><name type="geslachtsnaam">Oord</name>, Jacob van der</persName>
+    <sex value="1"/>
+    <event type="birth" when="1882"/>
+    <event type="death" when="1973"/>
+    <state type="occupation">oud-katholiek bisschop</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Oord, Jacob van der&lt;/strong&gt;, bisschop van de Oud-Katholieke Kerk te Haarlem (Hoogwoud 11-2-1882 - Purmerend 7-1-1973).
+
+Zoon van Pieter van der Oord, bouwkundig aannemer, en Brigitta Krul.
+Hij huwde na opheffing van het verplichte celibaat in 1922 met
+Elisabeth Kerkhoff op 26-6-1923. Uit dit huwelijk waren geen kinderen.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Van der Oord ging in september 1895, na zijn schoolopleiding te Den
+Helder, naar het oud-katholiek seminarie te Amersfoort. Vervolgens
+bezocht hij het stedelijk gymnasium waar hij eindexamen gymnasium-A
+deed, en studeerde daarna wijsbegeerte en theologie aan genoemd
+seminarie. Zijn priesterwijding vond op 28 mei 1908 plaats. Hij was
+achtereenvolgens pastoor te Culemborg (1908-1916), te Egmond aan Zee
+(1916-1926) en te Amsterdam (1926-1946); voorts sedert 1937 deken van
+het bisdom Haarlem. Na het aftreden van mgr. H.T.J. van Vlijmen,
+bisschop van Haarlem, koos het Haarlemse kiescollege hem op 18
+september 1945 tot diens opvolger. Hij ontving de bisschopswijding op
+13 november 1945 in de kathedrale kerk te Haarlem door de aartsbisschop
+van Utrecht dr. Andr. Rinkel, bekleedde zijn bisschopsambt tot op
+85-jarige leeftijd en aanvaardde zijn emeritaat op 1 september 1967.
+Tijdens zijn episcopaat bouwde hij de nieuwe kerk te Den Helder, waar
+het oude kerkgebouw in de oorlogsjaren door de bezetters afgebroken
+was. In Alkmaar stichtte hij een nieuwe parochie en richtte een
+woonhuis tot kerk in. In IJmuiden organiseerde hij de splitsing der
+grote parochie en legde nog de eerste steen voor de nieuwe tweede
+parochiekerk. De kathedrale kerk, in 1942 te Haarlem tot stand gekomen,
+verrijkte hij met artistieke gebrandschilderde ramen, gevelversiering
+en een nieuw altaar. Hij was 30 jaar lang beheerder van de Stichting
+Adelbertus Ahuysfonds, van de Haarlemse Bisschopskas, maakte deel uit
+van het Centraal Financieel Comit&amp;eacute;, voorstadium van de Generale
+Thesaurie der kerk (1938), was ambtshalve voorzitter van de Oud-Kath.
+sectie der Anglicaans-Oud-Kath. Willibrordsvereniging, die de relaties
+tussen deze twee kerkgemeenschappen verstevigt en uitbreidt, lid van
+het hoofdbestuur der Vereniging Oud-Kath. Ondersteuningsfonds
+(1937-1941) en lid van de Bisschoppelijke Raad van 1939 tot 1945.&lt;/p&gt;
+&lt;p&gt;Jacob van der Oord, was een eenvoudig mens, praktisch organisator,
+goed financier en begaafd met een scherpe mensenkennis, gepaard met een
+echt pastorale bezorgdheid voor de afzonderlijke mens. Deze laatste
+eigenschappen maakten hem reeds geliefd in zijn seminarietijd bij de
+gymnasiasten, over wie hij gedurende jaren van zijn theologische studie
+prefect was, waarbij hij menige verouderde opvoedingsmethode en stugge
+traditie doorbrak. Hij was dan ook in de door hem als pastoor gediende
+gemeenten een zorgvuldig en gezien zieleherder. Zijn leven beantwoordde
+volkomen aan zijn bisschoppelijk devies 'non ministrari, sed
+ministrare'.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;'Mgr. J. van der Oord &amp;#134; emeritus bisschop van
+Haarlem', in 
+&lt;em&gt;De Oud Katholiek&lt;/em&gt;
+
+89 (1973) 2389 (27 januari) 19-20.&lt;/p&gt;
+&lt;p&gt;A. Rinkel &amp;#134;&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

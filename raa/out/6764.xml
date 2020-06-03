@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Rienck</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Burmania</name></persName>
-    <event type="birth" when="1758-10-30">
-      <place>Jellum</place>
+    <persName><name type="voornaam">Nanning</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Greve</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-10-09">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

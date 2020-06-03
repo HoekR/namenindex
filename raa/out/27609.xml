@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/27609"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Charles Fran&#231;ois</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Stockhem</name></persName>
+    <event type="birth" when="2007">
+      <place>Luik</place>
+    </event>
+    <event type="death" when="1839-03-03">
+      <place>Heers</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

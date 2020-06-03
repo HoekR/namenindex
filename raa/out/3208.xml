@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Marie Matthieu</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Baumhauer</name></persName>
-    <event type="birth" when="1816-04-16">
-      <place>Brugge</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">David Constantijn</name> <name type="intrapositie">prins du</name> <name type="geslachtsnaam">Tour</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-02-06">
-      <place>Delft</place>
+    <event type="death" when="1727-08-12">
+      <place></place>
     </event>
   </person>
   <biography/>

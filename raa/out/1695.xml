@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gasparus Franciscus Maria Petrus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Kesschietre van Havre</name></persName>
-    <event type="birth" when="1776-06-13">
-      <place>Antwerpen</place>
+    <persName><name type="voornaam">Cornelis Johannes</name> <name type="geslachtsnaam">Vos</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1821-08-18">
-      <place>Boxmeer</place>
+    <event type="death" when="1819">
+      <place></place>
     </event>
   </person>
   <biography/>

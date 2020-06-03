@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1552566421"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Moskou nan</name> <name type="geslachtsnaam">Breznjev</name></persName>
+    <event type="birth">
+      <date>06-12-1906</date>
+      <place>Kamenskoe</place>
+    </event>
+    <event type="death">
+      <date>10-11-1982</date>
+      <place>Moskou</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

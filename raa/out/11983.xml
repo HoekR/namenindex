@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pierre</name> <name type="geslachtsnaam">Bouffereau</name></persName>
+    <persName><name type="voornaam">Dionysius Andreas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ro&#235;ll</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1733">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Peters</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Wibo Bernhardus</name> <name type="geslachtsnaam">Buma</name></persName>
+    <event type="birth" when="2003">
+      <place>Leeuwarden</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1848-08-04">
+      <place>Weidum</place>
     </event>
   </person>
   <biography/>

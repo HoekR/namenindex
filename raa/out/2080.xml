@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pleun</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Raadt</name></persName>
-    <persName>De Raadt van Hendrik-Ido-Ambacht</persName>
+    <persName><name type="voornaam">Johannes Josephus</name> <name type="geslachtsnaam">Brands</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1822">
       <place></place>
     </event>
   </person>

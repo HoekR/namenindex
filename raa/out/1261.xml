@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Herman</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Ranitz</name></persName>
-    <event type="birth" when="1794-02-10">
-      <place>Groningen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Willem</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Haren</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-08-07">
-      <place>Kreuznach</place>
+    <event type="death" when="1728-09-18">
+      <place></place>
     </event>
   </person>
   <biography/>

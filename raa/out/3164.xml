@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Carel Clemens Elias</name> <name type="intrapositie">d'</name> <name type="geslachtsnaam">Engelbronner</name></persName>
-    <event type="birth" when="1816-12-22">
-      <place>Goes</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Graeff</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1897-10-20">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1668">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Christiaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lidth de Jeude</name></persName>
-    <event type="birth" when="1777-08-31">
-      <place>Tiel</place>
+    <persName><name type="voornaam">Hugo</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Repelaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-06-15">
-      <place>Tiel</place>
+    <event type="death" when="1804-06-13">
+      <place></place>
     </event>
   </person>
   <biography/>

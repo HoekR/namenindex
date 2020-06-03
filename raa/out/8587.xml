@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan</name> <name type="geslachtsnaam">Dallens</name></persName>
-    <persName>Johan d'Alles</persName>
+    <persName>
+      <name type="geslachtsnaam">Chevalier</name>
+    </persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1662">
+    <event type="death">
       <place></place>
     </event>
   </person>

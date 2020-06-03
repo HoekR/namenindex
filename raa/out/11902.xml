@@ -8,14 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Wigle</name> <name type="intrapositie">van Zwichem</name> <name type="geslachtsnaam">Aytta</name></persName>
-    <persName>Viglius</persName>
-    <persName>Viglius Zuichemus ab Aytta</persName>
-    <persName>Wieger Aytta van Swichum</persName>
-    <event type="birth" when="1507">
+    <persName><name type="voornaam">Diederik</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hoevel tot Nijenhuis</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1577">
+    <event type="death" when="1788-04-01">
       <place></place>
     </event>
   </person>

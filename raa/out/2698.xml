@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ernest Pierre Marie Anne Joseph</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Lamberts de Cortenbach</name></persName>
-    <event type="birth" when="1768-01-23">
-      <place>Herve</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Martinus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Scheltinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-04-20">
-      <place>Voerendaal</place>
+    <event type="death" when="1799-05-03">
+      <place></place>
     </event>
   </person>
   <biography/>

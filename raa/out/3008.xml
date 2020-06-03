@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Francois Pierre</name> <name type="geslachtsnaam">Bijleveld</name></persName>
-    <event type="birth" when="1797-01-26">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Petrus Mattheus</name> <name type="geslachtsnaam">Pertat</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-09-13">
-      <place>Nijmegen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jean Baptiste</name> <name type="intrapositie">de Nomp&#232;re de</name> <name type="geslachtsnaam">Champagny</name></persName>
-    <persName>Nomp&#232;re de Champagny, Duc de Cadore</persName>
-    <event type="birth" when="1756">
+    <persName><name type="voornaam">Cornelis Evert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Voet van Winssen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1834">
+    <event type="death">
       <place></place>
     </event>
   </person>

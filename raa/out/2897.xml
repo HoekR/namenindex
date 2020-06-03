@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Etienne Fran&#231;ois</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Stenbier</name></persName>
-    <persName>De Stenbier de Wideux</persName>
-    <event type="birth" when="1752-10-01">
+    <persName><name type="voornaam">David Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lennep</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1838">
       <place></place>
     </event>
   </person>

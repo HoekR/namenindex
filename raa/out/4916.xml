@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Cornelius</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Kemp</name></persName>
-    <event type="birth" when="1768-02-11">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Wouter</name> <name type="geslachtsnaam">Rijnders</name></persName>
+    <persName>Reynders</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-11-23">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1833">
+      <place></place>
     </event>
   </person>
   <biography/>

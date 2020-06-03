@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Antonius Josephus Lambertus</name> <name type="geslachtsnaam">Borret</name></persName>
-    <persName>Elders J.H.</persName>
-    <event type="birth" when="1782-08-12">
-      <place>Gemert</place>
+    <persName><name type="voornaam">Anthonis</name> <name type="geslachtsnaam">Linden</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-09-07">
-      <place>Delft</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

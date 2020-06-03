@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/32475"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Werner Reinhold Bernhard</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">M&#252;ntz</name></persName>
+    <event type="birth" when="2012">
+      <place>Kleef</place>
+    </event>
+    <event type="death" when="1822-05-11">
+      <place>Munster</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

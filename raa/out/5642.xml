@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jannes Hindriks</name> <name type="geslachtsnaam">Bolhuis</name></persName>
-    <event type="birth" when="1733">
+    <persName><name type="voornaam">Evert Adriaansz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bleyswijk</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1823">
+    <event type="death" when="1652">
       <place></place>
     </event>
   </person>

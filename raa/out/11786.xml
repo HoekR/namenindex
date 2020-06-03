@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Mostert</name></persName>
-    <event type="birth" when="1723">
-      <place></place>
+    <persName><name type="voornaam">Constantijn Arnoud Ernest Adrien</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Panhuys</name></persName>
+    <event type="birth" when="2009">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1790">
-      <place></place>
+    <event type="death" when="1895-04-07">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

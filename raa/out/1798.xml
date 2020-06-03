@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Aart Andriesse</name> <name type="geslachtsnaam">Schippers</name></persName>
-    <event type="birth" when="1800-08-31">
-      <place>Willemstad</place>
+    <persName><name type="voornaam">Hendrick</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Munnick</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-02-11">
-      <place>Willemstad</place>
+    <event type="death" when="1740">
+      <place></place>
     </event>
   </person>
   <biography/>

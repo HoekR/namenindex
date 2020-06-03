@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Felix</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Maanen</name></persName>
-    <event type="birth" when="1769-09-09">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Ulrich Hermannus</name> <name type="geslachtsnaam">Sypkens</name></persName>
+    <persName>Sijpkens</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-02-14">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1848">
+      <place></place>
     </event>
   </person>
   <biography/>

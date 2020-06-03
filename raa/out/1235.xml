@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem</name> <name type="geslachtsnaam">Alberda van Ekenstein</name></persName>
-    <event type="birth" when="1792-05-03">
-      <place>Fivelgo</place>
+    <persName><name type="voornaam">Cornelis Johan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Lange van Wijngaarden</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-03-28">
-      <place>Groningen</place>
+    <event type="death" when="1820">
+      <place></place>
     </event>
   </person>
   <biography/>

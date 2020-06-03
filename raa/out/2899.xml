@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Andreas Lucas Ignatius</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Bieberstein Rogalla Zawadsky</name></persName>
-    <event type="birth" when="1763-10-18">
-      <place>Unislaw</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Boudewijn</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Wellens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-10-18">
-      <place>Luik</place>
+    <event type="death" when="1755">
+      <place></place>
     </event>
   </person>
   <biography/>

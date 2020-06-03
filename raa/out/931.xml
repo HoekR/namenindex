@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Nicolaas</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Gijselaar</name></persName>
-    <event type="birth" when="1808-08-12">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schepers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1893-01-02">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1750-03-13">
+      <place></place>
     </event>
   </person>
   <biography/>

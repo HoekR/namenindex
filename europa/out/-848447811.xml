@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-848447811"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Rome nan</name> <name type="geslachtsnaam">Mattarella</name></persName>
+    <event type="birth">
+      <date>15-09-1905</date>
+      <place>Castellammare del Golfo</place>
+    </event>
+    <event type="death">
+      <date>01-03-1971</date>
+      <place>Rome</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

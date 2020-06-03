@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Paape</name></persName>
-    <event type="birth" when="1752">
-      <place></place>
+    <persName><name type="voornaam">Andries</name> <name type="geslachtsnaam">Sloet tot Everlo</name></persName>
+    <event type="birth" when="2004">
+      <place>Ootmarsum</place>
     </event>
-    <event type="death" when="1803">
-      <place></place>
+    <event type="death" when="1844-04-24">
+      <place>Oldenzaal</place>
     </event>
   </person>
   <biography/>

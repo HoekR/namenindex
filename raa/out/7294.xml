@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Gerrits</name> <name type="geslachtsnaam">Kramer</name></persName>
-    <event type="birth" when="1763">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Dorp</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1834">
+    <event type="death">
       <place></place>
     </event>
   </person>

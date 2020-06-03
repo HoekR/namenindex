@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/858461294"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Wellington nan</name> <name type="geslachtsnaam">Holyoake</name></persName>
+    <event type="birth">
+      <date>11-02-1904</date>
+      <place>Pahiauta</place>
+    </event>
+    <event type="death">
+      <date>08-12-1983</date>
+      <place>Wellington</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

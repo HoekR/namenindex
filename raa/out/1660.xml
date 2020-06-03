@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christianus Henricus Adolph</name> <name type="geslachtsnaam">Engelenberg</name></persName>
-    <event type="birth" when="1810-08-01">
-      <place>Meppel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Jansz. - de oude</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Wissenkerke</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1469">
       <place></place>
     </event>
   </person>

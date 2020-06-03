@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Willem</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vriese</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Jan</name> <name type="intrapositie">Both</name> <name type="geslachtsnaam">Hendriksen</name></persName>
+    <event type="birth" when="2011">
+      <place>Amersfoort</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1853-12-30">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

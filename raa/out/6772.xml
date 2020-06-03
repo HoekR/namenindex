@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Carl Philip Crafft</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Huffel tot Beerse</name></persName>
-    <persName>Carl Philip Crafft van Huffel van Ne&#255;windeck</persName>
-    <event type="birth" when="1687">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas Dirksz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Bakel</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1743-08-12">
+    <event type="death">
       <place></place>
     </event>
   </person>

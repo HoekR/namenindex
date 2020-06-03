@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Constantin Fran&#231;ois</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Copis</name></persName>
-    <event type="birth" when="1787-10-18">
-      <place>Luik</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lennep</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-06-28">
-      <place>Gorsleeuw</place>
+    <event type="death" when="1813">
+      <place></place>
     </event>
   </person>
   <biography/>

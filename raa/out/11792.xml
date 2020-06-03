@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Busse</name></persName>
-    <event type="birth" when="1687">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Bartholomeus Willem Anne Elise</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Sloet tot Oldhuis</name></persName>
+    <event type="birth" when="2010">
+      <place>Voorst</place>
     </event>
-    <event type="death" when="1758-01-07">
-      <place></place>
+    <event type="death" when="1884-06-16">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

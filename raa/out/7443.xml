@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adriaen Willemsz.</name> <name type="geslachtsnaam">Mouchon</name></persName>
-    <event type="birth" when="1701">
+    <persName><name type="voornaam">Joan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Graafland</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1772-09-01">
+    <event type="death" when="1827-05-31">
       <place></place>
     </event>
   </person>

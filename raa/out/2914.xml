@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Dithmar</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Schimmelpenninck van der Oye</name></persName>
-    <event type="birth" when="1754-03-02">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Linthorst</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1828-11-05">
-      <place>Arnhem</place>
+    <event type="death" when="1807">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">David</name> <name type="geslachtsnaam">Westenberg</name></persName>
-    <event type="birth" when="1771-10-16">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arend</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hodenpijl</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-09-18">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

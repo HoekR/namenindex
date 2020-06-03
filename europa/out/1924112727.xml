@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1924112727"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Jacques</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Fouques Duparc</name></persName>
+    <event type="birth">
+      <date>04-03-1897</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>04-08-1966</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

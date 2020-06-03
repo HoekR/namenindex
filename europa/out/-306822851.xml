@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-306822851"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Prof.</name> <name type="voornaam">nan</name> <name type="intrapositie">Stuttgart nan</name> <name type="geslachtsnaam">Heuss</name></persName>
+    <event type="birth">
+      <date>31-01-1884</date>
+      <place>Brackenheim</place>
+    </event>
+    <event type="death">
+      <date>12-12-1963</date>
+      <place>Stuttgart</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

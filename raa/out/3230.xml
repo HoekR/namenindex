@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adrianus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heel</name></persName>
-    <event type="birth" when="1816-04-10">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Cornelis Bouwensz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Tocht</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-11-06">
-      <place>Maasland</place>
+    <event type="death" when="1648">
+      <place></place>
     </event>
   </person>
   <biography/>

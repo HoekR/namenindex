@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Dircxsz.</name> <name type="geslachtsnaam">Wijnkooper</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Martin Pascal Hubert</name> <name type="geslachtsnaam">Strens</name></persName>
+    <event type="birth" when="2003">
+      <place>Roermond</place>
     </event>
-    <event type="death" when="1608">
-      <place></place>
+    <event type="death" when="1875-07-22">
+      <place>Maastricht</place>
     </event>
   </person>
   <biography/>

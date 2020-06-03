@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Marinus Cornelis</name> <name type="geslachtsnaam">Paspoort</name></persName>
-    <persName>Paspoort van Grijpskerke</persName>
-    <event type="birth" when="1797">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Am&#233;d&#233;-Madeleine-Charles</name> <name type="geslachtsnaam">Gillet-Ducoudray</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-02-07">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jacob Guilielmus</name> <name type="geslachtsnaam">Schorer</name></persName>
-    <persName>Schorer van St. Philipsland</persName>
-    <event type="birth" when="1795-07-01">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bonefaas</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Hermansz.</name></persName>
+    <event type="birth" when="1454">
+      <place></place>
     </event>
-    <event type="death" when="1860-10-11">
-      <place>Middelburg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

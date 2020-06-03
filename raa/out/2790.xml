@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Fredericus Leonardus</name> <name type="geslachtsnaam">Corten</name></persName>
-    <persName>Corten van Oensel</persName>
-    <event type="birth" when="1743-11-24">
-      <place>Amstenrade</place>
+    <persName><name type="voornaam">Dierick</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vlaming van Oudtshoorn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-10-15">
-      <place>Beek (L.)</place>
+    <event type="death" when="1643-08-08">
+      <place></place>
     </event>
   </person>
   <biography/>

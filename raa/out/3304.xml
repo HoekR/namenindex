@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Otto Willem</name> <name type="intrapositie">Stavenisse de</name> <name type="geslachtsnaam">Brauw</name></persName>
-    <event type="birth" when="1817-03-14">
-      <place>Oosterland</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sibe</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Scheltema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1891-04-04">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

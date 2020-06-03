@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Unico Willem Eliza</name> <name type="geslachtsnaam">Cazius</name></persName>
-    <event type="birth" when="1799-06-26">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Jansz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Schout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1876-04-26">
-      <place>Hulst</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

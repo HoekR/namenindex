@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/158010282"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">'s-Gravehage nan</name> <name type="geslachtsnaam">Kruls</name></persName>
+    <event type="birth">
+      <date>01-08-1902</date>
+      <place>Amsterdam</place>
+    </event>
+    <event type="death">
+      <date>13-12-1975</date>
+      <place>'s-Gravehage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

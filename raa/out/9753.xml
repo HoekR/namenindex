@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="intrapositie">Teding van</name> <name type="geslachtsnaam">Berkhout</name></persName>
-    <event type="birth" when="1756">
+    <persName><name type="voornaam">Thimon Cornelis</name> <name type="intrapositie">heer van</name> <name type="geslachtsnaam">Heerdt</name></persName>
+    <persName>Van Heerdt tot Eversberg</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1806">
+    <event type="death" when="1844-01-28">
       <place></place>
     </event>
   </person>

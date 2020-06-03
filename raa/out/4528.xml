@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Elbertus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Leuwe</name></persName>
-    <persName>Longolius</persName>
-    <persName>Leoninus</persName>
-    <event type="birth" when="1518">
+    <persName><name type="voornaam">Hendrikus</name> <name type="geslachtsnaam">Brink</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1598">
+    <event type="death" when="1810">
       <place></place>
     </event>
   </person>

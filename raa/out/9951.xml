@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Everardus</name> <name type="geslachtsnaam">Boner</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Pieter Theodoor</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoorn</name></persName>
+    <event type="birth" when="2010">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1639">
-      <place></place>
+    <event type="death" when="1842-12-16">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

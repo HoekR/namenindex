@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Kok</name></persName>
-    <event type="birth" when="1779-06-28">
-      <place>Bolsward</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Egmond</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1826-04-22">
-      <place>Bolsward</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

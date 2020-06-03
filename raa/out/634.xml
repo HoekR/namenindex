@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Isa&#228;c Theodorus</name> <name type="intrapositie">ter Bruggen</name> <name type="geslachtsnaam">Hugenholtz</name></persName>
-    <event type="birth" when="1801-05-28">
-      <place>IJsselstein</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Idsinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1871-01-25">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1814-03-22">
+      <place></place>
     </event>
   </person>
   <biography/>

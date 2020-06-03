@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Samuel</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoogstraten</name></persName>
-    <event type="birth" when="1756-05-31">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jozef</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Pietersz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1830-05-02">
-      <place>Rotterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

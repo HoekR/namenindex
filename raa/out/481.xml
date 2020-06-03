@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jan Elias Nicolaas</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lynden</name></persName>
-    <persName>Van Lynden van Hoevelaken</persName>
-    <event type="birth" when="1766-09-22">
-      <place>Arnhem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf de jonge van</name> <name type="geslachtsnaam">Courteville</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-01-16">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

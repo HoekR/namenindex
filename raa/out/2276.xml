@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vries</name></persName>
-    <event type="birth" when="1818-02-22">
-      <place>Haarlem</place>
+    <persName><name type="voornaam">Jan Dirksz.</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Burg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1900-03-04">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

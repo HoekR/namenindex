@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Hendrik</name> <name type="geslachtsnaam">Vijfhuis</name></persName>
-    <event type="birth" when="1786-03-29">
-      <place>Deventer</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Verdooren van Asperen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1841-01-13">
-      <place>Deventer</place>
+    <event type="death" when="1824">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Droogleever Fortuijn</name></persName>
-    <event type="birth" when="1802-12-17">
-      <place>Gouda</place>
+    <persName><name type="voornaam">Constantijn Jan</name> <name type="geslachtsnaam">Danckaerts</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-04-16">
-      <place>Gouda</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

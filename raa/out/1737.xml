@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Abraham Florentius</name> <name type="geslachtsnaam">Speelman</name></persName>
-    <persName>Speelman van Wulverhorst</persName>
-    <event type="birth" when="1784-09-03">
-      <place>Heeswijk</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Pytter</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Kingma</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-08-25">
-      <place>Boxtel</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

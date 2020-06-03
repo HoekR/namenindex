@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/35893"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Dirk</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Horst</name></persName>
+    <event type="birth" when="2004">
+      <place>Weesp</place>
+    </event>
+    <event type="death" when="1863-08-11">
+      <place>Weesperkarspel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

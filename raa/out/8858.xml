@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham Arnoldus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ossenberch</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Jan Pieter</name> <name type="intrapositie">Teding van</name> <name type="geslachtsnaam">Berkhout</name></persName>
+    <event type="birth" when="2008">
+      <place>Haarlem</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1856-08-24">
+      <place>Bloemendaal</place>
     </event>
   </person>
   <biography/>

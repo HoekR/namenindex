@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles Joseph Romain</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">N&#233;verl&#233;e</name></persName>
-    <persName>De N&#233;verl&#233;e de la Fortelle</persName>
-    <event type="birth" when="1757-12-10">
-      <place>Namen</place>
+    <persName><name type="voornaam">Lodewijk</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Bas</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1821-01-24">
-      <place>Parijs</place>
+    <event type="death" when="1756-06-16">
+      <place></place>
     </event>
   </person>
   <biography/>

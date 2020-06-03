@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">R.U.</name> <name type="geslachtsnaam">Reinders</name></persName>
+    <persName><name type="voornaam">Nicolaas Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Buteux</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1797">
       <place></place>
     </event>
   </person>

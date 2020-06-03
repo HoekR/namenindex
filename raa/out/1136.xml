@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Ludovicus Theodorus Franciscus Wernardus</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Boecop</name></persName>
-    <event type="birth" when="1795-04-16">
-      <place>Geertruidenberg</place>
+    <persName><name type="voornaam">Nicolaes</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Thierens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1865-02-27">
-      <place>Utrecht</place>
+    <event type="death" when="1721">
+      <place></place>
     </event>
   </person>
   <biography/>

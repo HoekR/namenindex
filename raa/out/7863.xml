@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerard Jansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Egmond van de Nijenburg</name></persName>
-    <persName>Gerrit Jansz. van de Nieuburch</persName>
-    <event type="birth" when="1576">
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Munninx</name></persName>
+    <persName>Cornelis Munnicken</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1636-05-31">
+    <event type="death" when="1678">
       <place></place>
     </event>
   </person>

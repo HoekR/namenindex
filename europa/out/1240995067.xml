@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1240995067"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Hambro</name></persName>
+    <event type="birth">
+      <date>22-08-1911</date>
+      <place>Christiania</place>
+    </event>
+    <event type="death">
+      <date>01-02-1977</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

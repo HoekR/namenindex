@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Dani&#235;l</name> <name type="geslachtsnaam">Hooft</name></persName>
-    <event type="birth" when="1788-11-25">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Heinenz.</name></persName>
+    <persName>Joost van Minnen.</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-02-18">
-      <place>Amsterdam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

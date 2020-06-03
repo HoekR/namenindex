@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Amelis</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Bouchorst</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Willem Nicolaas Alexander Frederik Karel Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Oranje-Nassau</name></persName>
+    <persName>prins Willem</persName>
+    <event type="birth" when="2009">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1669-09-21">
-      <place></place>
+    <event type="death" when="1879-11-06">
+      <place>Parijs</place>
     </event>
   </person>
   <biography/>

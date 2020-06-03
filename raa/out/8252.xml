@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vicq</name></persName>
-    <event type="birth" when="1705">
-      <place></place>
+    <persName><name type="voornaam">Bernardus</name> <name type="geslachtsnaam">Kesselaer</name></persName>
+    <event type="birth" when="2010">
+      <place>Kampen</place>
     </event>
-    <event type="death" when="1780-03-28">
-      <place></place>
+    <event type="death" when="1831-08-05">
+      <place>Kampen</place>
     </event>
   </person>
   <biography/>

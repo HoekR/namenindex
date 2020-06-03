@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Reijn</name> <name type="geslachtsnaam">Evertsz.</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">van Harencarspel</name> <name type="geslachtsnaam">Decker</name></persName>
+    <persName>Fran&#231;ois van Harencarspel Decker van Beverwijk</persName>
+    <event type="birth" when="2010">
+      <place>Amsterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1817-11-07">
+      <place>Gouda</place>
     </event>
   </person>
   <biography/>

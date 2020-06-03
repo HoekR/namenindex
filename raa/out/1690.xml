@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Georg</name> <name type="geslachtsnaam">Roijer</name></persName>
-    <event type="birth" when="1824-10-08">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Amelenbergh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1908-06-05">
-      <place>Zwolle</place>
+    <event type="death" when="1717">
+      <place></place>
     </event>
   </person>
   <biography/>

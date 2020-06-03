@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Thijs</name> <name type="geslachtsnaam">Pouwelsz.</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Gellius</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Eysinga</name></persName>
+    <persName>Jelte van Eysinga</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1632-09-30">
+    <event type="death">
       <place></place>
     </event>
   </person>

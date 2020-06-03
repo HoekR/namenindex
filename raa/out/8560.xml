@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Carel</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Vos van Steenwijk</name></persName>
-    <persName>De Vos van Steenwijk van den Hogenhof</persName>
-    <event type="birth" when="1759-03-11">
-      <place>Vollenhove</place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem</name> <name type="geslachtsnaam">Brand</name></persName>
+    <event type="birth" when="2001">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1830-01-02">
-      <place>Zwolle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

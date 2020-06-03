@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Robert</name> <name type="intrapositie">baron (empire)</name> <name type="geslachtsnaam">Vo&#251;te</name></persName>
-    <event type="birth" when="1747">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johannes Casparus</name> <name type="geslachtsnaam">Bergsma</name></persName>
+    <event type="birth" when="2003">
+      <place>Dantumawoude</place>
     </event>
-    <event type="death" when="1823">
-      <place></place>
+    <event type="death" when="1818-06-07">
+      <place>Dokkum</place>
     </event>
   </person>
   <biography/>

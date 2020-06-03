@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wilhelmus Jacobus Antonius Josephus Michael</name> <name type="intrapositie">baron d'</name> <name type="geslachtsnaam">Olne</name></persName>
-    <event type="birth" when="1789-09-28">
-      <place>Baarlo</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob Gerritsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Dwang</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1869-11-28">
-      <place>Baarlo</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

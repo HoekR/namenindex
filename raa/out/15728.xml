@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/15728"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Christiaan Joannes</name> <name type="geslachtsnaam">Vaillant</name></persName>
+    <event type="birth" when="2001">
+      <place>Enkhuizen</place>
+    </event>
+    <event type="death" when="1863-05-28">
+      <place>Maassluis</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

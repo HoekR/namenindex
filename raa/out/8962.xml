@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gijsbert</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Beresteyn</name></persName>
-    <persName>Jacob van Beresteyn</persName>
-    <event type="birth" when="1553">
+    <persName><name type="voornaam">Gijsbrecht</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Loon</name></persName>
+    <persName>Gijsbrecht van Loen</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1616-09-06">
+    <event type="death" when="1629">
       <place></place>
     </event>
   </person>

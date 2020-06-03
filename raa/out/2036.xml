@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bonifacius Christiaan</name> <name type="geslachtsnaam">Cau</name></persName>
-    <event type="birth" when="1818-10-07">
-      <place>Zierikzee</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk Simonsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Latenburg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1882-01-15">
-      <place>Zierikzee</place>
+    <event type="death" when="1588">
+      <place></place>
     </event>
   </person>
   <biography/>

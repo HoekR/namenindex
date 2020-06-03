@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Marten Adriaan</name> <name type="geslachtsnaam">Beels</name></persName>
-    <event type="birth" when="1728">
-      <place></place>
+    <persName><name type="voornaam">Maximilianus Fredericus Carolus Franciscus</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">B&#246;nninghausen</name></persName>
+    <persName>Von B&#246;nninghausen van de Eeshof</persName>
+    <event type="birth" when="2006">
+      <place>Fleringen</place>
     </event>
-    <event type="death" when="1789">
-      <place></place>
+    <event type="death" when="1822-10-31">
+      <place>Tubbergen</place>
     </event>
   </person>
   <biography/>

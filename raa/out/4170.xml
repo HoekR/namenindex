@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Baersdorp</name></persName>
+    <persName><name type="voornaam">Johan Gerritsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Egmond van de Nijenburg</name></persName>
+    <persName>Johan Gerritsz. van de Nijenburgh</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1608-08-03">
+    <event type="death" when="1712">
       <place></place>
     </event>
   </person>

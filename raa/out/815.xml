@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik Lodewijk Willem</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Kock</name></persName>
-    <event type="birth" when="1818-08-29">
-      <place>Amboina</place>
+    <persName><name type="voornaam">Franco Maertensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Pauw</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-06-20">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1776-07-15">
+      <place></place>
     </event>
   </person>
   <biography/>

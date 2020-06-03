@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Dirck</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Veen</name></persName>
-    <event type="birth" when="1628">
-      <place></place>
+    <persName><name type="voornaam">Jacob Nicolaas</name> <name type="geslachtsnaam">Bastert</name></persName>
+    <event type="birth" when="2011">
+      <place>Breukelen</place>
     </event>
-    <event type="death" when="1665-07-07">
-      <place></place>
+    <event type="death" when="1902-10-19">
+      <place>Maarsseveen</place>
     </event>
   </person>
   <biography/>

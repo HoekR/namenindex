@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Justus Dorotheus Willem</name> <name type="geslachtsnaam">Pape</name></persName>
-    <event type="birth" when="1812-09-10">
-      <place>Renswoude</place>
+    <persName><name type="voornaam">Joan Arend</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Vos van Steenwijk tot Nijerwal</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-01-16">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1813">
+      <place></place>
     </event>
   </person>
   <biography/>

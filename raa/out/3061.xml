@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Berend</name> <name type="geslachtsnaam">Roelvink</name></persName>
-    <event type="birth" when="1780-05-10">
-      <place>Bredevoort</place>
+    <persName><name type="voornaam">Christianus Norbertus</name> <name type="geslachtsnaam">Reyns</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-12-19">
-      <place>Winterswijk</place>
+    <event type="death" when="1797">
+      <place></place>
     </event>
   </person>
   <biography/>

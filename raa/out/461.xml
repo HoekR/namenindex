@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Wolter Hendrik</name> <name type="geslachtsnaam">Hofstede</name></persName>
-    <event type="birth" when="1783-01-26">
-      <place>Assen</place>
+    <persName><name type="voornaam">Pierre-Claude-Fran&#231;ois</name> <name type="geslachtsnaam">Daunou</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1850-12-27">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1840">
+      <place></place>
     </event>
   </person>
   <biography/>

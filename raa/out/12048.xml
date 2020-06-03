@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Bonifacius</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Vrijberghe</name></persName>
-    <event type="birth" when="1625">
+    <persName><name type="voornaam">Johannes Wolter</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Coeverden tot Rande</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1690-11-10">
+    <event type="death" when="1779-03-10">
       <place></place>
     </event>
   </person>

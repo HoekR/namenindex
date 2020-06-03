@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Bartholomeusz.</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Santheuvel</name></persName>
-    <event type="birth" when="1687">
+    <persName><name type="voornaam">Reinier</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Verschoor</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1747-08-28">
+    <event type="death" when="1796-01-26">
       <place></place>
     </event>
   </person>

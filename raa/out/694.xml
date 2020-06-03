@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Herman Ulrich</name> <name type="geslachtsnaam">Huguenin</name></persName>
-    <event type="birth" when="1808-11-23">
-      <place>Wolvega</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Baudimont</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-08-23">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

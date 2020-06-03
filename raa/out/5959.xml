@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Marinus</name> <name type="geslachtsnaam">Piepers</name></persName>
-    <event type="birth" when="1771-11-19">
-      <place>Middelburg</place>
+    <persName><name type="voornaam">Everardus Josephus</name> <name type="geslachtsnaam">Zegers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-01-24">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1797">
+      <place></place>
     </event>
   </person>
   <biography/>

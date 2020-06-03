@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">F.N.</name> <name type="geslachtsnaam">Roeber</name></persName>
+    <persName><name type="voornaam">Maerten Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Groot</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1652-08-24">
       <place></place>
     </event>
   </person>

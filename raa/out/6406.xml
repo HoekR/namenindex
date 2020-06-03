@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Mattheus Mattheusz.</name> <name type="geslachtsnaam">Rees</name></persName>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Graafland</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1785-10-10">
+    <event type="death" when="1767-05-20">
       <place></place>
     </event>
   </person>

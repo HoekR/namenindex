@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Joan</name> <name type="geslachtsnaam">Fockink</name></persName>
-    <event type="birth" when="1717">
+    <persName><name type="voornaam">Berend</name> <name type="geslachtsnaam">Slingenberg</name></persName>
+    <persName>Slingenburg</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1789-03-15">
+    <event type="death" when="1849">
       <place></place>
     </event>
   </person>

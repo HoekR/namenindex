@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Mattheus Nicolaasz.</name> <name type="geslachtsnaam">Gael</name></persName>
-    <event type="birth" when="1621">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Onno Tamminga</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Alberda van Rensuma</name></persName>
+    <event type="birth" when="2006">
+      <place>Groningen</place>
     </event>
-    <event type="death" when="1665-10-22">
-      <place></place>
+    <event type="death" when="1829-12-06">
+      <place>Uithuizermeden</place>
     </event>
   </person>
   <biography/>

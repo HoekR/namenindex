@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes</name> <name type="geslachtsnaam">Pols</name></persName>
-    <event type="birth" when="1757-08-28">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Evert</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Lintelo tot de Marsch en de Ehze</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-01-13">
-      <place>Borculo</place>
+    <event type="death" when="1637">
+      <place></place>
     </event>
   </person>
   <biography/>

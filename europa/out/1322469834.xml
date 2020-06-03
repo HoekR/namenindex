@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1322469834"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Brussel nan</name> <name type="geslachtsnaam">Guill</name></persName>
+    <event type="birth">
+      <date>11-04-1916</date>
+      <place>Esch sur Alzette</place>
+    </event>
+    <event type="death">
+      <date>10-11-1987</date>
+      <place>Brussel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

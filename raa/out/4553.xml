@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Anthonisz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Huybert</name></persName>
-    <event type="birth" when="1547">
+    <persName><name type="voornaam">Reynier</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hinlopen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1621">
+    <event type="death" when="1723-01-02">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Petrus Franciscus</name> <name type="geslachtsnaam">Helmich</name></persName>
-    <event type="birth" when="1790-11-17">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Pieter Pietersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Houtingh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-02-09">
-      <place>Gildehaus (Bentheim)</place>
+    <event type="death" when="1695">
+      <place></place>
     </event>
   </person>
   <biography/>

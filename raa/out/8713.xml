@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Albert Willem</name> <name type="geslachtsnaam">Hoeth</name></persName>
-    <event type="birth" when="1758-07-13">
-      <place>Westerbroek</place>
+    <persName><name type="voornaam">H.</name> <name type="geslachtsnaam">Vollenhoven</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-07-27">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

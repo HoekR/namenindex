@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Christiaan Johan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jongh</name></persName>
-    <persName>De Jongh van Hedikhuizen</persName>
-    <event type="birth" when="1798-10-10">
-      <place>Zaltbommel</place>
+    <persName><name type="voornaam">Emanuel</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ras</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-06-05">
-      <place>Utrecht</place>
+    <event type="death" when="1761-10-16">
+      <place></place>
     </event>
   </person>
   <biography/>

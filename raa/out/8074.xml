@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hartog</name> <name type="geslachtsnaam">Lemon</name></persName>
-    <event type="birth" when="1755">
-      <place></place>
+    <persName><name type="voornaam">Bernhard</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rappard</name></persName>
+    <persName>Van Rappard van Balgoy</persName>
+    <event type="birth" when="2005">
+      <place>Nijmegen</place>
     </event>
-    <event type="death" when="1823">
-      <place></place>
+    <event type="death" when="1819-02-01">
+      <place>Nijmegen</place>
     </event>
   </person>
   <biography/>

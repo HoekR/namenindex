@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">knaap van</name> <name type="geslachtsnaam">Assendelft</name></persName>
-    <event type="birth" when="1420">
+    <persName><name type="voornaam">Jan Adriaensz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Snoeck</name></persName>
+    <persName>Jan Adriaensz. Croon</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1486">
+    <event type="death">
       <place></place>
     </event>
   </person>

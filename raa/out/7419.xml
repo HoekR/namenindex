@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Abraham</name> <name type="geslachtsnaam">Malepert</name></persName>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) Verheye van</name> <name type="geslachtsnaam">Citters</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1823-07-17">
       <place></place>
     </event>
   </person>

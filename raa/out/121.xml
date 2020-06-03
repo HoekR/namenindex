@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Fran&#231;ois Bernard Hubert</name> <name type="geslachtsnaam">Michiels van Kessenich</name></persName>
-    <event type="birth" when="1802-07-22">
-      <place>Roermond</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Govert</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Wallerand</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1881-06-01">
-      <place>Roermond</place>
+    <event type="death" when="1568">
+      <place></place>
     </event>
   </person>
   <biography/>

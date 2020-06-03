@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1533594639"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Jhr.mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Deighton de</name> <name type="geslachtsnaam">Ranitz</name></persName>
+    <event type="birth">
+      <date>30-06-1915</date>
+      <place>Den Haag</place>
+    </event>
+    <event type="death">
+      <date>07-06-2003</date>
+      <place>Deighton</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

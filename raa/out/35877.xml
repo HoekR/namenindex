@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/35877"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Cornelius Johannes</name> <name type="intrapositie">de Bruyn</name> <name type="geslachtsnaam">Kops</name></persName>
+    <event type="birth" when="2003">
+      <place>Haarlem</place>
+    </event>
+    <event type="death" when="1858-04-17">
+      <place>Haarlem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

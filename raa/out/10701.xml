@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jean-Baptiste Robert</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Velde de Melroy</name></persName>
-    <event type="birth" when="1743">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis Cornelis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Matheusz.</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1824">
+    <event type="death">
       <place></place>
     </event>
   </person>

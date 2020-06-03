@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Octavius</name> <name type="geslachtsnaam">Feith</name></persName>
-    <event type="birth" when="1813-12-09">
-      <place>Groningen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Reimer</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Harings</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1895-09-24">
-      <place>Tolbert</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

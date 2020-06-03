@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">H.J. of J.H.</name> <name type="geslachtsnaam">Kosters</name></persName>
+    <persName><name type="voornaam">Fran&#231;ois</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bockhoven</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1742-11-27">
       <place></place>
     </event>
   </person>

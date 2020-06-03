@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Cornelisz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Neck</name></persName>
-    <event type="birth" when="1564">
+    <persName><name type="voornaam">Horatius Allardus</name> <name type="intrapositie">Hiddema van</name> <name type="geslachtsnaam">Knijff</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1638-03-08">
+    <event type="death" when="1806">
       <place></place>
     </event>
   </person>

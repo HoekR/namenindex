@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lambert Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Tets</name></persName>
-    <persName>Van Tets van Langerak</persName>
-    <event type="birth" when="1761-03-24">
-      <place>Batavia</place>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Castrop</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-02-05">
-      <place>Dordrecht</place>
+    <event type="death" when="1806">
+      <place></place>
     </event>
   </person>
   <biography/>

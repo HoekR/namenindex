@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Dirk</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Poel</name></persName>
-    <event type="birth" when="1811-09-04">
-      <place>Ameide</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Martinus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Scheltinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1898-04-08">
-      <place>Ameide</place>
+    <event type="death" when="1820-04-18">
+      <place></place>
     </event>
   </person>
   <biography/>

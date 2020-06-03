@@ -1,0 +1,59 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Koster, Fran&#195;&#167;ois Charles Ernest Lucius (1856-1926)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/koster"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">koster</idno>
+    <persName><name type="geslachtsnaam">Koster</name>, Fran&amp;ccedil;ois Charles Ernest Lucius</persName>
+    <sex value="1"/>
+    <event type="birth" when="1856"/>
+    <event type="death" when="1926"/>
+    <state type="occupation">marineofficier</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Koster, Fran&amp;ccedil;ois Charles Ernest Lucius&lt;/strong&gt;, marineofficier (Batavia 12-10-1856 - 's-Gravenhage 1-10-1926).
+
+Zoon van Pieter Hendrik Koster, chef generale staf van het K.N.I.L., en
+Frederique Wilhelmina Adolphina Borwater. Gehuwd sinds 29-12-1902 met
+Maria Adriana de Bordes. Uit dit huwelijk werden geen kinderen geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Koster begon in 1872 zijn opleiding tot marineofficier aan het
+Koninklijk instituut voor de marine te Den Helder. Op 1 september 1875
+werd hij benoemd tot officier (adelborst der Ie klasse). Hij diende
+eerst in West-, daarna in Oost-Indi&amp;euml; waar hij in 1881 adjudant van
+de gouverneur-generaal werd. Daarna deed hij afwisselend in Nederland
+en Indi&amp;euml; dienst zowel aan boord van schepen als aan de wal. Koster
+was onder meer belast met het bevel over verschillende kanonneerboten;
+ook fungeerde hij als Chef van de Staf der Zeemacht te Willemsoord. In
+1906 werd Koster als commandant van Hr. Ms. Tromp naar Indi&amp;euml;
+gezonden. Daar aangekomen kreeg hij tevens het commando over het
+eskader. Terug in Nederland werd hij op 1 november 1909 benoemd tot
+Chef van de Marinestaf in de rang van schout-bij-nacht en op 16
+november 1910 tot Directeur en Commandant der Marine te Willemsoord,
+tevens Commandant van de stelling Den Helder. Op 1 november werd hij
+bevorderd tot vice-admiraal en twee jaar later ging hij met
+pensioen.&lt;/p&gt;
+&lt;p&gt;Koster droeg het ereteken voor belangrijke krijgsverrichtingen
+(Atjeh en Kleine Soenda eilanden). Hij was een marineofficier die meer
+dan normaal de aandacht trok: een flink, rondborstig man, afkerig van
+gewichtigdoenerij.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;F.H.A. van der Brugh, in 
+&lt;em&gt;Marineblad&lt;/em&gt;
+
+41 (1926) 403-404.&lt;/p&gt;
+&lt;p&gt;J.A. van der Kooij&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

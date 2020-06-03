@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Greven</name></persName>
-    <event type="birth" when="1607">
+    <persName><name type="voornaam">Henrik Danielsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Hooft</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1667-04-30">
+    <event type="death" when="1794-08-31">
       <place></place>
     </event>
   </person>

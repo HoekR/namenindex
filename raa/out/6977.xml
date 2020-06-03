@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Lodewijk Arend</name> <name type="geslachtsnaam">Sloet tot Plattenburg</name></persName>
-    <event type="birth" when="1720">
+    <persName><name type="voornaam">C.H.</name> <name type="intrapositie">van Heimenberg</name> <name type="geslachtsnaam">Reuvens</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1800">
+    <event type="death">
       <place></place>
     </event>
   </person>

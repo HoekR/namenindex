@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Hendrikus</name> <name type="geslachtsnaam">Bybau</name></persName>
-    <event type="birth" when="1821-12-03">
-      <place>St. Maartensdijk</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Kerstant</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Harmansz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1891-05-01">
-      <place>Colijnsplaat</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

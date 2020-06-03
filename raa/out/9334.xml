@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Berend</name> <name type="intrapositie">ten</name> <name type="geslachtsnaam">Broeke</name></persName>
-    <event type="birth" when="1742">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Otto Paulus</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Groeninx van Zoelen</name></persName>
+    <persName>Groeninx van Zoelen van Ridderkerk</persName>
+    <event type="birth" when="2001">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1828">
-      <place></place>
+    <event type="death" when="1848-06-23">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Coenraad Willem</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Dedem</name></persName>
-    <persName>Van Dedem tot de Rollecate</persName>
-    <event type="birth" when="1811-07-30">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Teengs</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-09-07">
-      <place>Nieuwleusen</place>
+    <event type="death" when="1752">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bavius</name> <name type="geslachtsnaam">Nauta</name></persName>
+    <persName><name type="voornaam">Alardus</name> <name type="geslachtsnaam">Schouten</name></persName>
+    <persName>Aaldert Schouten</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1831">
       <place></place>
     </event>
   </person>

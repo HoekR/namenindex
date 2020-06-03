@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/34994"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adrianus Johannes</name> <name type="geslachtsnaam">Korteweg</name></persName>
+    <event type="birth" when="2010">
+      <place>Klundert</place>
+    </event>
+    <event type="death" when="1888-12-20">
+      <place>'s-Hertogenbosch</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

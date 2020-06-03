@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Herman</name> <name type="geslachtsnaam">Pottey</name></persName>
-    <event type="birth" when="1621">
-      <place></place>
+    <persName><name type="voornaam">Jan Anthony</name> <name type="intrapositie">duc (Empire)</name> <name type="geslachtsnaam">Taets van Amerongen</name></persName>
+    <persName>Taets van Amerongen van Woudenberg</persName>
+    <event type="birth" when="2002">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1691-07-29">
-      <place></place>
+    <event type="death" when="1828-01-11">
+      <place>Utrecht</place>
     </event>
   </person>
   <biography/>

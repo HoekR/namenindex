@@ -8,12 +8,15 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Carel Marie</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Kemp</name></persName>
-    <event type="birth" when="1799-06-18">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Jasper Lievensz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Hogelande</name></persName>
+    <persName>Casper Lievensz. van Hoochlande</persName>
+    <persName>Casparus de Terra Alta</persName>
+    <persName>Casparus Levini Hogelandius</persName>
+    <event type="birth" when="1482">
+      <place></place>
     </event>
-    <event type="death" when="1861-09-17">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1546">
+      <place></place>
     </event>
   </person>
   <biography/>

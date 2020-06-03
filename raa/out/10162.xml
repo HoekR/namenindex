@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Cau</name></persName>
-    <event type="birth" when="1665">
+    <persName><name type="voornaam">Lodewijk</name> <name type="intrapositie">baron (Empire) van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
+    <persName>Van Heeckeren van de Cloese</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1691-08-05">
+    <event type="death" when="1831">
       <place></place>
     </event>
   </person>

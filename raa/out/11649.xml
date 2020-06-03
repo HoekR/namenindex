@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Paulus</name> <name type="geslachtsnaam">Buys</name></persName>
-    <event type="birth" when="1531">
-      <place></place>
+    <persName><name type="voornaam">Haye</name> <name type="geslachtsnaam">Mensonides</name></persName>
+    <persName>Mensonides van Hensbroek</persName>
+    <event type="birth" when="2004">
+      <place>Molkwerum</place>
     </event>
-    <event type="death" when="1594">
-      <place></place>
+    <event type="death" when="1881-04-06">
+      <place>Alkmaar</place>
     </event>
   </person>
   <biography/>

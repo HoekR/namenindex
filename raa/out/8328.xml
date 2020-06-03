@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis Okkersz.</name> <name type="geslachtsnaam">Baen</name></persName>
-    <event type="birth" when="1622">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Marinus Cornelis</name> <name type="geslachtsnaam">Bichon van IJsselmonde</name></persName>
+    <event type="birth" when="2007">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1684-10-12">
-      <place></place>
+    <event type="death" when="1845-03-08">
+      <place>Rotterdam</place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1581134541"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Tervuren nan</name> <name type="geslachtsnaam">Copp&#233;</name></persName>
+    <event type="birth">
+      <date>26-11-1911</date>
+      <place>Brugge</place>
+    </event>
+    <event type="death">
+      <date>30-03-1999</date>
+      <place>Tervuren</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Mathieu-Louis</name> <name type="intrapositie">comte (empire)</name> <name type="geslachtsnaam">Mol&#233;</name></persName>
-    <event type="birth" when="1781">
+    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Sweers</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1855">
+    <event type="death">
       <place></place>
     </event>
   </person>

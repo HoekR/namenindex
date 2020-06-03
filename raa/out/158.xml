@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Dani&#235;l Theodore</name> <name type="geslachtsnaam">Gevers</name></persName>
-    <persName>Gevers van Endegeest</persName>
-    <event type="birth" when="1793-08-25">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Mattheus Willem</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Valkenburg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-07-27">
-      <place>Oegstgeest</place>
+    <event type="death" when="1784-02-01">
+      <place></place>
     </event>
   </person>
   <biography/>

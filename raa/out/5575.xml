@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sijbout Pietersz.</name> <name type="geslachtsnaam">Wit</name></persName>
+    <persName><name type="voornaam">Barthout Govertsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Slingelandt</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1711-05-01">
       <place></place>
     </event>
   </person>

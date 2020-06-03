@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Salomon</name> <name type="intrapositie">ten Bokkel</name> <name type="geslachtsnaam">Huinink</name></persName>
-    <event type="birth" when="1768">
+    <persName><name type="voornaam">Jan Pietersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Overtwater</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1826">
+    <event type="death">
       <place></place>
     </event>
   </person>

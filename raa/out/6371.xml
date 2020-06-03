@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">ter</name> <name type="geslachtsnaam">Pelkwijk</name></persName>
-    <event type="birth" when="1769-08-26">
-      <place>Heino</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Hooy</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-11-18">
-      <place>Zwolle</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

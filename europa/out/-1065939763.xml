@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1065939763"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Bettino</name> <name type="intrapositie">Hammamet nan</name> <name type="geslachtsnaam">Craxi</name></persName>
+    <event type="birth">
+      <date>24-02-1934</date>
+      <place>Milaan</place>
+    </event>
+    <event type="death">
+      <date>19-01-2000</date>
+      <place>Hammamet</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

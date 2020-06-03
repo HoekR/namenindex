@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Dani&#235;l</name> <name type="geslachtsnaam">Baert</name></persName>
-    <event type="birth" when="1682">
-      <place></place>
+    <persName><name type="voornaam">Pierre Andr&#233; Servais</name> <name type="geslachtsnaam">Kerens</name></persName>
+    <persName>Kerens Cadet</persName>
+    <event type="birth" when="2007">
+      <place>Mechelen</place>
     </event>
-    <event type="death" when="1757-05-25">
-      <place></place>
+    <event type="death" when="1862-06-04">
+      <place>Maastricht</place>
     </event>
   </person>
   <biography/>

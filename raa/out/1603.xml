@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Rudolph</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Ho&#235;vell tot Nijenhuis</name></persName>
-    <event type="birth" when="1771-02-18">
-      <place>Deventer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hans Hendrik</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Haersma</name></persName>
+    <persName>Hans Hendrik Boreel van Haersma</persName>
+    <persName>Van Haersma van Nederhorst den Berg</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1848-08-14">
-      <place>Deventer</place>
+    <event type="death" when="1825-04-09">
+      <place></place>
     </event>
   </person>
   <biography/>

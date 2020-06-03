@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/684396672"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Bornheim nan</name> <name type="geslachtsnaam">Arendt</name></persName>
+    <event type="birth">
+      <date>17-01-1925</date>
+      <place>Heessen</place>
+    </event>
+    <event type="death">
+      <date>07-03-2005</date>
+      <place>Bornheim</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

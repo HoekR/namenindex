@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Peter</name> <name type="geslachtsnaam">Beumer Hardenberg</name></persName>
+    <persName><name type="voornaam">Johan</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Neyn</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1856-08-31">
+    <event type="death" when="1732-01-21">
       <place></place>
     </event>
   </person>

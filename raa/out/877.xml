@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Leonard Pierre Joseph</name> <name type="intrapositie">burggraaf du</name> <name type="geslachtsnaam">Bus de Gisignies</name></persName>
-    <event type="birth" when="1780-02-28">
-      <place>Dottenijs</place>
+    <persName><name type="voornaam">Gualterus Petrus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boudaen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-05-31">
-      <place>Oostmalle</place>
+    <event type="death" when="1781">
+      <place></place>
     </event>
   </person>
   <biography/>

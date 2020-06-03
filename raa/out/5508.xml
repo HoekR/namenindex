@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan IJsbrantsz.</name> <name type="geslachtsnaam">Neck</name></persName>
+    <persName><name type="voornaam">Dani&#235;l Pompejus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Assendelft</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1590">
+    <event type="death" when="1722-10-16">
       <place></place>
     </event>
   </person>

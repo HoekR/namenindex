@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">H.</name> <name type="geslachtsnaam">Braam</name></persName>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Hendrick Frederick</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schimmelpenninck van der Oye</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1762">
       <place></place>
     </event>
   </person>

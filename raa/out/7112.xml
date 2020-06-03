@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Reinout Gerard</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Tuyll van Serooskerken</name></persName>
-    <event type="birth" when="1786-09-27">
-      <place>Zuylen</place>
+    <persName><name type="voornaam">C.</name> <name type="geslachtsnaam">Jamez</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1821-10-15">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

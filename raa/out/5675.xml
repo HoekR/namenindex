@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus</name> <name type="geslachtsnaam">Haesebroeck</name></persName>
-    <event type="birth" when="1748-10-20">
-      <place>Zutphen</place>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gote</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-05-14">
-      <place>Zutphen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

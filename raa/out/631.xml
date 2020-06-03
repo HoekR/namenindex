@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Julius Constantijn</name> <name type="geslachtsnaam">Rijk</name></persName>
-    <event type="birth" when="1787-01-13">
-      <place>Wetzlar</place>
+    <persName><name type="voornaam">Willem</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sluysken</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-05-02">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1725-04-13">
+      <place></place>
     </event>
   </person>
   <biography/>

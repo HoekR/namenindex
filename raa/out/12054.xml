@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joan Jacob</name> <name type="geslachtsnaam">Ebeling</name></persName>
-    <event type="birth" when="1771-10-10">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Adolf Carel</name> <name type="intrapositie">hertog</name> <name type="geslachtsnaam">Bentinck tot Beverfeurde</name></persName>
+    <persName>Adolf Carel Bentinck tot Nijenhuis</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1819-11-07">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1837-11-03">
+      <place></place>
     </event>
   </person>
   <biography/>

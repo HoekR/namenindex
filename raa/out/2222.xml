@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Ludovicus</name> <name type="geslachtsnaam">Kikkert</name></persName>
-    <event type="birth" when="1810-01-17">
-      <place>Den Burg (Texel)</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Gerritsz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Kraaienstein</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-02-19">
-      <place>Maarssen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

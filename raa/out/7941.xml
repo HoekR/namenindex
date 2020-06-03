@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Nicolaes Reijersz.</name> <name type="geslachtsnaam">Kemp</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Abraham</name> <name type="geslachtsnaam">Hartevelt</name></persName>
+    <event type="birth" when="2004">
+      <place>Leiden</place>
     </event>
-    <event type="death" when="1624-05-04">
-      <place></place>
+    <event type="death" when="1866-05-29">
+      <place>Leiden</place>
     </event>
   </person>
   <biography/>

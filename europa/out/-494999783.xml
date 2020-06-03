@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-494999783"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Stamford nan</name> <name type="geslachtsnaam">McCloy</name></persName>
+    <event type="birth">
+      <date>31-03-1895</date>
+      <place>Philadelphia</place>
+    </event>
+    <event type="death">
+      <date>11-03-1989</date>
+      <place>Stamford</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

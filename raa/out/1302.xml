@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Johannes</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Bl&#233;court</name></persName>
+    <persName><name type="voornaam">Johan Herman</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Gerlacius van Guiva</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1774-03-05">
       <place></place>
     </event>
   </person>

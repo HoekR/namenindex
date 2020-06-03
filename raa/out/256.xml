@@ -8,12 +8,15 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes</name> <name type="geslachtsnaam">Breur</name></persName>
-    <event type="birth" when="1764-07-29">
-      <place>Naaldwijk</place>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Fran&#231;ois Fran&#231;oisz.&#13;
+&#13;
+&#13;
+Fran&#231;ois</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Boogert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1830-04-19">
-      <place>Dordrecht</place>
+    <event type="death" when="1797">
+      <place></place>
     </event>
   </person>
   <biography/>

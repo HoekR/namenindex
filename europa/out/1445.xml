@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1445"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">prof. mr.</name> <name type="voornaam">Gaius</name> <name type="intrapositie">'s-Gravenhage de</name> <name type="geslachtsnaam">Gaay Fortman</name></persName>
+    <event type="birth">
+      <date>08-05-1911</date>
+      <place>Amsterdam</place>
+    </event>
+    <event type="death">
+      <date>29-03-1997</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

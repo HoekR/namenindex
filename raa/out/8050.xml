@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Munster</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Anne Willem Carel</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Nagell</name></persName>
+    <persName>Van Nagell van Ampsen</persName>
+    <persName>Nagell</persName>
+    <event type="birth" when="2001">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1585">
-      <place></place>
+    <event type="death" when="1851-06-02">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

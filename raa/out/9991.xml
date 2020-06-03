@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Jan Klaasz.</name> <name type="geslachtsnaam">Buijes</name></persName>
-    <persName>Buyesius</persName>
-    <event type="birth" when="1561">
+    <persName><name type="voornaam">Frederik Sigismund</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bylandt</name></persName>
+    <persName>Van Bylandt Halt</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1614-02-12">
+    <event type="death" when="1828">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrick Willemsz.</name> <name type="geslachtsnaam">Moutmaker</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Paul</name> <name type="intrapositie">bastaard van - en Veere</name> <name type="geslachtsnaam">Borselen</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1630">
+    <event type="death" when="1504">
       <place></place>
     </event>
   </person>

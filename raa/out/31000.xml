@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/31000"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik Edzens Hagenouw</name> <name type="geslachtsnaam">Brongers</name></persName>
+    <event type="birth" when="2005">
+      <place>Garrelsweer</place>
+    </event>
+    <event type="death" when="1840-07-30">
+      <place>Leens</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

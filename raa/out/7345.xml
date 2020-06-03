@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrold</name> <name type="geslachtsnaam">Herema</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adam Fran&#231;ois Jules Armand</name> <name type="intrapositie">burggraaf van der</name> <name type="geslachtsnaam">Duyn van Maasdam</name></persName>
+    <event type="birth" when="2004">
+      <place>Deventer</place>
     </event>
-    <event type="death" when="1538">
-      <place></place>
+    <event type="death" when="1848-12-18">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

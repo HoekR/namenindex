@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cosmas Damianus</name> <name type="geslachtsnaam">Beels</name></persName>
-    <event type="birth" when="1798">
-      <place>Steenbergen</place>
+    <persName><name type="voornaam">Adolf Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rechteren tot Collendoorn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-09-22">
-      <place>Oosterhout</place>
+    <event type="death" when="1805">
+      <place></place>
     </event>
   </person>
   <biography/>

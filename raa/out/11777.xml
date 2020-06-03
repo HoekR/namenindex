@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Lans</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Gerrit Adriaan</name> <name type="geslachtsnaam">Fokker</name></persName>
+    <event type="birth" when="2012">
+      <place>Middelburg</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1878-08-24">
+      <place>Middelburg</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik Jacob</name> <name type="geslachtsnaam">Koenen</name></persName>
-    <event type="birth" when="1809-01-11">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Binnert</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Sappema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-10-13">
-      <place>Haarlem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bastiaan</name> <name type="intrapositie">Verhey van den</name> <name type="geslachtsnaam">Boogaard</name></persName>
-    <event type="birth" when="1788-11-28">
-      <place>Werkendam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Herweier</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-01-30">
-      <place>Werkendam</place>
+    <event type="death" when="1578">
+      <place></place>
     </event>
   </person>
   <biography/>

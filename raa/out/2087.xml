@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Diderik</name> <name type="intrapositie">van Leyden</name> <name type="geslachtsnaam">Gael</name></persName>
-    <persName>Van Leyden Gael van Vlaardingen</persName>
-    <event type="birth" when="1775-08-29">
-      <place>Leiden</place>
+    <persName><name type="voornaam">Hermanus Leonardus</name> <name type="geslachtsnaam">Bromet</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-09-24">
-      <place>Leiden</place>
+    <event type="death" when="1812">
+      <place></place>
     </event>
   </person>
   <biography/>

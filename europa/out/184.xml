@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/184"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Almocageme (Portugal) van</name> <name type="geslachtsnaam">Kleffens</name></persName>
+    <event type="birth">
+      <date>17-11-1894</date>
+      <place>Heerenveen</place>
+    </event>
+    <event type="death">
+      <date>17-06-1983</date>
+      <place>Almocageme (Portugal)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

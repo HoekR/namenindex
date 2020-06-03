@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Willemsz.</name> <name type="geslachtsnaam">Schimmelpenninck</name></persName>
-    <event type="birth" when="1745">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Surendaal</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1833">
+    <event type="death">
       <place></place>
     </event>
   </person>

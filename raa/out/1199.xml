@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Otto</name> <name type="geslachtsnaam">Hoenderken</name></persName>
-    <event type="birth" when="1801-03-15">
-      <place>Haren</place>
+    <persName><name type="voornaam">Dani&#235;l Adriaan</name> <name type="intrapositie">comte (Empire) le Leu de</name> <name type="geslachtsnaam">Wilhem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-12-21">
-      <place>Borger</place>
+    <event type="death" when="1766-11-23">
+      <place></place>
     </event>
   </person>
   <biography/>

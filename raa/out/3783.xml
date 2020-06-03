@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Dierxsz.</name> <name type="geslachtsnaam">Appelboom</name></persName>
+    <persName><name type="voornaam">Claas Jansz.</name> <name type="geslachtsnaam">Hobbema</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1828">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Sixtus Julius</name> <name type="intrapositie">Botnia van</name> <name type="geslachtsnaam">Dekema</name></persName>
+    <persName><name type="voornaam">Apollonius</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Scotte</name></persName>
+    <persName>Apollonius Schotte</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1639-01-11">
       <place></place>
     </event>
   </person>

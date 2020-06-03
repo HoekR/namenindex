@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">I.A.</name> <name type="geslachtsnaam">Hooites</name></persName>
+    <persName><name type="voornaam">Albertus Cornelis</name> <name type="geslachtsnaam">Schuyt van Castricum</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1814">
       <place></place>
     </event>
   </person>

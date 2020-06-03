@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ernst Louis</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Tuyll van Serooskerken</name></persName>
-    <persName>Van Tuyll van Serooskerken van Vleuten</persName>
-    <event type="birth" when="1801-08-22">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Johannes Petrus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Borght</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1860-02-17">
-      <place>Amsterdam</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

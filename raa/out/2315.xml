@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adriaan Theodore</name> <name type="geslachtsnaam">Prins</name></persName>
-    <event type="birth" when="1803-03-23">
-      <place>Rotterdam</place>
+    <persName>
+      <name type="geslachtsnaam">Renaud</name>
+    </persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-06-25">
-      <place>Loosduinen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

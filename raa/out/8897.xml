@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob</name> <name type="geslachtsnaam">Hoeufft</name></persName>
-    <event type="birth" when="1660">
-      <place></place>
+    <persName><name type="voornaam">Huibert Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Deventer</name></persName>
+    <event type="birth" when="2007">
+      <place>Rhenen</place>
     </event>
-    <event type="death" when="1717">
-      <place></place>
+    <event type="death" when="1828-02-04">
+      <place>Rhenen</place>
     </event>
   </person>
   <biography/>

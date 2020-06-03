@@ -1,0 +1,101 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Sonnaville, Ludovicus Antonius Gijsbertus de (1837-1914)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn2/sonnaville"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">sonnaville</idno>
+    <persName><name type="geslachtsnaam">Sonnaville</name>, Ludovicus Antonius Gijsbertus de</persName>
+    <sex value="1"/>
+    <event type="birth" when="1837"/>
+    <event type="death" when="1914"/>
+    <state type="occupation">muziekpedagoog</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn2/images/images/sonnavillenoten.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Sonnaville, Ludovicus Antonius Gijsbertus de&lt;/strong&gt;, muziekpedagoog ('s-Gravenhage 31-1-1837 - Katwijk 18-12-1914). Zoon van Johan
+Anthony de Sonnaville, majoor der Jagers, en Maria Theresia van
+der Kun.
+&lt;/p&gt;
+&lt;p&gt;De Sonnaville kwam uit een katholiek milieu, voltooide zijn
+gymnasiale opleiding aan het internaat van de jezu&#239;eten, het
+St. Willibrord-College te Katwijk a/d Rijn, om vervolgens van
+1859 tot 1873 zijn opleiding als jezu&#239;et af te ronden. In
+1873 werd hij aangesteld als muziekleraar, koor- en
+orkestdirigent aan genoemd college; hier zou hij ook het grootste
+deel van zijn leven doorbrengen.&lt;/p&gt;
+&lt;p&gt;In de eerste jaren van deze carri&#232;re vond hij een nieuw
+systeem uit het leren lezen van muziek van blad voor
+pianoleerlingen te vergemakkelijken, en het is dit systeem, dat
+spoedig bekendheid in Nederland verwierf, zelfs zo dat het nog
+thans wordt toegepast, evenwel zonder dat hierbij de naam van De
+Sonnaville genoemd wordt. Het door De Sonnaville ontdekte systeem
+gaat terug op een principe dat in de kern van de van de zaak
+eenvoudig is. Beziet men het vanuit de tegenwoordige stand van de
+muziekwetenschap, dan zou men vermoeden dat hij, om tot zijn
+vinding te komen, de historie van het muziekschrift had
+bestudeerd. Want zijn ontdekking komt neer op het doen opleven
+van een der fasen die in de ontwikkeling van het muziekschrift
+waren overgeslagen. Deze ontwikkeling begin bij de vinding van
+het zg. tertslijnig muziekschrift rond 1025 door Guido van
+Arezzo, een stelsel van evenwijdige lijnen, die elk op zich zelf
+voorzien werden van een noot op, boven of onder de lijn, d.i. de
+omvang van een terts; vandaar het tertslijnig muziekschrift.&lt;/p&gt;
+&lt;p&gt;Uit dit principe ontstond in de loop der eeuwen de
+muzieknotatie voor toetsinstrumenten, bestaande uit een
+muzieklijnenstelsel voor de lagere tonen, vooral voor de
+linkerhand, en een stelsel, voor de hogere tonen, voor de
+rechterhand. Bij het leren muzieklezen door kinderen ontstonden
+moeilijkheden vanwege het combineren van noten met de
+daarbijhorende toetsen, vooral dan wanneer gebruik gemaakt werd
+van hulplijntjes boven en onder de systemen. Onbewust deed De
+Sonnaville de historie herleven doordat het muzieklijnenstelsel
+oorspronkelijk (1025) niet gedacht was als verdeeld over twee
+zelfstandige systemen, &#233;&#233;n voor de linker en
+&#233;&#233;n voor de rechterhand, maar als &#233;&#233;n
+systeem met zoveel lijnen als men wilde. Dit laatste bereikte De
+Sonnaville door tussen de twee systemen voor het pianospel
+&#233;&#233;n lijn te trekken, zodat de lage tonen regelmatig
+doorliepen naar de hogere en hoogste tonen. Op deze tussenlijn
+plaatste hij de centrale C-toon, waarvan hieronder een
+voorbeeld. &lt;img class='bwnimg' border='0' align='right' src='images/sonnavillenoten.jpg' alt='muziekvoorbeeld'&gt;&lt;/p&gt;
+&lt;p&gt;Van hieruit ontstonden octaafreeksen van de hoogste tonen naar
+het midden (de discantreeks met de octaven: 4,3,2, l ) en van het
+midden naar de laagste bastonen (de bas octaafreeksen: l, 2,
+3,4); derhalve 'even' en 'oneven' octaven. Ook binnen het octaaf
+verkregen de zeven tonen even of oneven cijfers: had men te maken
+met een oneven octaaf, dan staan de tonen c e g b &lt;em&gt;op&lt;/em&gt; en
+bij een even octaaf &lt;em&gt;tussen&lt;/em&gt; de lijnen. Aldus werd door De
+Sonnaville een 'piano-lottospel' ontworpen ter bevordering van
+het piano-onderricht voor kinderen. Bekende musici toonden
+destijds belangstelling voor dit piano-onderrichtsysteem, zoals
+Willem Kes, oprichter van het Concertgebouworkest, Willem
+Mengelberg en Simon van Milligen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='agedeelte'&gt;A: &lt;/a&gt;Dossier-De Sonnaville in Archief van de Nederlandse
+Provincie der Jezu&#239;eten, waarin een bundel recensies over
+zijn systeem.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;In de jaren 1890-1910 publiceerde De Sonnaville een
+twintigtal brochures; de meest bekende hiervan zijn &lt;em&gt;Het
+piano-lotto of het systeem-De Sonnaville op de kinderkamer ter
+voorbereiding van vroegtijdig piano spelen.&lt;/em&gt; (Leiden, [1897])
+en &lt;em&gt;Beknopte verklaring van het systeem De Sonnaville&lt;/em&gt; 5e
+dr. (Leiden, 1901).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;Catharina van Rennes, in &lt;em&gt;Muziekcollege&lt;/em&gt; 2 (1914-1915)
+98-102; S. van Milligen, in &lt;em&gt;Caecilia&lt;/em&gt; 72 (1915) 7-9; J.J.
+Graaf, in &lt;em&gt;St. Gregorius-blad. Tijdschrift tot bevordering van
+kerkelijke toonkunst&lt;/em&gt; 40 (1915) 25-30; [Red.], in &lt;em&gt;De
+Katholieke Illustratie&lt;/em&gt; 49(1915)204.&lt;/p&gt;
+&lt;p&gt;J.M.A.F. Smits van Waesberghe&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

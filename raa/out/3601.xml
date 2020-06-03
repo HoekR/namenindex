@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Renik</name> <name type="geslachtsnaam">Cammingha</name></persName>
-    <persName>Renik Eminga</persName>
-    <event type="birth" when="1464">
+    <persName><name type="voornaam">Jan Tiddo</name> <name type="geslachtsnaam">Sickens</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1531">
+    <event type="death" when="1817">
       <place></place>
     </event>
   </person>

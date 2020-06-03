@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Jan</name> <name type="intrapositie">Both</name> <name type="geslachtsnaam">Hendriksen</name></persName>
-    <event type="birth" when="1780-11-08">
-      <place>Amersfoort</place>
+    <persName><name type="voornaam">Theunis Jansz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Brasker</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1853-12-30">
-      <place>Utrecht</place>
+    <event type="death" when="1701">
+      <place></place>
     </event>
   </person>
   <biography/>

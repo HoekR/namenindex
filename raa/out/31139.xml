@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/31139"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Diederik</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Tuyll van Serooskerken</name></persName>
+    <event type="birth" when="2004">
+      <place>Heeze</place>
+    </event>
+    <event type="death" when="1840-11-22">
+      <place>Maarssen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

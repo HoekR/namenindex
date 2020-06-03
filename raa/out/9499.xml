@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Frederik Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rechteren tot Mennigjeshave</name></persName>
-    <event type="birth" when="1759">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Aper</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Dijk</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1839-02-05">
+    <event type="death">
       <place></place>
     </event>
   </person>

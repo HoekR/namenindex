@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pierre Dominicus</name> <name type="geslachtsnaam">Regout</name></persName>
-    <event type="birth" when="1801-03-23">
-      <place>Maastricht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gijsbert</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Baexen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-02-18">
-      <place>Meerssen</place>
+    <event type="death" when="1549-08-10">
+      <place></place>
     </event>
   </person>
   <biography/>

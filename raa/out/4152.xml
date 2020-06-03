@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Kempo</name> <name type="geslachtsnaam">Martena</name></persName>
-    <event type="birth" when="1487">
+    <persName><name type="voornaam">Pieter Claesz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vrijburch</name></persName>
+    <persName>Pieter Claesz. Seylemaecker</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1538-05-08">
+    <event type="death" when="1620">
       <place></place>
     </event>
   </person>

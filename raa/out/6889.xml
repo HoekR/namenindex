@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Assu&#235;rus</name> <name type="geslachtsnaam">Vegelin van Claerbergen</name></persName>
-    <event type="birth" when="1687">
+    <persName><name type="voornaam">Jan Dircksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Versijden</name></persName>
+    <persName>Jan Dircksz. van der Zeijde</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1771-03-13">
+    <event type="death" when="1652-08-12">
       <place></place>
     </event>
   </person>

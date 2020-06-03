@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pierre Michel Charles</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Knijff de Gontroeuil</name></persName>
-    <event type="birth" when="1784-05-29">
-      <place>Antwerpen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Douwe Feie</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1847-12-09">
-      <place>Brussel</place>
+    <event type="death" when="1725-10-06">
+      <place></place>
     </event>
   </person>
   <biography/>

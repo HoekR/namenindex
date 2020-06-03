@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Tjaard Anne Marius Albert</name> <name type="intrapositie">van Andringa de</name> <name type="geslachtsnaam">Kempenaer</name></persName>
-    <event type="birth" when="1806-07-17">
-      <place>Lemmer</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lucas</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Teilingen</name></persName>
+    <persName>Luter Teylinc</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-03-23">
-      <place>Leeuwarden</place>
+    <event type="death" when="1517">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik</name> <name type="geslachtsnaam">Feith</name></persName>
-    <event type="birth" when="1810-08-21">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Klaas</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Joosten</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1897-01-26">
-      <place>Arnhem</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Hermannus Carolus Casparus Bartholomaeus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nispen van Pannerden</name></persName>
-    <event type="birth" when="1764-08-04">
-      <place>Herwen</place>
+    <persName><name type="voornaam">Cornelis Wilhelmus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Rhoer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-07-29">
-      <place>Zevenaar</place>
+    <event type="death" when="1821">
+      <place></place>
     </event>
   </person>
   <biography/>

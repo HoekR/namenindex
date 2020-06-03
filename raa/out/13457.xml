@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/13457"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Anne Willem Carel</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Nagell</name></persName>
+    <persName>Van Nagell van Ampsen</persName>
+    <persName>Nagell</persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1851-06-02">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Martinus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Toulon</name></persName>
-    <event type="birth" when="1736-02-12">
-      <place>Gorinchem</place>
+    <persName><name type="voornaam">Jean-Pierre-Louis</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Fontanes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-03-25">
-      <place>Gouda</place>
+    <event type="death" when="1821">
+      <place></place>
     </event>
   </person>
   <biography/>

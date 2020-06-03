@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Aernout</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Beveren</name></persName>
-    <event type="birth" when="1749-12-04">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Zonneberg</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-06-17">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

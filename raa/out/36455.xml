@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/36455"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Rienck</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Burmania</name></persName>
+    <event type="birth" when="2010">
+      <place>Jellum</place>
+    </event>
+    <event type="death" when="1825-09-10">
+      <place>Leeuwarden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

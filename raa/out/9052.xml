@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antoine-Philippe-Fiacre-Ghislain</name> <name type="intrapositie">comte (empire) de</name> <name type="geslachtsnaam">Vischer de Celles</name></persName>
-    <event type="birth" when="1779">
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Schriek</name></persName>
+    <persName>Jan van Schrick</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1841">
+    <event type="death">
       <place></place>
     </event>
   </person>

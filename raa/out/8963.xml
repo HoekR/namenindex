@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Aede</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <persName>Edo van Eysinga</persName>
-    <event type="birth" when="1600">
+    <persName><name type="voornaam">W.J.N.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Iddekinge</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1636-12-30">
+    <event type="death">
       <place></place>
     </event>
   </person>

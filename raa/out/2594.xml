@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Marcus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heloma</name></persName>
-    <event type="birth" when="1806-01-23">
-      <place>Heerenveen</place>
+    <persName><name type="voornaam">Leendert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Voogd</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1885-09-18">
-      <place>Heerenveen</place>
+    <event type="death" when="1767-08-04">
+      <place></place>
     </event>
   </person>
   <biography/>

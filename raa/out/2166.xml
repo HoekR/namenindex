@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Orden</name></persName>
-    <event type="birth" when="1775-12-25">
-      <place>Oostzaandam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Thomas</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Diericxsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1854-01-13">
-      <place>Zaandam</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

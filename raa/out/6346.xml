@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adolf Carel</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Bentinck tot Beverfeurde</name></persName>
-    <persName>Adolf Carel Bentinck tot Nijenhuis</persName>
-    <event type="birth" when="1764">
+    <persName><name type="voornaam">Jan Theunisz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Houttuijn</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1837-03-11">
+    <event type="death">
       <place></place>
     </event>
   </person>

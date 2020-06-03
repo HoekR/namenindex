@@ -1,0 +1,89 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Koenraad, Pieter (1890-1968)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/koenraad"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">koenraad</idno>
+    <persName><name type="geslachtsnaam">Koenraad</name>, Pieter</persName>
+    <sex value="1"/>
+    <event type="birth" when="1890"/>
+    <event type="death" when="1968"/>
+    <state type="occupation">marineofficier</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Koenraad, Pieter&lt;/strong&gt;, marineofficier (Dirksland 6-6-1890 - Las Palmas op de Canarische eilanden 22-2-1968).
+
+Zoon van Johannes Adrianus Koenraad, hoofdonderwijzer, en Alida
+Elizabeth de Graaff. Gehuwd op 5-5-1923 met Catharina Cornelia van
+Trooijen, welk huwelijk op 12-9-1930 bij vonnis Raad van Justitie te
+Batavia door echtscheiding werd ontbonden. Uit dit huwelijk werd 1
+dochter geboren. Hertrouwd op 17-11-1934 met Gertrud Maria Eugelink.
+Uit deze verbintenis werden 2 dochters geboren, van wie 1 jong
+overleden.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Koenraad begon in 1908 zijn opleiding tot marineofficier aan het
+Koninklijk instituut voor de marine te Den Helder. Op 23 augustus 1911
+werd hij benoemd tot officier (adelborst der 1e klasse). Hij diende
+eerst in West-Indi&amp;euml; en vervolgens afwisselend in Nederland en
+Nederlandsch-Indi&amp;euml;, zowel in walfuncties als aan boord van
+schepen. Zo was hij in de Oost o.a. commandant van een
+torpedo-bootjager, commandant van de Marinekazerne Oedjong en
+commandant van een divisie torpedo-bootjagers.&lt;/p&gt;
+&lt;p&gt;Bij het uitbreken van de oorlog met Japan was hij Commandant der
+Marine te Soerabaja. In maart 1942 week hij uit naar Australi&amp;euml;
+vanwaar hij naar Engeland vertrok. Teruggekeerd in Australi&amp;euml;
+vervulde hij daar van 1 mei 1943 tot 1 oktober 1945 de functie van
+Marinecommandant Australi&amp;euml; (MCA) met hoofdkwartier te Melbourne;
+tot november 1943 was hij tevens Onderbevelhebber Strijdkrachten Oosten
+(OBSO). Na reeds eerder tijdelijk tot schout-bij-nacht te zijn
+bevorderd, werd deze benoeming op 1 november 1943 effectief. Van 6
+oktober 1945 tot 21 januari 1946 was Koenraad waarnemend Commandant der
+Zeemacht in Nederlandsch-Indi&amp;euml; en hoofd departement van Marine te
+Batavia. Op 1 mei 1946 werd hij gepensioneerd en gelijktijdig bevorderd
+tot vice-admiraal.&lt;/p&gt;
+&lt;p&gt;Hoewel Koenraad geen bijzonder krachtige mililitaire figuur was,
+trad hij in maart 1942, bij de evacuatie van de marine uit
+Nederlandsch-Indi&amp;euml;, zelfstandig en zeer verstandig op. In
+Australi&amp;euml; had hij een louter administratieve taak; het
+operationeel bevel over de daar aanwezige Nederlandse marine-eenheden
+berustte bij de Amerikanen. De gebrekkige communicatie met de
+Bevelhebber Strijdkrachten Oosten (BSO) - vice-admiraal C.E.L. Helfrich
+- in Colombo (Ceylon) vergemakkelijkte zijn taak niet. Aan persoonlijke
+moed ontbrak het Koenraad overigens niet; meer dan eens nam hij deel
+aan vluchten vanuit Australi&amp;euml; naar bezet
+Nederlands-Indi&amp;euml;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;C.E.L. Helfrich, 
+&lt;em&gt;Memoires&lt;/em&gt;
+
+(Amsterdam [enz.], 1950. 2 dln.) passim; 
+&lt;em&gt;Enqu&amp;ecirc;tecommissie regeringsbeleid 1940/1945&lt;/em&gt;
+
+('s-Gravenhage, 1956) 8a en b inzake verrichtingen en organisatie
+van de marine; K.W.L. Bezemer, 
+&lt;em&gt;Verdreven doch niet verslagen...&lt;/em&gt;
+
+(Hilversum, 1967) 8, 9, 31, 260; 
+&lt;em&gt;Offici&amp;euml;le bescheiden betreffende de Nederlands-Indonesische
+betrekkingen 1945-1950.&lt;/em&gt;
+
+Uitg. door S.L. van der Wal ('s-Gravenhage, 1971) I, 264; J.C.
+Bijkerk, 
+&lt;em&gt;Vaarwel tot betere tijden.&lt;/em&gt;
+
+2e dr. (Franeker, [1978]).&lt;/p&gt;
+&lt;p&gt;J.A. van der Kooij&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

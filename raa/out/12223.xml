@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/12223"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Victorin Jean Fran&#231;ois Augustin</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Steenhault</name></persName>
+    <event type="birth" when="2010">
+      <place>Vollezeele</place>
+    </event>
+    <event type="death" when="1841-04-24">
+      <place>Arlon</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,13 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName>
-      <name type="voornaam">Paulus</name>
-    </persName>
+    <persName><name type="voornaam">Leendert Leendertsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Mathol</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1516">
+    <event type="death">
       <place></place>
     </event>
   </person>

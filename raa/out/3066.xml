@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacobus Johannes</name> <name type="geslachtsnaam">Klijnpenninck</name></persName>
-    <event type="birth" when="1794-06-18">
-      <place>Nijmegen</place>
+    <persName><name type="voornaam">Bruno</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Does</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1791">
       <place></place>
     </event>
   </person>

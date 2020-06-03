@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Robert</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Collot d'Escury</name></persName>
-    <event type="birth" when="1753-04-26">
-      <place>Gorinchem</place>
+    <persName><name type="voornaam">J.</name> <name type="geslachtsnaam">Wannaar</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1834-02-11">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

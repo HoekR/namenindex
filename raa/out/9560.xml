@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Pieter</name> <name type="geslachtsnaam">Couwenburch van Beloys</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Petrus Josephus</name> <name type="geslachtsnaam">Cuypers</name></persName>
+    <persName>Cuypers van Spangen</persName>
+    <event type="birth" when="2004">
+      <place>Oudenbosch</place>
     </event>
-    <event type="death" when="1644-06-28">
-      <place></place>
+    <event type="death" when="1844-12-18">
+      <place>Bergen op Zoom</place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Simon</name> <name type="geslachtsnaam">Haak</name></persName>
-    <event type="birth" when="1632">
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Duvelaer</name></persName>
+    <persName>Pieter Duijvelaer</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1705-04-28">
+    <event type="death" when="1703-09-06">
       <place></place>
     </event>
   </person>

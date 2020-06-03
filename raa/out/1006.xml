@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Cornelis</name> <name type="intrapositie">'t</name> <name type="geslachtsnaam">Hoen</name></persName>
-    <event type="birth" when="1785-05-20">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Cornelis Theodorus</name> <name type="geslachtsnaam">Elout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-01-17">
-      <place>Amsterdam</place>
+    <event type="death" when="1841">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Wassenaer</name></persName>
-    <event type="birth" when="1619">
-      <place></place>
+    <persName><name type="voornaam">Barent</name> <name type="intrapositie">comte (d'Empire) van</name> <name type="geslachtsnaam">Lockhorst van Bonlez</name></persName>
+    <persName>Van Lockhorst van Toll en Venhuizen</persName>
+    <event type="birth" when="2002">
+      <place>Rotterdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1831-11-14">
+      <place>Aken</place>
     </event>
   </person>
   <biography/>

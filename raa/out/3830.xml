@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik (II)</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Borselen</name></persName>
-    <persName>Grandpr&#233;</persName>
-    <event type="birth" when="1404">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter Arendsz.</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Dijk</name></persName>
+    <persName>Antoine Montjeu</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1474">
+    <event type="death">
       <place></place>
     </event>
   </person>

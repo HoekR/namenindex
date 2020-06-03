@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">With</name></persName>
-    <event type="birth" when="1754-06-28">
-      <place>Dokkum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Spiering</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-04-02">
-      <place>Rinsumageest</place>
+    <event type="death" when="1528">
+      <place></place>
     </event>
   </person>
   <biography/>

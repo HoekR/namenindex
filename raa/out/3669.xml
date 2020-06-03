@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arent Pietersz.</name> <name type="geslachtsnaam">Slagtoe</name></persName>
-    <event type="birth" when="1625">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Arend</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Hendriksz.</name></persName>
+    <persName>Gerardus Suckerraedt</persName>
+    <persName>Gerardus Zuckerode</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1703-11-26">
+    <event type="death">
       <place></place>
     </event>
   </person>

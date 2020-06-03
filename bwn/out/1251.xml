@@ -1,0 +1,95 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Mok, Salomon (1902-1948)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/mok"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">mok</idno>
+    <persName><name type="geslachtsnaam">Mok</name>, Salomon</persName>
+    <sex value="1"/>
+    <event type="birth" when="1902"/>
+    <event type="death" when="1948"/>
+    <state type="occupation">jurist</state>
+  </person>
+  <biography>
+    <graphic url="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/images/images/MOK.jpg"/>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Mok, Salomon&lt;/strong&gt;, jurist (Amsterdam 12-12-1902 - Utrecht 23-2-1948).
+
+Zoon van Machiel Mok, diamantbewerker, en Aaltje Coster. Gehuwd op
+16-4-1931 met Gonda Marie Jacobs. Uit dit huwelijk werden 2 zoons en 1
+dochter geboren.
+
+&lt;img src=&amp;quot;images/MOK.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Mok, Salomon&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Na de HBS doorlopen te hebben kreeg hij een functie op het bureau
+van de Nederlandse Werkloosheidsraad. In 1925 werd hij tot
+adjunct-secretaris van die raad benoemd. Intussen had hij zich aan de
+Universiteit van Amsterdam laten inschrijven voor de juridische studie
+(1921). Na eerst nog in 1923 het noodzakelijke staatsexamen te hebben
+afgelegd, volgde het kandidaats- en het doctoraal examen in
+respectievelijk 1924 en 1927. Korte tijd beoefende Mok daarop de
+advocatuur. In het volgende jaar werd hij benoemd tot chef van het
+documentatiebureau van het Nederlands Verbond van Vakverenigingen
+(NVV). Deze werkkring combineerde hij, vanaf 1932, met het lidmaatschap
+van de Amsterdamse gemeenteraad voor de Sociaal-Democratische
+Arbeiderspartij (SDAP). Hieraan kwam een einde ten gevolge van zijn
+vertrek naar Leiden, wegens een benoeming tot voorzitter van de Raad
+van Arbeid aldaar (1938). Hij kreeg daardoor meer tijd voor
+wetenschappelijk werk. In 1939 voltooide hij een proefschrift dat
+getiteld was 
+&lt;em&gt;Het algemeen verbindend en het onverbindend verklaren van bepalingen
+van collectieve arbeidsovereenkomsten&lt;/em&gt;
+
+(Haarlem, 1939). Kort v&amp;oacute;&amp;oacute;r 10 mei 1940 verkreeg hij toelating
+als privaatdocent in het arbeidsrecht aan de Rijksuniversiteit van
+Utrecht. Pas na de oorlog - hij verbleef onder andere in Westerbork en
+Theresienstadt - kon hij zijn openbare les houden: 
+&lt;em&gt;Vrijheid en gebondenheid in het arbeidsrecht&lt;/em&gt;
+
+(Haarlem, 1946). Het inmiddels hervatte voorzitterschap van de Raad van
+Arbeid te Leiden verwisselde hij voor die zelfde positie in Utrecht. Op
+vele terreinen is Mok actief geweest, bijvoorbeeld in het
+maatschappelijk werk, en ook voor de oorlog al als zionist. Zijn
+wetenschappelijke belangstelling was zeer breed gericht. Hij heeft
+echter vooral naam gemaakt als beoefenaar van het arbeidsrecht. In
+velerlei opzicht heeft hij zich daarvoor verdienstelijk gemaakt, in
+grondslagenstudies en rapporten, maar ook als kundig popularisator door
+middel van cursussen en brochures. Zeer vele artikelen verschenen van
+zijn hand, in algemeen-juridische en in arbeidsrechtelijke
+tijdschriften. Bij dit alles had hij ook een grote organisatorische
+inbreng.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Behalve de in de tekst genoemde publikatie o.a. 
+&lt;em&gt;Arbeidsrecht. Een inleiding&lt;/em&gt;
+
+(Amsterdam, 1936); 
+&lt;em&gt;De vakbeweging, ontwikkelingsschets en problemen&lt;/em&gt;
+
+14 dr. (Amsterdam, 1947); 
+&lt;em&gt;Arbeidsrechtelijke opstellen&lt;/em&gt;
+
+[Samengest. door M.G. Levenbach e.a.] (Alphen a.d. Rijn, 1950).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;J. Barents, in 
+&lt;em&gt;Socialisme en Democratie 5&lt;/em&gt;
+
+(1948) 131-132; Marius G. Levenbach, in 
+&lt;em&gt;Mr. S. Mok. Arbeidsrechtelijke opstellen&lt;/em&gt;
+
+(Alphen a.d. Rijn, 1950) IX-XVI.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&amp;quot;igedeelte&amp;quot;&gt;I: &lt;/a&gt;&lt;i&gt;Persoonlijkheden in het Koninkrijk der Nederlanden in woord en beeld&lt;/i&gt;. Onder hoofdred. van H.P. van den Aardweg (Amsterdam 1938) 1026 [Foto: Hanna Elkan].
+&lt;/p&gt;
+
+&lt;p&gt;S. Faber&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Gerlach Johan Herbert</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Heim</name></persName>
-    <event type="birth" when="1761-12-21">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Jan</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Poll</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-07-07">
-      <place>Rijswijk</place>
+    <event type="death" when="1822">
+      <place></place>
     </event>
   </person>
   <biography/>

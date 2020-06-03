@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Claasz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Broek</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Assen</name></persName>
+    <event type="birth" when="2008">
+      <place>Harlingen</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1859-09-13">
+      <place>Velp</place>
     </event>
   </person>
   <biography/>

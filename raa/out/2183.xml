@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albertus</name> <name type="geslachtsnaam">Perk</name></persName>
-    <event type="birth" when="1795-04-15">
-      <place>Hilversum</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Drenkwaard</name></persName>
+    <event type="birth" when="1538">
+      <place></place>
     </event>
-    <event type="death" when="1880-12-07">
-      <place>Hilversum</place>
+    <event type="death" when="1592">
+      <place></place>
     </event>
   </person>
   <biography/>

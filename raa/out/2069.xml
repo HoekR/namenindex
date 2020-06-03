@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Egbert Hendrik</name> <name type="intrapositie">Geraerds</name> <name type="geslachtsnaam">Thesingh</name></persName>
-    <event type="birth" when="1797-11-21">
-      <place>Haarlem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Kerstensz.</name></persName>
+    <event type="birth" when="1458">
+      <place></place>
     </event>
-    <event type="death" when="1876-12-28">
-      <place>Barneveld</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Andries Jacob</name> <name type="geslachtsnaam">Kluppel</name></persName>
-    <event type="birth" when="1757-02-06">
-      <place>Enkhuizen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Kinnema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1817-07-26">
-      <place>Enkhuizen</place>
+    <event type="death" when="1644-09-08">
+      <place></place>
     </event>
   </person>
   <biography/>

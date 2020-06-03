@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.dr.</name> <name type="voornaam">Pieter Jacob</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Bye</name></persName>
-    <event type="birth" when="1766-12-11">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Simonsz.</name></persName>
+    <event type="birth" when="1424">
+      <place></place>
     </event>
-    <event type="death" when="1836-12-19">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

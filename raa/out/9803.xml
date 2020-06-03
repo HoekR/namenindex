@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Derk Sebes</name> <name type="geslachtsnaam">Bonthuis</name></persName>
-    <event type="birth" when="1744">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Huygensz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Roe(n)</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1812">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Felix Theodor</name> <name type="geslachtsnaam">Westerwoudt</name></persName>
-    <event type="birth" when="1831-04-12">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Gerard</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Vladeracken</name></persName>
+    <persName>Gerard Fladderack</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1914-04-29">
-      <place>Amsterdam</place>
+    <event type="death" when="1674-03-11">
+      <place></place>
     </event>
   </person>
   <biography/>

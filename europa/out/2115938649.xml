@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/2115938649"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Ali</name> <name type="intrapositie">Rawalpindi nan</name> <name type="geslachtsnaam">Bhutto</name></persName>
+    <event type="birth">
+      <date>05-01-1928</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>04-04-1979</date>
+      <place>Rawalpindi</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

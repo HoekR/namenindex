@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1235819277"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Drs.</name> <name type="voornaam">Bruno</name> <name type="intrapositie">Zuidhorn nan</name> <name type="geslachtsnaam">Scheltema</name></persName>
+    <event type="birth">
+      <date>08-07-1919</date>
+      <place>Deventer</place>
+    </event>
+    <event type="death">
+      <date>08-05-2004</date>
+      <place>Zuidhorn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

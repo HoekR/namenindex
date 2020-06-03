@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-2084397800"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Truro nan</name> <name type="geslachtsnaam">Brown</name></persName>
+    <event type="birth">
+      <date>02-09-1914</date>
+      <place>Lambeth, London</place>
+    </event>
+    <event type="death">
+      <date>02-06-1985</date>
+      <place>Truro</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

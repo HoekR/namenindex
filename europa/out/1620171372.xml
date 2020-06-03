@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1620171372"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Jhr.</name> <name type="voornaam">nan</name> <name type="intrapositie">Born nan</name> <name type="geslachtsnaam">Ruys de Beerenbrouck</name></persName>
+    <event type="birth">
+      <date>03-08-1904</date>
+      <place>Maastricht</place>
+    </event>
+    <event type="death">
+      <date>10-03-1983</date>
+      <place>Born</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

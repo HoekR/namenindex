@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Daniel Cornelisz.</name> <name type="geslachtsnaam">Maasbergen</name></persName>
-    <event type="birth" when="1663">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Frederik Bernard</name> <name type="intrapositie">s'</name> <name type="geslachtsnaam">Jacob</name></persName>
+    <event type="birth" when="2003">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1723">
-      <place></place>
+    <event type="death" when="1831-02-04">
+      <place>Amsterdam</place>
     </event>
   </person>
   <biography/>

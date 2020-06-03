@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">J.G.</name> <name type="geslachtsnaam">Dolmans</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Gellius Wybrandus</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Jongestal</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1688-03-23">
       <place></place>
     </event>
   </person>

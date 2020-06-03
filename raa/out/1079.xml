@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johannes Jacobus</name> <name type="intrapositie">van der Hagen van den</name> <name type="geslachtsnaam">Heuvel</name></persName>
-    <event type="birth" when="1796-09-25">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Eijck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-09-06">
-      <place>Utrecht</place>
+    <event type="death" when="1751">
+      <place></place>
     </event>
   </person>
   <biography/>

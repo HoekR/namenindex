@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Mulder</name></persName>
-    <event type="birth" when="1745">
-      <place></place>
+    <persName><name type="voornaam">Hendrik Frederik</name> <name type="geslachtsnaam">Cremer</name></persName>
+    <event type="birth" when="2010">
+      <place>Doetinchem</place>
     </event>
-    <event type="death" when="1825">
-      <place></place>
+    <event type="death" when="1837-02-21">
+      <place>Doetinchem</place>
     </event>
   </person>
   <biography/>

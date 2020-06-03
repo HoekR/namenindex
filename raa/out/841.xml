@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Vollenhoven</name></persName>
-    <event type="birth" when="1778-02-03">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Huge Paulsz.</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Morebey</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1849-11-14">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

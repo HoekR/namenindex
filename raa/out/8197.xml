@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bonaventura</name> <name type="geslachtsnaam">Oetgens van Waveren</name></persName>
-    <event type="birth" when="1700">
+    <persName>
+      <name type="geslachtsnaam">Eijfferts</name>
+    </persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1761-01-08">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albertus</name> <name type="geslachtsnaam">Prins</name></persName>
-    <event type="birth" when="1793-08-21">
-      <place>Gasselte</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sicco</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Goslinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1863-11-04">
+    <event type="death" when="1731-09-20">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ferdinandus Henricus Hubertus</name> <name type="geslachtsnaam">Borret</name></persName>
-    <event type="birth" when="1819-02-13">
-      <place>'s-Hertogenbosch</place>
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Jacobus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Steege</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1900-03-29">
-      <place>Klundert</place>
+    <event type="death" when="1811">
+      <place></place>
     </event>
   </person>
   <biography/>

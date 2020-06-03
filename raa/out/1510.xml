@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem Gerrit</name> <name type="geslachtsnaam">Hovy</name></persName>
-    <event type="birth" when="1805-02-23">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Buyskes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1886-07-28">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1832">
+      <place></place>
     </event>
   </person>
   <biography/>

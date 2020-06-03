@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-69693462"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Darmstadt von</name> <name type="geslachtsnaam">Brentano di Tremezzo</name></persName>
+    <event type="birth">
+      <date>06-06-1904</date>
+      <place>Offenbach</place>
+    </event>
+    <event type="death">
+      <date>14-11-1964</date>
+      <place>Darmstadt</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

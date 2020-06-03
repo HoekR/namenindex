@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan</name> <name type="geslachtsnaam">Nijenhuis</name></persName>
-    <event type="birth" when="1810">
+    <persName><name type="voornaam">Maurits</name> <name type="intrapositie">comte (Empire) le Leu de</name> <name type="geslachtsnaam">Wilhem</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1864-06-29">
-      <place>Bad Kissingen</place>
+    <event type="death" when="1724">
+      <place></place>
     </event>
   </person>
   <biography/>

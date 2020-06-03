@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adolf Jacob Hendrik Christiaan Carel</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Heeckeren</name></persName>
-    <persName>Van Heeckeren van Oldoolde</persName>
-    <persName>Van Heeckeren van Overlaer</persName>
-    <event type="birth" when="1771-03-08">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Rein</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Wibens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-09-24">
-      <place>Laren (Gld.)</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

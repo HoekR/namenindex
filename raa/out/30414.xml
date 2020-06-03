@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/30414"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Hugo</name> <name type="intrapositie">markgraaf van</name> <name type="geslachtsnaam">Leisnig</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1538-03-21">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

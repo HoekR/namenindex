@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/351024327"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Skiveren nan</name> <name type="geslachtsnaam">Krag</name></persName>
+    <event type="birth">
+      <date>15-09-1914</date>
+      <place>Randers</place>
+    </event>
+    <event type="death">
+      <date>22-06-1978</date>
+      <place>Skiveren</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

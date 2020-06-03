@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">de Sandra</name> <name type="geslachtsnaam">Veldtman</name></persName>
-    <persName>De Sandra Veldtman van Slochteren</persName>
+    <persName><name type="voornaam">Adolf Hendrik</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Raesfelt tot Twickel</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1816">
+    <event type="death" when="1682-06-30">
       <place></place>
     </event>
   </person>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/13757"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Douwe Martens</name> <name type="geslachtsnaam">Teenstra</name></persName>
+    <event type="birth" when="2004">
+      <place>Anjum</place>
+    </event>
+    <event type="death" when="1823-06-19">
+      <place>Ruigezand</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

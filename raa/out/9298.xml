@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Levinus Ferdinand</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Beaufort</name></persName>
-    <event type="birth" when="1675">
-      <place></place>
+    <persName><name type="voornaam">Samuel</name> <name type="geslachtsnaam">Snoeck</name></persName>
+    <persName>Snouck van Loosen</persName>
+    <event type="birth" when="2001">
+      <place>Leiden</place>
     </event>
-    <event type="death" when="1730-11-09">
-      <place></place>
+    <event type="death" when="1839-05-27">
+      <place>Leiden</place>
     </event>
   </person>
   <biography/>

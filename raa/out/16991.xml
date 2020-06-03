@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/16991"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Eug&#232;ne Augustin</name> <name type="intrapositie">duc (Empire) de</name> <name type="geslachtsnaam">Waha de Baillonville</name></persName>
+    <event type="birth" when="2006">
+      <place>Anthisnes</place>
+    </event>
+    <event type="death" when="1821-10-03">
+      <place>Sint Truiden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

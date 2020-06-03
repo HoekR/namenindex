@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">P.W.</name> <name type="geslachtsnaam">Wiertsema</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Jacobsz.</name></persName>
+    <persName>Jacques de Gradebault</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1870">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Albert</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Iterson</name></persName>
-    <event type="birth" when="1801-12-09">
-      <place>Woerden</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sjoerd</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Eppinga</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1886-02-13">
-      <place>Bloemendaal</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

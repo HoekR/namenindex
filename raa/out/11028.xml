@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Spiering</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Dani&#235;l Fran&#231;ois</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Alphen</name></persName>
+    <event type="birth" when="2008">
+      <place>Utrecht</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1840-10-15">
+      <place>Voorschoten</place>
     </event>
   </person>
   <biography/>

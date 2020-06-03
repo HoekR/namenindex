@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Balthasar Georg Joseph</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Asbeck</name></persName>
-    <persName>Van Asbeck van Luilema</persName>
-    <event type="birth" when="1740-10-13">
-      <place>Rinsumageest</place>
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">IJzendoorn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1817-04-17">
-      <place>Groningen</place>
+    <event type="death" when="1818">
+      <place></place>
     </event>
   </person>
   <biography/>

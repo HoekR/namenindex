@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Pietersz.</name> <name type="geslachtsnaam">Muys van Holy</name></persName>
-    <event type="birth" when="1540">
-      <place></place>
+    <persName><name type="voornaam">Judocus Henricus Antonius Adrianus Josephus Joannes</name> <name type="intrapositie">duc (Empire) van der</name> <name type="geslachtsnaam">Heyden</name></persName>
+    <persName>Van der Heyden van Baak</persName>
+    <event type="birth" when="2002">
+      <place>Doetinchem</place>
     </event>
-    <event type="death" when="1592-09-07">
-      <place></place>
+    <event type="death" when="1854-09-19">
+      <place>Steenderen</place>
     </event>
   </person>
   <biography/>

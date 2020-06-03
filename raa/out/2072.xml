@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Leonard</name> <name type="geslachtsnaam">Diemont</name></persName>
-    <persName>Diemont van Langerak</persName>
-    <event type="birth" when="1794-10-31">
-      <place>Giessen-Nieuwkerk</place>
+    <persName><name type="voornaam">Bernardus</name> <name type="geslachtsnaam">Bosch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1865-03-02">
-      <place>Gorinchem</place>
+    <event type="death" when="1803">
+      <place></place>
     </event>
   </person>
   <biography/>

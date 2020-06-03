@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-53388775"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Marquis</name> <name type="voornaam">nan</name> <name type="intrapositie">Parijs de</name> <name type="geslachtsnaam">Custine</name></persName>
+    <event type="birth">
+      <date>18-03-1790</date>
+      <place>Niderviller (Lotharingen)</place>
+    </event>
+    <event type="death">
+      <date>25-09-1857</date>
+      <place>Parijs</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Scato</name> <name type="geslachtsnaam">Gockinga</name></persName>
-    <event type="birth" when="1788-07-20">
-      <place>Groningen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Laes</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Burmania</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1852-03-07">
-      <place>Groningen</place>
+    <event type="death" when="1691-03-12">
+      <place></place>
     </event>
   </person>
   <biography/>

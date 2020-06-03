@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/32306"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Carolus Alexander Josephus Gislenus</name> <name type="intrapositie">burggraaf d'</name> <name type="geslachtsnaam">Aubrem&#233;</name></persName>
+    <event type="birth" when="2006">
+      <place>Brussel</place>
+    </event>
+    <event type="death" when="1835-02-13">
+      <place>Aken</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Wicher Meynart</name> <name type="intrapositie">de Marees van</name> <name type="geslachtsnaam">Swinderen</name></persName>
-    <event type="birth" when="1802-10-10">
-      <place>Groningen</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Rutger</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Haersolte</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-04-16">
-      <place>Groningen</place>
+    <event type="death" when="1776-10-08">
+      <place></place>
     </event>
   </person>
   <biography/>

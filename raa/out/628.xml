@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Hoekwater</name></persName>
-    <event type="birth" when="1801-11-01">
-      <place>Delft</place>
+    <persName><name type="intrapositie">La</name> <name type="geslachtsnaam">Jonckaire</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1877-07-01">
-      <place>Delft</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jouwert</name> <name type="geslachtsnaam">Witteveen</name></persName>
-    <event type="birth" when="1748-08-26">
-      <place>Lemmer</place>
+    <persName><name type="voornaam">Hendrik Bartholomeusz.</name> <name type="intrapositie">comte (Empire) van den</name> <name type="geslachtsnaam">Santheuvel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-12-25">
-      <place>Dokkum</place>
+    <event type="death" when="1747-08-28">
+      <place></place>
     </event>
   </person>
   <biography/>

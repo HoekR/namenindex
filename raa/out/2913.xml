@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Dirk Reinhard Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lynden</name></persName>
-    <event type="birth" when="1779-02-17">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Nicolaas</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Banchem</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1837-04-11">
-      <place>Nijmegen</place>
+    <event type="death" when="1729-11-28">
+      <place></place>
     </event>
   </person>
   <biography/>

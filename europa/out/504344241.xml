@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/504344241"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Kees</name> <name type="intrapositie">Amstelveen van</name> <name type="geslachtsnaam">Wingerden</name></persName>
+    <event type="birth">
+      <date>12-10-1906</date>
+      <place>Dordrecht</place>
+    </event>
+    <event type="death">
+      <date>26-01-1969</date>
+      <place>Amstelveen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

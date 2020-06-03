@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan</name> <name type="intrapositie">Teding van</name> <name type="geslachtsnaam">Berkhout</name></persName>
-    <event type="birth" when="1623">
+    <persName><name type="voornaam">Jan Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Kinsbergen</name></persName>
+    <persName>Van Kinsbergen van Doggersbank</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1696">
+    <event type="death" when="1819">
       <place></place>
     </event>
   </person>

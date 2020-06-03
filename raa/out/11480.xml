@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Linsen</name></persName>
-    <persName>Linsen de Jonge</persName>
-    <event type="birth" when="1767-01-20">
-      <place>Grave</place>
+    <persName><name type="voornaam">Gerrit Jan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heek</name></persName>
+    <event type="birth" when="2007">
+      <place>Enschede</place>
     </event>
-    <event type="death" when="1842-12-27">
-      <place>'s-Hertogenbosch</place>
+    <event type="death" when="1851-06-09">
+      <place>Enschede</place>
     </event>
   </person>
   <biography/>

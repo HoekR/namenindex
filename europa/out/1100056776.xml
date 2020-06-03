@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1100056776"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">Kurt</name> <name type="intrapositie">Bonn nan</name> <name type="geslachtsnaam">Schumacher</name></persName>
+    <event type="birth">
+      <date>13-10-1895</date>
+      <place>Culm</place>
+    </event>
+    <event type="death">
+      <date>20-08-1952</date>
+      <place>Bonn</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Schermer</name></persName>
-    <event type="birth" when="1777">
+    <persName><name type="voornaam">Jan Woutersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Binneblijf</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1853">
+    <event type="death" when="1612">
       <place></place>
     </event>
   </person>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="geslachtsnaam">Boullin</name></persName>
-    <persName>Cornelis Bouwin</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Reinier Saris</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Gronden</name></persName>
+    <event type="birth" when="2010">
+      <place>Zwolle</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1845-08-05">
+      <place>Zwolle</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Bartolomeus</name> <name type="geslachtsnaam">Paravicini di Capelli</name></persName>
-    <event type="birth" when="1724">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Henricus</name> <name type="geslachtsnaam">Oomen</name></persName>
+    <event type="birth" when="2002">
+      <place>Teteringen</place>
     </event>
-    <event type="death" when="1810">
-      <place></place>
+    <event type="death" when="1815-09-17">
+      <place>Breda</place>
     </event>
   </person>
   <biography/>

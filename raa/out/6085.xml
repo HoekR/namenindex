@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Hendrick</name> <name type="geslachtsnaam">Coccejus</name></persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Poppenz.</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1710-06-01">
+    <event type="death" when="1357">
       <place></place>
     </event>
   </person>

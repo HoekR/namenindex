@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jeronimus</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Haze de Georgio</name></persName>
-    <event type="birth" when="1651">
-      <place></place>
+    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Antoni</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Riemsdijk</name></persName>
+    <event type="birth" when="2011">
+      <place>Hardenberg</place>
     </event>
-    <event type="death" when="1725-07-19">
-      <place></place>
+    <event type="death" when="1840-03-31">
+      <place>Hardenberg</place>
     </event>
   </person>
   <biography/>

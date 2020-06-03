@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Sijbrantsz.</name> <name type="geslachtsnaam">Groes</name></persName>
-    <event type="birth" when="1581">
+    <persName><name type="voornaam">Jan Zeger</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sloet tot Bellinkhof</name></persName>
+    <persName>Jan Zeger Sloet tot Grimberg</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1648">
+    <event type="death" when="1804-01-14">
       <place></place>
     </event>
   </person>

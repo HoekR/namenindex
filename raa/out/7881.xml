@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bulderen</name></persName>
-    <event type="birth" when="1718">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Cornelis Mary</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
+    <persName>De Jonge van Ellemeet</persName>
+    <event type="birth" when="2005">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1782-10-16">
-      <place></place>
+    <event type="death" when="1888-01-07">
+      <place>Oostkapelle</place>
     </event>
   </person>
   <biography/>

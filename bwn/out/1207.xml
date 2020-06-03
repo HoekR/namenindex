@@ -1,0 +1,95 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title>Meinsma, Koenraad Oege (1865-1929)</title>
+    <ref target="http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn1/meinsma"/>
+    <publisher>
+      <name>Biografisch Woordenboek van Nederland:1880-2000</name>
+      <ref target="http://resources.huygens.knaw.nl/bwn1880-2000"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">meinsma</idno>
+    <persName><name type="geslachtsnaam">Meinsma</name>, Koenraad Oege</persName>
+    <sex value="1"/>
+    <event type="birth" when="1865"/>
+    <event type="death" when="1929"/>
+    <state type="occupation">historicus</state>
+  </person>
+  <biography>
+    <text>&lt;dtml-var bwn_header&gt;
+ &lt;p class='genealogie'&gt;
+  &lt;strong&gt;Meinsma, Koenraad Oege&lt;/strong&gt;, publicist en leraar (Deventer 14-1-1865 - Zutphen 8-10-1929).
+
+Zoon van Johannes Jacobus Meinsma, fotograaf, en Margaretha Barbara
+Visscher. Gehuwd sinds 26-8-1897 met Willemina Overbosch. Uit dit
+huwelijk werden 2 zoons en 2 dochters geboren.
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Meinsma volgde te Deventer de lessen aan de normaalschool en werd in
+1883 onderwijzer aan de openbare lagere school te Welsum (gem. Olst).
+Van hieruit nam hij te Deventer lessen ter voorbereiding van het
+staatsexamen gymnasium. In 1889 liet hij zich inschrijven als student
+in de Nederlandse letteren aan de Universiteit van Amsterdam, waar hij
+in 1900 doctoraal deed. Hoewel nog 'onbevoegd' werd hij in 1896
+leraar Nederlands en geschiedenis aan het stedelijk gymnasium te
+Zutphen, waaraan hij (sedert 1921 als conrector) tot zijn dood
+verbonden zou blijven. Als student schreef hij het belangwekkende, op
+uitvoerig archiefonderzoek berustende werk 
+&lt;em&gt;Spinoza en zijn kring. Historisch-kritische studi&amp;euml;n over
+Hollandsche vrijgeesten&lt;/em&gt;
+
+('s-Gravenhage, 1896). Voor dit boek, dat in 1909 ook in het Duits
+werd vertaald, verwierf de auteur in 1911 de gouden medaille van het De
+Jong van Beek en Donk-fonds.&lt;/p&gt;
+&lt;p&gt;Meinsma was in zijn jonge jaren een overtuigd vrijdenker en werkte
+mee aan het tijdschrift 
+&lt;em&gt;De Dageraad; zo&lt;/em&gt;
+
+verzorgde hij onder het pseudoniem Conrad von Elborgh een vertaling van
+
+&lt;em&gt;De tribus impostoribus&lt;/em&gt;
+
+o.d.t. 
+&lt;em&gt;Over drie bedriegers (Mozes, Jezus en Mahomed)&lt;/em&gt;
+
+(Amsterdam, 1888) welke ook afzonderlijk werd uitgegeven.&lt;/p&gt;
+&lt;p&gt;Zijn Amsterdamse dissertatie 
+&lt;em&gt;Middeleeuwsche bibliotheken&lt;/em&gt;
+
+(Amsterdam, 1902) moge in onderdelen verouderd zijn, maar zij geldt nog
+steeds als een standaardwerk. Na zijn promotie richtte Meinsma zijn
+belangstelling voornamelijk op de regionale en lokale geschiedenis. Te
+Zutphen was hij, hoewel geen lidmaat, archivaris en bibliothecaris van
+de Nederlandse Hervormde Gemeente. Speciale interesse had hij voor de
+St. Walburgskerk, waarvan hij de librije inventariseerde; voorts
+publiceerde hij over deze kerk en andere historische aspecten van zijn
+woonplaats in diverse dagbladen en ook wetenschappelijke tijdschriften.
+Meinsma was bovendien vast medewerker van de 
+&lt;em&gt;Zutphensche Courant,&lt;/em&gt;
+
+zijn artikelen over de zwarte dood werden later in boekvorm
+gepubliceerd.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='agedeelte'&gt;A: &lt;/a&gt;Collectie-Meinsma in Gemeentearchief Zutphen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;
+  Zie voor zijn publikaties: P. Gouda Quint, 
+&lt;em&gt;Grondslagen voor de bibliographie van Gelderland&lt;/em&gt;
+
+(Arnhem, 1910-1942. 3 dln.).
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href='lgedeelte'&gt;L: &lt;/a&gt;'&amp;#134; Dr. K.O. Meinsma', in 
+&lt;em&gt;Zutphensche Courant&lt;/em&gt;
+
+8-10-1929; 'Dr. K.O. Meinsma &amp;#134;', in 
+&lt;em&gt;Het Boek&lt;/em&gt;
+
+18 (1929) 369-370.&lt;/p&gt;
+&lt;p&gt;S.B.J. Zilverberg&lt;/p&gt; 
+&lt;dtml-var bwn_footer&gt;</text>
+  </biography>
+</biodes>
+

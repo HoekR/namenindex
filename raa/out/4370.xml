@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Martin</name> <name type="intrapositie">Copius</name> <name type="geslachtsnaam">Peereboom</name></persName>
-    <event type="birth" when="1751-11-17">
-      <place>Purmerend</place>
+    <persName><name type="voornaam">Gasper</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Kinschot</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1824-06-25">
-      <place>Schoonhoven</place>
+    <event type="death" when="1678-08-10">
+      <place></place>
     </event>
   </person>
   <biography/>

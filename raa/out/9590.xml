@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Marinus Jan</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
-    <event type="birth" when="1730">
+    <persName><name type="voornaam">Gerrit Jan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Rhemen tot Rhemenshuizen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1783-06-23">
+    <event type="death" when="1787-09-25">
       <place></place>
     </event>
   </person>

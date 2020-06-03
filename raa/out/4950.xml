@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Does</name></persName>
-    <event type="birth" when="1694">
+    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Zegers van Wassenhoven</name></persName>
+    <persName>Zegers d'Ydegom, heer van Wassenhove</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1749-12-01">
+    <event type="death" when="1565">
       <place></place>
     </event>
   </person>

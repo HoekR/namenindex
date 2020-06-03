@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Marie Joseph Ferdinand Gerard</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Collaert</name></persName>
+    <persName><name type="voornaam">Jan Elias</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Huydecoper</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1744">
       <place></place>
     </event>
   </person>

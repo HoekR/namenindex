@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">Mulock</name> <name type="geslachtsnaam">Houwer</name></persName>
-    <persName>Mulock Houwer van Noordgouwe</persName>
+    <persName><name type="voornaam">Hugo</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Andel</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1826">
       <place></place>
     </event>
   </person>

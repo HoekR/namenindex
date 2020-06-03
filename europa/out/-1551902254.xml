@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1551902254"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">Werner</name> <name type="intrapositie">Neustadt an der Aisch nan</name> <name type="geslachtsnaam">Dollinger</name></persName>
+    <event type="birth">
+      <date>10-10-1918</date>
+      <place>Neustadt an der Aisch</place>
+    </event>
+    <event type="death">
+      <date>03-01-2008</date>
+      <place>Neustadt an der Aisch</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

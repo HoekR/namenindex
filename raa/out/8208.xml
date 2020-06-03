@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Claasz.</name> <name type="geslachtsnaam">Dierhout</name></persName>
-    <persName>Johan Claasz. Dirout</persName>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Tuyll van Serooskerke</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1626-07-07">
+    <event type="death" when="1627-05-26">
       <place></place>
     </event>
   </person>

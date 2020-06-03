@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joan</name> <name type="geslachtsnaam">Westenberg</name></persName>
-    <event type="birth" when="1765-08-19">
-      <place>Zwolle</place>
+    <persName><name type="voornaam">Abraham</name> <name type="geslachtsnaam">Sandra</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1838-08-24">
-      <place>Zwolle</place>
+    <event type="death" when="1819">
+      <place></place>
     </event>
   </person>
   <biography/>

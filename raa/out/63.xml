@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Andr&#233; Charles</name> <name type="geslachtsnaam">Membr&#232;de</name></persName>
-    <event type="birth" when="1758-11-04">
-      <place>Maastricht</place>
+    <persName><name type="voornaam">Paulus</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Heim</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-10-05">
-      <place>Aken</place>
+    <event type="death" when="1823">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Adriaen Mattheusz.</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Goes</name></persName>
-    <event type="birth" when="1695">
+    <persName><name type="voornaam">Otto</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Roeck</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1758-12-01">
+    <event type="death" when="1609">
       <place></place>
     </event>
   </person>

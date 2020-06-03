@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Wichers</name></persName>
-    <event type="birth" when="1740-07-03">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem IJsbrandsz.</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Coulster</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1818-11-16">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">prof.mr.</name> <name type="voornaam">Jacobus Anthonie</name> <name type="geslachtsnaam">Fruin</name></persName>
-    <event type="birth" when="1829-06-08">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Benne</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Tadema</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1884-11-01">
-      <place>Utrecht</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

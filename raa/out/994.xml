@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hindrik Ludolf</name> <name type="geslachtsnaam">Sypkens</name></persName>
-    <event type="birth" when="1815-06-11">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Willem Gijsbert</name> <name type="geslachtsnaam">Lemker</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1866-07-06">
-      <place>Groningen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

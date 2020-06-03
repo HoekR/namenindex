@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Tjalling Aedo Johan</name> <name type="intrapositie">Heringa van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <event type="birth" when="1721">
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Aaldert</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schouten</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1768-07-05">
+    <event type="death">
       <place></place>
     </event>
   </person>

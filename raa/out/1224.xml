@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Joachimus Lunsingh</name> <name type="geslachtsnaam">Tonckens</name></persName>
-    <event type="birth" when="1822-01-25">
-      <place>Westervelde</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Gijsbrechtsz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1892-09-26">
-      <place>Hoogeveen</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

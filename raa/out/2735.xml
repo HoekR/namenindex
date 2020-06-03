@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">M.F.</name> <name type="geslachtsnaam">Costerius de Boschoven</name></persName>
+    <persName><name type="voornaam">Bernardus Jacobus Jan</name> <name type="geslachtsnaam">Half-Wassenaer van Onsenoort</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1810">
       <place></place>
     </event>
   </person>

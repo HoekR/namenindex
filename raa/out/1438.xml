@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Laurent Th&#233;odore</name> <name type="geslachtsnaam">Nepveu</name></persName>
-    <persName>Nepveu van Herlaer</persName>
-    <event type="birth" when="1782-04-07">
-      <place>Utrecht</place>
+    <persName><name type="voornaam">Jacobus Balthasar</name> <name type="geslachtsnaam">Forsten</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-11-14">
-      <place>Parijs</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Broekhoven</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">David Mattheus</name> <name type="intrapositie">van Gelder de</name> <name type="geslachtsnaam">Neufville</name></persName>
+    <event type="birth" when="2011">
+      <place>Amsterdam</place>
     </event>
-    <event type="death" when="1553">
-      <place></place>
+    <event type="death" when="1814-06-07">
+      <place>Heemstede</place>
     </event>
   </person>
   <biography/>

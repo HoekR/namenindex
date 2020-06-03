@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">G.</name> <name type="geslachtsnaam">Hamminck</name></persName>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Graef</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1684-04-03">
       <place></place>
     </event>
   </person>

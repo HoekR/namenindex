@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerardus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Gennep</name></persName>
-    <event type="birth" when="1761-10-25">
-      <place>Rotterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Bernardus</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Meylama</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1840-05-11">
-      <place>Rotterdam</place>
+    <event type="death" when="1565">
+      <place></place>
     </event>
   </person>
   <biography/>

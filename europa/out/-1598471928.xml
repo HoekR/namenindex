@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1598471928"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Boebi</name> <name type="intrapositie">Bilthoven nan</name> <name type="geslachtsnaam">Brugsma</name></persName>
+    <event type="birth">
+      <date>18-07-1922</date>
+      <place>Aerdenhout</place>
+    </event>
+    <event type="death">
+      <date>04-09-1997</date>
+      <place>Bilthoven</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1422507864"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Ukkel van</name> <name type="geslachtsnaam">Elslande</name></persName>
+    <event type="birth">
+      <date>21-01-1916</date>
+      <place>Boekhoute</place>
+    </event>
+    <event type="death">
+      <date>21-12-2000</date>
+      <place>Ukkel</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

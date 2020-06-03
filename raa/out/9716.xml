@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">lic.</name> <name type="voornaam">Fernand</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Lucenne</name></persName>
-    <persName>Fernand de Lucerne</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Roeland</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Gistel</name></persName>
+    <persName>Ghistelles</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1512">
+    <event type="death">
       <place></place>
     </event>
   </person>

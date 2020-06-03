@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-276032397"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Milaan nan</name> <name type="geslachtsnaam">Malvestiti</name></persName>
+    <event type="birth">
+      <date>26-06-1889</date>
+      <place>Apiro</place>
+    </event>
+    <event type="death">
+      <date>04-05-1964</date>
+      <place>Milaan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerard Frans</name> <name type="geslachtsnaam">Bruns</name></persName>
-    <persName>Brons</persName>
-    <persName>Bruins</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Suermondt</name></persName>
+    <event type="birth" when="2012">
+      <place>Rotterdam</place>
     </event>
-    <event type="death" when="1799">
-      <place></place>
+    <event type="death" when="1828-03-14">
+      <place>Rotterdam</place>
     </event>
   </person>
   <biography/>

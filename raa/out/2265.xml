@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Schuijt</name></persName>
-    <event type="birth" when="1797-10-13">
-      <place>Harlingen</place>
+    <persName><name type="voornaam">Willem Pietersz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Houtingh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1885-12-01">
-      <place>Amersfoort</place>
+    <event type="death" when="1670">
+      <place></place>
     </event>
   </person>
   <biography/>

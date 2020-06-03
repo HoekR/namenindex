@@ -8,11 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit Jansz.</name> <name type="geslachtsnaam">Vroesen</name></persName>
-    <event type="birth" when="1555">
+    <persName>
+      <name type="geslachtsnaam">Bentinck</name>
+    </persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1630">
+    <event type="death">
       <place></place>
     </event>
   </person>

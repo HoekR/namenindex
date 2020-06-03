@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan Danielsz.</name> <name type="geslachtsnaam">Ockersse</name></persName>
-    <event type="birth" when="1668">
-      <place></place>
+    <persName><name type="voornaam">Lamoraal Joachim Johan</name> <name type="intrapositie">duc (Empire) Juckema van Burmania</name> <name type="geslachtsnaam">Rengers</name></persName>
+    <persName>Lamoraal Johan Joachim Rengers</persName>
+    <event type="birth" when="2009">
+      <place>'s-Gravenhage</place>
     </event>
-    <event type="death" when="1742-11-01">
-      <place></place>
+    <event type="death" when="1831-03-30">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

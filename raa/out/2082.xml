@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Dani&#235;l Carel</name> <name type="intrapositie">de Dieu Fontein</name> <name type="geslachtsnaam">Verschuir</name></persName>
-    <persName>De Dieu Fontein Verschuir van Heiloo</persName>
-    <event type="birth" when="1804-08-16">
-      <place>Heiloo</place>
+    <persName><name type="voornaam">Willem Frederik Hendrik</name> <name type="intrapositie">hertog van</name> <name type="geslachtsnaam">Wassenaer van Spanbroek</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1874-08-18">
-      <place>Alkmaar</place>
+    <event type="death" when="1799">
+      <place></place>
     </event>
   </person>
   <biography/>

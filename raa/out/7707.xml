@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Gerritsz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Egmond van de Nijenburg</name></persName>
-    <persName>Johan Gerritsz. van de Nijenburgh</persName>
-    <event type="birth" when="1618">
+    <persName><name type="voornaam">Anthonis</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Geniets</name></persName>
+    <persName>Antoine Genits</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1712">
+    <event type="death" when="1586-01-20">
       <place></place>
     </event>
   </person>

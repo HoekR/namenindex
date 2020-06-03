@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adolph Frederik Lodewijk</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Rechteren Limpurg</name></persName>
-    <event type="birth" when="1793-10-13">
-      <place>Arnhem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Egbert Sjuck Gerrold</name> <name type="intrapositie">prins Juckema van Burmania</name> <name type="geslachtsnaam">Rengers</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-03-31">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1806-02-24">
+      <place></place>
     </event>
   </person>
   <biography/>

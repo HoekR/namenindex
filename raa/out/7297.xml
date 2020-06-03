@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gerrit</name> <name type="geslachtsnaam">Hasewinkel</name></persName>
-    <event type="birth" when="1747">
-      <place></place>
+    <persName><name type="voornaam">Charles Albert Louis Alexandre Henri</name> <name type="intrapositie">burggraaf van der</name> <name type="geslachtsnaam">Burch</name></persName>
+    <event type="birth" when="2004">
+      <place>Aubry</place>
     </event>
-    <event type="death" when="1830">
-      <place></place>
+    <event type="death" when="1854-04-03">
+      <place>Ecaussines-Lalaing</place>
     </event>
   </person>
   <biography/>

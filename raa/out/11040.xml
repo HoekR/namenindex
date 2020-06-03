@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Jean Louis</name> <name type="geslachtsnaam">Trip</name></persName>
-    <persName>Trip van Zoudtlandt</persName>
-    <event type="birth" when="1750-07-23">
-      <place>Groningen</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Wijbrantsz.</name></persName>
+    <event type="birth" when="1431">
+      <place></place>
     </event>
-    <event type="death" when="1822-07-07">
-      <place>Princenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

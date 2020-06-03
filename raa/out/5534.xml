@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Georgien</name> <name type="geslachtsnaam">Godefridi</name></persName>
-    <persName>Jurgien Godefridi</persName>
+    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Brouwer</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1595-02-18">
+    <event type="death" when="1683-11-13">
       <place></place>
     </event>
   </person>

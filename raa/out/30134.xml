@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/30134"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Georgien</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Godefridi</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1595-02-18">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

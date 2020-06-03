@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Justinus Cornelis</name> <name type="geslachtsnaam">Voorduin</name></persName>
-    <event type="birth" when="1799-10-17">
-      <place>Gorinchem</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Pieter</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Florisz.</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-07-16">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

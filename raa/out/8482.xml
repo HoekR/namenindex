@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Eeuwe</name> <name type="geslachtsnaam">Sygers</name></persName>
-    <event type="birth" when="1745">
-      <place></place>
+    <persName><name type="voornaam">Mattheus Gilles</name> <name type="geslachtsnaam">Rees</name></persName>
+    <event type="birth" when="2011">
+      <place>Dordrecht</place>
     </event>
-    <event type="death" when="1811">
-      <place></place>
+    <event type="death" when="1817-10-21">
+      <place>Dordrecht</place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan Jacob</name> <name type="geslachtsnaam">Slicher</name></persName>
-    <persName>Slicher van Domburg</persName>
-    <event type="birth" when="1802-12-18">
-      <place>Middelburg</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Jan</name> <name type="intrapositie">ridder de</name> <name type="geslachtsnaam">Kempenaer</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1880-04-25">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1789-12-01">
+      <place></place>
     </event>
   </person>
   <biography/>

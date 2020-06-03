@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Tjalling Minne Watze</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Asbeck</name></persName>
-    <persName>Van Asbeck zu Bergen und Munsterhausen</persName>
-    <event type="birth" when="1795-01-16">
-      <place>Leeuwarden</place>
+    <persName><name type="voornaam">Bartholomeus Meynertsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Segwaert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-02-24">
-      <place>Leeuwarden</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Tjallingh</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Eysinga</name></persName>
-    <event type="birth" when="1562">
+    <persName><name type="voornaam">Steven Unico</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Rhemen tot Remenshuizen</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1603-08-31">
+    <event type="death" when="1719">
       <place></place>
     </event>
   </person>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Antonius Johannes</name> <name type="geslachtsnaam">Scriverius</name></persName>
-    <event type="birth" when="1814-01-05">
-      <place>Zwolle</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Antoine</name> <name type="intrapositie">ridder d'</name> <name type="geslachtsnaam">Arnaud</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1762-12-03">
       <place></place>
     </event>
   </person>

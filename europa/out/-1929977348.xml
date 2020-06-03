@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1929977348"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Leeuwarden van der</name> <name type="geslachtsnaam">Ploeg</name></persName>
+    <event type="birth">
+      <date>24-05-1920</date>
+      <place>Bergum (Friesland)</place>
+    </event>
+    <event type="death">
+      <date>23-06-1985</date>
+      <place>Leeuwarden</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

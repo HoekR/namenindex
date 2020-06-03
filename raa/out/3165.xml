@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Aert Adriaan</name> <name type="intrapositie">Meerman van der</name> <name type="geslachtsnaam">Goes</name></persName>
-    <event type="birth" when="1785-06-22">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Henricus</name> <name type="geslachtsnaam">Sypkens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1829-08-19">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1812">
+      <place></place>
     </event>
   </person>
   <biography/>

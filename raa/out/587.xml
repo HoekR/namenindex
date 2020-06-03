@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Albertus Jacobus</name> <name type="intrapositie">Duymaer van</name> <name type="geslachtsnaam">Twist</name></persName>
-    <event type="birth" when="1809-02-20">
-      <place>Deventer</place>
+    <persName><name type="voornaam">Albert</name> <name type="geslachtsnaam">Kikkert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1887-12-03">
-      <place>Diepenveen</place>
+    <event type="death" when="1819">
+      <place></place>
     </event>
   </person>
   <biography/>

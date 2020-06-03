@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Leonard Leopold</name> <name type="geslachtsnaam">Stassen</name></persName>
-    <event type="birth" when="1806-12-25">
-      <place>Schaesberg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Ariesz.</name></persName>
+    <event type="birth" when="1432">
+      <place></place>
     </event>
-    <event type="death" when="1855-10-20">
+    <event type="death">
       <place></place>
     </event>
   </person>

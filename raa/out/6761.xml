@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Bartholomeusz.</name> <name type="geslachtsnaam">Verbrugge</name></persName>
-    <event type="birth" when="1728">
+    <persName><name type="voornaam">Pieter</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Schouhamer</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1817">
+    <event type="death" when="1789-05-23">
       <place></place>
     </event>
   </person>

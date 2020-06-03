@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/901632990"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Piet</name> <name type="intrapositie">'s-Gravenhage nan</name> <name type="geslachtsnaam">Kerstens</name></persName>
+    <event type="birth">
+      <date>23-08-1896</date>
+      <place>Ginneken</place>
+    </event>
+    <event type="death">
+      <date>08-10-1958</date>
+      <place>'s-Gravenhage</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,16 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/434"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://resources.huygens.knaw.nl/repertoriumambtsdragersambtenaren1428-1861/app/personen/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Evert Jansz.</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Lodensteyn</name></persName>
+    <event type="birth" when="1599"/>
+    <event type="death" when="1668"/>
+  </person>
+  <biography/>
+</biodes>

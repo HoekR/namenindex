@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Jonge</name></persName>
-    <event type="birth" when="1812-12-20">
-      <place>Meppel</place>
+    <persName><name type="voornaam">Petrus Josephus</name> <name type="geslachtsnaam">Cuypers</name></persName>
+    <persName>Cuypers van Spangen</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-06-21">
-      <place>Meppel</place>
+    <event type="death" when="1844">
+      <place></place>
     </event>
   </person>
   <biography/>

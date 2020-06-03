@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1200336618"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Mr.</name> <name type="voornaam">Guy</name> <name type="intrapositie">Le Rouret, Frankrijk van</name> <name type="geslachtsnaam">Barneveld Kooy</name></persName>
+    <event type="birth">
+      <date>21-11-1923</date>
+      <place>Haarlem</place>
+    </event>
+    <event type="death">
+      <date>23-09-2001</date>
+      <place>Le Rouret, Frankrijk</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

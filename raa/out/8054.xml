@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Otto Georg</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Munchausen tot Oldemeule</name></persName>
-    <persName>Georg Otto von Munchausen tot Oldemeule</persName>
-    <event type="birth" when="1659">
-      <place></place>
+    <persName><name type="voornaam">Frederik Willem</name> <name type="intrapositie">duc (Empire) van</name> <name type="geslachtsnaam">Neukirchen genaamd Nyvenheim</name></persName>
+    <event type="birth" when="2002">
+      <place>Nijmegen</place>
     </event>
-    <event type="death" when="1727-09-11">
-      <place></place>
+    <event type="death" when="1825-02-09">
+      <place>Hees</place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Sibertus Christiaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Romondt</name></persName>
-    <event type="birth" when="1753-05-06">
-      <place>Utrecht</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Dirk</name> <name type="intrapositie">graaf van der</name> <name type="geslachtsnaam">Does</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1838-01-17">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

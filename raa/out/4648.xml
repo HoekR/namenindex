@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jean Constantijn</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Alderwerelt</name></persName>
-    <event type="birth" when="1748-04-13">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Frerik</name> <name type="geslachtsnaam">Jans</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-03-23">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

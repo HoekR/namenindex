@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Schouhamer</name></persName>
+    <persName><name type="voornaam">Dirck</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Blanckert</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1789-05-23">
+    <event type="death" when="1665-04-21">
       <place></place>
     </event>
   </person>

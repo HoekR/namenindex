@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Daniel</name> <name type="intrapositie">de Blocq van</name> <name type="geslachtsnaam">Scheltinga</name></persName>
-    <event type="birth" when="1767-09-07">
-      <place>Harlingen</place>
+    <persName><name type="voornaam">Hubertus Gerardus</name> <name type="intrapositie">van den</name> <name type="geslachtsnaam">Bergh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1816-10-26">
-      <place>Brongerga</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

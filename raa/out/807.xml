@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Gijsbert Jacob</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Hogendorp</name></persName>
-    <event type="birth" when="1783-05-09">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Guilliaam Abrahamsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bleyswijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1845-11-04">
-      <place>Tilburg</place>
+    <event type="death" when="1762-11-20">
+      <place></place>
     </event>
   </person>
   <biography/>

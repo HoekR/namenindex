@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/901376171"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Dr.</name> <name type="voornaam">nan</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Bauer</name></persName>
+    <event type="birth">
+      <date>1901</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>1968</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Hendrik Hubert</name> <name type="intrapositie">l'</name> <name type="geslachtsnaam">Ortye</name></persName>
-    <event type="birth" when="1816-11-03">
-      <place>Wijnandrade</place>
+    <persName><name type="prepositie">prof.ds.</name> <name type="voornaam">Sebastiaen</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Egbertsz.</name></persName>
+    <persName>Sebastiaen Egberti</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1621">
       <place></place>
     </event>
   </person>

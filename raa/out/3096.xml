@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Marinus</name> <name type="geslachtsnaam">Kolff</name></persName>
-    <event type="birth" when="1810-08-07">
-      <place>Deil</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Bartholt Pieter</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Nijsten</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1868-07-21">
-      <place>Deil</place>
+    <event type="death" when="1732-01-03">
+      <place></place>
     </event>
   </person>
   <biography/>

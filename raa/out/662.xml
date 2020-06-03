@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes</name> <name type="geslachtsnaam">Donker</name></persName>
-    <event type="birth" when="1802-11-14">
-      <place>Ouderkerk a/d IJssel</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Ulrich Jan</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Huber</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1855-03-10">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1804-03-23">
+      <place></place>
     </event>
   </person>
   <biography/>

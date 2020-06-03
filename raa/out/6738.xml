@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter Johannes Adrianus Lourentius</name> <name type="geslachtsnaam">Sobels</name></persName>
+    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Sypesteyn</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1818">
       <place></place>
     </event>
   </person>

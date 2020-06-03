@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Helenus Marinus</name> <name type="geslachtsnaam">Speelman Wobma</name></persName>
-    <event type="birth" when="1787-10-29">
-      <place>Den Dungen</place>
+    <persName><name type="voornaam">Philip Jacob</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Goes</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1867-03-20">
-      <place>Leeuwarden</place>
+    <event type="death" when="1789">
+      <place></place>
     </event>
   </person>
   <biography/>

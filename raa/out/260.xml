@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johannes Nicolaas</name> <name type="geslachtsnaam">Diert van Leefdael</name></persName>
-    <event type="birth" when="1761-05-10">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Willem Robbertsz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Vlaerdingerwout</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1826-02-20">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1782-07-20">
+      <place></place>
     </event>
   </person>
   <biography/>

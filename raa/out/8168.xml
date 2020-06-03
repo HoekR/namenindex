@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Wennemar</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Raesfelt tot Schulenborg</name></persName>
-    <event type="birth" when="1630">
+    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Johan Conrad</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hasselt</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1677-02-16">
+    <event type="death" when="1804">
       <place></place>
     </event>
   </person>

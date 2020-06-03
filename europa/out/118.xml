@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/118"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Ben</name> <name type="intrapositie">nan van</name> <name type="geslachtsnaam">Eldik</name></persName>
+    <event type="birth">
+      <date>19-05-1920</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>19-12-2004</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

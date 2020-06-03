@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Robert Frederik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Heerdt tot Eversberg</name></persName>
-    <event type="birth" when="1698">
+    <persName><name type="voornaam">Cornelis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Schoenhoven</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1755-01-26">
+    <event type="death">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Willem Theodoor Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Ditshuyzen</name></persName>
-    <event type="birth" when="1794-01-06">
-      <place>Zevenaar</place>
+    <persName><name type="voornaam">Willem</name> <name type="geslachtsnaam">Ris</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1870-05-30">
-      <place>'s-Heerenberg</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Willem</name> <name type="geslachtsnaam">Boreel</name></persName>
-    <event type="birth" when="1812-03-12">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Daniel</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Langeveld</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1857-12-14">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

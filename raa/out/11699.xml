@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan Iman</name> <name type="geslachtsnaam">Cau</name></persName>
-    <persName>Johan Iman Cau van de Dussen</persName>
-    <event type="birth" when="1703">
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Anthonis</name> <name type="intrapositie">graaf</name> <name type="geslachtsnaam">Willemsz.</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1771-06-21">
+    <event type="death">
       <place></place>
     </event>
   </person>

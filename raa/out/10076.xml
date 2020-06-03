@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">O.J.</name> <name type="geslachtsnaam">Romer</name></persName>
+    <persName><name type="voornaam">Justinus Sjuck Gerrold</name> <name type="intrapositie">baron (Empire) Juckema van Burmania</name> <name type="geslachtsnaam">Rengers</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1832">
       <place></place>
     </event>
   </person>

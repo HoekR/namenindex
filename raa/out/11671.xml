@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Cornelis Franciscus</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Domburg</name></persName>
+    <persName><name type="voornaam">Everhard Herman</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Putman</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1801">
       <place></place>
     </event>
   </person>

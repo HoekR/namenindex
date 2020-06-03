@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Francosz.</name> <name type="geslachtsnaam">Graswinckel</name></persName>
-    <event type="birth" when="1599">
+    <persName><name type="voornaam">Dirk Cornelis</name> <name type="geslachtsnaam">Gevers</name></persName>
+    <persName>Gevers van Endegeest en Kethel en Spaland</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1668-05-30">
+    <event type="death" when="1839">
       <place></place>
     </event>
   </person>

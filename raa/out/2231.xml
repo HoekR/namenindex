@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Herman</name> <name type="geslachtsnaam">Cordes</name></persName>
-    <event type="birth" when="1798-02-27">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Hugo Adriaan</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bleyswijk</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-06-25">
-      <place>Amsterdam</place>
+    <event type="death" when="1821-09-18">
+      <place></place>
     </event>
   </person>
   <biography/>

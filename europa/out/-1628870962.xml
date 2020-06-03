@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1628870962"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Annecy de</name> <name type="geslachtsnaam">Menthon</name></persName>
+    <event type="birth">
+      <date>08-01-1900</date>
+      <place>Montmirey-la-Ville (Jura)</place>
+    </event>
+    <event type="death">
+      <date>02-06-1984</date>
+      <place>Annecy</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jean Gijsberto</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Mey van Streefkerk</name></persName>
-    <event type="birth" when="1754-07-10">
-      <place>Leiden</place>
+    <persName><name type="prepositie">mr.dr.</name> <name type="voornaam">Johan Coenraat</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Hasselt</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1844-12-20">
-      <place>Leiden</place>
+    <event type="death" when="1778-05-09">
+      <place></place>
     </event>
   </person>
   <biography/>

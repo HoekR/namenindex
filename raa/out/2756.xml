@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Alexander Louis Mathieu</name> <name type="geslachtsnaam">Schoenmaekers</name></persName>
-    <event type="birth" when="1814-01-27">
-      <place>Amby</place>
+    <persName><name type="voornaam">Frans Hendricksz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Oetgens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1856-05-29">
-      <place>Amby</place>
+    <event type="death" when="1625">
+      <place></place>
     </event>
   </person>
   <biography/>

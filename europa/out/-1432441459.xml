@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1432441459"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">Jhr.Mr.</name> <name type="voornaam">Eddy</name> <name type="intrapositie">Nieuwegein de</name> <name type="geslachtsnaam">Geer van Oudegein</name></persName>
+    <event type="birth">
+      <date>05-08-1907</date>
+      <place>Rotterdam</place>
+    </event>
+    <event type="death">
+      <date>05-06-1985</date>
+      <place>Nieuwegein</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

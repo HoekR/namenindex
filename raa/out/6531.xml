@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Caspar</name> <name type="geslachtsnaam">Waterham</name></persName>
-    <event type="birth" when="1717">
+    <persName><name type="voornaam">Daniel</name> <name type="intrapositie">comte (Empire) de</name> <name type="geslachtsnaam">Slachmulder</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1762-07-20">
+    <event type="death">
       <place></place>
     </event>
   </person>

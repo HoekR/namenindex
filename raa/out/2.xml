@@ -8,12 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Jan</name> <name type="geslachtsnaam">Slicher</name></persName>
-    <event type="birth" when="1745-07-13">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Thomas</name> <name type="geslachtsnaam">Beukelaar</name></persName>
+    <persName>Thomas Boickelaer</persName>
+    <persName>Thomas Bokelaer</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1815-09-24">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1516">
+      <place></place>
     </event>
   </person>
   <biography/>

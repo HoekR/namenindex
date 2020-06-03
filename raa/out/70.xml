@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Cornelis Balduinus Gusselinus</name> <name type="intrapositie">baron</name> <name type="geslachtsnaam">Osy van Zegwaart</name></persName>
-    <event type="birth" when="1757-12-20">
-      <place>Rotterdam</place>
+    <persName><name type="voornaam">Leonard</name> <name type="intrapositie">comte (Empire) Kuysten van</name> <name type="geslachtsnaam">Hoesen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1831-12-03">
-      <place>Brussel</place>
+    <event type="death" when="1808">
+      <place></place>
     </event>
   </person>
   <biography/>

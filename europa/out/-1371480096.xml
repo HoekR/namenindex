@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-1371480096"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Antwerpen nan</name> <name type="geslachtsnaam">Segers</name></persName>
+    <event type="birth">
+      <date>21-12-1900</date>
+      <place>Antwerpen</place>
+    </event>
+    <event type="death">
+      <date>05-02-1983</date>
+      <place>Antwerpen</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

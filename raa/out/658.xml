@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Lodewijk Napoleon</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Randwijck</name></persName>
-    <event type="birth" when="1807-05-02">
-      <place>Amsterdam</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Matthijs Arnold</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Sloterdijck</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1891-12-04">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1792-03-02">
+      <place></place>
     </event>
   </person>
   <biography/>

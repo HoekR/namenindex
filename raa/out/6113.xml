@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Stralen</name></persName>
-    <persName>Hendrik Jansz. Mossel van Stralen</persName>
-    <event type="birth" when="1751-10-20">
-      <place>Hoorn</place>
+    <persName><name type="voornaam">Jan Theodorus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Koek</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1822-11-06">
-      <place>'s-Gravenhage</place>
+    <event type="death" when="1800">
+      <place></place>
     </event>
   </person>
   <biography/>

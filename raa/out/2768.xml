@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Christianus</name> <name type="geslachtsnaam">Reynen</name></persName>
-    <event type="birth" when="1797-08-14">
-      <place>Echt</place>
+    <persName><name type="voornaam">Hendrik Jacob</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hengst</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-01-12">
+    <event type="death" when="1817">
       <place></place>
     </event>
   </person>

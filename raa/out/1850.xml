@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Petrus Johannes Jacobus</name> <name type="intrapositie">Hollingerus</name> <name type="geslachtsnaam">Pijpers</name></persName>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Sijbren</name> <name type="intrapositie">ridder van</name> <name type="geslachtsnaam">Osinga</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1623-07-11">
       <place></place>
     </event>
   </person>

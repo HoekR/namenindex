@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/20612"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Hubertus</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Rooseboom</name></persName>
+    <event type="birth">
+      <place></place>
+    </event>
+    <event type="death" when="1722-04-10">
+      <place></place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

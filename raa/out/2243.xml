@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Albert</name> <name type="geslachtsnaam">Voombergh</name></persName>
-    <event type="birth" when="1793-12-05">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Baert</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1851-10-02">
-      <place>Amsterdam</place>
+    <event type="death" when="1796-01-13">
+      <place></place>
     </event>
   </person>
   <biography/>

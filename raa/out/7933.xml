@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Abraham</name> <name type="geslachtsnaam">Roorda</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Anthony</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Weel</name></persName>
+    <event type="birth" when="2008">
+      <place>Dirksland</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1872-10-06">
+      <place>Ooltgensplaat</place>
     </event>
   </person>
   <biography/>

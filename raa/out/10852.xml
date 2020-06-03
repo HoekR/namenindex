@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adrianus</name> <name type="intrapositie">Canter</name> <name type="geslachtsnaam">Visser</name></persName>
-    <event type="birth" when="1707">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jan</name> <name type="intrapositie">Haak</name> <name type="geslachtsnaam">Oosting</name></persName>
+    <event type="birth" when="2010">
+      <place>Assen</place>
     </event>
-    <event type="death" when="1782-07-19">
-      <place></place>
+    <event type="death" when="1828-01-12">
+      <place>Assen</place>
     </event>
   </person>
   <biography/>

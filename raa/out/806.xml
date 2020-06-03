@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Idesbalde Marie Louis Joseph</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Gracht</name></persName>
-    <persName>Van der Gracht d'Eeghen</persName>
-    <event type="birth" when="1787-02-11">
-      <place>Gent</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">prins van</name> <name type="geslachtsnaam">Aylva</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-05-25">
-      <place>Gent</place>
+    <event type="death" when="1745-11-23">
+      <place></place>
     </event>
   </person>
   <biography/>

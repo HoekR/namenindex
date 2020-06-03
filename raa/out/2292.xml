@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob</name> <name type="geslachtsnaam">Schoon</name></persName>
-    <event type="birth" when="1812-04-26">
-      <place>Den Helder</place>
+    <persName><name type="voornaam">Gerrit Joosten</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Linde</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1858-03-19">
-      <place>Den Helder</place>
+    <event type="death" when="1658">
+      <place></place>
     </event>
   </person>
   <biography/>

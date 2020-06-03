@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer</name> <name type="voornaam">Edzard Willem</name> <name type="geslachtsnaam">Lewe van Nijenstein</name></persName>
-    <event type="birth" when="1781-02-11">
-      <place>Groningen</place>
+    <persName><name type="voornaam">Lourens</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Peereboom</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1820-01-04">
-      <place>Groningen</place>
+    <event type="death" when="1788">
+      <place></place>
     </event>
   </person>
   <biography/>

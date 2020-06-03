@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Maurits</name> <name type="intrapositie">prins van</name> <name type="geslachtsnaam">Oranje</name></persName>
-    <event type="birth" when="1567">
+    <persName><name type="voornaam">Reint Jan</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Sloet tot Everlo</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1625">
+    <event type="death" when="1796-05-05">
       <place></place>
     </event>
   </person>

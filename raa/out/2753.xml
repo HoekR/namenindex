@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Edmundus Willem Andreas</name> <name type="geslachtsnaam">Kerens de Wolfrath</name></persName>
-    <event type="birth" when="1822-02-02">
-      <place>Maastricht</place>
+    <persName><name type="voornaam">Johannes Josephus</name> <name type="geslachtsnaam">Havermans</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1875-10-13">
-      <place>Born</place>
+    <event type="death" when="1813">
+      <place></place>
     </event>
   </person>
   <biography/>

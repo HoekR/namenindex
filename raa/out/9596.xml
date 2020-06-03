@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Pieter</name> <name type="geslachtsnaam">Spaander</name></persName>
-    <event type="birth" when="1718">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Joannes Benedictus Hyacinthus</name> <name type="intrapositie">van de</name> <name type="geslachtsnaam">Mortel</name></persName>
+    <event type="birth" when="2008">
+      <place>Boxmeer</place>
     </event>
-    <event type="death" when="1800">
-      <place></place>
+    <event type="death" when="1887-08-12">
+      <place>Rosmalen</place>
     </event>
   </person>
   <biography/>

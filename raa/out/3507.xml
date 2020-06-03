@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Jansz.</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Zee</name></persName>
-    <persName>Jan Jansz. Secretaris</persName>
+    <persName><name type="voornaam">Everhardus</name> <name type="geslachtsnaam">Ducelli&#233;</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1817">
       <place></place>
     </event>
   </person>

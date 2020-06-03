@@ -8,14 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Wouter Jacobsz.</name> <name type="geslachtsnaam">Scherp</name></persName>
-    <persName>Wouter Jacobsz. Schaep</persName>
-    <persName>Wouter Jacobsz. Scherf</persName>
-    <persName>Wouter Jacobsz. Scharp</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Andries</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Bronkhorst</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1618-06-10">
+    <event type="death" when="1547">
       <place></place>
     </event>
   </person>

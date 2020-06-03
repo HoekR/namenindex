@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Diederik Johan Fran&#231;ois</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Hogendorp</name></persName>
-    <persName>Van Hogendorp van Hofwegen</persName>
-    <event type="birth" when="1776-08-08">
-      <place>Amsterdam</place>
+    <persName><name type="voornaam">Adriaan</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Mijle</name></persName>
+    <event type="birth" when="1538">
+      <place></place>
     </event>
-    <event type="death" when="1839-02-04">
-      <place>Tilburg</place>
+    <event type="death" when="1590">
+      <place></place>
     </event>
   </person>
   <biography/>

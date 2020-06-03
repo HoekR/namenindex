@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Alef</name> <name type="geslachtsnaam">Idsinga</name></persName>
-    <event type="birth" when="1602">
+    <persName><name type="voornaam">Albert</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Nierop</name></persName>
+    <persName>Aelbert Nierop</persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1676-06-29">
+    <event type="death" when="1676-01-27">
       <place></place>
     </event>
   </person>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan Cornelis Francois</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Hoytema</name></persName>
-    <event type="birth" when="1807-04-25">
-      <place>Culemborg</place>
+    <persName><name type="voornaam">Daam Willemsz.</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Abbesteegh</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1889-03-09">
-      <place>Culemborg</place>
+    <event type="death" when="1663">
+      <place></place>
     </event>
   </person>
   <biography/>

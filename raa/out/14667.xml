@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/14667"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="voornaam">Frederik Christiaan Peter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Mattemburgh</name></persName>
+    <event type="birth" when="2005">
+      <place>Bergen op Zoom</place>
+    </event>
+    <event type="death" when="1844-11-18">
+      <place>Ginneken</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/-490320635"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Saint-Roch (indre-et-Loire) nan</name> <name type="geslachtsnaam">Moussu</name></persName>
+    <event type="birth">
+      <date>31-03-1888</date>
+      <place>Monthodon (Indre-et-Loire)</place>
+    </event>
+    <event type="death">
+      <date>18-12-1956</date>
+      <place>Saint-Roch (indre-et-Loire)</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

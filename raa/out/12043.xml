@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Casper Wijnold</name> <name type="geslachtsnaam">Schultze</name></persName>
-    <event type="birth" when="1735">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Adrien Philippe</name> <name type="geslachtsnaam">Raoux</name></persName>
+    <event type="birth" when="2012">
+      <place>Ath</place>
     </event>
-    <event type="death" when="1810">
-      <place></place>
+    <event type="death" when="1839-08-22">
+      <place>Reves</place>
     </event>
   </person>
   <biography/>

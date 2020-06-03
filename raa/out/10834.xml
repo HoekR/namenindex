@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hector Willem</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Glinstra</name></persName>
-    <event type="birth" when="1688">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Willem Johan</name> <name type="geslachtsnaam">Plevier</name></persName>
+    <event type="birth" when="2004">
+      <place>Bergen op Zoom</place>
     </event>
-    <event type="death" when="1751-10-06">
-      <place></place>
+    <event type="death" when="1835-11-20">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

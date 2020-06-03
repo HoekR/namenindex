@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">E.C.</name> <name type="geslachtsnaam">Luitjes</name></persName>
+    <persName><name type="voornaam">Adrianus Rudolphus</name> <name type="geslachtsnaam">Krayenhoff van de Leur</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1804">
       <place></place>
     </event>
   </person>

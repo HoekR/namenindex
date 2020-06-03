@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacobus Cornelis</name> <name type="geslachtsnaam">Bloem</name></persName>
-    <event type="birth" when="1822-02-25">
-      <place>Tilburg</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Simon</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Bruelis</name></persName>
+    <persName>Pierre de Breuil</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1902-09-01">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

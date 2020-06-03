@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Isselmuden tot Rollecate</name></persName>
-    <event type="birth" when="1647">
-      <place></place>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johannes</name> <name type="geslachtsnaam">Enschede</name></persName>
+    <event type="birth" when="2003">
+      <place>Haarlem</place>
     </event>
-    <event type="death" when="1691-11-21">
-      <place></place>
+    <event type="death" when="1866-08-10">
+      <place>Haarlem</place>
     </event>
   </person>
   <biography/>

@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen/27516"/>
+    <publisher>
+      <name>RAA</name>
+      <ref target="http://www.historici.nl/Onderzoek/Projecten/Repertorium/app/personen"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">dr.</name> <name type="voornaam">Jacob Abraham</name> <name type="intrapositie">Uitenhage de</name> <name type="geslachtsnaam">Mist</name></persName>
+    <event type="birth" when="2004">
+      <place>Zaltbommel</place>
+    </event>
+    <event type="death" when="1823-03-08">
+      <place>Voorburg</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

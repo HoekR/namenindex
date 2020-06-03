@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Veit</name> <name type="intrapositie">von</name> <name type="geslachtsnaam">Drachsdorf</name></persName>
-    <persName>Veit von Drachsdorf zu Osterau</persName>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Cornelis</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Elshout</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1526">
+    <event type="death">
       <place></place>
     </event>
   </person>

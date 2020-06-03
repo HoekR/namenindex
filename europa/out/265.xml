@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/265"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Barend</name> <name type="intrapositie">Haarlem nan</name> <name type="geslachtsnaam">Biesheuvel</name></persName>
+    <event type="birth">
+      <date>05-04-1920</date>
+      <place>Haarlemmerliede</place>
+    </event>
+    <event type="death">
+      <date>29-04-2001</date>
+      <place>Haarlem</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

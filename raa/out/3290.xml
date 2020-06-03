@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik Johannes</name> <name type="geslachtsnaam">Meulemans</name></persName>
-    <event type="birth" when="1796-03-19">
+    <persName><name type="voornaam">Pieter Johansz.</name> <name type="intrapositie">comte (Empire) van der</name> <name type="geslachtsnaam">Drept</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death" when="1861-11-25">
+    <event type="death" when="1674-03-11">
       <place></place>
     </event>
   </person>

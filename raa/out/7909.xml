@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frerik</name> <name type="geslachtsnaam">Jans</name></persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Otto Boudewijn</name> <name type="intrapositie">'t</name> <name type="geslachtsnaam">Hooft</name></persName>
+    <persName>'t Hooft van Benthuizen</persName>
+    <event type="birth" when="2011">
+      <place>Maasdam</place>
     </event>
-    <event type="death">
-      <place></place>
+    <event type="death" when="1878-05-30">
+      <place>Dordrecht</place>
     </event>
   </person>
   <biography/>

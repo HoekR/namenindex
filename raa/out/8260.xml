@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">prof.dr.</name> <name type="voornaam">Jean Henri</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Swinden</name></persName>
-    <event type="birth" when="1746-06-08">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Kampen</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1823-03-09">
-      <place>Amsterdam</place>
+    <event type="death" when="1586">
+      <place></place>
     </event>
   </person>
   <biography/>

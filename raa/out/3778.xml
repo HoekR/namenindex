@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Huybert</name> <name type="geslachtsnaam">Beets</name></persName>
+    <persName><name type="voornaam">Jacob Sebastiaansz.</name> <name type="intrapositie">comte (Empire) van de</name> <name type="geslachtsnaam">Graeff</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1745-04-04">
       <place></place>
     </event>
   </person>

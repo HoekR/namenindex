@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Willem Ren&#233;</name> <name type="intrapositie">baron van</name> <name type="geslachtsnaam">Tuyll van Serooskerken</name></persName>
-    <persName>Van Tuyll van Serooskerken van Zuylen</persName>
-    <event type="birth" when="1813-01-18">
-      <place>'s-Gravenhage</place>
+    <persName><name type="voornaam">Johannes Cornelius</name> <name type="intrapositie">van der</name> <name type="geslachtsnaam">Kemp</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1878-10-29">
-      <place>Zuilen</place>
+    <event type="death" when="1823">
+      <place></place>
     </event>
   </person>
   <biography/>

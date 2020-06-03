@@ -8,13 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Charles Fran&#231;ois</name> <name type="intrapositie">baron de</name> <name type="geslachtsnaam">Stockhem</name></persName>
-    <persName>De Stockhem de Heers</persName>
-    <event type="birth" when="1763-07-05">
-      <place>Luik</place>
+    <persName><name type="voornaam">Abraham</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Dedel</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1839-03-03">
-      <place>Heers</place>
+    <event type="death" when="1798">
+      <place></place>
     </event>
   </person>
   <biography/>

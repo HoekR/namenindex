@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Frans Martinus Clement</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Steensel</name></persName>
+    <persName><name type="voornaam">Simon</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Maars</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1746">
       <place></place>
     </event>
   </person>

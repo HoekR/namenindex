@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Carel Joseph</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Nispen tot Pannerden</name></persName>
-    <event type="birth" when="1828-11-19">
-      <place>Hoek</place>
+    <persName><name type="voornaam">Maarten</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Naarden</name></persName>
+    <persName>Martinus de Narden</persName>
+    <event type="birth" when="1490">
+      <place></place>
     </event>
-    <event type="death" when="1901-10-21">
-      <place>Rosmalen</place>
+    <event type="death" when="1567">
+      <place></place>
     </event>
   </person>
   <biography/>

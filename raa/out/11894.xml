@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jacob Simonsz.</name> <name type="geslachtsnaam">Trom</name></persName>
-    <event type="birth" when="1658">
-      <place></place>
+    <persName><name type="voornaam">Jan Pieter</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Mansvelt</name></persName>
+    <event type="birth" when="2007">
+      <place>Utrecht</place>
     </event>
-    <event type="death" when="1723">
-      <place></place>
+    <event type="death" when="1860-07-02">
+      <place>'s-Gravenhage</place>
     </event>
   </person>
   <biography/>

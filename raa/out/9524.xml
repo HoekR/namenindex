@@ -8,14 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Esaias</name> <name type="geslachtsnaam">Lycklama</name></persName>
-    <persName>Eiso van Lycklama</persName>
-    <persName>Eyse Lycklama</persName>
-    <event type="birth">
-      <place></place>
+    <persName><name type="voornaam">Charles Marie Joseph Ghislain</name> <name type="intrapositie">de</name> <name type="geslachtsnaam">Brouck&#232;re</name></persName>
+    <event type="birth" when="2001">
+      <place>Brugge</place>
     </event>
-    <event type="death" when="1639">
-      <place></place>
+    <event type="death" when="1860-04-20">
+      <place>Brugge</place>
     </event>
   </person>
   <biography/>

@@ -8,13 +8,14 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Adrianus</name> <name type="geslachtsnaam">Bachman</name></persName>
-    <persName>Bachman van Schipluiden en Hodenpijl</persName>
-    <event type="birth" when="1755-08-11">
-      <place>'s-Gravenhage</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Worp</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Tiessen</name></persName>
+    <persName>Worp Jessens</persName>
+    <persName>Worp Tjessens</persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1846-04-18">
-      <place>'s-Gravenhage</place>
+    <event type="death">
+      <place></place>
     </event>
   </person>
   <biography/>

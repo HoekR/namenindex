@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Frederik Gerard</name> <name type="geslachtsnaam">Meybaum</name></persName>
+    <persName><name type="voornaam">Diderik</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Bleyswijk</name></persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1763-06-19">
       <place></place>
     </event>
   </person>

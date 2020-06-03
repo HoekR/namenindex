@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Jan Beerents</name> <name type="geslachtsnaam">Wouters</name></persName>
-    <event type="birth" when="1795-01-17">
-      <place>Sneek</place>
+    <persName><name type="voornaam">Nicolaes</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Ouwens</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1873-11-15">
-      <place>Oudeschoot</place>
+    <event type="death" when="1782-02-21">
+      <place></place>
     </event>
   </person>
   <biography/>

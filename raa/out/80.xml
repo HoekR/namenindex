@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Joseph Fran&#231;ois Philippe</name> <name type="intrapositie">prins de</name> <name type="geslachtsnaam">Riquet graaf van Caraman prins van Chimay</name></persName>
-    <event type="birth" when="1771-09-21">
-      <place>Parijs</place>
+    <persName><name type="prepositie">lic.</name> <name type="voornaam">Bernhard</name> <name type="intrapositie">ridder</name> <name type="geslachtsnaam">Metsch</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1843-03-02">
-      <place>Toulouse</place>
+    <event type="death" when="1513">
+      <place></place>
     </event>
   </person>
   <biography/>

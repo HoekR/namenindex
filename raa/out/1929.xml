@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Alexander Jeronimus Wolrad Hendrik</name> <name type="intrapositie">baron von</name> <name type="geslachtsnaam">Dopff</name></persName>
-    <event type="birth" when="1765-04-14">
-      <place>Breda</place>
+    <persName><name type="prepositie">mr.</name> <name type="voornaam">Jacob</name> <name type="intrapositie">graaf van</name> <name type="geslachtsnaam">Doorn</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1827-01-04">
-      <place>Zierikzee</place>
+    <event type="death" when="1577">
+      <place></place>
     </event>
   </person>
   <biography/>

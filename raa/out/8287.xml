@@ -8,12 +8,13 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">dr.</name> <name type="voornaam">Johan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Goch</name></persName>
-    <event type="birth" when="1581">
-      <place></place>
+    <persName><name type="voornaam">Frederik Lodewijk Christiaan</name> <name type="intrapositie">van</name> <name type="geslachtsnaam">Rechteren Limpurg</name></persName>
+    <persName>Van Rechteren Limpurg van Rechteren</persName>
+    <event type="birth" when="2002">
+      <place>W&#252;rzburg (Beieren)</place>
     </event>
-    <event type="death" when="1637">
-      <place></place>
+    <event type="death" when="1814-09-20">
+      <place>Oh&#233; en Laak</place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Arnold</name> <name type="geslachtsnaam">Kellenaars</name></persName>
-    <event type="birth" when="1794-02-03">
-      <place>Venray</place>
+    <persName><name type="voornaam">Johannes Petrus</name> <name type="geslachtsnaam">Goudsblom</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1812">
       <place></place>
     </event>
   </person>

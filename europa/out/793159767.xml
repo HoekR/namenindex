@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/793159767"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">Peter</name> <name type="intrapositie">nan nan</name> <name type="geslachtsnaam">Thorneycroft</name></persName>
+    <event type="birth">
+      <date>26-07-1909</date>
+      <place>nan</place>
+    </event>
+    <event type="death">
+      <date>04-06-1994</date>
+      <place>nan</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

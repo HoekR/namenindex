@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">jonkheer mr.</name> <name type="voornaam">Johan</name> <name type="geslachtsnaam">Brantsen</name></persName>
-    <event type="birth" when="1768-03-05">
-      <place>Arnhem</place>
+    <persName><name type="voornaam">Jacob</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Speelman</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1825-05-30">
-      <place>Arnhem</place>
+    <event type="death" when="1781">
+      <place></place>
     </event>
   </person>
   <biography/>

@@ -8,11 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Hendrik</name> <name type="geslachtsnaam">Lonck</name></persName>
+    <persName><name type="voornaam">Thomas</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Egmond van de Nijenburg</name></persName>
+    <persName>Thomas van de Nieuburg</persName>
     <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1675-09-24">
       <place></place>
     </event>
   </person>

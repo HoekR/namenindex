@@ -1,0 +1,22 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/1726076383"/>
+    <publisher>
+      <name>Europa</name>
+      <ref target="http://resources.huygens.knaw.nl/europeseintegratie/persoon/"/>
+    </publisher>
+  </fileDesc>
+  <person>
+    <persName><name type="prepositie">nan</name> <name type="voornaam">nan</name> <name type="intrapositie">Allschwil nan</name> <name type="geslachtsnaam">Frank</name></persName>
+    <event type="birth">
+      <date>04-07-1918</date>
+      <place>Hilzingen</place>
+    </event>
+    <event type="death">
+      <date>16-04-2011</date>
+      <place>Allschwil</place>
+    </event>
+  </person>
+  <biography/>
+</biodes>

@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Gerrit Nicolaas</name> <name type="geslachtsnaam">Mulier</name></persName>
-    <event type="birth" when="1791-05-26">
-      <place>Oudenbosch</place>
+    <persName><name type="voornaam">Guillaume-Mathieu</name> <name type="geslachtsnaam">Dumas</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-06-24">
-      <place>Leeuwarden</place>
+    <event type="death" when="1837">
+      <place></place>
     </event>
   </person>
   <biography/>

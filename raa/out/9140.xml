@@ -8,12 +8,11 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="voornaam">Johan</name> <name type="geslachtsnaam">Louwensz.</name></persName>
-    <persName>Johan Louwensz. Buijs</persName>
-    <event type="birth" when="1578">
+    <persName><name type="voornaam">Fredrik Johan Sigismund</name> <name type="intrapositie">comte (Empire) van</name> <name type="geslachtsnaam">Heiden tot Ootmarsum</name></persName>
+    <event type="birth">
       <place></place>
     </event>
-    <event type="death">
+    <event type="death" when="1769-01-14">
       <place></place>
     </event>
   </person>

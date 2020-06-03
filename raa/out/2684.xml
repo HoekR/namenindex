@@ -8,12 +8,12 @@
     </publisher>
   </fileDesc>
   <person>
-    <persName><name type="prepositie">mr.</name> <name type="voornaam">Franciscus Theodorus</name> <name type="geslachtsnaam">Corten</name></persName>
-    <event type="birth" when="1771-10-09">
-      <place>Beek</place>
+    <persName><name type="voornaam">Klaas Klaasz.</name> <name type="intrapositie">comte (Empire)</name> <name type="geslachtsnaam">Molenaar</name></persName>
+    <event type="birth">
+      <place></place>
     </event>
-    <event type="death" when="1861-05-23">
-      <place>Beek</place>
+    <event type="death" when="1788">
+      <place></place>
     </event>
   </person>
   <biography/>
